@@ -1,0 +1,39 @@
+{
+  "prompts": {},
+  "vip": {},
+  "orders": [],
+  "reports": [
+    {
+      "id": "R-1",
+      "user_id": 676953423,
+      "description": "سلامتی",
+      "contact": "@AmirlRima",
+      "status": "در حال بررسی",
+      "created_at": "2026-09-05 09:19",
+      "result": ""
+    }
+  ],
+  "cards": [],
+  "trainings": [],
+  "ads": [],
+  "admins": {},
+  "settings": {
+    "notifications": {
+      "new_order": true,
+      "payment": true,
+      "report": true,
+      "vip_order": true
+    }
+  },
+  "counters": {
+    "order": 0,
+    "vip": 0
+  },
+  "messages": {
+    "order_created": "✅ سفارش شما با موفقیت ثبت شد و برای ادمین ارسال شد.\n🆔 {order_id}",
+    "payment_ok": "💳 پرداخت شما تأیید شد.\n🆔 {order_id}",
+    "payment_bad": "❌ پرداخت سفارش {order_id} تأیید نشد.\nاگر فکر می‌کنی مشکلی پیش آمده، از بخش «⚠️ گزارش مشکل» پیام بده و ساعت پرداخت، پرامپت و مدرک پرداخت را ارسال کن.",
+    "report_created": "✅ گزارش شما برای ادمین ارسال شد.",
+    "report_result": "📩 نتیجه بررسی گزارش شما:\n{result}"
+  }
+}
