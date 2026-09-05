@@ -25,7 +25,7 @@
   "admins": {},
   "settings": {
     "notifications": {
-      "new_order": true,
+      "new_order": false,
       "payment": true,
       "report": true,
       "vip_order": true
