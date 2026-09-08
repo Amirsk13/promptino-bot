@@ -46,7 +46,14 @@
     }
   ],
   "trainings": [],
-  "ads": [],
+  "ads": [
+    {
+      "username": "@ProxyZone_URL",
+      "title": "ProxyZone",
+      "url": "https://t.me/ProxyZone_URL",
+      "required": true
+    }
+  ],
   "admins": {},
   "prices": {
     "customer_prompt": 200000
