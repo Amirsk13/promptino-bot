@@ -1,5 +1,18 @@
 {
-  "prompts": {},
+  "prompts": {
+    "p1": {
+      "title": "dhd",
+      "suitable": "hshs",
+      "for": "hxhxhxix",
+      "price": 0,
+      "variants": {
+        "jj": {
+          "label": "jj",
+          "prompt": "jdjxjx"
+        }
+      }
+    }
+  },
   "vip": {},
   "orders": [],
   "reports": [
