@@ -3,7 +3,7 @@
   "vip": {
     "VIP-1": {
       "title": "عکس پرتره سینمایی",
-      "price": 300000,
+      "price": 400000,
       "prompt": "hi"
     }
   },
@@ -23,6 +23,9 @@
   "trainings": [],
   "ads": [],
   "admins": {},
+  "prices": {
+    "customer_prompt": 0
+  },
   "settings": {
     "notifications": {
       "new_order": true,
@@ -33,7 +36,8 @@
   },
   "counters": {
     "order": 0,
-    "vip": 0
+    "vip": 0,
+    "report": 0
   },
   "messages": {
     "order_created": "✅ سفارش شما با موفقیت ثبت شد و برای ادمین ارسال شد.\n🆔 {order_id}",
