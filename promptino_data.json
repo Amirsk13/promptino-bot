@@ -24,7 +24,7 @@
   "ads": [],
   "admins": {},
   "prices": {
-    "customer_prompt": 0
+    "customer_prompt": 300000
   },
   "settings": {
     "notifications": {
