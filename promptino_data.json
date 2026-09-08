@@ -1,12 +1,6 @@
 {
   "prompts": {},
-  "vip": {
-    "VIP-1": {
-      "title": "عکس پرتره سینمایی",
-      "price": 300000,
-      "prompt": "hi"
-    }
-  },
+  "vip": {},
   "orders": [],
   "reports": [
     {
