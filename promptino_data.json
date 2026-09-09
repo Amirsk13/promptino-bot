@@ -22,7 +22,24 @@
     }
   },
   "vip": {},
-  "orders": [],
+  "orders": [
+    {
+      "id": "ORD-1",
+      "type": "normal",
+      "user_id": 676953423,
+      "contact": "@Amer44444",
+      "item": "1",
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "status": "🟡 در حال انجام",
+      "payment": "pending",
+      "created_at": "2026-09-09 05:41"
+    }
+  ],
   "reports": [
     {
       "id": "R-1",
@@ -63,7 +80,7 @@
     }
   },
   "counters": {
-    "order": 0,
+    "order": 1,
     "vip": 0,
     "report": 0
   },
