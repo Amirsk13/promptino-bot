@@ -184,6 +184,22 @@
       "status": "🟡 در حال انجام",
       "payment": "pending",
       "created_at": "2026-09-10 12:50"
+    },
+    {
+      "id": "ORD-3",
+      "type": "customer",
+      "user_id": 1036077370,
+      "contact": "@Amer44444",
+      "item": "Gfrfgggf",
+      "price": 200000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "status": "🟡 در حال انجام",
+      "payment": "pending",
+      "created_at": "2026-09-10 12:53"
     }
   ],
   "reports": [
@@ -226,7 +242,7 @@
     }
   },
   "counters": {
-    "order": 2,
+    "order": 3,
     "vip": 1,
     "report": 0
   },
