@@ -181,7 +181,7 @@
       "item": "VIP-1",
       "description": "",
       "price": 300000,
-      "status": "🟡 در حال انجام",
+      "status": "🟢 رضایت دریافت شد",
       "payment": "approved",
       "created_at": "2026-09-10 12:50"
     },
