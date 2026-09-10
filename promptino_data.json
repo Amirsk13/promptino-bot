@@ -220,7 +220,12 @@
       "number": "6037997336124459"
     }
   ],
-  "trainings": [],
+  "trainings": [
+    {
+      "title": "نحوه استفاده از ربات",
+      "url": "https://t.me/PromptinoChannel/23"
+    }
+  ],
   "ads": [
     {
       "username": "@ProxyZone_URL",
