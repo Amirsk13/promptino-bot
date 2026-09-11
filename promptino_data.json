@@ -233,8 +233,8 @@
       },
       "payer_name": "س",
       "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
-      "status": "🟠 در حال تأیید",
-      "payment": "pending",
+      "status": "🟡 در حال انجام",
+      "payment": "approved",
       "created_at": "2026-09-11 11:13"
     }
   ],
