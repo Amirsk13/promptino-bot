@@ -294,6 +294,15 @@
       "status": "🟢 پاسخ داده شد",
       "created_at": "2026-09-05 09:19",
       "result": "جواب داده شد"
+    },
+    {
+      "id": "R-1",
+      "user_id": 1036077370,
+      "description": "تست مشکل",
+      "contact": "آیدی",
+      "status": "🟡 در حال بررسی",
+      "created_at": "2026-09-11 11:30",
+      "result": ""
     }
   ],
   "cards": [
@@ -348,7 +357,7 @@
   "counters": {
     "order": 6,
     "vip": 3,
-    "report": 0
+    "report": 1
   },
   "messages": {
     "order_created": "✅ سفارش شما با موفقیت ثبت شد و برای ادمین ارسال شد.\n🆔 {order_id}",
