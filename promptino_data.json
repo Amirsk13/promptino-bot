@@ -209,9 +209,10 @@
       "item": "VIP-1",
       "price": 300000,
       "payer_name": "امیر",
-      "status": "🔵 تحویل داده شد",
+      "status": "🟢 تمام شد",
       "payment": "approved",
-      "created_at": "2026-09-11 10:46"
+      "created_at": "2026-09-11 10:46",
+      "satisfied_at": "2026-09-11T10:53:07.341905"
     }
   ],
   "reports": [
@@ -260,7 +261,12 @@
     "customer_prompt": 200000,
     "logo": 400000
   },
-  "vip_customer_refs": {},
+  "vip_customer_refs": {
+    "VIP-2": {
+      "vip_label": "VIP1 | Monochrome Coastal Reverie",
+      "user_id": 1036077370
+    }
+  },
   "settings": {
     "notifications": {
       "new_order": true,
