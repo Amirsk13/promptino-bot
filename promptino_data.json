@@ -202,19 +202,6 @@
       "created_at": "2026-09-10 12:53"
     },
     {
-      "id": "VIP-2",
-      "type": "vip",
-      "user_id": 1036077370,
-      "contact": "@Amer44444",
-      "item": "VIP-1",
-      "price": 300000,
-      "payer_name": "امیر",
-      "status": "🟢 تمام شد",
-      "payment": "approved",
-      "created_at": "2026-09-11 10:46",
-      "satisfied_at": "2026-09-11T10:53:07.341905"
-    },
-    {
       "id": "VIP-3",
       "type": "vip",
       "user_id": 1036077370,
