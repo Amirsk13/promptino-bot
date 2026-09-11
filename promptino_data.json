@@ -246,7 +246,7 @@
   "prices": {
     "channel_prompt": 100000,
     "customer_prompt": 200000,
-    "logo": 0
+    "logo": 400000
   },
   "vip_customer_refs": {},
   "settings": {
