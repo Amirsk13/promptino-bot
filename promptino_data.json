@@ -283,6 +283,28 @@
       "status": "🟡 در حال انجام",
       "payment": "approved",
       "created_at": "2026-09-11 11:21"
+    },
+    {
+      "id": "ORD-7",
+      "type": "logo",
+      "user_id": 1036077370,
+      "contact": "ایدی",
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_text": "ایده",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "نام",
+      "ref_photo": null,
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-11 11:36"
     }
   ],
   "reports": [
@@ -355,7 +377,7 @@
     }
   },
   "counters": {
-    "order": 6,
+    "order": 7,
     "vip": 3,
     "report": 1
   },
