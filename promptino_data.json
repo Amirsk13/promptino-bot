@@ -214,30 +214,6 @@
       "status": "❌ رد شده",
       "payment": "rejected",
       "created_at": "2026-09-11 10:55"
-    },
-    {
-      "id": "ORD-4",
-      "type": "customer",
-      "user_id": 1036077370,
-      "contact": "سلام",
-      "item": "سفارش ساخت عکس با پرامپت مشتری",
-      "model": "",
-      "prompt_text": "تبنبنبنبنب",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 200000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "س",
-      "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
-      "status": "🟢 تمام شد",
-      "payment": "approved",
-      "created_at": "2026-09-11 11:13",
-      "delivery_contact": "سلام",
-      "satisfied_at": "2026-09-11T13:56:17.407427"
     }
   ],
   "completed_orders": [
