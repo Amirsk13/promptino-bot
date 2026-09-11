@@ -302,11 +302,13 @@
       },
       "payer_name": "نام",
       "ref_photo": null,
-      "status": "🟡 در حال انجام",
+      "status": "🔵 تحویل داده شد",
       "payment": "approved",
-      "created_at": "2026-09-11 11:36"
+      "created_at": "2026-09-11 11:36",
+      "delivery_contact": "ایدی"
     }
   ],
+  "completed_orders": [],
   "reports": [
     {
       "id": "R-1",
@@ -378,6 +380,8 @@
   },
   "counters": {
     "order": 7,
+    "customer": 0,
+    "logo": 0,
     "vip": 3,
     "report": 1
   },
