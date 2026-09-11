@@ -209,7 +209,7 @@
       "item": "VIP-1",
       "price": 300000,
       "payer_name": "امیر",
-      "status": "🟡 در حال انجام",
+      "status": "🔵 تحویل داده شد",
       "payment": "approved",
       "created_at": "2026-09-11 10:46"
     }
