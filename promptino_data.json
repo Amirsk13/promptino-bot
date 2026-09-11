@@ -280,10 +280,11 @@
       },
       "payer_name": "سلام",
       "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
-      "status": "🔵 تحویل داده شد",
+      "status": "🟢 تمام شد",
       "payment": "approved",
       "created_at": "2026-09-11 11:21",
-      "delivery_contact": "آیدی"
+      "delivery_contact": "آیدی",
+      "satisfied_at": "2026-09-11T13:40:31.913904"
     }
   ],
   "completed_orders": [
@@ -310,6 +311,30 @@
       "created_at": "2026-09-11 11:36",
       "delivery_contact": "ایدی",
       "satisfied_at": "2026-09-11T13:39:34.268871"
+    },
+    {
+      "id": "ORD-6",
+      "type": "customer",
+      "user_id": 1036077370,
+      "contact": "آیدی",
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_text": "اااااااااااا",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 200000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "سلام",
+      "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-09-11 11:21",
+      "delivery_contact": "آیدی",
+      "satisfied_at": "2026-09-11T13:40:31.913904"
     }
   ],
   "reports": [
