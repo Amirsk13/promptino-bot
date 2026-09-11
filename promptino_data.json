@@ -244,8 +244,11 @@
   ],
   "admins": {},
   "prices": {
-    "customer_prompt": 200000
+    "channel_prompt": 100000,
+    "customer_prompt": 200000,
+    "logo": 0
   },
+  "vip_customer_refs": {},
   "settings": {
     "notifications": {
       "new_order": true,
