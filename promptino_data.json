@@ -214,6 +214,18 @@
       "status": "❌ رد شده",
       "payment": "rejected",
       "created_at": "2026-09-11 10:55"
+    },
+    {
+      "id": "VIP-4",
+      "type": "vip",
+      "user_id": 1036077370,
+      "contact": "@Amer44444",
+      "item": "VIP-1",
+      "price": 300000,
+      "payer_name": "نام",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-11 16:30"
     }
   ],
   "completed_orders": [
@@ -389,7 +401,7 @@
     "order": 7,
     "customer": 0,
     "logo": 0,
-    "vip": 3,
+    "vip": 4,
     "report": 1
   },
   "messages": {
