@@ -385,9 +385,10 @@
       "user_id": 676953423,
       "description": "سلامتی",
       "contact": "@AmirlRima",
-      "status": "🟢 پاسخ داده شد",
+      "status": "🟢 حل شد",
       "created_at": "2026-09-05 09:19",
-      "result": "جواب داده شد"
+      "result": "جواب داده شد",
+      "resolved_at": "2026-09-12 17:21"
     },
     {
       "id": "R-1",
