@@ -226,6 +226,31 @@
       "status": "❌ رد شده",
       "payment": "rejected",
       "created_at": "2026-09-11 16:30"
+    },
+    {
+      "id": "ORD-8",
+      "type": "normal",
+      "user_id": 1036077370,
+      "contact": "@Amer44444",
+      "item": "1",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p1",
+      "selected_variant": [
+        "p1",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Name",
+      "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-12 17:14"
     }
   ],
   "completed_orders": [
@@ -424,7 +449,7 @@
     }
   },
   "counters": {
-    "order": 7,
+    "order": 8,
     "customer": 0,
     "logo": 0,
     "vip": 6,
