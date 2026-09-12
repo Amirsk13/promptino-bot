@@ -251,6 +251,28 @@
       "status": "❌ رد شده",
       "payment": "rejected",
       "created_at": "2026-09-12 17:14"
+    },
+    {
+      "id": "CUST-1",
+      "type": "customer",
+      "user_id": 1036077370,
+      "contact": "@Amer44444",
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_text": "Gggggggʻg",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 200000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Name",
+      "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-12 17:24"
     }
   ],
   "completed_orders": [
@@ -431,7 +453,7 @@
   },
   "counters": {
     "order": 8,
-    "customer": 0,
+    "customer": 1,
     "logo": 0,
     "vip": 6,
     "report": 1
