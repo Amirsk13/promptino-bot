@@ -274,6 +274,28 @@
       "payment": "approved",
       "created_at": "2026-09-12 17:24",
       "delivery_contact": "@Amer44444"
+    },
+    {
+      "id": "LOGO-1",
+      "type": "logo",
+      "user_id": 1036077370,
+      "contact": "@Amer44444",
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_text": "Hhhhhhh",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Name",
+      "ref_photo": null,
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-12 17:31"
     }
   ],
   "completed_orders": [
@@ -455,7 +477,7 @@
   "counters": {
     "order": 8,
     "customer": 1,
-    "logo": 0,
+    "logo": 1,
     "vip": 6,
     "report": 1
   },
