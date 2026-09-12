@@ -251,6 +251,18 @@
       "status": "❌ رد شده",
       "payment": "rejected",
       "created_at": "2026-09-12 17:14"
+    },
+    {
+      "id": "VIP-7",
+      "type": "vip",
+      "user_id": 676953423,
+      "contact": "تتت",
+      "item": "VIP-1",
+      "price": 200000,
+      "payer_name": "تز",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-12 17:59"
     }
   ],
   "completed_orders": [
@@ -481,7 +493,7 @@
     "order": 8,
     "customer": 1,
     "logo": 1,
-    "vip": 6,
+    "vip": 7,
     "report": 1
   },
   "messages": {
