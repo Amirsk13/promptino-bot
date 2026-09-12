@@ -248,8 +248,8 @@
       },
       "payer_name": "Name",
       "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
-      "status": "🟠 در حال تأیید",
-      "payment": "pending",
+      "status": "❌ رد شده",
+      "payment": "rejected",
       "created_at": "2026-09-12 17:14"
     }
   ],
