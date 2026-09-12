@@ -460,7 +460,7 @@
   "admins": {},
   "prices": {
     "channel_prompt": 100000,
-    "customer_prompt": 200000,
+    "customer_prompt": 150000,
     "logo": 400000
   },
   "vip_customer_refs": {
