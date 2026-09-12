@@ -270,9 +270,10 @@
       },
       "payer_name": "Name",
       "ref_photo": "AgACAgQAAxkBAAIDhmqipy5nQAUuiUMr8vC9eFCoRhDTAALjDmsbcj4YUZ66YqFZlWPEAQADAgADeQADPQQ",
-      "status": "🟡 در حال انجام",
+      "status": "🔵 تحویل داده شد",
       "payment": "approved",
-      "created_at": "2026-09-12 17:24"
+      "created_at": "2026-09-12 17:24",
+      "delivery_contact": "@Amer44444"
     }
   ],
   "completed_orders": [
