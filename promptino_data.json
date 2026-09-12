@@ -379,27 +379,7 @@
       "satisfied_at": "2026-09-12T17:09:05.474392"
     }
   ],
-  "reports": [
-    {
-      "id": "R-1",
-      "user_id": 676953423,
-      "description": "سلامتی",
-      "contact": "@AmirlRima",
-      "status": "🟢 حل شد",
-      "created_at": "2026-09-05 09:19",
-      "result": "جواب داده شد",
-      "resolved_at": "2026-09-12 17:21"
-    },
-    {
-      "id": "R-1",
-      "user_id": 1036077370,
-      "description": "تست مشکل",
-      "contact": "آیدی",
-      "status": "🟡 در حال بررسی",
-      "created_at": "2026-09-11 11:30",
-      "result": ""
-    }
-  ],
+  "reports": [],
   "cards": [
     {
       "name": "امیرحسین ساکیانی",
