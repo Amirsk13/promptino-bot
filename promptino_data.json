@@ -133,7 +133,18 @@
       }
     }
   },
-  "vip": {},
+  "vip": {
+    "VIP-1": {
+      "title": "ژژژژژ",
+      "price": 400000,
+      "variants": {
+        "hi": {
+          "label": "hi",
+          "prompt": "jdjxjxjx"
+        }
+      }
+    }
+  },
   "orders": [
     {
       "id": "ORD-3",
