@@ -133,7 +133,22 @@
       }
     }
   },
-  "vip": {},
+  "vip": {
+    "VIP-1": {
+      "title": "ll",
+      "price": 60000,
+      "variants": {
+        "gg": {
+          "label": "gg",
+          "prompt": "jjjjjjjj"
+        },
+        "ff": {
+          "label": "ff",
+          "prompt": "yyy"
+        }
+      }
+    }
+  },
   "orders": [
     {
       "id": "ORD-3",
