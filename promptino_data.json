@@ -252,6 +252,18 @@
         66
       ],
       "channel_expires_at": "2026-09-28T15:59:51.474136"
+    },
+    {
+      "id": "VIP-8",
+      "type": "vip",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "VIP-1",
+      "price": 400000,
+      "payer_name": "Nam",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-14 16:05"
     }
   ],
   "completed_orders": [
@@ -587,7 +599,7 @@
     "order": 9,
     "customer": 2,
     "logo": 2,
-    "vip": 7,
+    "vip": 8,
     "report": 1
   },
   "messages": {
