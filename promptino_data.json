@@ -162,6 +162,31 @@
       "status": "🔵 تحویل داده شد",
       "payment": "approved",
       "created_at": "2026-09-12 17:59"
+    },
+    {
+      "id": "ORD-9",
+      "type": "normal",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "1",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p1",
+      "selected_variant": [
+        "p1",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Name",
+      "ref_photo": "AgACAgQAAxkBAAIFmWqoFw3n3GyYC5---QxDS3G4PlS2AAJYEWsbn8JBUXq4nYTMR_WNAQADAgADeQADPQQ",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-14 15:47"
     }
   ],
   "completed_orders": [
@@ -468,6 +493,10 @@
     "amirlrima": {
       "id": 676953423,
       "username": "AmirlRima"
+    },
+    "tazx44": {
+      "id": 7254658842,
+      "username": "Tazx44"
     }
   },
   "prices": {
@@ -490,7 +519,7 @@
     }
   },
   "counters": {
-    "order": 8,
+    "order": 9,
     "customer": 1,
     "logo": 1,
     "vip": 7,
