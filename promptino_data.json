@@ -133,19 +133,7 @@
       }
     }
   },
-  "vip": {
-    "VIP-1": {
-      "title": "ددددد",
-      "price": 400000,
-      "variants": {
-        "hi": {
-          "label": "hi",
-          "prompt": "jdjxjxjx"
-        }
-      },
-      "prompt": "hhgg"
-    }
-  },
+  "vip": {},
   "orders": [
     {
       "id": "ORD-3",
