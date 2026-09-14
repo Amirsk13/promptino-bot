@@ -192,8 +192,8 @@
       },
       "payer_name": "Nem",
       "ref_photo": "AgACAgQAAxkBAAIFmWqoFw3n3GyYC5---QxDS3G4PlS2AAJYEWsbn8JBUXq4nYTMR_WNAQADAgADeQADPQQ",
-      "status": "🟡 در حال انجام",
-      "payment": "approved",
+      "status": "🔵 تحویل داده شد",
+      "payment": "pending",
       "created_at": "2026-09-14 15:56",
       "channel_message_ids": [
         63,
