@@ -135,14 +135,15 @@
   },
   "vip": {
     "VIP-1": {
-      "title": "ژژژژژ",
+      "title": "ددددد",
       "price": 400000,
       "variants": {
         "hi": {
           "label": "hi",
           "prompt": "jdjxjxjx"
         }
-      }
+      },
+      "prompt": "hhgg"
     }
   },
   "orders": [
