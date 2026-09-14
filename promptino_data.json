@@ -192,13 +192,14 @@
       },
       "payer_name": "Nam",
       "ref_photo": null,
-      "status": "🔵 تحویل داده شد",
+      "status": "🟢 تمام شد",
       "payment": "approved",
       "created_at": "2026-09-14 15:59",
       "channel_message_ids": [
         66
       ],
-      "channel_expires_at": "2026-09-28T15:59:51.474136"
+      "channel_expires_at": "2026-09-28T15:59:51.474136",
+      "satisfied_at": "2026-09-14T16:20:36.955499"
     },
     {
       "id": "VIP-8",
@@ -539,6 +540,33 @@
       ],
       "channel_expires_at": "2026-09-28T15:56:41.772587",
       "satisfied_at": "2026-09-14T16:20:23.562324"
+    },
+    {
+      "id": "LOGO-2",
+      "type": "logo",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_text": "Ggggg",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Nam",
+      "ref_photo": null,
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-09-14 15:59",
+      "channel_message_ids": [
+        66
+      ],
+      "channel_expires_at": "2026-09-28T15:59:51.474136",
+      "satisfied_at": "2026-09-14T16:20:36.955499"
     }
   ],
   "reports": [],
