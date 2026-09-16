@@ -160,7 +160,11 @@
       "payer_name": "نام",
       "status": "🟠 در حال تأیید",
       "payment": "pending",
-      "created_at": "2026-09-16 07:51"
+      "created_at": "2026-09-16 07:51",
+      "channel_message_ids": [
+        70
+      ],
+      "channel_expires_at": "2026-09-30T07:51:51.870332"
     }
   ],
   "completed_orders": [
