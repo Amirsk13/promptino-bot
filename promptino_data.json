@@ -673,7 +673,17 @@
       "satisfied_at": "2026-09-17T13:03:42.204755"
     }
   ],
-  "reports": [],
+  "reports": [
+    {
+      "id": "R-2",
+      "user_id": 7254658842,
+      "description": "سلام",
+      "contact": "@Tazx44",
+      "status": "🟡 در حال بررسی",
+      "created_at": "2026-09-17 13:14",
+      "result": ""
+    }
+  ],
   "cards": [
     {
       "name": "امیرحسین ساکیانی",
@@ -742,7 +752,7 @@
     "customer": 4,
     "logo": 3,
     "vip": 10,
-    "report": 1
+    "report": 2
   },
   "messages": {
     "order_created": "✅ سفارش شما با موفقیت ثبت شد و برای ادمین ارسال شد.\n🆔 {order_id}",
