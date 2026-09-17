@@ -149,25 +149,7 @@
       }
     }
   },
-  "orders": [
-    {
-      "id": "VIP-10",
-      "type": "vip",
-      "user_id": 7254658842,
-      "contact": "@Tazx44",
-      "item": "VIP-1",
-      "price": 60000,
-      "payer_name": "نام",
-      "status": "🟢 تمام شد",
-      "payment": "approved",
-      "created_at": "2026-09-16 07:51",
-      "channel_message_ids": [
-        70
-      ],
-      "channel_expires_at": "2026-09-30T07:51:51.870332",
-      "satisfied_at": "2026-09-17T13:03:42.204755"
-    }
-  ],
+  "orders": [],
   "completed_orders": [
     {
       "id": "ORD-7",
