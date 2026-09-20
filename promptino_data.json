@@ -221,6 +221,28 @@
         98
       ],
       "channel_expires_at": "2026-10-04T07:53:15.829398"
+    },
+    {
+      "id": "LOGO-4",
+      "type": "logo",
+      "user_id": 7254658842,
+      "contact": "@tazx44",
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_text": "Hi looop",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Nami",
+      "ref_photo": null,
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-20 07:54"
     }
   ],
   "completed_orders": [
@@ -815,7 +837,7 @@
   "counters": {
     "order": 11,
     "customer": 5,
-    "logo": 3,
+    "logo": 4,
     "vip": 11,
     "report": 2
   },
