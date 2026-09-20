@@ -168,7 +168,7 @@
       },
       "payer_name": "Name",
       "ref_photo": "AgACAgQAAxkBAAIHUWqvkKgSUfabyqbjsIyeVcL3SfBQAAJoEWsbuzOAUYppM6w4ZqJ5AQADAgADeQADPQQ",
-      "status": "🟡 در حال انجام",
+      "status": "🔵 تحویل داده شد",
       "payment": "approved",
       "created_at": "2026-09-20 07:53",
       "channel_action_message_id": 98,
