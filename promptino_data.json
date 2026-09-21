@@ -207,9 +207,10 @@
       },
       "payer_name": "Nam",
       "ref_photo": "AgACAgQAAxkBAAIHv2qwtau_Z6vgSadtWKCkyyq0GuMYAAJ0EGsb5x1ZUdo-8iBZPn5gAQADAgADeQADPQQ",
-      "status": "🔵 تحویل داده شد",
+      "status": "🟢 تمام شد",
       "payment": "approved",
-      "created_at": "2026-09-21 04:42"
+      "created_at": "2026-09-21 04:42",
+      "satisfied_at": "2026-09-21T05:25:14.658362"
     },
     {
       "id": "CUST-6",
@@ -896,6 +897,32 @@
       ],
       "channel_expires_at": "2026-10-04T07:54:33.635604",
       "satisfied_at": "2026-09-20T08:02:54.259550"
+    },
+    {
+      "id": "ORD-12",
+      "type": "normal",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "3",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p3",
+      "selected_variant": [
+        "p3",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "Nam",
+      "ref_photo": "AgACAgQAAxkBAAIHv2qwtau_Z6vgSadtWKCkyyq0GuMYAAJ0EGsb5x1ZUdo-8iBZPn5gAQADAgADeQADPQQ",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-09-21 04:42",
+      "satisfied_at": "2026-09-21T05:25:14.658362"
     }
   ],
   "reports": [],
