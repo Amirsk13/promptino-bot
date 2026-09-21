@@ -176,7 +176,7 @@
       "item": "VIP-1",
       "price": 60000,
       "payer_name": "Nam",
-      "status": "🔵 تحویل داده شد",
+      "status": "🟢 تمام شد",
       "payment": "approved",
       "created_at": "2026-09-21 04:40",
       "channel_action_message_id": 110,
@@ -184,7 +184,8 @@
         109,
         110
       ],
-      "channel_expires_at": "2026-10-05T04:40:07.148670"
+      "channel_expires_at": "2026-10-05T04:40:07.148670",
+      "satisfied_at": "2026-09-21T05:24:54.542635"
     },
     {
       "id": "ORD-12",
@@ -896,6 +897,25 @@
       ],
       "channel_expires_at": "2026-10-04T07:54:33.635604",
       "satisfied_at": "2026-09-20T08:02:54.259550"
+    },
+    {
+      "id": "VIP-13",
+      "type": "vip",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "VIP-1",
+      "price": 60000,
+      "payer_name": "Nam",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-09-21 04:40",
+      "channel_action_message_id": 110,
+      "channel_message_ids": [
+        109,
+        110
+      ],
+      "channel_expires_at": "2026-10-05T04:40:07.148670",
+      "satisfied_at": "2026-09-21T05:24:54.542635"
     }
   ],
   "reports": [],
