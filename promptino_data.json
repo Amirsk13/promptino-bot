@@ -158,8 +158,8 @@
       "item": "VIP-1",
       "price": 60000,
       "payer_name": "Nam",
-      "status": "🟡 در حال انجام",
-      "payment": "approved",
+      "status": "❌ رد شده",
+      "payment": "rejected",
       "created_at": "2026-09-20 08:14",
       "channel_action_message_id": 107,
       "channel_message_ids": [
@@ -899,6 +899,24 @@
       ],
       "channel_expires_at": "2026-10-05T05:20:57.891839",
       "satisfied_at": "2026-09-21T05:32:15.053434"
+    },
+    {
+      "id": "VIP-12",
+      "type": "vip",
+      "user_id": 7254658842,
+      "contact": "09132317422",
+      "item": "VIP-1",
+      "price": 60000,
+      "payer_name": "Nam",
+      "status": "❌ رد شده",
+      "payment": "rejected",
+      "created_at": "2026-09-20 08:14",
+      "channel_action_message_id": 107,
+      "channel_message_ids": [
+        106,
+        107
+      ],
+      "channel_expires_at": "2026-10-04T08:14:46.345177"
     }
   ],
   "reports": [],
