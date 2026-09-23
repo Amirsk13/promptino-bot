@@ -242,7 +242,13 @@
       "ref_photo": null,
       "status": "🟠 در حال تأیید",
       "payment": "pending",
-      "created_at": "2026-09-23 09:07"
+      "created_at": "2026-09-23 09:07",
+      "channel_action_message_id": 133,
+      "channel_message_ids": [
+        132,
+        133
+      ],
+      "channel_expires_at": "2026-10-07T09:07:49.713270"
     }
   ],
   "completed_orders": [
