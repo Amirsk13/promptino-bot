@@ -160,7 +160,13 @@
       "payer_name": "Nam",
       "status": "🟠 در حال تأیید",
       "payment": "pending",
-      "created_at": "2026-09-25 12:51"
+      "created_at": "2026-09-25 12:51",
+      "channel_action_message_id": 135,
+      "channel_message_ids": [
+        134,
+        135
+      ],
+      "channel_expires_at": "2026-10-09T12:51:43.152035"
     }
   ],
   "completed_orders": [
