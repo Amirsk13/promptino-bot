@@ -1022,7 +1022,13 @@
       "required": true
     }
   ],
-  "admins": {},
+  "admins": {
+    "7254658842": {
+      "name": "یک",
+      "role": "normal",
+      "permissions": []
+    }
+  },
   "users": {
     "amirlrima": {
       "id": 676953423,
