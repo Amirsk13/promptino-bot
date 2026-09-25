@@ -1027,7 +1027,6 @@
       "name": "یک",
       "role": "normal",
       "permissions": [
-        "prompts",
         "prices"
       ]
     }
