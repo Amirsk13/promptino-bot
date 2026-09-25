@@ -1028,7 +1028,8 @@
       "role": "normal",
       "permissions": [
         "orders",
-        "vip_orders"
+        "vip_orders",
+        "prices"
       ]
     }
   },
