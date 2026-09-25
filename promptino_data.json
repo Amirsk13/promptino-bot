@@ -149,7 +149,20 @@
       }
     }
   },
-  "orders": [],
+  "orders": [
+    {
+      "id": "VIP-15",
+      "type": "vip",
+      "user_id": 7254658842,
+      "contact": "@Tazx44",
+      "item": "VIP-1",
+      "price": 60000,
+      "payer_name": "Nam",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-09-25 12:51"
+    }
+  ],
   "completed_orders": [
     {
       "id": "ORD-7",
@@ -1069,7 +1082,7 @@
     "order": 13,
     "customer": 7,
     "logo": 6,
-    "vip": 14,
+    "vip": 15,
     "report": 2
   },
   "messages": {
