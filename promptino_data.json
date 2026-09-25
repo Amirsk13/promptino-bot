@@ -1026,7 +1026,9 @@
     "7254658842": {
       "name": "یک",
       "role": "normal",
-      "permissions": []
+      "permissions": [
+        "orders"
+      ]
     }
   },
   "users": {
