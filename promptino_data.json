@@ -158,7 +158,7 @@
       "item": "VIP-1",
       "price": 60000,
       "payer_name": "Nam",
-      "status": "🟡 در حال انجام",
+      "status": "🔵 تحویل داده شد",
       "payment": "approved",
       "created_at": "2026-09-25 12:51",
       "channel_action_message_id": 135,
