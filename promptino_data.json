@@ -1173,16 +1173,7 @@
       "required": true
     }
   ],
-  "admins": {
-    "7254658842": {
-      "name": "یک",
-      "role": "normal",
-      "permissions": [
-        "orders",
-        "vip_orders"
-      ]
-    }
-  },
+  "admins": {},
   "users": {
     "amirlrima": {
       "id": 676953423,
