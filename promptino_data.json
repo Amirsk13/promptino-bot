@@ -151,36 +151,6 @@
   },
   "orders": [
     {
-      "id": "CUST-8",
-      "type": "customer",
-      "user_id": 7254658842,
-      "contact": "@Tazx44",
-      "item": "سفارش ساخت عکس با پرامپت مشتری",
-      "model": "",
-      "prompt_text": "Hhhhhhhi",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 150000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "Nam",
-      "ref_photo": "AgACAgQAAxkBAAII52q9Py7oux15BI3ocxbs0aweLaHAAAL0D2sbsEvoUUwTpg-3fjNaAQADAgADeQADPQQ",
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-09-30 16:56",
-      "channel_chat_id": "-1003992937119",
-      "channel_action_message_id": 7,
-      "channel_message_ids": [
-        5,
-        6,
-        7
-      ],
-      "channel_expires_at": "2026-10-14T16:56:16.701195"
-    },
-    {
       "id": "ORD-14",
       "type": "normal",
       "user_id": 7254658842,
@@ -1148,6 +1118,34 @@
       ],
       "channel_expires_at": "2026-10-14T16:53:52.789901",
       "satisfied_at": "2026-09-30T17:03:23.328939"
+    },
+    {
+      "id": "CUST-8",
+      "type": "customer",
+      "user_id": 7254658842,
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 150000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "ref_photo": "AgACAgQAAxkBAAII52q9Py7oux15BI3ocxbs0aweLaHAAAL0D2sbsEvoUUwTpg-3fjNaAQADAgADeQADPQQ",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-09-30 16:56",
+      "channel_chat_id": "-1003992937119",
+      "channel_action_message_id": 7,
+      "channel_message_ids": [
+        5,
+        6,
+        7
+      ],
+      "channel_expires_at": "2026-10-14T16:56:16.701195",
+      "satisfied_at": "2026-09-30T17:03:33.481820"
     }
   ],
   "reports": [],
