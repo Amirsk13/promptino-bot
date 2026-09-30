@@ -547,7 +547,8 @@
       "channel_message_ids": [
         69
       ],
-      "channel_expires_at": "2026-09-30T07:48:12.552381"
+      "channel_expires_at": "2026-09-30T07:48:12.552381",
+      "channel_deleted": true
     },
     {
       "id": "ORD-10",
@@ -590,7 +591,8 @@
         70
       ],
       "channel_expires_at": "2026-09-30T07:51:51.870332",
-      "satisfied_at": "2026-09-17T13:03:42.204755"
+      "satisfied_at": "2026-09-17T13:03:42.204755",
+      "channel_deleted": true
     },
     {
       "id": "CUST-3",
