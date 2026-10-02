@@ -1246,6 +1246,7 @@
       "user_id": 1036077370
     }
   },
+  "active_order_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
