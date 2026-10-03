@@ -1328,12 +1328,12 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "contact",
+      "step": "confirm_price",
       "items": [],
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "prompt_text": "jjjjaaaaa",
+      "prompt_text": "09132317422",
       "price": 400000
     }
   },
