@@ -191,7 +191,13 @@
       "ref_photo": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
       "status": "🟠 در حال تأیید",
       "payment": "pending",
-      "created_at": "2026-10-03 15:47"
+      "created_at": "2026-10-03 15:47",
+      "channel_action_message_id": 151,
+      "channel_message_ids": [
+        149,
+        150,
+        151
+      ]
     }
   ],
   "completed_orders": [
@@ -1290,30 +1296,7 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {
-    "676953423": {
-      "type": "normal",
-      "step": "reference",
-      "items": [],
-      "contact": "09132317422",
-      "receipt": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
-      "ref_photo": null,
-      "prompt_ids": [
-        "p2"
-      ],
-      "selected_variant": [
-        "p2",
-        "chatgpt"
-      ],
-      "price": 100000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nam"
-    }
-  },
+  "active_order_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
