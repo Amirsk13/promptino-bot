@@ -219,7 +219,14 @@
       "ref_photo": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
       "status": "🟠 در حال تأیید",
       "payment": "pending",
-      "created_at": "2026-10-03 15:48"
+      "created_at": "2026-10-03 15:48",
+      "channel_action_message_id": 154,
+      "channel_message_ids": [
+        152,
+        153,
+        154
+      ],
+      "channel_expires_at": "2026-10-17T15:48:05.529910"
     }
   ],
   "completed_orders": [
