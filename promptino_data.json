@@ -1299,10 +1299,10 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "receipt",
+      "step": "reference",
       "items": [],
       "contact": "@Tazx44",
-      "receipt": null,
+      "receipt": "AgACAgQAAxkBAAIJemrBIzoTPhLTJtM5WPHT5Lo_v6C3AAJMEmsb-lQIUs54eV8k7v84AQADAgADeAADPQQ",
       "ref_photo": null,
       "prompt_text": "hhhhaaaaa",
       "price": 150000,
