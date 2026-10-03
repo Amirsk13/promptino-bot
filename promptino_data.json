@@ -1268,11 +1268,14 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "what",
+      "step": "variants",
       "items": [],
       "contact": "",
       "receipt": null,
-      "ref_photo": null
+      "ref_photo": null,
+      "prompt_ids": [
+        "p2"
+      ]
     }
   },
   "settings": {
