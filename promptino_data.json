@@ -1268,19 +1268,11 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "contact",
+      "step": "what",
       "items": [],
       "contact": "",
       "receipt": null,
-      "ref_photo": null,
-      "prompt_ids": [
-        "p2"
-      ],
-      "selected_variant": [
-        "p2",
-        "chatgpt"
-      ],
-      "price": 100000
+      "ref_photo": null
     }
   },
   "settings": {
