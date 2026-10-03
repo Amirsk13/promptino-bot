@@ -1268,7 +1268,7 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "payer_name",
+      "step": "receipt",
       "items": [],
       "contact": "09132317422",
       "receipt": null,
@@ -1285,7 +1285,8 @@
         "name": "امیرحسین ساکیانی",
         "bank": "ملی",
         "number": "6037997336124459"
-      }
+      },
+      "payer_name": "nam"
     }
   },
   "settings": {
