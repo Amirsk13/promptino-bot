@@ -1249,9 +1249,10 @@
   "active_order_states": {
     "676953423": {
       "type": "vip_order",
-      "step": "contact",
+      "step": "card",
       "vip": "VIP-1",
-      "price": 60000
+      "price": 60000,
+      "contact": "@Tazx44"
     }
   },
   "settings": {
