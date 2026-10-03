@@ -167,6 +167,31 @@
         148
       ],
       "channel_expires_at": "2026-10-17T15:46:04.284242"
+    },
+    {
+      "id": "ORD-15",
+      "type": "normal",
+      "user_id": 676953423,
+      "contact": "09132317422",
+      "item": "2",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p2",
+      "selected_variant": [
+        "p2",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nam",
+      "ref_photo": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-10-03 15:47"
     }
   ],
   "completed_orders": [
@@ -1298,7 +1323,7 @@
     }
   },
   "counters": {
-    "order": 14,
+    "order": 15,
     "customer": 9,
     "logo": 8,
     "vip": 18,
