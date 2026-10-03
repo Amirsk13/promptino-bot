@@ -1299,7 +1299,7 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "confirm_price",
+      "step": "contact",
       "items": [],
       "contact": "",
       "receipt": null,
