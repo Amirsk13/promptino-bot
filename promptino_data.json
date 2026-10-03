@@ -1328,9 +1328,9 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "09132317422",
       "receipt": null,
       "ref_photo": null,
       "prompt_text": "09132317422",
