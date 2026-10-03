@@ -151,6 +151,35 @@
   },
   "orders": [
     {
+      "id": "CUST-10",
+      "type": "customer",
+      "user_id": 676953423,
+      "contact": "@Tazx44",
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_text": "hhhhaaaaa",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 150000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nam",
+      "ref_photo": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
+      "status": "🟡 در حال انجام",
+      "payment": "approved",
+      "created_at": "2026-10-03 15:48",
+      "channel_action_message_id": 154,
+      "channel_message_ids": [
+        152,
+        153,
+        154
+      ],
+      "channel_expires_at": "2026-10-17T15:48:05.529910"
+    },
+    {
       "id": "LOGO-9",
       "type": "logo",
       "user_id": 676953423,
@@ -168,8 +197,8 @@
       },
       "payer_name": "nam",
       "ref_photo": null,
-      "status": "🟠 در حال تأیید",
-      "payment": "pending",
+      "status": "🔵 تحویل داده شد",
+      "payment": "approved",
       "created_at": "2026-10-03 15:48",
       "channel_action_message_id": 156,
       "channel_message_ids": [
@@ -1263,33 +1292,6 @@
         151
       ],
       "satisfied_at": "2026-10-03T15:58:50.528339"
-    },
-    {
-      "id": "CUST-10",
-      "type": "customer",
-      "user_id": 676953423,
-      "item": "سفارش ساخت عکس با پرامپت مشتری",
-      "model": "",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 150000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "ref_photo": "AgACAgQAAxkBAAIJj2rBI4K26gkhaaArHE12OEkbuRyPAAJNEmsb-lQIUiHfF1hEAAHLhwEAAwIAA3gAAz0E",
-      "status": "🟢 تمام شد",
-      "payment": "approved",
-      "created_at": "2026-10-03 15:48",
-      "channel_action_message_id": 154,
-      "channel_message_ids": [
-        152,
-        153,
-        154
-      ],
-      "channel_expires_at": "2026-10-17T15:48:05.529910",
-      "satisfied_at": "2026-10-03T15:59:00.872197"
     }
   ],
   "reports": [],
