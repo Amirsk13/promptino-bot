@@ -1328,13 +1328,18 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "card",
+      "step": "payer_name",
       "items": [],
       "contact": "09132317422",
       "receipt": null,
       "ref_photo": null,
       "prompt_text": "09132317422",
-      "price": 400000
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      }
     }
   },
   "settings": {
