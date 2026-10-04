@@ -1450,7 +1450,7 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "card",
+      "step": "payer_name",
       "items": [],
       "contact": "09132317422",
       "receipt": null,
@@ -1464,7 +1464,12 @@
         "p2",
         "chatgpt"
       ],
-      "price": 100000
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      }
     }
   },
   "settings": {
