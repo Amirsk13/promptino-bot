@@ -1512,12 +1512,15 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "what",
+      "step": "confirm_price",
       "items": [],
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "flow_id": "f77d9396f3e5"
+      "flow_id": "f77d9396f3e5",
+      "last_message_id": 2638,
+      "prompt_text": "ffyygf",
+      "price": 400000
     }
   },
   "settings": {
