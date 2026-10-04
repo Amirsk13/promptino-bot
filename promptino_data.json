@@ -1385,7 +1385,7 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "variants",
+      "step": "contact",
       "items": [],
       "contact": "",
       "receipt": null,
@@ -1393,7 +1393,12 @@
       "last_message_id": 2554,
       "prompt_ids": [
         "p3"
-      ]
+      ],
+      "selected_variant": [
+        "p3",
+        "chatgpt"
+      ],
+      "price": 100000
     }
   },
   "settings": {
