@@ -210,35 +210,6 @@
         158,
         159
       ]
-    },
-    {
-      "id": "LOGO-11",
-      "type": "logo",
-      "user_id": 676953423,
-      "contact": "@Tazx44",
-      "item": "سفارش ساخت لوگو",
-      "model": "",
-      "prompt_text": "ffyygf",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 400000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nam",
-      "ref_photo": null,
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-10-04 12:51",
-      "channel_chat": "-1003992937119",
-      "channel_action_message_id": 37,
-      "channel_message_ids": [
-        36,
-        37
-      ],
-      "channel_expires_at": "2026-10-18T12:51:22.185084"
     }
   ],
   "completed_orders": [
@@ -1477,6 +1448,33 @@
       ],
       "channel_expires_at": "2026-10-18T12:50:45.805209",
       "satisfied_at": "2026-10-04T12:54:22.018344"
+    },
+    {
+      "id": "LOGO-11",
+      "type": "logo",
+      "user_id": 676953423,
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "ref_photo": null,
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-10-04 12:51",
+      "channel_chat": "-1003992937119",
+      "channel_action_message_id": 37,
+      "channel_message_ids": [
+        36,
+        37
+      ],
+      "channel_expires_at": "2026-10-18T12:51:22.185084",
+      "satisfied_at": "2026-10-04T12:54:34.929524"
     }
   ],
   "reports": [],
