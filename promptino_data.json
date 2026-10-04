@@ -1508,7 +1508,7 @@
     }
   },
   "prices": {
-    "channel_prompt": 100000,
+    "channel_prompt": 90000,
     "customer_prompt": 150000,
     "logo": 400000
   },
