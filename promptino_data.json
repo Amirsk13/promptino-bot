@@ -1450,12 +1450,16 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "what",
+      "step": "variants",
       "items": [],
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "flow_id": "1de9ce15e317"
+      "flow_id": "1de9ce15e317",
+      "last_message_id": 2612,
+      "prompt_ids": [
+        "p2"
+      ]
     }
   },
   "settings": {
