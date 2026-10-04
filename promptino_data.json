@@ -1583,20 +1583,21 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "payer_name",
+      "step": "receipt",
       "items": [],
       "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "3b5b52936561",
-      "last_message_id": 2783,
+      "last_message_id": 2786,
       "prompt_text": "@Tazx44",
       "price": 400000,
       "card": {
         "name": "امیرحسین ساکیانی",
         "bank": "ملی",
         "number": "6037997336124459"
-      }
+      },
+      "payer_name": "nam"
     }
   },
   "settings": {
