@@ -1385,7 +1385,7 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "confirm_price",
+      "step": "contact",
       "items": [],
       "contact": "",
       "receipt": null,
