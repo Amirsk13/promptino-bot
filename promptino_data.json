@@ -1385,12 +1385,12 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
-      "last_message_id": 2561,
+      "last_message_id": 2564,
       "prompt_text": "نینیتزتیب",
       "price": 400000
     }
