@@ -251,7 +251,14 @@
       "status": "🟠 در حال تأیید",
       "payment": "pending",
       "created_at": "2026-10-04 12:50",
-      "channel_chat": "-1003992937119"
+      "channel_chat": "-1003992937119",
+      "channel_action_message_id": 35,
+      "channel_message_ids": [
+        33,
+        34,
+        35
+      ],
+      "channel_expires_at": "2026-10-18T12:50:45.805209"
     }
   ],
   "completed_orders": [
