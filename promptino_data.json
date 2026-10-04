@@ -1553,12 +1553,15 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "what",
+      "step": "confirm_price",
       "items": [],
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "flow_id": "a7ca20c7b6fe"
+      "flow_id": "a7ca20c7b6fe",
+      "last_message_id": 2761,
+      "prompt_text": "jdjxjxjdjd",
+      "price": 150000
     }
   },
   "settings": {
