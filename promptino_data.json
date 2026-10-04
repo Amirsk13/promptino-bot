@@ -259,6 +259,29 @@
         35
       ],
       "channel_expires_at": "2026-10-18T12:50:45.805209"
+    },
+    {
+      "id": "LOGO-11",
+      "type": "logo",
+      "user_id": 676953423,
+      "contact": "@Tazx44",
+      "item": "سفارش ساخت لوگو",
+      "model": "",
+      "prompt_text": "ffyygf",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 400000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nam",
+      "ref_photo": null,
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-10-04 12:51",
+      "channel_chat": "-1003992937119"
     }
   ],
   "completed_orders": [
@@ -1540,7 +1563,7 @@
   "counters": {
     "order": 16,
     "customer": 13,
-    "logo": 10,
+    "logo": 11,
     "vip": 19,
     "report": 2
   },
