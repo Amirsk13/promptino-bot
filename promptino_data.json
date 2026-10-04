@@ -1521,13 +1521,13 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "receipt",
+      "step": "reference",
       "items": [],
       "contact": "@Tazx44",
-      "receipt": null,
+      "receipt": "AgACAgQAAxkBAAIKPGrCS3sm1xuOkCxvZu3mvdjjXBKGAAIxEGsb-lQQUsPgOxUtd0GdAQADAgADeAADPQQ",
       "ref_photo": null,
       "flow_id": "ff911e39e1ed",
-      "last_message_id": 2754,
+      "last_message_id": 2756,
       "prompt_ids": [
         "p2"
       ],
