@@ -180,25 +180,6 @@
       "channel_expires_at": "2026-10-17T15:48:05.529910"
     },
     {
-      "id": "VIP-19",
-      "type": "vip",
-      "user_id": 676953423,
-      "contact": "@Tazx44",
-      "item": "VIP-1",
-      "price": 60000,
-      "payer_name": "nam",
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-10-04 12:49",
-      "channel_chat": "-1003992937119",
-      "channel_action_message_id": 32,
-      "channel_message_ids": [
-        31,
-        32
-      ],
-      "channel_expires_at": "2026-10-18T12:49:17.983019"
-    },
-    {
       "id": "ORD-16",
       "type": "normal",
       "user_id": 676953423,
@@ -1480,6 +1461,24 @@
       "created_at": "2026-10-04 08:32",
       "channel_chat": "-1003992937119",
       "satisfied_at": "2026-10-04T08:37:42.518789"
+    },
+    {
+      "id": "VIP-19",
+      "type": "vip",
+      "user_id": 676953423,
+      "item": "VIP-1",
+      "price": 60000,
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-10-04 12:49",
+      "channel_chat": "-1003992937119",
+      "channel_action_message_id": 32,
+      "channel_message_ids": [
+        31,
+        32
+      ],
+      "channel_expires_at": "2026-10-18T12:49:17.983019",
+      "satisfied_at": "2026-10-04T12:52:13.660330"
     }
   ],
   "reports": [],
