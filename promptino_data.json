@@ -1412,12 +1412,12 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "receipt",
+      "step": "reference",
       "items": [],
       "contact": "09132317422",
-      "receipt": null,
+      "receipt": "AgACAgQAAxkBAAIJemrBIzoTPhLTJtM5WPHT5Lo_v6C3AAJMEmsb-lQIUs54eV8k7v84AQADAgADeAADPQQ",
       "ref_photo": null,
-      "last_message_id": 2585,
+      "last_message_id": 2587,
       "prompt_text": "09132317422",
       "price": 150000,
       "card": {
