@@ -187,8 +187,8 @@
       "item": "VIP-1",
       "price": 60000,
       "payer_name": "nam",
-      "status": "🟠 در حال تأیید",
-      "payment": "pending",
+      "status": "🟡 در حال انجام",
+      "payment": "approved",
       "created_at": "2026-10-04 12:49",
       "channel_chat": "-1003992937119",
       "channel_action_message_id": 32,
@@ -197,6 +197,38 @@
         32
       ],
       "channel_expires_at": "2026-10-18T12:49:17.983019"
+    },
+    {
+      "id": "ORD-16",
+      "type": "normal",
+      "user_id": 676953423,
+      "contact": "09132317422",
+      "item": "2",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p2",
+      "selected_variant": [
+        "p2",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nam",
+      "ref_photo": "AgACAgQAAxkBAAIKPmrCS4Rn2Q2E8kftH44nr5EAAbY89QACMhBrG_pUEFIHQt3LL8UqMgEAAwIAA3kAAz0E",
+      "status": "🔵 تحویل داده شد",
+      "payment": "approved",
+      "created_at": "2026-10-04 12:50",
+      "channel_chat": "-1003907721994",
+      "channel_action_message_id": 159,
+      "channel_message_ids": [
+        157,
+        158,
+        159
+      ]
     },
     {
       "id": "CUST-13",
@@ -1448,36 +1480,6 @@
       "created_at": "2026-10-04 08:32",
       "channel_chat": "-1003992937119",
       "satisfied_at": "2026-10-04T08:37:42.518789"
-    },
-    {
-      "id": "ORD-16",
-      "type": "normal",
-      "user_id": 676953423,
-      "item": "2",
-      "model": "ChatGPT",
-      "prompt_id": "p2",
-      "selected_variant": [
-        "p2",
-        "chatgpt"
-      ],
-      "price": 100000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "ref_photo": "AgACAgQAAxkBAAIKPmrCS4Rn2Q2E8kftH44nr5EAAbY89QACMhBrG_pUEFIHQt3LL8UqMgEAAwIAA3kAAz0E",
-      "status": "🟢 تمام شد",
-      "payment": "approved",
-      "created_at": "2026-10-04 12:50",
-      "channel_chat": "-1003907721994",
-      "channel_action_message_id": 159,
-      "channel_message_ids": [
-        157,
-        158,
-        159
-      ],
-      "satisfied_at": "2026-10-04T12:51:42.682440"
     }
   ],
   "reports": [],
