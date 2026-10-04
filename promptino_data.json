@@ -1355,14 +1355,19 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "card",
+      "step": "payer_name",
       "items": [],
       "contact": "nam",
       "receipt": null,
       "ref_photo": null,
       "last_message_id": 2544,
       "prompt_text": "hdhxbdhx",
-      "price": 150000
+      "price": 150000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      }
     }
   },
   "settings": {
