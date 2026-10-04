@@ -1431,12 +1431,17 @@
   "active_order_states": {
     "676953423": {
       "type": "vip_order",
-      "step": "card",
+      "step": "payer_name",
       "vip": "VIP-1",
       "price": 60000,
       "flow_id": "365ce5eaa9cb",
       "last_message_id": 2604,
-      "contact": "@Tazx44"
+      "contact": "@Tazx44",
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      }
     }
   },
   "settings": {
