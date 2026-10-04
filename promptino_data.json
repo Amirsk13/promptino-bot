@@ -920,7 +920,8 @@
         106,
         107
       ],
-      "channel_expires_at": "2026-10-04T08:14:46.345177"
+      "channel_expires_at": "2026-10-04T08:14:46.345177",
+      "channel_deleted": true
     },
     {
       "id": "VIP-13",
