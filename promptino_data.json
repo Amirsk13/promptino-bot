@@ -165,38 +165,6 @@
       "channel_expires_at": "2026-10-17T15:48:05.529910"
     },
     {
-      "id": "ORD-17",
-      "type": "normal",
-      "user_id": 676953423,
-      "contact": "@Tazx44",
-      "item": "2",
-      "model": "ChatGPT",
-      "prompt_text": "",
-      "prompt_id": "p2",
-      "selected_variant": [
-        "p2",
-        "chatgpt"
-      ],
-      "price": 100000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nam",
-      "ref_photo": "AgACAgQAAxkBAAIKPmrCS4Rn2Q2E8kftH44nr5EAAbY89QACMhBrG_pUEFIHQt3LL8UqMgEAAwIAA3kAAz0E",
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-10-04 16:10",
-      "channel_chat": "-1003907721994",
-      "channel_action_message_id": 162,
-      "channel_message_ids": [
-        160,
-        161,
-        162
-      ]
-    },
-    {
       "id": "LOGO-12",
       "type": "logo",
       "user_id": 676953423,
@@ -1547,6 +1515,36 @@
         159
       ],
       "satisfied_at": "2026-10-04T16:14:33.720460"
+    },
+    {
+      "id": "ORD-17",
+      "type": "normal",
+      "user_id": 676953423,
+      "item": "2",
+      "model": "ChatGPT",
+      "prompt_id": "p2",
+      "selected_variant": [
+        "p2",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "ref_photo": "AgACAgQAAxkBAAIKPmrCS4Rn2Q2E8kftH44nr5EAAbY89QACMhBrG_pUEFIHQt3LL8UqMgEAAwIAA3kAAz0E",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-10-04 16:10",
+      "channel_chat": "-1003907721994",
+      "channel_action_message_id": 162,
+      "channel_message_ids": [
+        160,
+        161,
+        162
+      ],
+      "satisfied_at": "2026-10-04T16:14:49.398565"
     }
   ],
   "reports": [],
