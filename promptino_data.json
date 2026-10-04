@@ -1482,13 +1482,13 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "09132317422",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "fa830da35bcc",
-      "last_message_id": 2625,
+      "last_message_id": 2628,
       "prompt_text": "hxhdhdjdjd",
       "price": 150000
     }
