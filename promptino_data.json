@@ -1671,13 +1671,13 @@
   "active_order_states": {
     "676953423": {
       "type": "logo",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "976e3277cc74",
-      "last_message_id": 2851,
+      "last_message_id": 2854,
       "prompt_text": "jdjxjxjddnd",
       "price": 400000
     }
