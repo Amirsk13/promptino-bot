@@ -1668,26 +1668,7 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {
-    "676953423": {
-      "type": "customer",
-      "step": "reference",
-      "items": [],
-      "contact": "09132317422",
-      "receipt": "AgACAgQAAxkBAAIKPGrCS3sm1xuOkCxvZu3mvdjjXBKGAAIxEGsb-lQQUsPgOxUtd0GdAQADAgADeAADPQQ",
-      "ref_photo": null,
-      "flow_id": "19c84a339a3e",
-      "last_message_id": 2846,
-      "prompt_text": "hxhdhdjd",
-      "price": 150000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nqm"
-    }
-  },
+  "active_order_states": {},
   "active_admin_states": {},
   "active_post_states": {},
   "settings": {
