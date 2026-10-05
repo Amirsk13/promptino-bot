@@ -1800,22 +1800,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "buttons",
-      "buttons": [
-        {
-          "key": "12",
-          "label": "12",
-          "prompt": "hdhd"
-        }
-      ],
-      "last_message_id": 2935,
-      "title": "hxhd",
-      "price": 200000
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
