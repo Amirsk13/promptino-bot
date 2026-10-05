@@ -1638,20 +1638,7 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {
-    "676953423": {
-      "type": "customer",
-      "step": "contact",
-      "items": [],
-      "contact": "",
-      "receipt": null,
-      "ref_photo": null,
-      "flow_id": "586d5d6d82ce",
-      "last_message_id": 2832,
-      "prompt_text": "jdjdjdbdx",
-      "price": 150000
-    }
-  },
+  "active_order_states": {},
   "active_admin_states": {},
   "active_post_states": {},
   "settings": {
