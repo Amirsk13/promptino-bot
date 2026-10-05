@@ -1732,12 +1732,15 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "what",
+      "step": "confirm_price",
       "items": [],
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "flow_id": "4e90d16d0c2f"
+      "flow_id": "4e90d16d0c2f",
+      "last_message_id": 2898,
+      "prompt_text": "hxhdhd",
+      "price": 150000
     }
   },
   "active_admin_states": {},
