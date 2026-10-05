@@ -1792,11 +1792,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 2930,
+      "last_message_id": 2933,
       "title": "hxhd",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "12"
     }
   },
   "active_post_states": {},
