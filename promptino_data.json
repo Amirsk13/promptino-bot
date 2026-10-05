@@ -133,18 +133,7 @@
       }
     }
   },
-  "vip": {
-    "VIP-1": {
-      "title": "hxhd",
-      "price": 200000,
-      "variants": {
-        "12": {
-          "label": "12",
-          "prompt": "hdhd"
-        }
-      }
-    }
-  },
+  "vip": {},
   "orders": [
     {
       "id": "CUST-10",
