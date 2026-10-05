@@ -208,36 +208,6 @@
       ]
     },
     {
-      "id": "CUST-15",
-      "type": "customer",
-      "user_id": 676953423,
-      "contact": "09132317422",
-      "item": "سفارش ساخت عکس با پرامپت مشتری",
-      "model": "",
-      "prompt_text": "hxhdhdjd",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 150000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nqm",
-      "ref_photo": "AgACAgQAAxkBAAILDWrDVbsQWwABWdoiZwJUNybXw8-h-gACIBBrG58eGFJW44Ii8zn3qgEAAwIAA3kAAz0E",
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-10-05 07:47",
-      "channel_chat": "-1003992937119",
-      "channel_action_message_id": 52,
-      "channel_message_ids": [
-        50,
-        51,
-        52
-      ],
-      "channel_expires_at": "2026-10-19T07:47:20.099318"
-    },
-    {
       "id": "LOGO-13",
       "type": "logo",
       "user_id": 676953423,
@@ -1757,7 +1727,35 @@
         47
       ],
       "channel_expires_at": "2026-10-18T16:11:56.326553",
-      "satisfied_at": "2026-10-05T08:48:42.479765"
+      "satisfied_at": "2026-10-05T08:48:46.737591"
+    },
+    {
+      "id": "CUST-15",
+      "type": "customer",
+      "user_id": 676953423,
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 150000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "ref_photo": "AgACAgQAAxkBAAILDWrDVbsQWwABWdoiZwJUNybXw8-h-gACIBBrG58eGFJW44Ii8zn3qgEAAwIAA3kAAz0E",
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-10-05 07:47",
+      "channel_chat": "-1003992937119",
+      "channel_action_message_id": 52,
+      "channel_message_ids": [
+        50,
+        51,
+        52
+      ],
+      "channel_expires_at": "2026-10-19T07:47:20.099318",
+      "satisfied_at": "2026-10-05T08:48:50.456395"
     }
   ],
   "reports": [],
