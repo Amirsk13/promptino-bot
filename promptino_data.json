@@ -1638,32 +1638,7 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {
-    "676953423": {
-      "type": "normal",
-      "step": "reference",
-      "items": [],
-      "contact": "@Tazx44",
-      "receipt": "AgACAgQAAxkBAAIKPGrCS3sm1xuOkCxvZu3mvdjjXBKGAAIxEGsb-lQQUsPgOxUtd0GdAQADAgADeAADPQQ",
-      "ref_photo": null,
-      "flow_id": "c917f100865b",
-      "last_message_id": 2827,
-      "prompt_ids": [
-        "p2"
-      ],
-      "selected_variant": [
-        "p2",
-        "chatgpt"
-      ],
-      "price": 100000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nam"
-    }
-  },
+  "active_order_states": {},
   "active_admin_states": {},
   "active_post_states": {},
   "settings": {
