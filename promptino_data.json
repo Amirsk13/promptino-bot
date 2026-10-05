@@ -1609,13 +1609,13 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "payer_name",
+      "step": "receipt",
       "items": [],
       "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "c917f100865b",
-      "last_message_id": 2822,
+      "last_message_id": 2825,
       "prompt_ids": [
         "p2"
       ],
@@ -1628,7 +1628,8 @@
         "name": "امیرحسین ساکیانی",
         "bank": "ملی",
         "number": "6037997336124459"
-      }
+      },
+      "payer_name": "nam"
     }
   },
   "active_admin_states": {},
