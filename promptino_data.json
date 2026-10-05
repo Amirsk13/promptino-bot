@@ -887,7 +887,8 @@
         116
       ],
       "channel_expires_at": "2026-10-05T05:19:26.688941",
-      "satisfied_at": "2026-09-21T05:25:46.766210"
+      "satisfied_at": "2026-09-21T05:25:46.766210",
+      "channel_deleted": true
     },
     {
       "id": "LOGO-5",
@@ -916,7 +917,8 @@
         118
       ],
       "channel_expires_at": "2026-10-05T05:20:57.891839",
-      "satisfied_at": "2026-09-21T05:32:15.053434"
+      "satisfied_at": "2026-09-21T05:32:15.053434",
+      "channel_deleted": true
     },
     {
       "id": "VIP-12",
@@ -952,7 +954,8 @@
         110
       ],
       "channel_expires_at": "2026-10-05T04:40:07.148670",
-      "satisfied_at": "2026-09-22T06:05:28.110870"
+      "satisfied_at": "2026-09-22T06:05:28.110870",
+      "channel_deleted": true
     },
     {
       "id": "VIP-14",
