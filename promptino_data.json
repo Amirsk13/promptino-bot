@@ -1705,7 +1705,8 @@
       "contact": "",
       "receipt": null,
       "ref_photo": null,
-      "flow_id": "e53da7c764a8"
+      "flow_id": "e53da7c764a8",
+      "last_message_id": 2883
     }
   },
   "active_admin_states": {},
