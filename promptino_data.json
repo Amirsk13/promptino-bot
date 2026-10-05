@@ -1607,6 +1607,8 @@
     }
   },
   "active_order_states": {},
+  "active_admin_states": {},
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
