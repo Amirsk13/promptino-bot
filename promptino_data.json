@@ -240,35 +240,6 @@
       ]
     },
     {
-      "id": "LOGO-14",
-      "type": "logo",
-      "user_id": 676953423,
-      "contact": "09132317422",
-      "item": "سفارش ساخت لوگو",
-      "model": "",
-      "prompt_text": "hxjddf",
-      "prompt_id": "",
-      "selected_variant": null,
-      "price": 400000,
-      "card": {
-        "name": "امیرحسین ساکیانی",
-        "bank": "ملی",
-        "number": "6037997336124459"
-      },
-      "payer_name": "nwm",
-      "ref_photo": null,
-      "status": "❌ رد شده",
-      "payment": "rejected",
-      "created_at": "2026-10-05 08:41",
-      "channel_chat": "-1003992937119",
-      "channel_action_message_id": 59,
-      "channel_message_ids": [
-        58,
-        59
-      ],
-      "channel_expires_at": "2026-10-19T08:41:48.172519"
-    },
-    {
       "id": "VIP-20",
       "type": "vip",
       "user_id": 676953423,
