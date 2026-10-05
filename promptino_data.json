@@ -1789,15 +1789,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "price",
-      "buttons": [],
-      "last_message_id": 2924,
-      "title": "hxhx"
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
