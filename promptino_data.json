@@ -1638,7 +1638,17 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {},
+  "active_order_states": {
+    "676953423": {
+      "type": "customer",
+      "step": "what",
+      "items": [],
+      "contact": "",
+      "receipt": null,
+      "ref_photo": null,
+      "flow_id": "19c84a339a3e"
+    }
+  },
   "active_admin_states": {},
   "active_post_states": {},
   "settings": {
