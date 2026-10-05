@@ -1609,13 +1609,13 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "c917f100865b",
-      "last_message_id": 2819,
+      "last_message_id": 2822,
       "prompt_ids": [
         "p2"
       ],
