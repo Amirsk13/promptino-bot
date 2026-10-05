@@ -196,8 +196,8 @@
       },
       "payer_name": "nam",
       "ref_photo": "AgACAgQAAxkBAAILDWrDVbsQWwABWdoiZwJUNybXw8-h-gACIBBrG58eGFJW44Ii8zn3qgEAAwIAA3kAAz0E",
-      "status": "🟠 در حال تأیید",
-      "payment": "pending",
+      "status": "❌ رد شده",
+      "payment": "rejected",
       "created_at": "2026-10-05 08:40",
       "channel_chat": "-1003907721994",
       "channel_action_message_id": 168,
@@ -1752,6 +1752,38 @@
         165
       ],
       "satisfied_at": "2026-10-05T08:50:09.893036"
+    },
+    {
+      "id": "ORD-19",
+      "type": "normal",
+      "user_id": 676953423,
+      "contact": "@Tazx44",
+      "item": "2",
+      "model": "ChatGPT",
+      "prompt_text": "",
+      "prompt_id": "p2",
+      "selected_variant": [
+        "p2",
+        "chatgpt"
+      ],
+      "price": 100000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nam",
+      "ref_photo": "AgACAgQAAxkBAAILDWrDVbsQWwABWdoiZwJUNybXw8-h-gACIBBrG58eGFJW44Ii8zn3qgEAAwIAA3kAAz0E",
+      "status": "❌ رد شده",
+      "payment": "rejected",
+      "created_at": "2026-10-05 08:40",
+      "channel_chat": "-1003907721994",
+      "channel_action_message_id": 168,
+      "channel_message_ids": [
+        166,
+        167,
+        168
+      ]
     }
   ],
   "reports": [],
