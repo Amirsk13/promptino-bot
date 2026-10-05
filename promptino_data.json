@@ -133,7 +133,18 @@
       }
     }
   },
-  "vip": {},
+  "vip": {
+    "VIP-1": {
+      "title": "hxhd",
+      "price": 200000,
+      "variants": {
+        "12": {
+          "label": "12",
+          "prompt": "hdhd"
+        }
+      }
+    }
+  },
   "orders": [
     {
       "id": "CUST-10",
@@ -1798,14 +1809,9 @@
           "key": "12",
           "label": "12",
           "prompt": "hdhd"
-        },
-        {
-          "key": "uo",
-          "label": "uo",
-          "prompt": "3737"
         }
       ],
-      "last_message_id": 2940,
+      "last_message_id": 2935,
       "title": "hxhd",
       "price": 200000
     }
