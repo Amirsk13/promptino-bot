@@ -224,6 +224,29 @@
         164,
         165
       ]
+    },
+    {
+      "id": "CUST-15",
+      "type": "customer",
+      "user_id": 676953423,
+      "contact": "09132317422",
+      "item": "سفارش ساخت عکس با پرامپت مشتری",
+      "model": "",
+      "prompt_text": "hxhdhdjd",
+      "prompt_id": "",
+      "selected_variant": null,
+      "price": 150000,
+      "card": {
+        "name": "امیرحسین ساکیانی",
+        "bank": "ملی",
+        "number": "6037997336124459"
+      },
+      "payer_name": "nqm",
+      "ref_photo": "AgACAgQAAxkBAAILDWrDVbsQWwABWdoiZwJUNybXw8-h-gACIBBrG58eGFJW44Ii8zn3qgEAAwIAA3kAAz0E",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-10-05 07:47",
+      "channel_chat": "-1003992937119"
     }
   ],
   "completed_orders": [
@@ -1641,13 +1664,13 @@
   "active_order_states": {
     "676953423": {
       "type": "customer",
-      "step": "receipt",
+      "step": "reference",
       "items": [],
       "contact": "09132317422",
-      "receipt": null,
+      "receipt": "AgACAgQAAxkBAAIKPGrCS3sm1xuOkCxvZu3mvdjjXBKGAAIxEGsb-lQQUsPgOxUtd0GdAQADAgADeAADPQQ",
       "ref_photo": null,
       "flow_id": "19c84a339a3e",
-      "last_message_id": 2844,
+      "last_message_id": 2846,
       "prompt_text": "hxhdhdjd",
       "price": 150000,
       "card": {
@@ -1670,7 +1693,7 @@
   },
   "counters": {
     "order": 18,
-    "customer": 14,
+    "customer": 15,
     "logo": 12,
     "vip": 19,
     "report": 2
