@@ -1800,12 +1800,10 @@
   "active_admin_states": {},
   "active_post_states": {
     "676953423": {
-      "step": "name",
-      "photos": [
-        "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
-      ],
+      "step": "photos",
+      "photos": [],
       "buttons": [],
-      "last_message_id": 3002
+      "last_message_id": null
     }
   },
   "settings": {
