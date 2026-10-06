@@ -1800,13 +1800,14 @@
   "active_admin_states": {},
   "active_post_states": {
     "676953423": {
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3019,
-      "name": "Cherry Knit Portrait"
+      "last_message_id": 3021,
+      "name": "Cherry Knit Portrait",
+      "number": 7
     }
   },
   "settings": {
