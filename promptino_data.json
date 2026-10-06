@@ -1797,15 +1797,15 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
+  "active_admin_states": {},
+  "active_post_states": {
     "676953423": {
-      "type": "price",
-      "step": "value",
-      "key": "channel_prompt",
+      "step": "photos",
+      "photos": [],
+      "buttons": [],
       "last_message_id": null
     }
   },
-  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
