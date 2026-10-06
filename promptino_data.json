@@ -1800,14 +1800,15 @@
   "active_admin_states": {},
   "active_post_states": {
     "676953423": {
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3021,
+      "last_message_id": 3023,
       "name": "Cherry Knit Portrait",
-      "number": 7
+      "number": 7,
+      "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع"
     }
   },
   "settings": {
