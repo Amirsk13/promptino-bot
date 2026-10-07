@@ -1804,14 +1804,14 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
       "buttons": [],
       "last_message_id": 3132,
       "flow_id": "978fe874e173",
-      "revision": 5,
+      "revision": 6,
       "name": "7",
       "number": 7,
       "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع",
