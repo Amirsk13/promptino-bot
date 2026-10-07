@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
@@ -1815,13 +1815,14 @@
           "prompt": "Use the attached image as the primary visual reference and recreate it as closely as possible. Preserve the exact overall composition, character appearance, facial structure, hairstyle, pose, expression, colors, lighting, and visual style of the reference. Create a square 1:1 digital anime-style fantasy portrait of an elegant young woman shown from the upper torso, with her body angled slightly toward the viewer while her face is turned in a soft left-facing three-quarter profile and her gaze lowered. She has pale luminous skin, delicate facial features, light blue eyes, and elaborate dark navy-blue hair styled in a voluminous swept-up arrangement with curled sections, decorated with small glowing blue flowers. She wears intricate blue floral jewelry, including large translucent blue flower earrings and a detailed blue floral necklace around the neck. Her shoulders are partially exposed and she wears dark blue gloves. She gently holds a large bouquet of luminous blue and cyan flowers across her chest, with layered petals, glowing highlights, translucent edges, leaves, and small sparkling particles. The bouquet must remain the dominant foreground element without obscuring the face. Keep the deep almost-black background clean and empty. Use strong cool cyan-blue illumination from the flowers, subtle warm rim light along the upper-right edge of the hair and shoulder, soft luminous highlights, delicate shadows, and a subtle glow around the flowers. Highly polished 2D digital painting, refined anime illustration, painterly gradients, elegant linework, rich navy/cobalt/cyan palette, cinematic fantasy atmosphere, soft bloom, detailed hair and jewelry, crisp face, controlled highlights. Close portrait framing, subject filling most of the square frame, head near the upper edge, bouquet extending across the lower foreground, no text, no logo, no additional objects."
         }
       ],
-      "last_message_id": 3137,
+      "last_message_id": 3141,
       "flow_id": "978fe874e173",
-      "revision": 9,
+      "revision": 10,
       "name": "7",
       "number": 7,
       "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر",
+      "pending_label": "Gemini"
     }
   },
   "settings": {
