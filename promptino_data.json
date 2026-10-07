@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
@@ -1818,16 +1818,20 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Recreate the attached reference image with maximum visual fidelity. Treat the reference as the composition and appearance guide, not as loose inspiration. Preserve the same square 1:1 framing, upper-torso portrait, three-quarter left-facing pose, lowered gaze, delicate facial proportions, pale skin, elaborate dark navy-blue updo with curled sections and small blue flowers, blue eyes, translucent blue floral earrings, ornate blue floral necklace, exposed shoulder, dark blue gloves, and the large glowing blue flower bouquet held across the chest. Keep the bouquet positioned in the foreground exactly as the main visual focus, with layered cyan, turquoise, cobalt and deep-blue petals, luminous centers, translucent edges, leaves and tiny sparkling particles. Maintain the nearly black empty background and the dramatic lighting: cool cyan-blue light emitted by the flowers, soft illumination on the face and hands, and a subtle warm-white rim light around the upper-right hair and shoulder. Preserve the elegant melancholic expression and downward gaze. Match the reference's polished 2D anime fantasy digital-painting aesthetic, soft painterly shading, smooth gradients, intricate hair and jewelry details, luminous bloom, rich blue color palette and cinematic contrast. Keep the face unobstructed, avoid extra objects, avoid text or logos, and do not change the pose or overall composition."
+        },
+        {
+          "key": "using_the_attached_image_",
+          "label": "Using the attached image as the primary image reference, recreate the same character and composition with maximum fidelity. Preserve the reference identity and visual design: pale delicate face, light blue eyes, lowered gaze, soft left-facing three-quarter profile, elaborate voluminous dark navy-blue curled updo decorated with small blue flowers, translucent blue flower earrings, intricate blue floral necklace, exposed shoulder, dark blue gloves, and the same elegant expression. Preserve the exact portrait framing and proportions: square 1:1 close upper-torso composition, head close to the top edge, character filling most of the frame, and a large bouquet crossing the lower foreground. Reproduce the bouquet with dense luminous cyan, turquoise and deep-blue flowers, layered petals, glowing centers, translucent highlights, blue leaves and subtle floating sparkles. Keep the face clearly visible above the flowers. Maintain the nearly black background with no environmental elements. Match the lighting precisely: intense cool blue/cyan illumination from the flowers, soft facial light, delicate shadows, subtle warm-white rim lighting on the upper-right hair and shoulder, and gentle atmospheric glow. Preserve the polished 2D anime fantasy illustration style, painterly digital rendering, refined linework, smooth gradients, rich navy-blue palette, luminous bloom and cinematic contrast. Do not redesign the character, alter the pose, add objects, add text, add a logo, or change the background.",
+          "prompt": "/start"
         }
       ],
-      "last_message_id": 3149,
+      "last_message_id": 3154,
       "flow_id": "978fe874e173",
-      "revision": 13,
+      "revision": 14,
       "name": "7",
       "number": 7,
       "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر",
-      "pending_label": "Using the attached image as the primary image reference, recreate the same character and composition with maximum fidelity. Preserve the reference identity and visual design: pale delicate face, light blue eyes, lowered gaze, soft left-facing three-quarter profile, elaborate voluminous dark navy-blue curled updo decorated with small blue flowers, translucent blue flower earrings, intricate blue floral necklace, exposed shoulder, dark blue gloves, and the same elegant expression. Preserve the exact portrait framing and proportions: square 1:1 close upper-torso composition, head close to the top edge, character filling most of the frame, and a large bouquet crossing the lower foreground. Reproduce the bouquet with dense luminous cyan, turquoise and deep-blue flowers, layered petals, glowing centers, translucent highlights, blue leaves and subtle floating sparkles. Keep the face clearly visible above the flowers. Maintain the nearly black background with no environmental elements. Match the lighting precisely: intense cool blue/cyan illumination from the flowers, soft facial light, delicate shadows, subtle warm-white rim lighting on the upper-right hair and shoulder, and gentle atmospheric glow. Preserve the polished 2D anime fantasy illustration style, painterly digital rendering, refined linework, smooth gradients, rich navy-blue palette, luminous bloom and cinematic contrast. Do not redesign the character, alter the pose, add objects, add text, add a logo, or change the background."
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر"
     }
   },
   "settings": {
