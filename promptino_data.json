@@ -1804,15 +1804,16 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3126,
+      "last_message_id": 3128,
       "flow_id": "978fe874e173",
-      "revision": 2,
-      "name": "7"
+      "revision": 3,
+      "name": "7",
+      "number": 7
     }
   },
   "settings": {
