@@ -1804,18 +1804,17 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3172,
+      "last_message_id": 3170,
       "flow_id": "195cfd9bc4bb",
-      "revision": 5,
+      "revision": 4,
       "name": "Azure Bloom Reverie",
       "number": 7,
-      "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر"
+      "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع"
     }
   },
   "settings": {
