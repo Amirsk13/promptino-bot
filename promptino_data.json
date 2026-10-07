@@ -1801,14 +1801,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "step": "photos",
-      "photos": [],
-      "buttons": [],
-      "last_message_id": 3055
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
