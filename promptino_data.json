@@ -1803,16 +1803,17 @@
   "active_admin_states": {},
   "active_post_states": {
     "676953423": {
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3088,
+      "last_message_id": 3090,
       "flow_id": "e2e53c00548b",
       "name": "7",
       "number": 7,
-      "suitable": "ChatGPT"
+      "suitable": "ChatGPT",
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر"
     }
   },
   "settings": {
