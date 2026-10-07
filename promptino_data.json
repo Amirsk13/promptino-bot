@@ -1801,22 +1801,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "for",
-      "photos": [
-        "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
-      ],
-      "buttons": [],
-      "last_message_id": 3170,
-      "flow_id": "195cfd9bc4bb",
-      "revision": 4,
-      "name": "Azure Bloom Reverie",
-      "number": 7,
-      "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
