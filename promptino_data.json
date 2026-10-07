@@ -1804,9 +1804,11 @@
   "active_post_states": {
     "676953423": {
       "step": "photos",
-      "photos": [],
+      "photos": [
+        "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
+      ],
       "buttons": [],
-      "last_message_id": null
+      "last_message_id": 3044
     }
   },
   "settings": {
