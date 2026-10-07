@@ -1804,16 +1804,15 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
       "buttons": [],
       "last_message_id": 3123,
       "flow_id": "978fe874e173",
-      "revision": 3,
-      "name": "Azure Bloom Reverie",
-      "number": 7
+      "revision": 2,
+      "name": "7"
     }
   },
   "settings": {
