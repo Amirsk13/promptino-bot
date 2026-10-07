@@ -1801,7 +1801,17 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {},
+  "active_post_states": {
+    "676953423": {
+      "type": "post",
+      "step": "photos",
+      "photos": [],
+      "buttons": [],
+      "last_message_id": null,
+      "flow_id": "fad0673b88ea",
+      "revision": 0
+    }
+  },
   "settings": {
     "notifications": {
       "new_order": true,
