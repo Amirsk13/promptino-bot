@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
@@ -1820,13 +1820,14 @@
           "prompt": "Recreate the attached reference image with maximum visual fidelity. Treat the reference as the composition and appearance guide, not as loose inspiration. Preserve the same square 1:1 framing, upper-torso portrait, three-quarter left-facing pose, lowered gaze, delicate facial proportions, pale skin, elaborate dark navy-blue updo with curled sections and small blue flowers, blue eyes, translucent blue floral earrings, ornate blue floral necklace, exposed shoulder, dark blue gloves, and the large glowing blue flower bouquet held across the chest. Keep the bouquet positioned in the foreground exactly as the main visual focus, with layered cyan, turquoise, cobalt and deep-blue petals, luminous centers, translucent edges, leaves and tiny sparkling particles. Maintain the nearly black empty background and the dramatic lighting: cool cyan-blue light emitted by the flowers, soft illumination on the face and hands, and a subtle warm-white rim light around the upper-right hair and shoulder. Preserve the elegant melancholic expression and downward gaze. Match the reference's polished 2D anime fantasy digital-painting aesthetic, soft painterly shading, smooth gradients, intricate hair and jewelry details, luminous bloom, rich blue color palette and cinematic contrast. Keep the face unobstructed, avoid extra objects, avoid text or logos, and do not change the pose or overall composition."
         }
       ],
-      "last_message_id": 3144,
+      "last_message_id": 3147,
       "flow_id": "978fe874e173",
-      "revision": 12,
+      "revision": 13,
       "name": "7",
       "number": 7,
       "suitable": "تبدیل یا تولید پرتره‌های فانتزی و انیمه‌ای با نورپردازی درخشان، گل‌های آبی و حفظ ترکیب‌بندی و حالت چهره تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• تصاویر فانتزی و انیمه‌ای\n• پرتره‌های هنری\n• طراحی کاراکتر\n• تست مدل‌های تولید تصویر",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
