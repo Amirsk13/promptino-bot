@@ -1903,7 +1903,7 @@
       "stage_token": "3a0c5bf9c8",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "3a0c5bf9c8",
       "name": "Warm Urban Portrait"
     }
   },
