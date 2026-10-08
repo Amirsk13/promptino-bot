@@ -1904,7 +1904,7 @@
       "stage_token": "01c96572f8",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "01c96572f8",
       "name": "Warm Urban Portrait",
       "number": 8
     }
