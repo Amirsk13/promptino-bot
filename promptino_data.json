@@ -1839,7 +1839,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
@@ -1866,8 +1866,8 @@
           "prompt": "Use the attached reference image as the exact visual reference and recreate the same photograph with maximum fidelity. Preserve the original young Iranian male subject, composition, pose, clothing, environment, camera position, perspective, lighting, colors, depth of field and photographic mood.\n\nThe subject stands outdoors in the same park-like walkway environment with trees and warm architectural/background elements. Keep the same medium portrait framing and the same amount of visible environment around him. Use a natural chest-height camera and approximately 50–70mm portrait perspective.\n\nPreserve the original pose exactly: body slightly angled, head turned toward the right side of the frame, calm sideward gaze, one forearm crossing naturally in front of the lower torso and the opposite hand resting around the other forearm/wrist. Keep both arms and hands in the same orientation. Do not mirror or redesign the pose.\n\nPreserve the red-and-black plaid overshirt worn open over a light-colored graphic T-shirt and keep the wristwatch visible. Maintain the youthful casual streetwear appearance.\n\nReproduce the warm golden-hour light entering from the upper-left, warm highlights on the hair and face, soft shadows, subtle lens flare, natural green and brown background tones and controlled shallow depth of field. Keep the background recognizable and only naturally softened by the lens.\n\nPhotorealistic portrait photography, realistic Iranian facial features, authentic skin texture, natural hair, realistic hands, natural fabric detail, subtle cinematic color grading, realistic proportions and lighting. No artificial beauty filter, no excessive bokeh, no close-up crop, no wide-angle distortion, no pose alteration, no mirrored image, no additional objects or text."
         }
       ],
-      "last_message_id": 3432,
-      "last_user_message_id": 3432,
+      "last_message_id": 3437,
+      "last_user_message_id": 3437,
       "processed_message_ids": [
         3397,
         3399,
@@ -1883,16 +1883,18 @@
         3423,
         3427,
         3430,
-        3432
+        3432,
+        3437
       ],
       "flow_id": "68ed5b8c6003",
-      "stage_token": "a3995701de",
-      "revision": 20,
+      "stage_token": "5a428840ea",
+      "revision": 21,
       "mode": "create",
       "name": "Warm Urban Portrait",
       "number": 8,
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
-      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
+      "pending_label": "Use the attached image as the primary image reference and perform a high-fidelity image-to-image recreation. Preserve the reference scene, framing, subject scale, camera distance, camera height, perspective, background layout, lighting direction, color palette and photographic realism.\n\nTransform the subject into a natural young Iranian woman while keeping the same scene and overall visual structure. Maintain the same medium-shot composition with the subject occupying approximately the same portion of the frame. Keep the outdoor walkway/park environment, blurred trees, warm background structures and visible foreground exactly consistent with the reference.\n\nUse a feminine variation of the original pose that remains very close to it: body slightly angled, head turned toward the right side of the frame, relaxed gaze in the same direction, one arm crossing naturally across the lower torso and the other hand gently resting on the opposite forearm near the wrist. Keep the pose casual, elegant and believable. Do not mirror the image.\n\nGive her realistic Iranian facial features, natural dark hair, realistic skin texture and subtle everyday makeup. Adapt the clothing naturally for a woman while preserving the original outfit identity: open red-and-black plaid overshirt over a light-colored graphic T-shirt, contemporary casual styling and the same dominant colors.\n\nMatch the reference lighting precisely: warm golden-hour sunlight from the upper-left, soft facial highlights, gentle shadows, subtle lens flare, warm brown/green environmental tones and realistic optical background blur. Preserve recognizable environmental detail instead of replacing the background with excessive bokeh.\n\nPhotorealistic DSLR portrait, natural 50–70mm lens perspective, realistic anatomy, accurate hands and fingers, natural fabric texture, authentic skin pores, subtle cinematic color grading, realistic exposure and depth of field. Preserve the original photographic feel rather than creating an illustration or beauty portrait. No excessive retouching, no plastic skin, no extreme makeup, no close-up crop, no wide-angle distortion, no background replacement, no pose mirroring, no extra objects."
     }
   },
   "settings": {
