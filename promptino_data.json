@@ -1804,26 +1804,28 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3318,
-      "last_user_message_id": 3318,
+      "last_message_id": 3320,
+      "last_user_message_id": 3320,
       "processed_message_ids": [
         3310,
         3313,
         3316,
-        3318
+        3318,
+        3320
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "3623fa3585",
-      "revision": 5,
+      "stage_token": "f23ae18349",
+      "revision": 6,
       "mode": "create",
       "name": "Cherry Knit Portrait",
       "number": 7,
-      "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع"
+      "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل"
     }
   },
   "settings": {
