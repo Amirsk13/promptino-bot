@@ -202,8 +202,22 @@
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        33,
+        34,
+        35
+      ],
+      "archive_message_ids": [
+        113,
+        114,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ]
     }
   },
   "vip": {},
