@@ -1804,30 +1804,36 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 3323,
-      "last_user_message_id": 3323,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded reference image as the primary visual reference and recreate the scene with very high fidelity. Preserve the subject’s facial identity, facial proportions, dark long hair, almond-shaped dark eyes, defined eyebrows, natural skin texture, subtle makeup, and muted red lips. Reproduce the exact relaxed reclining pose: the subject is lying back diagonally, head positioned toward the upper-right of the square frame, face turned toward the camera, shoulders and upper torso filling most of the image, with one hand resting naturally across the lower torso. Preserve the clothing exactly: a black fitted top with a wide neckline and a loose cream/off-white knitted cardigan featuring open crochet-like texture and scattered red cherry motifs with small green leaves. Match the original close-up composition, slightly elevated top-down camera angle, short portrait-lens perspective, natural proportions, minimal background, soft warm indoor ambient light, gentle shadows, subtle highlights on the skin, warm neutral color palette, realistic fabric texture, natural skin pores, and authentic smartphone-photo appearance. Keep the image square, intimate, candid, photorealistic, softly detailed, and visually very close to the reference. Do not add jewelry, accessories, objects, scenery, text, or decorative elements that are not present in the reference."
+        }
+      ],
+      "last_message_id": 3326,
+      "last_user_message_id": 3326,
       "processed_message_ids": [
         3310,
         3313,
         3316,
         3318,
         3320,
-        3323
+        3323,
+        3326
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "055752060b",
-      "revision": 8,
+      "stage_token": "8cd5a220f4",
+      "revision": 9,
       "mode": "create",
       "name": "Cherry Knit Portrait",
       "number": 7,
       "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل",
-      "pending_label": "ChatGPT"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل"
     }
   },
   "settings": {
