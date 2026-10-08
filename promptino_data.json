@@ -1886,23 +1886,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3453,
-      "last_user_message_id": 3453,
+      "last_message_id": 3456,
+      "last_user_message_id": 3456,
       "processed_message_ids": [
         3451,
-        3453
+        3453,
+        3456
       ],
       "flow_id": "be8c4bcd0073",
-      "stage_token": "db4270fec6",
-      "revision": 3,
+      "stage_token": "3a0c5bf9c8",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Warm Urban Portrait"
     }
   },
   "settings": {
