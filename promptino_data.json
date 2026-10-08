@@ -1880,17 +1880,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "button_prompt",
-      "buttons": [],
-      "last_message_id": 3564,
-      "title": "Azure Bloom Reverie",
-      "price": 200000,
-      "pending_label": "Gemini"
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
