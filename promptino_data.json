@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
@@ -1818,10 +1818,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Recreate the uploaded reference image as closely as possible using it as the main image reference. Preserve the subject’s facial identity and exact overall appearance, including dark long hair, almond-shaped dark eyes, defined brows, natural complexion, subtle makeup, and muted red lips. Match the original pose and composition: a close square portrait of the subject reclining diagonally, head near the upper-right corner, face looking directly toward the camera, shoulders and upper body filling the frame, one hand naturally resting across the lower torso. Keep the clothing unchanged: black fitted top with a wide neckline and a cream/off-white open-knit cardigan decorated with small red cherry motifs and green leaves. Match the slightly elevated top-down camera angle, close framing, natural short-lens portrait perspective, realistic anatomy, soft warm indoor lighting, gentle natural shadows, warm neutral tones, authentic skin and fabric texture, and casual smartphone-photography aesthetic. Keep the background simple and unobtrusive. Photorealistic, natural, candid, high detail, square 1:1 composition. Do not introduce new objects, accessories, text, scenery, or clothing details."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "Using the uploaded image as the exact visual reference, generate a highly faithful photorealistic reconstruction of the same portrait. Preserve facial identity, facial proportions, hairstyle, dark almond-shaped eyes, eyebrows, natural skin texture, subtle makeup, and muted red lips. Reproduce the same reclining diagonal pose and framing: the head is in the upper-right area, the face is turned toward the camera, the shoulders and torso occupy most of the square frame, and one hand rests naturally across the lower torso. Preserve the exact outfit: black fitted wide-neck top underneath a loose cream/off-white open crochet-knit cardigan with visible woven holes and repeated red cherry motifs with small green leaves. Match the reference camera position with a slightly elevated top-down angle, close portrait framing, natural perspective, realistic body proportions, soft warm indoor ambient illumination, delicate shadows, warm neutral colors, realistic skin pores, detailed knitted fabric, and an authentic casual smartphone photograph look. Maintain the same visual balance, crop, subject placement, and intimate candid mood. 1:1 square composition, photorealistic, natural imperfections, no artificial glamour retouching. Do not add or remove significant elements from the reference."
         }
       ],
-      "last_message_id": 3335,
-      "last_user_message_id": 3335,
+      "last_message_id": 3337,
+      "last_user_message_id": 3337,
       "processed_message_ids": [
         3310,
         3313,
@@ -1832,17 +1837,17 @@
         3326,
         3329,
         3331,
-        3335
+        3335,
+        3337
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "6e3082030f",
-      "revision": 14,
+      "stage_token": "60c8ab0365",
+      "revision": 15,
       "mode": "create",
       "name": "Cherry Knit Portrait",
       "number": 7,
       "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل"
     }
   },
   "settings": {
