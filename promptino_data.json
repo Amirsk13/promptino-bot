@@ -1839,7 +1839,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
@@ -1866,8 +1866,8 @@
           "prompt": "Use the attached reference image as the exact visual reference and recreate the same photograph with maximum fidelity. Preserve the original young Iranian male subject, composition, pose, clothing, environment, camera position, perspective, lighting, colors, depth of field and photographic mood.\n\nThe subject stands outdoors in the same park-like walkway environment with trees and warm architectural/background elements. Keep the same medium portrait framing and the same amount of visible environment around him. Use a natural chest-height camera and approximately 50–70mm portrait perspective.\n\nPreserve the original pose exactly: body slightly angled, head turned toward the right side of the frame, calm sideward gaze, one forearm crossing naturally in front of the lower torso and the opposite hand resting around the other forearm/wrist. Keep both arms and hands in the same orientation. Do not mirror or redesign the pose.\n\nPreserve the red-and-black plaid overshirt worn open over a light-colored graphic T-shirt and keep the wristwatch visible. Maintain the youthful casual streetwear appearance.\n\nReproduce the warm golden-hour light entering from the upper-left, warm highlights on the hair and face, soft shadows, subtle lens flare, natural green and brown background tones and controlled shallow depth of field. Keep the background recognizable and only naturally softened by the lens.\n\nPhotorealistic portrait photography, realistic Iranian facial features, authentic skin texture, natural hair, realistic hands, natural fabric detail, subtle cinematic color grading, realistic proportions and lighting. No artificial beauty filter, no excessive bokeh, no close-up crop, no wide-angle distortion, no pose alteration, no mirrored image, no additional objects or text."
         }
       ],
-      "last_message_id": 3374,
-      "last_user_message_id": 3374,
+      "last_message_id": 3377,
+      "last_user_message_id": 3377,
       "processed_message_ids": [
         3342,
         3344,
@@ -1882,16 +1882,18 @@
         3366,
         3368,
         3371,
-        3374
+        3374,
+        3377
       ],
       "flow_id": "954a42e9ac7c",
-      "stage_token": "eb95186c0d",
-      "revision": 20,
+      "stage_token": "c9d9a42f58",
+      "revision": 21,
       "mode": "create",
       "name": "Warm Urban Portrait",
       "number": 8,
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
-      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
