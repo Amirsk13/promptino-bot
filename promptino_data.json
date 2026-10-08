@@ -1882,13 +1882,13 @@
   "active_order_states": {
     "676953423": {
       "type": "normal",
-      "step": "contact",
+      "step": "card",
       "items": [],
-      "contact": "",
+      "contact": "@Tazx44",
       "receipt": null,
       "ref_photo": null,
       "flow_id": "64cc178a4968",
-      "last_message_id": 3573,
+      "last_message_id": 3576,
       "prompt_ids": [
         "p5"
       ],
