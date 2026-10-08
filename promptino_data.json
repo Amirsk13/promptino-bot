@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "photos",
+      "step": "name",
       "photos": [
         "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
       ],
@@ -1815,7 +1815,7 @@
         3189
       ],
       "flow_id": "f084a735cd34",
-      "revision": 1
+      "revision": 2
     }
   },
   "settings": {
