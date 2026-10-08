@@ -1885,7 +1885,7 @@
       "type": "vip_add",
       "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 3562,
+      "last_message_id": 3564,
       "title": "Azure Bloom Reverie",
       "price": 200000,
       "pending_label": "Gemini"
