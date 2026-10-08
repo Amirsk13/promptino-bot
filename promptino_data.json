@@ -1807,9 +1807,11 @@
       "step": "photos",
       "photos": [],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 3193,
+      "last_user_message_id": 3193,
+      "processed_message_ids": [
+        3193
+      ],
       "flow_id": "f084a735cd34",
       "revision": 0
     }
