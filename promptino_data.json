@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
@@ -1820,8 +1820,8 @@
           "prompt": "Recreate the uploaded reference image as closely as possible using it as the main image reference. Preserve the subject’s facial identity and exact overall appearance, including dark long hair, almond-shaped dark eyes, defined brows, natural complexion, subtle makeup, and muted red lips. Match the original pose and composition: a close square portrait of the subject reclining diagonally, head near the upper-right corner, face looking directly toward the camera, shoulders and upper body filling the frame, one hand naturally resting across the lower torso. Keep the clothing unchanged: black fitted top with a wide neckline and a cream/off-white open-knit cardigan decorated with small red cherry motifs and green leaves. Match the slightly elevated top-down camera angle, close framing, natural short-lens portrait perspective, realistic anatomy, soft warm indoor lighting, gentle natural shadows, warm neutral tones, authentic skin and fabric texture, and casual smartphone-photography aesthetic. Keep the background simple and unobtrusive. Photorealistic, natural, candid, high detail, square 1:1 composition. Do not introduce new objects, accessories, text, scenery, or clothing details."
         }
       ],
-      "last_message_id": 3331,
-      "last_user_message_id": 3331,
+      "last_message_id": 3335,
+      "last_user_message_id": 3335,
       "processed_message_ids": [
         3310,
         3313,
@@ -1831,16 +1831,18 @@
         3323,
         3326,
         3329,
-        3331
+        3331,
+        3335
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "4866ddde57",
-      "revision": 13,
+      "stage_token": "6e3082030f",
+      "revision": 14,
       "mode": "create",
       "name": "Cherry Knit Portrait",
       "number": 7,
       "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
