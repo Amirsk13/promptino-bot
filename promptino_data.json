@@ -1804,18 +1804,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3197,
-      "last_user_message_id": 3197,
+      "last_message_id": 3200,
+      "last_user_message_id": 3200,
       "processed_message_ids": [
-        3197
+        3197,
+        3200
       ],
       "flow_id": "4cc9a754cada",
-      "revision": 2
+      "revision": 3,
+      "name": "Cherry Knit Portrait"
     }
   },
   "settings": {
