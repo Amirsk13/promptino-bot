@@ -1883,10 +1883,11 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "price",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 3523,
-      "title": "Azure Bloom Reverie"
+      "last_message_id": 3525,
+      "title": "Azure Bloom Reverie",
+      "price": 200000
     }
   },
   "active_post_states": {},
