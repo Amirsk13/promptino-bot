@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
@@ -1813,10 +1813,15 @@
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded reference image as the primary visual reference and recreate the scene with very high fidelity. Preserve the subject’s facial identity, facial proportions, dark long hair, almond-shaped dark eyes, defined eyebrows, natural skin texture, subtle makeup, and muted red lips. Reproduce the exact relaxed reclining pose: the subject is lying back diagonally, head positioned toward the upper-right of the square frame, face turned toward the camera, shoulders and upper torso filling most of the image, with one hand resting naturally across the lower torso. Preserve the clothing exactly: a black fitted top with a wide neckline and a loose cream/off-white knitted cardigan featuring open crochet-like texture and scattered red cherry motifs with small green leaves. Match the original close-up composition, slightly elevated top-down camera angle, short portrait-lens perspective, natural proportions, minimal background, soft warm indoor ambient light, gentle shadows, subtle highlights on the skin, warm neutral color palette, realistic fabric texture, natural skin pores, and authentic smartphone-photo appearance. Keep the image square, intimate, candid, photorealistic, softly detailed, and visually very close to the reference. Do not add jewelry, accessories, objects, scenery, text, or decorative elements that are not present in the reference."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Recreate the uploaded reference image as closely as possible using it as the main image reference. Preserve the subject’s facial identity and exact overall appearance, including dark long hair, almond-shaped dark eyes, defined brows, natural complexion, subtle makeup, and muted red lips. Match the original pose and composition: a close square portrait of the subject reclining diagonally, head near the upper-right corner, face looking directly toward the camera, shoulders and upper body filling the frame, one hand naturally resting across the lower torso. Keep the clothing unchanged: black fitted top with a wide neckline and a cream/off-white open-knit cardigan decorated with small red cherry motifs and green leaves. Match the slightly elevated top-down camera angle, close framing, natural short-lens portrait perspective, realistic anatomy, soft warm indoor lighting, gentle natural shadows, warm neutral tones, authentic skin and fabric texture, and casual smartphone-photography aesthetic. Keep the background simple and unobtrusive. Photorealistic, natural, candid, high detail, square 1:1 composition. Do not introduce new objects, accessories, text, scenery, or clothing details."
         }
       ],
-      "last_message_id": 3247,
-      "last_user_message_id": 3247,
+      "last_message_id": 3249,
+      "last_user_message_id": 3249,
       "processed_message_ids": [
         3226,
         3229,
@@ -1825,15 +1830,15 @@
         3236,
         3241,
         3243,
-        3247
+        3247,
+        3249
       ],
       "flow_id": "38ed10c384f2",
-      "revision": 11,
+      "revision": 12,
       "name": "Cherry Knit Portrait",
       "number": 7,
       "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
-      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل",
-      "pending_label": "Gemini"
+      "for_what": "• عکس پروفایل\n• تولید محتوای اینستاگرام\n• پرتره فشن\n• بازسازی عکس مرجع\n• تست مدل‌های تولید تصویر\n• تصاویر سبک لایف‌استایل"
     }
   },
   "settings": {
