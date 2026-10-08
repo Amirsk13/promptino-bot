@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
@@ -1827,8 +1827,8 @@
         3326
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "8cd5a220f4",
-      "revision": 9,
+      "stage_token": "847d7c3b3a",
+      "revision": 10,
       "mode": "create",
       "name": "Cherry Knit Portrait",
       "number": 7,
