@@ -1805,13 +1805,17 @@
     "676953423": {
       "type": "post",
       "step": "photos",
-      "photos": [],
+      "photos": [
+        "AgACAgQAAxkBAAIL3WrGGS-YvpCPLy34r2ZVKN6H-vozAALTD2sb-SMxUv3_iuQq_G6mAQADAgADeQADPQQ"
+      ],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 3184,
+      "last_user_message_id": 3184,
+      "processed_message_ids": [
+        3184
+      ],
       "flow_id": "dce4fdeef8c9",
-      "revision": 0
+      "revision": 1
     }
   },
   "settings": {
