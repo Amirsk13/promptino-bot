@@ -1839,28 +1839,30 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3406,
-      "last_user_message_id": 3406,
+      "last_message_id": 3408,
+      "last_user_message_id": 3408,
       "processed_message_ids": [
         3397,
         3399,
         3402,
         3404,
-        3406
+        3406,
+        3408
       ],
       "flow_id": "68ed5b8c6003",
-      "stage_token": "e6e806127e",
-      "revision": 6,
+      "stage_token": "0184934cda",
+      "revision": 7,
       "mode": "create",
       "name": "Warm Urban Portrait",
       "number": 8,
-      "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه"
+      "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
     }
   },
   "settings": {
