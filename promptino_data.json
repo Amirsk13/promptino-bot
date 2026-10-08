@@ -1839,14 +1839,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 3356,
-      "last_user_message_id": 3356,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Use the attached image as the primary visual reference. Recreate the same outdoor portrait scene as closely as possible, preserving the original environment, composition, camera distance, perspective, lighting, colors, depth of field and overall photographic mood. Create a natural young Iranian woman as the subject, keeping the same approximate position and scale in the frame. She stands outdoors on a walkway or park-like setting with blurred trees and warm architectural/background elements behind her. Use the same warm golden-hour sunlight entering from the upper-left, creating soft highlights on her hair and face, gentle shadows, warm brown and green tones, subtle lens flare and natural background blur.\n\nKeep the camera at approximately chest height with a natural medium shot, similar to a 50–70mm portrait lens, avoiding wide-angle distortion. Her body remains slightly angled, and her head is turned toward the right side of the frame with a relaxed sideward gaze, matching the direction and calm mood of the reference.\n\nUse a feminine version of the pose while keeping it very close to the original: one arm rests naturally across the lower torso, while the other hand gently rests on or lightly holds the opposite forearm near the wrist. Keep the shoulders relaxed and the posture casual and confident. Do not mirror the pose.\n\nDress her in a natural feminine adaptation of the reference outfit: an open red-and-black plaid overshirt over a simple light-colored graphic T-shirt, with casual contemporary styling. Keep the overall red, black and white color relationship of the original clothing. Natural long or medium-length dark hair, realistic Iranian facial features, natural skin texture, subtle makeup, no beauty-filter effect.\n\nPhotorealistic outdoor portrait photography, realistic skin and hair, natural fabric texture, authentic golden-hour lighting, soft cinematic depth of field, subtle bokeh without completely removing the recognizable background, realistic proportions and hands. Preserve the original amount of visible environment and do not turn the image into a close-up. No text, logos or artificial objects added beyond the clothing's existing graphic print."
+        }
+      ],
+      "last_message_id": 3358,
+      "last_user_message_id": 3358,
       "processed_message_ids": [
         3342,
         3344,
@@ -1854,17 +1860,17 @@
         3349,
         3351,
         3353,
-        3356
+        3356,
+        3358
       ],
       "flow_id": "954a42e9ac7c",
-      "stage_token": "e0687a67f5",
-      "revision": 9,
+      "stage_token": "f739bb6f24",
+      "revision": 10,
       "mode": "create",
       "name": "Warm Urban Portrait",
       "number": 8,
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
-      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
     }
   },
   "settings": {
