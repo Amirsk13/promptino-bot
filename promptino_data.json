@@ -1883,12 +1883,11 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 3528,
+      "last_message_id": 3525,
       "title": "Azure Bloom Reverie",
-      "price": 200000,
-      "pending_label": "ChatGPT"
+      "price": 200000
     }
   },
   "active_post_states": {},
