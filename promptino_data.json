@@ -1886,7 +1886,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
@@ -1906,10 +1906,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Use the attached reference image as the exact composition and photography reference. Create a photorealistic young Iranian woman in the same outdoor location and lighting conditions. Preserve the same medium-shot framing, subject size, camera height, camera distance, perspective, warm golden-hour illumination, blurred trees, walkway/background structures, foreground elements, color palette and overall atmosphere.\n\nKeep her body positioned similarly to the male reference, slightly angled rather than facing the camera directly. Her head turns toward the right side of the frame and her eyes look naturally in the same direction. Give her a subtly feminine variation of the original pose: one arm crosses comfortably in front of the lower torso and the other hand gently rests on the opposite forearm near the wrist. Keep the gesture relaxed, natural and confident, with a slight feminine softness in the shoulders and posture. Do not mirror the pose.\n\nGive her natural Iranian features, realistic skin texture, dark hair styled naturally, subtle makeup and an authentic youthful appearance. Adapt the original outfit naturally for a woman while preserving its visual identity: an open red-and-black plaid overshirt over a light-colored graphic T-shirt, casual modern streetwear, matching the original clothing colors and proportions.\n\nReproduce the original photographic characteristics: warm sunlight from the upper-left, soft highlights, gentle shadows, subtle lens flare, warm brown and green background tones, realistic skin illumination, shallow but controlled depth of field and natural bokeh. Keep the background visibly recognizable rather than replacing it with an artificial blurred backdrop.\n\nPhotorealistic DSLR-style portrait, natural 50–70mm perspective, realistic anatomy and hands, authentic fabric texture, subtle cinematic grading, natural contrast and realistic detail. Maintain the original composition and environmental context. No excessive retouching, no plastic skin, no exaggerated makeup, no close-up crop, no wide-angle distortion, no additional objects or text."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Use the attached reference image as the exact visual reference and recreate the same photograph with maximum fidelity. Preserve the original young Iranian male subject, composition, pose, clothing, environment, camera position, perspective, lighting, colors, depth of field and photographic mood.\n\nThe subject stands outdoors in the same park-like walkway environment with trees and warm architectural/background elements. Keep the same medium portrait framing and the same amount of visible environment around him. Use a natural chest-height camera and approximately 50–70mm portrait perspective.\n\nPreserve the original pose exactly: body slightly angled, head turned toward the right side of the frame, calm sideward gaze, one forearm crossing naturally in front of the lower torso and the opposite hand resting around the other forearm/wrist. Keep both arms and hands in the same orientation. Do not mirror or redesign the pose.\n\nPreserve the red-and-black plaid overshirt worn open over a light-colored graphic T-shirt and keep the wristwatch visible. Maintain the youthful casual streetwear appearance.\n\nReproduce the warm golden-hour light entering from the upper-left, warm highlights on the hair and face, soft shadows, subtle lens flare, natural green and brown background tones and controlled shallow depth of field. Keep the background recognizable and only naturally softened by the lens.\n\nPhotorealistic portrait photography, realistic Iranian facial features, authentic skin texture, natural hair, realistic hands, natural fabric detail, subtle cinematic color grading, realistic proportions and lighting. No artificial beauty filter, no excessive bokeh, no close-up crop, no wide-angle distortion, no pose alteration, no mirrored image, no additional objects or text."
         }
       ],
-      "last_message_id": 3482,
-      "last_user_message_id": 3482,
+      "last_message_id": 3484,
+      "last_user_message_id": 3484,
       "processed_message_ids": [
         3451,
         3453,
@@ -1923,18 +1928,18 @@
         3473,
         3477,
         3479,
-        3482
+        3482,
+        3484
       ],
       "flow_id": "be8c4bcd0073",
-      "stage_token": "9401de7980",
-      "revision": 18,
+      "stage_token": "a77f2c5c76",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "9401de7980",
+      "prompt_sent_token": null,
       "name": "Warm Urban Portrait",
       "number": 8,
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
-      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
     }
   },
   "settings": {
