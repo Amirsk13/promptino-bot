@@ -1804,24 +1804,26 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3316,
-      "last_user_message_id": 3316,
+      "last_message_id": 3318,
+      "last_user_message_id": 3318,
       "processed_message_ids": [
         3310,
         3313,
-        3316
+        3316,
+        3318
       ],
       "flow_id": "b44aca7fd627",
-      "stage_token": "60adb87384",
-      "revision": 4,
+      "stage_token": "3623fa3585",
+      "revision": 5,
       "mode": "create",
       "name": "Cherry Knit Portrait",
-      "number": 7
+      "number": 7,
+      "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع"
     }
   },
   "settings": {
