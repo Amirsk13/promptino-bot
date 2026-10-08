@@ -1839,7 +1839,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
@@ -1892,8 +1892,8 @@
         3381
       ],
       "flow_id": "954a42e9ac7c",
-      "stage_token": "d2195aab26",
-      "revision": 22,
+      "stage_token": "e73d490250",
+      "revision": 23,
       "mode": "create",
       "name": "Warm Urban Portrait",
       "number": 8,
