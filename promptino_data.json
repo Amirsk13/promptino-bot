@@ -1804,7 +1804,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAILumrFQFDS1sJ_oTehwb64yYNrdptZAAI-D2sb-SMpUqXNfHYG_CIaAQADAgADeQADPQQ"
       ],
@@ -1827,7 +1827,7 @@
         3243
       ],
       "flow_id": "38ed10c384f2",
-      "revision": 9,
+      "revision": 10,
       "name": "Cherry Knit Portrait",
       "number": 7,
       "suitable": "بازسازی پرتره‌های نزدیک و طبیعی با حفظ چهره، ژست، لباس و ترکیب‌بندی تصویر مرجع",
