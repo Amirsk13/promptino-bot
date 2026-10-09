@@ -1936,7 +1936,7 @@
       "stage_token": "e8ca1e6fc3",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "e8ca1e6fc3",
       "name": "Warm Urban Portrait"
     }
   },
