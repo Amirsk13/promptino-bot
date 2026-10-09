@@ -1919,7 +1919,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
@@ -1934,10 +1934,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the attached image as the primary visual reference and recreate it as closely as possible. Preserve the original male subject's overall pose, body position, head direction, gaze, clothing style, environment, composition, camera distance, perspective, lighting, colors, depth of field and photographic mood.\n\nCreate a natural young Iranian man standing outdoors in the same park-like walkway setting, with blurred trees, warm background elements and the same visible foreground/background structure. Keep the same medium portrait framing and approximately the same subject-to-frame ratio. Camera at roughly chest height, natural 50–70mm portrait perspective, no wide-angle distortion.\n\nPreserve the exact original pose: his body is slightly angled, his head turns toward the right side of the frame, and he looks calmly toward that direction. One forearm crosses naturally in front of his lower torso while the opposite hand rests around the other forearm/wrist area. Keep the arms, hands and posture in the same orientation and do not mirror the pose.\n\nPreserve the outfit: open red-and-black plaid overshirt over a light-colored graphic T-shirt, casual youthful streetwear styling, with the same overall colors and clothing proportions. Keep the wristwatch visible on the wrist as in the reference.\n\nUse warm golden-hour sunlight coming from the upper-left, soft highlights on the face and hair, gentle shadows, warm brown and green tones, subtle lens flare and realistic background blur. Keep enough environmental detail visible so the setting remains recognizable; do not over-blur the entire background.\n\nPhotorealistic natural portrait photography, realistic Iranian facial features, authentic skin texture, natural hair, realistic hands and clothing fabric, subtle cinematic color grading, soft depth of field, natural proportions, relaxed youthful mood. No pose changes, no mirrored composition, no close-up crop, no artificial beauty filter, no added objects, no text or logos beyond the existing T-shirt graphic."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Use the attached reference image as the exact composition and photography reference. Create a photorealistic young Iranian woman in the same outdoor location and lighting conditions. Preserve the same medium-shot framing, subject size, camera height, camera distance, perspective, warm golden-hour illumination, blurred trees, walkway/background structures, foreground elements, color palette and overall atmosphere.\n\nKeep her body positioned similarly to the male reference, slightly angled rather than facing the camera directly. Her head turns toward the right side of the frame and her eyes look naturally in the same direction. Give her a subtly feminine variation of the original pose: one arm crosses comfortably in front of the lower torso and the other hand gently rests on the opposite forearm near the wrist. Keep the gesture relaxed, natural and confident, with a slight feminine softness in the shoulders and posture. Do not mirror the pose.\n\nGive her natural Iranian features, realistic skin texture, dark hair styled naturally, subtle makeup and an authentic youthful appearance. Adapt the original outfit naturally for a woman while preserving its visual identity: an open red-and-black plaid overshirt over a light-colored graphic T-shirt, casual modern streetwear, matching the original clothing colors and proportions.\n\nReproduce the original photographic characteristics: warm sunlight from the upper-left, soft highlights, gentle shadows, subtle lens flare, warm brown and green background tones, realistic skin illumination, shallow but controlled depth of field and natural bokeh. Keep the background visibly recognizable rather than replacing it with an artificial blurred backdrop.\n\nPhotorealistic DSLR-style portrait, natural 50–70mm perspective, realistic anatomy and hands, authentic fabric texture, subtle cinematic grading, natural contrast and realistic detail. Maintain the original composition and environmental context. No excessive retouching, no plastic skin, no exaggerated makeup, no close-up crop, no wide-angle distortion, no additional objects or text."
         }
       ],
-      "last_message_id": 3676,
-      "last_user_message_id": 3676,
+      "last_message_id": 3678,
+      "last_user_message_id": 3678,
       "processed_message_ids": [
         3652,
         3654,
@@ -1949,18 +1954,18 @@
         3668,
         3671,
         3673,
-        3676
+        3676,
+        3678
       ],
       "flow_id": "709a2081a7a2",
-      "stage_token": "c89e79f56d",
-      "revision": 15,
+      "stage_token": "47beac43dc",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "c89e79f56d",
+      "prompt_sent_token": null,
       "name": "Warm Urban Portrait",
       "number": 8,
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
-      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
-      "pending_label": "Gemini-Girl"
+      "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی"
     }
   },
   "settings": {
