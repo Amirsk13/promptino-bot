@@ -1883,19 +1883,21 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 3616,
+      "last_message_id": 3619,
       "processed_message_ids": [],
       "flow_id": "c9ad19bd1d4d",
-      "stage_token": "6efbedf935",
+      "stage_token": "228f203afc",
       "vip_processed_message_ids": [
         3614,
-        3616
+        3616,
+        3619
       ],
-      "vip_last_user_message_id": 3616,
+      "vip_last_user_message_id": 3619,
       "title": "Azure Bloom Reverie",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "ChatGPT"
     }
   },
   "active_post_states": {},
