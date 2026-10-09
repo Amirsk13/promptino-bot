@@ -1897,10 +1897,12 @@
   "active_order_states": {
     "676953423": {
       "type": "vip_order",
-      "step": "contact",
+      "step": "card",
       "vip": "VIP-1",
       "price": 200000,
-      "flow_id": "a24feee2bf5c"
+      "flow_id": "a24feee2bf5c",
+      "last_message_id": 3634,
+      "contact": "@Tazx44"
     }
   },
   "active_admin_states": {},
