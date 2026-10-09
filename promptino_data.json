@@ -1883,7 +1883,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -1896,21 +1896,23 @@
           "prompt": "Recreate the attached reference image with maximum visual fidelity. Treat the reference as the composition and appearance guide, not as loose inspiration. Preserve the same square 1:1 framing, upper-torso portrait, three-quarter left-facing pose, lowered gaze, delicate facial proportions, pale skin, elaborate dark navy-blue updo with curled sections and small blue flowers, blue eyes, translucent blue floral earrings, ornate blue floral necklace, exposed shoulder, dark blue gloves, and the large glowing blue flower bouquet held across the chest. Keep the bouquet positioned in the foreground exactly as the main visual focus, with layered cyan, turquoise, cobalt and deep-blue petals, luminous centers, translucent edges, leaves and tiny sparkling particles. Maintain the nearly black empty background and the dramatic lighting: cool cyan-blue light emitted by the flowers, soft illumination on the face and hands, and a subtle warm-white rim light around the upper-right hair and shoulder. Preserve the elegant melancholic expression and downward gaze. Match the reference's polished 2D anime fantasy digital-painting aesthetic, soft painterly shading, smooth gradients, intricate hair and jewelry details, luminous bloom, rich blue color palette and cinematic contrast. Keep the face unobstructed, avoid extra objects, avoid text or logos, and do not change the pose or overall composition."
         }
       ],
-      "last_message_id": 3602,
+      "last_message_id": 3605,
       "processed_message_ids": [],
       "flow_id": "7d388e474c21",
-      "stage_token": "ee04f2cd5f",
+      "stage_token": "df620c9873",
       "vip_processed_message_ids": [
         3588,
         3590,
         3593,
         3595,
         3600,
-        3602
+        3602,
+        3605
       ],
-      "vip_last_user_message_id": 3602,
+      "vip_last_user_message_id": 3605,
       "title": "Azure Bloom Reverie",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Nano Banana Pro"
     }
   },
   "active_post_states": {},
