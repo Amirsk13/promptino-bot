@@ -1983,9 +1983,13 @@
       "suitable": "بازسازی و تبدیل پرتره‌های فضای باز با حفظ محیط، ژست، نور طبیعی و استایل عکاسی مرجع، با نسخه دخترانه و پسرانه",
       "for_what": "• عکس پروفایل\n• عکس پرتره\n• تولید محتوای اینستاگرام\n• عکس‌های فشن و استایل خیابانی\n• تست مدل‌های تولید تصویر\n• تبدیل جنسیت سوژه با حفظ صحنه و ترکیب‌بندی",
       "number": 8,
-      "processed_message_ids": [],
-      "last_user_message_id": 0,
-      "last_message_id": null
+      "processed_message_ids": [
+        3730
+      ],
+      "last_user_message_id": 3730,
+      "last_message_id": 3730,
+      "last_input_fingerprint": "/start|",
+      "last_input_at": 15459341.062450036
     }
   },
   "settings": {
