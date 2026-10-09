@@ -1958,7 +1958,8 @@
       "stage_token": "e2cb0d0dba",
       "last_message_id": 3706,
       "vip_processed_message_ids": [],
-      "vip_last_user_message_id": 0
+      "vip_last_user_message_id": 0,
+      "edit_action": "edit"
     }
   },
   "active_post_states": {},
