@@ -73,7 +73,7 @@ ADMIN_STATE_TYPES = {
 }
 # Only the admin flows reported as broken are made restart-safe here. Other admin
 # flows keep their existing in-memory behavior and are intentionally untouched.
-PERSISTED_ADMIN_STATE_TYPES = {'price','vip_add','testimonial'}
+PERSISTED_ADMIN_STATE_TYPES = {'price','vip_add','vip_edit','testimonial'}
 VIP_MAX_BUTTONS = 5
 POST_MAX_BUTTONS = 10
 
@@ -661,6 +661,41 @@ def vip_add_buttons(s):
         [btn('❌ لغو',f'vip_add_cancel|{flow}|{tok}')]
     ])
 
+def vip_edit_advance(s, step):
+    s['step']=step
+    s['stage_token']=uuid.uuid4().hex[:10]
+    s.pop('last_input_fingerprint',None)
+    s.pop('last_input_at',None)
+    persist_conversation_states_async()
+
+def vip_edit_menu(s):
+    # Button names first, then exactly four management actions.
+    flow=s.get('flow_id',''); tok=s.get('stage_token','')
+    rows=[[btn('✏️ تغییر عنوان',f'vip_edit_meta|{flow}|title|{tok}'),btn('💰 تغییر قیمت',f'vip_edit_meta|{flow}|price|{tok}')]]
+    buttons=s.get('buttons',[])
+    if buttons:
+        for b in buttons:
+            rows.append([btn(f'🔘 {b.get("label",b.get("key",""))}','vip_edit_noop')])
+    else:
+        rows.append([btn('ℹ️ هنوز دکمه‌ای وجود ندارد','vip_edit_noop')])
+    rows.append([btn('✏️ ویرایش',f'vip_edit_choose|{flow}|edit|{tok}'),btn('🗑 حذف',f'vip_edit_choose|{flow}|delete|{tok}')])
+    rows.append([btn('➕ اضافه کردن',f'vip_edit_add|{flow}|{tok}'),btn('✅ ثبت تغییرات',f'vip_edit_done|{flow}|{tok}')])
+    return kb(rows)
+
+def vip_edit_choose_menu(s, action):
+    flow=s.get('flow_id',''); tok=s.get('stage_token','')
+    title='✏️ کدام دکمه را می‌خواهی ویرایش کنی؟' if action=='edit' else '🗑 کدام دکمه را می‌خواهی حذف کنی؟'
+    rows=[[btn(f'🔘 {b.get("label",b.get("key",""))}',f'vip_edit_select|{flow}|{action}|{i}|{tok}')] for i,b in enumerate(s.get('buttons',[]))]
+    rows.append([btn('🔙 بازگشت',f'vip_edit_back|{flow}|{tok}')])
+    return title,kb(rows)
+
+def prompt_button_key(label, fallback='v1', existing=()):
+    key=re.sub(r'[^a-z0-9]+','_',label.lower()).strip('_')[:25] or fallback
+    base=key; n=2
+    while key in existing:
+        key=f'{base}_{n}'; n+=1
+    return key
+
 def vip_add_advance(s, step):
     s['step']=step
     s['stage_token']=uuid.uuid4().hex[:10]
@@ -1105,7 +1140,7 @@ def prompt_edit_menu(s):
 def prompt_edit_choose_menu(s, action):
     flow=s['flow_id']; tok=s.get('stage_token','')
     title='✏️ کدام دکمه را می‌خواهی ویرایش کنی؟' if action=='edit' else '🗑 کدام دکمه را می‌خواهی حذف کنی؟'
-    rows=[[btn(f'🔘 {b.get("label",b.get("key",""))}',f'post_edit_select|{flow}|{action}|{b.get("key","")}|{tok}')] for b in s.get('buttons',[])]
+    rows=[[btn(f'🔘 {b.get("label",b.get("key",""))}',f'post_edit_select|{flow}|{action}|{i}|{tok}')] for i,b in enumerate(s.get('buttons',[]))]
     rows.append([btn('🔙 بازگشت',f'post_edit_back|{flow}|{tok}')])
     return title,kb(rows)
 
@@ -1256,9 +1291,8 @@ def handle_state_message(uid,cid,m):
         return True
 
     if typ=='vip_add':
-        # This flow deliberately mirrors the reliable order-flow pattern:
-        # one message_id is consumed once, every stage has a fresh token, and
-        # the callback keyboard is bound to that exact stage.
+        # Each message advances exactly one explicit stage. Keep the button label
+        # until a non-empty text prompt arrives; never pop it on an empty/photo message.
         if vip_add_message_seen(s, message_id):
             return True
         if step=='title':
@@ -1279,21 +1313,83 @@ def handle_state_message(uid,cid,m):
             send(cid,'✍️ متن کامل پرامپت این دکمه را بفرست.')
             return True
         if step=='button_prompt':
-            label=s.pop('pending_label','').strip()
-            if not label or not text: send(cid,'❌ نام دکمه و پرامپت لازم است.'); return True
+            label=(s.get('pending_label') or '').strip()
+            if not label:
+                vip_add_advance(s,'buttons')
+                send(cid,'⚠️ نام دکمهٔ در انتظار پیدا نشد؛ برای جلوگیری از اتصال اشتباه، این دکمه را دوباره از ابتدا اضافه کن.',vip_add_buttons(s)); return True
+            if not text:
+                send(cid,'❌ لطفاً متن کامل پرامپت را به‌صورت پیام متنی بفرست. نام دکمه ذخیره شده است.'); return True
             if len(s.get('buttons',[])) >= VIP_MAX_BUTTONS:
+                s.pop('pending_label',None)
                 vip_add_advance(s,'buttons')
                 send(cid,'⚠️ حداکثر ۵ دکمه برای هر VIP مجاز است.',vip_add_buttons(s)); return True
-            key=re.sub(r'[^a-z0-9]+','_',label.lower()).strip('_')[:25] or f'v{len(s.get("buttons",[]))+1}'
-            base=key; n=2
-            while any(b.get('key')==key for b in s.get('buttons',[])):
-                key=f'{base}_{n}'; n+=1
+            s.pop('pending_label',None)
+            key=prompt_button_key(label,f'v{len(s.get("buttons",[]))+1}',{b.get('key') for b in s.get('buttons',[])})
             s.setdefault('buttons',[]).append({'key':key,'label':label,'prompt':text})
             vip_add_advance(s,'buttons')
             send(cid,'✅ دکمه و پرامپت ذخیره شد.',vip_add_buttons(s)); return True
         return True
 
+    if typ=='vip_edit' and s.get('mode')=='edit':
+        if step=='edit_title':
+            if not text: send(cid,'❌ عنوان نمی‌تواند خالی باشد.'); return True
+            s['title']=text
+            vip_edit_advance(s,'buttons')
+            send(cid,'✅ عنوان به‌روزرسانی شد.',vip_edit_menu(s)); return True
+        if step=='edit_price':
+            clean=re.sub(r'[,٬\s]','',text)
+            if not clean.isdigit(): send(cid,'❌ قیمت باید عدد باشد. مثال: 250000'); return True
+            s['price']=int(clean)
+            vip_edit_advance(s,'buttons')
+            send(cid,'✅ قیمت به‌روزرسانی شد.',vip_edit_menu(s)); return True
+        if step=='edit_variant_label':
+            if not text: send(cid,'❌ نام دکمه نمی‌تواند خالی باشد.'); return True
+            if not any(b.get('key')==s.get('edit_key') for b in s.get('buttons',[])):
+                vip_edit_advance(s,'buttons'); send(cid,'⚠️ دکمه پیدا نشد.',vip_edit_menu(s)); return True
+            s['pending_edit_label']=text
+            vip_edit_advance(s,'edit_variant_prompt')
+            send(cid,'✍️ متن کامل پرامپت جدید این دکمه را بفرست.')
+            return True
+        if step=='edit_variant_prompt':
+            if not text: send(cid,'❌ پرامپت نمی‌تواند خالی باشد؛ متن کامل پرامپت را بفرست.'); return True
+            found=False
+            for b in s.get('buttons',[]):
+                if b.get('key')==s.get('edit_key'):
+                    b['label']=s.pop('pending_edit_label',b.get('label',''))
+                    b['prompt']=text
+                    found=True
+                    break
+            s.pop('edit_key',None)
+            if not found:
+                vip_edit_advance(s,'buttons'); send(cid,'⚠️ دکمه پیدا نشد.',vip_edit_menu(s)); return True
+            vip_edit_advance(s,'buttons')
+            send(cid,'✅ دکمه با موفقیت ویرایش شد.',vip_edit_menu(s)); return True
+        if step=='edit_add_label':
+            if len(s.get('buttons',[])) >= VIP_MAX_BUTTONS:
+                vip_edit_advance(s,'buttons'); send(cid,'⚠️ حداکثر ۵ دکمه برای هر VIP مجاز است.',vip_edit_menu(s)); return True
+            if not text: send(cid,'❌ نام دکمه نمی‌تواند خالی باشد.'); return True
+            s['pending_label']=text
+            vip_edit_advance(s,'edit_add_prompt')
+            send(cid,'✍️ متن کامل پرامپت دکمه جدید را بفرست.')
+            return True
+        if step=='edit_add_prompt':
+            label=(s.get('pending_label') or '').strip()
+            if not label:
+                vip_edit_advance(s,'buttons'); send(cid,'⚠️ نام دکمهٔ در انتظار پیدا نشد؛ آن را دوباره اضافه کن.',vip_edit_menu(s)); return True
+            if not text: send(cid,'❌ لطفاً متن پرامپت را به‌صورت پیام متنی بفرست.'); return True
+            if len(s.get('buttons',[])) >= VIP_MAX_BUTTONS:
+                s.pop('pending_label',None); vip_edit_advance(s,'buttons'); send(cid,'⚠️ حداکثر ۵ دکمه برای هر VIP مجاز است.',vip_edit_menu(s)); return True
+            s.pop('pending_label',None)
+            key=prompt_button_key(label,f'v{len(s.get("buttons",[]))+1}',{b.get('key') for b in s.get('buttons',[])})
+            s.setdefault('buttons',[]).append({'key':key,'label':label,'prompt':text})
+            vip_edit_advance(s,'buttons')
+            send(cid,'✅ دکمه جدید اضافه شد.',vip_edit_menu(s)); return True
+        if step=='buttons':
+            send(cid,'از دکمه‌های زیر برای مدیریت دکمه‌های VIP استفاده کن.',vip_edit_menu(s)); return True
+        return True
+
     if typ=='vip_edit':
+        # Compatibility with a legacy in-memory VIP edit flow during a rolling deploy.
         if not text: return True
         key=s['key']; v=DATA['vip'].get(key)
         if not v: STATES.pop(uid,None); send(cid,'❌ VIP پیدا نشد.'); return True
@@ -1573,6 +1669,12 @@ def handle_post_message(uid,cid,m):
             return True
         send(cid,'🖼 لطفاً عکس ارسال کن یا «اتمام عکس‌ها» را بزن.')
         return True
+    if step=='button_label' and not text:
+        send(cid,'❌ نام دکمه را به‌صورت متن بفرست.')
+        return True
+    if step=='button_prompt' and not text:
+        send(cid,'❌ متن کامل پرامپت را به‌صورت پیام متنی بفرست؛ نام دکمه ذخیره شده است.')
+        return True
     if not text: return True
     if step=='name':
         s['name']=text; post_advance(s,'number'); send_post_stage_prompt(s,cid,'🔢 شماره پرامپت را بفرست.'); return True
@@ -1588,11 +1690,13 @@ def handle_post_message(uid,cid,m):
             send(cid,'⚠️ حداکثر ۱۰ دکمه می‌توانی برای هر پست بسازی.',post_buttons(s.get('flow_id'),s.get('stage_token'))); return True
         s['pending_label']=text; post_advance(s,'button_prompt'); send_post_stage_prompt(s,cid,'✍️ متن کامل پرامپت این دکمه را بفرست.'); return True
     if step=='button_prompt':
-        label=s.pop('pending_label','').strip()
-        if not label: send(cid,'❌ ابتدا نام دکمه را بفرست.'); return True
-        key=re.sub(r'[^a-z0-9]+','_',label.lower()).strip('_')[:25] or f'v{len(s["buttons"])+1}'
-        base=key; n=2
-        while any(b['key']==key for b in s['buttons']): key=f'{base}_{n}'; n+=1
+        label=(s.get('pending_label') or '').strip()
+        if not label:
+            post_advance(s,'buttons')
+            send(cid,'⚠️ نام دکمهٔ در انتظار پیدا نشد؛ برای جلوگیری از اتصال اشتباه، آن را دوباره اضافه کن.',post_buttons(s.get('flow_id'),s.get('stage_token')))
+            return True
+        s.pop('pending_label',None)
+        key=prompt_button_key(label,f'v{len(s["buttons"])+1}',{b.get('key') for b in s['buttons']})
         s['buttons'].append({'key':key,'label':label,'prompt':text})
         post_advance(s,'buttons')
         send(cid,'✅ دکمه و پرامپت ذخیره شد.',post_buttons(s.get('flow_id'),s.get('stage_token'))); return True
@@ -1953,6 +2057,7 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
             return
         if len(s.get('buttons',[])) >= VIP_MAX_BUTTONS:
             return send(cid,'⚠️ حداکثر ۵ دکمه می‌توانی برای هر VIP بسازی.',vip_add_buttons(s))
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
         vip_add_advance(s,'button_label')
         send(cid,'🔘 نام دکمه را بفرست. مثال: Gemini')
         return
@@ -1975,6 +2080,7 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
             for b in s['buttons']:
                 send(ARCHIVE_CHAT,f'🔘 {b["label"]}')
                 send(ARCHIVE_CHAT,b['prompt'])
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
         STATES.pop(uid,None)
         persist_conversation_states_async()
         send(cid,f'✅ {vip_label(key,value)} اضافه شد.')
@@ -1987,13 +2093,31 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
         s=STATES.get(uid)
         if not s or s.get('type')!='vip_add' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok:
             return
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
         STATES.pop(uid,None)
         persist_conversation_states_async()
         send(cid,'❌ افزودن VIP لغو شد.',admin_menu(uid))
         return
 
     if data.startswith('vip_edit|') and guard(uid,'vip'):
-        key=data.split('|',1)[1]; STATES[uid]={'type':'vip_edit','step':'title','key':key}; send(cid,'✏️ عنوان جدید VIP را بفرست.'); return
+        key=data.split('|',1)[1]
+        value=DATA.get('vip',{}).get(key)
+        if not value: return send(cid,'❌ VIP پیدا نشد.')
+        reset_admin_flow(uid)
+        variants=value.get('variants',{}) if isinstance(value.get('variants',{}),dict) else {}
+        buttons=[{'key':k,'label':v.get('label',k),'prompt':v.get('prompt','')} for k,v in variants.items() if isinstance(v,dict)]
+        if not buttons and value.get('prompt'):
+            buttons=[{'key':'default','label':'پرامپت اصلی','prompt':value.get('prompt','')}]
+        flow_id=uuid.uuid4().hex[:12]
+        STATES[uid]={
+            'type':'vip_edit','mode':'edit','step':'buttons','key':key,
+            'title':value.get('title',''),'price':int(value.get('price',0) or 0),
+            'buttons':buttons,'flow_id':flow_id,'stage_token':uuid.uuid4().hex[:10],
+            'last_message_id':None,'vip_processed_message_ids':[],'vip_last_user_message_id':0
+        }
+        persist_conversation_states_async()
+        send(cid,f'✏️ ویرایش {vip_label(key,value)}\n💰 قیمت فعلی: {money(value.get("price",0))} تومان\n\nنام دکمه‌های فعلی و گزینه‌های مدیریت را می‌بینی.',vip_edit_menu(STATES[uid]))
+        return
     if data.startswith('vip_delete|') and guard(uid,'vip'):
         key=data.split('|',1)[1]; DATA['vip'].pop(key,None); save_data(f'Delete {key}'); send(cid,'🗑 VIP حذف شد.'); vip_admin(cid); return
 
@@ -2022,6 +2146,7 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
         stage_token=parts[3] if len(parts)>3 else ''
         s=post_state_matches(uid,flow_id)
         if not s or s.get('stage_token')!=stage_token or s.get('step')!='buttons': return
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
         post_advance(s,'button_label')
         send(cid,'🔘 نام دکمه را بفرست. مثال: Gemini')
         return
@@ -2061,14 +2186,17 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
     if data.startswith('post_edit_select|') and guard(uid,'prompts'):
         parts=data.split('|')
         if len(parts)!=5: return
-        _,flow_id,action,key,tok=parts
+        _,flow_id,action,index_text,tok=parts
         s=POST_STATES.get(uid)
         if not s or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='edit_choose_variant': return
         if s.get('edit_action')!=action: return
-        current=next((b for b in s.get('buttons',[]) if b.get('key')==key),None)
-        if not current: return
+        try: index=int(index_text)
+        except (TypeError,ValueError): return
+        if index<0 or index>=len(s.get('buttons',[])): return
+        current=s['buttons'][index]
+        key=current.get('key')
         if action=='delete':
-            s['buttons']=[b for b in s.get('buttons',[]) if b.get('key')!=key]
+            s['buttons'].pop(index)
             s.pop('edit_action',None); s.pop('edit_key',None)
             post_advance(s,'buttons')
             send(cid,'🗑 دکمه حذف شد.',prompt_edit_menu(s))
@@ -2107,6 +2235,100 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
         s=POST_STATES.get(uid)
         if not s or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok: return
         POST_STATES.pop(uid,None); persist_conversation_states_async(); send(cid,'❌ ویرایش لغو شد.',admin_menu(uid)); return
+
+    if data=='vip_edit_noop' and guard(uid,'vip'):
+        return
+    if data.startswith('vip_edit_meta|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=4: return
+        _,flow_id,field,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='buttons': return
+        if field not in {'title','price'}: return
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        vip_edit_advance(s,'edit_title' if field=='title' else 'edit_price')
+        send(cid,'✏️ عنوان جدید VIP را بفرست.' if field=='title' else '💰 قیمت جدید VIP را به تومان بفرست.')
+        return
+    if data.startswith('vip_edit_choose|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=4: return
+        _,flow_id,action,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='buttons': return
+        if action not in {'edit','delete'}: return
+        if not s.get('buttons'): return send(cid,'⚠️ این VIP دکمه‌ای ندارد.',vip_edit_menu(s))
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        vip_edit_advance(s,'edit_choose_variant')
+        s['edit_action']=action
+        title,menu=vip_edit_choose_menu(s,action)
+        send(cid,title,menu)
+        return
+    if data.startswith('vip_edit_select|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=5: return
+        _,flow_id,action,index_text,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='edit_choose_variant' or s.get('edit_action')!=action: return
+        try: index=int(index_text)
+        except (TypeError,ValueError): return
+        if index<0 or index>=len(s.get('buttons',[])): return
+        current=s['buttons'][index]
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        if action=='delete':
+            s['buttons'].pop(index)
+            s.pop('edit_action',None); s.pop('edit_key',None)
+            vip_edit_advance(s,'buttons')
+            send(cid,'🗑 دکمه حذف شد.',vip_edit_menu(s))
+            return
+        s['edit_key']=current.get('key')
+        s['pending_edit_label']=current.get('label','')
+        vip_edit_advance(s,'edit_variant_label')
+        send(cid,f'✏️ نام جدید دکمه «{current.get("label","")}» را بفرست. اگر نامش را نمی‌خواهی عوض کنی، همان نام فعلی را بفرست.')
+        return
+    if data.startswith('vip_edit_back|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=3: return
+        _,flow_id,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='edit_choose_variant': return
+        s.pop('edit_action',None)
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        vip_edit_advance(s,'buttons')
+        send(cid,'🔙 مدیریت دکمه‌های VIP',vip_edit_menu(s))
+        return
+    if data.startswith('vip_edit_add|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=3: return
+        _,flow_id,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='buttons': return
+        if len(s.get('buttons',[]))>=VIP_MAX_BUTTONS: return send(cid,'⚠️ حداکثر ۵ دکمه برای هر VIP مجاز است.',vip_edit_menu(s))
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        vip_edit_advance(s,'edit_add_label')
+        send(cid,'🔘 نام دکمه جدید را بفرست.')
+        return
+    if data.startswith('vip_edit_done|') and guard(uid,'vip'):
+        parts=data.split('|')
+        if len(parts)!=3: return
+        _,flow_id,tok=parts
+        s=STATES.get(uid)
+        if not s or s.get('type')!='vip_edit' or s.get('mode')!='edit' or s.get('flow_id')!=flow_id or s.get('stage_token')!=tok or s.get('step')!='buttons': return
+        if not s.get('buttons'): return send(cid,'⚠️ حداقل یک دکمه و پرامپت برای VIP نگه دار.',vip_edit_menu(s))
+        value=DATA.get('vip',{}).get(s.get('key'))
+        if not value:
+            STATES.pop(uid,None); persist_conversation_states_async()
+            send(cid,'❌ VIP پیدا نشد؛ ویرایش لغو شد.')
+            vip_admin(cid)
+            return
+        value['title']=s.get('title',value.get('title',''))
+        value['price']=int(s.get('price',value.get('price',0)) or 0)
+        value['variants']={b['key']:{'label':b['label'],'prompt':b['prompt']} for b in s['buttons']}
+        save_data(f'Edit buttons {s.get("key")}')
+        STATES.pop(uid,None); persist_conversation_states_async()
+        if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
+        send(cid,f'✅ {vip_label(s.get("key"),value)} با موفقیت ویرایش شد.')
+        vip_admin(cid)
+        return
 
     if data.startswith('report_view|') and guard(uid,'reports'): report_detail(cid,data.split('|',1)[1]); return
     if data.startswith('report_resolve|') and guard(uid,'reports'):
