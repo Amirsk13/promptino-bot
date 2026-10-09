@@ -1883,12 +1883,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [],
       "last_message_id": 3590,
       "processed_message_ids": [],
       "flow_id": "7d388e474c21",
-      "stage_token": "8605f61b4e",
+      "stage_token": "13651f7faf",
       "vip_processed_message_ids": [
         3588,
         3590
