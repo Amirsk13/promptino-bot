@@ -1883,36 +1883,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the attached image as the primary visual reference and recreate it as closely as possible. Preserve the exact overall composition, character appearance, facial structure, hairstyle, pose, expression, colors, lighting, and visual style of the reference. Create a square 1:1 digital anime-style fantasy portrait of an elegant young woman shown from the upper torso, with her body angled slightly toward the viewer while her face is turned in a soft left-facing three-quarter profile and her gaze lowered. She has pale luminous skin, delicate facial features, light blue eyes, and elaborate dark navy-blue hair styled in a voluminous swept-up arrangement with curled sections, decorated with small glowing blue flowers. She wears intricate blue floral jewelry, including large translucent blue flower earrings and a detailed blue floral necklace around the neck. Her shoulders are partially exposed and she wears dark blue gloves. She gently holds a large bouquet of luminous blue and cyan flowers across her chest, with layered petals, glowing highlights, translucent edges, leaves, and small sparkling particles. The bouquet must remain the dominant foreground element without obscuring the face. Keep the deep almost-black background clean and empty. Use strong cool cyan-blue illumination from the flowers, subtle warm rim light along the upper-right edge of the hair and shoulder, soft luminous highlights, delicate shadows, and a subtle glow around the flowers. Highly polished 2D digital painting, refined anime illustration, painterly gradients, elegant linework, rich navy/cobalt/cyan palette, cinematic fantasy atmosphere, soft bloom, detailed hair and jewelry, crisp face, controlled highlights. Close portrait framing, subject filling most of the square frame, head near the upper edge, bouquet extending across the lower foreground, no text, no logo, no additional objects."
-        },
-        {
-          "key": "recreate_the_attached_ref",
-          "label": "Recreate the attached reference image with maximum visual fidelity. Treat the reference as the composition and appearance guide, not as loose inspiration. Preserve the same square 1:1 framing, upper-torso portrait, three-quarter left-facing pose, lowered gaze, delicate facial proportions, pale skin, elaborate dark navy-blue updo with curled sections and small blue flowers, blue eyes, translucent blue floral earrings, ornate blue floral necklace, exposed shoulder, dark blue gloves, and the large glowing blue flower bouquet held across the chest. Keep the bouquet positioned in the foreground exactly as the main visual focus, with layered cyan, turquoise, cobalt and deep-blue petals, luminous centers, translucent edges, leaves and tiny sparkling particles. Maintain the nearly black empty background and the dramatic lighting: cool cyan-blue light emitted by the flowers, soft illumination on the face and hands, and a subtle warm-white rim light around the upper-right hair and shoulder. Preserve the elegant melancholic expression and downward gaze. Match the reference's polished 2D anime fantasy digital-painting aesthetic, soft painterly shading, smooth gradients, intricate hair and jewelry details, luminous bloom, rich blue color palette and cinematic contrast. Keep the face unobstructed, avoid extra objects, avoid text or logos, and do not change the pose or overall composition.",
-          "prompt": "Recreate the attached reference image with maximum visual fidelity. Treat the reference as the composition and appearance guide, not as loose inspiration. Preserve the same square 1:1 framing, upper-torso portrait, three-quarter left-facing pose, lowered gaze, delicate facial proportions, pale skin, elaborate dark navy-blue updo with curled sections and small blue flowers, blue eyes, translucent blue floral earrings, ornate blue floral necklace, exposed shoulder, dark blue gloves, and the large glowing blue flower bouquet held across the chest. Keep the bouquet positioned in the foreground exactly as the main visual focus, with layered cyan, turquoise, cobalt and deep-blue petals, luminous centers, translucent edges, leaves and tiny sparkling particles. Maintain the nearly black empty background and the dramatic lighting: cool cyan-blue light emitted by the flowers, soft illumination on the face and hands, and a subtle warm-white rim light around the upper-right hair and shoulder. Preserve the elegant melancholic expression and downward gaze. Match the reference's polished 2D anime fantasy digital-painting aesthetic, soft painterly shading, smooth gradients, intricate hair and jewelry details, luminous bloom, rich blue color palette and cinematic contrast. Keep the face unobstructed, avoid extra objects, avoid text or logos, and do not change the pose or overall composition."
-        }
-      ],
-      "last_message_id": 3611,
+      "step": "title",
+      "buttons": [],
+      "last_message_id": null,
       "processed_message_ids": [],
-      "flow_id": "7d388e474c21",
-      "stage_token": "df620c9873",
-      "vip_processed_message_ids": [
-        3588,
-        3590,
-        3593,
-        3595,
-        3600,
-        3602,
-        3605
-      ],
-      "vip_last_user_message_id": 3605,
-      "title": "Azure Bloom Reverie",
-      "price": 200000,
-      "pending_label": "Nano Banana Pro"
+      "flow_id": "c9ad19bd1d4d",
+      "stage_token": "f203c8705e"
     }
   },
   "active_post_states": {},
