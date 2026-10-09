@@ -1170,6 +1170,71 @@ def delete_messages(chat_id, message_ids):
         if not api('deleteMessage',{'chat_id':chat_id,'message_id':mid}).get('ok'): ok=False
     return ok
 
+def archive_vip_version(key, value):
+    """Append a snapshot of the latest VIP definition to the archive; keep older versions intact."""
+    if not ARCHIVE_CHAT:
+        return []
+    ids=[]
+    heading=f'📝 نسخهٔ به‌روزشدهٔ VIP\n\n👑 {vip_label(key,value)}\n🆔 {key}\n💰 قیمت: {money(value.get("price",0))} تومان'
+    r=send(ARCHIVE_CHAT,heading)
+    if r.get('ok') and r.get('result',{}).get('message_id'):
+        ids.append(r['result']['message_id'])
+    variants=value.get('variants',{}) if isinstance(value.get('variants',{}),dict) else {}
+    if variants:
+        items=[(v.get('label',k),v.get('prompt','')) for k,v in variants.items() if isinstance(v,dict)]
+    elif value.get('prompt'):
+        items=[('پرامپت اصلی',value.get('prompt',''))]
+    else:
+        items=[]
+    for label,prompt in items:
+        r1=send(ARCHIVE_CHAT,f'🔘 {label}')
+        if r1.get('ok') and r1.get('result',{}).get('message_id'):
+            ids.append(r1['result']['message_id'])
+        r2=send(ARCHIVE_CHAT,prompt)
+        if r2.get('ok') and r2.get('result',{}).get('message_id'):
+            ids.append(r2['result']['message_id'])
+    return ids
+
+
+def archive_edited_post_version(s, pid, fallback_photos=None):
+    """Append a reviewable archive copy of an edited post without deleting previous snapshots."""
+    if not ARCHIVE_CHAT:
+        return []
+    photos=list(s.get('photos') or fallback_photos or [])
+    caption='✏️ نسخهٔ جدید پس از ویرایش\n\n'+post_preview(s)
+    ids=[]
+    if len(photos)==1:
+        r=send_photo(ARCHIVE_CHAT,photos[0],caption)
+        if r.get('ok') and r.get('result',{}).get('message_id'):
+            ids.append(r['result']['message_id'])
+    elif len(photos)>=2:
+        media=[]
+        for i,photo_id in enumerate(photos):
+            item={'type':'photo','media':photo_id}
+            if i==0:
+                item['caption']=caption
+            media.append(item)
+        r=api('sendMediaGroup',{'chat_id':ARCHIVE_CHAT,'media':media})
+        if r.get('ok'):
+            ids.extend([x.get('message_id') for x in r.get('result',[]) if x.get('message_id')])
+    else:
+        r=send(ARCHIVE_CHAT,caption)
+        if r.get('ok') and r.get('result',{}).get('message_id'):
+            ids.append(r['result']['message_id'])
+    for b in s.get('buttons',[]):
+        r1=send(ARCHIVE_CHAT,f'🔘 {b.get("label",b.get("key",""))}')
+        if r1.get('ok') and r1.get('result',{}).get('message_id'):
+            ids.append(r1['result']['message_id'])
+        prompt=b.get('prompt','')
+        if prompt and len(prompt)<=256:
+            r2=send(ARCHIVE_CHAT,prompt,kb([[{'text':'📋 کپی پرامپت','copy_text':{'text':prompt}}]]))
+        else:
+            r2=send(ARCHIVE_CHAT,prompt)
+        if r2.get('ok') and r2.get('result',{}).get('message_id'):
+            ids.append(r2['result']['message_id'])
+    return ids
+
+
 def publish_edited_post(uid):
     s=POST_STATES.get(uid)
     if not s or s.get('mode')!='edit': return
@@ -1177,13 +1242,24 @@ def publish_edited_post(uid):
     if not p: return send(uid,'❌ پرامپت پیدا نشد.')
     if not s.get('buttons'): return send(uid,'⚠️ حداقل یک دکمه لازم است.')
     if not s.get('photos'):
-        # Legacy posts created before publication metadata was introduced cannot be
-        # safely deleted/replaced because their original Telegram media ids were
-        # never stored. Update the data only instead of creating a duplicate post.
+        # Legacy posts without stored photo IDs cannot be safely replaced in the public
+        # channel. Still save the edit and append an archive snapshot (text-only if needed).
+        old_archive=list(p.get('archive_message_ids',[]))
         p.update({'title':s.get('name',p.get('title','')),'suitable':s.get('suitable',p.get('suitable','')),'for':s.get('for_what',p.get('for','')),'variants':{b['key']:{'label':b['label'],'prompt':b['prompt']} for b in s['buttons']}})
         save_data(f'Edit data {pid}')
+        archive_ids=archive_edited_post_version(s,pid,p.get('photos',[]))
+        p['archive_message_ids']=old_archive+[x for x in archive_ids if x]
+        save_data(f'Edit archive metadata {pid}')
         POST_STATES.pop(uid,None); persist_conversation_states_async()
-        send(uid,'✅ اطلاعات پرامپت ویرایش شد. این پست قدیمی اطلاعات رسانه‌ای لازم برای جایگزینی خودکار در کانال را ندارد؛ برای جلوگیری از ایجاد پست تکراری، پست جدیدی ارسال نشد.',admin_menu(uid))
+        message='✅ ویرایش ذخیره شد.'
+        if not ARCHIVE_CHAT:
+            message+='\n⚠️ کانال آرشیو تنظیم نشده است؛ نسخهٔ آرشیوی ارسال نشد.'
+        elif archive_ids:
+            message+='\n📚 نسخهٔ جدید به آرشیو اضافه شد. نسخه‌های قبلی هم باقی ماندند.'
+        else:
+            message+='\n⚠️ ذخیره شد، اما ارسال نسخهٔ آرشیوی موفق نبود.'
+        message+='\nبه‌دلیل قدیمی بودن اطلاعات رسانه‌ای این پست، نسخهٔ عمومی کانال به‌صورت خودکار جایگزین نشد.'
+        send(uid,message,admin_menu(uid))
         return
     old_channel=list(p.get('channel_message_ids',[])); old_archive=list(p.get('archive_message_ids',[]))
     # Replace the stored prompt definition first, but preserve the price.
@@ -1192,7 +1268,7 @@ def publish_edited_post(uid):
     # Remove the old published copies only when their exact Telegram message ids
     # are known. This prevents duplicate channel posts for new/edited posts.
     if old_channel: delete_messages(PROMPTINO_CHAT,old_channel)
-    if old_archive and ARCHIVE_CHAT: delete_messages(ARCHIVE_CHAT,old_archive)
+    # Do not delete archived history. Every successful edit appends a new snapshot.
     # Reuse the same publishing logic without creating a second prompt record.
     bot_name=BOT_USERNAME
     if not bot_name:
@@ -1207,23 +1283,28 @@ def publish_edited_post(uid):
             if r2.get('ok'): channel_ids.append(r2.get('result',{}).get('message_id'))
     if not channel_ids:
         return send(uid,'❌ انتشار نسخه ویرایش‌شده ناموفق بود.')
-    archive_ids=[]
-    if ARCHIVE_CHAT:
-        r=api('sendMediaGroup',{'chat_id':ARCHIVE_CHAT,'media':[{'type':'photo','media':x,'caption':post_preview(s) if i==0 else ''} for i,x in enumerate(s.get('photos',[]))]})
-        if r.get('ok'):
-            archive_ids=[x.get('message_id') for x in r.get('result',[]) if x.get('message_id')]
-            for b in s['buttons']:
-                r1=send(ARCHIVE_CHAT,f'🔘 {b["label"]}');
-                if r1.get('ok'): archive_ids.append(r1.get('result',{}).get('message_id'))
-                r2=send(ARCHIVE_CHAT,b['prompt']);
-                if r2.get('ok'): archive_ids.append(r2.get('result',{}).get('message_id'))
-    p['channel_message_ids']=channel_ids; p['archive_message_ids']=archive_ids
+    archive_ids=archive_edited_post_version(s,pid,p.get('photos',[]))
+    p['channel_message_ids']=channel_ids
+    p['archive_message_ids']=old_archive+[x for x in archive_ids if x]
     save_data(f'Edit publish {pid}')
-    POST_STATES.pop(uid,None); persist_conversation_states_async(); send(uid,'✅ پست با موفقیت ویرایش و جایگزین شد.',admin_menu(uid))
+    POST_STATES.pop(uid,None); persist_conversation_states_async()
+    message='✅ پست با موفقیت ویرایش و جایگزین شد.'
+    if not ARCHIVE_CHAT:
+        message+='\n⚠️ کانال آرشیو تنظیم نشده است؛ نسخهٔ آرشیوی ارسال نشد.'
+    elif archive_ids:
+        message+='\n📚 نسخهٔ جدید به آرشیو اضافه شد. نسخه‌های قبلی هم باقی ماندند.'
+    else:
+        message+='\n⚠️ پست منتشر شد، اما ارسال نسخهٔ آرشیوی موفق نبود.'
+    send(uid,message,admin_menu(uid))
 
 # ---------- admin pages ----------
 def prompts_admin(cid):
-    send(cid,'📝 پرامپت‌ها',kb([[btn('➕ افزودن پست','post_start')],[btn('✏️ ویرایش عنوان','prompt_edit'),btn('🔄 تغییر پرامپت','prompt_text')],[btn('🗑 حذف','prompt_delete')],[btn('🔙 مدیریت','admin_menu')]]))
+    send(cid,'📝 پرامپت‌ها',kb([
+        [btn('➕ افزودن پست','post_start')],
+        [btn('✏️ ویرایش پست','prompt_edit'),btn('🔄 تغییر متن پرامپت','prompt_text')],
+        [btn('🗑 حذف پست','prompt_delete')],
+        [btn('🔙 مدیریت','admin_menu')]
+    ]))
 
 def notifications_admin(cid):
     n=DATA['settings']['notifications']; labels={'new_order':'سفارش جدید','payment':'پرداخت','report':'گزارش مشکل','vip_order':'سفارش VIP'}
@@ -1397,6 +1478,16 @@ def handle_state_message(uid,cid,m):
         if step=='prompt':
             if text!='-': v['prompt']=text
             save_data(f'Edit {key}'); STATES.pop(uid,None); send(cid,'✅ VIP ویرایش شد.'); vip_admin(cid); return True
+
+    if typ=='prompt_edit_post_select' and step=='id':
+        pid=normalize_pid(text)
+        if pid not in DATA.get('prompts',{}):
+            send(cid,'❌ شماره پست پیدا نشد. شمارهٔ موجود را بفرست؛ مثلاً 2.')
+            return True
+        STATES.pop(uid,None)
+        if not start_prompt_editor(uid,pid):
+            send(cid,'❌ ویرایشگر پست باز نشد. دوباره از مدیریت پرامپت‌ها شروع کن.')
+        return True
 
     if typ=='prompt_manage':
         if step=='id':
@@ -2121,7 +2212,11 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
     if data.startswith('vip_delete|') and guard(uid,'vip'):
         key=data.split('|',1)[1]; DATA['vip'].pop(key,None); save_data(f'Delete {key}'); send(cid,'🗑 VIP حذف شد.'); vip_admin(cid); return
 
-    if data=='prompt_edit' and guard(uid,'prompts'): STATES[uid]={'type':'prompt_manage','action':'edit_post','step':'id'}; send(cid,'🔢 شماره پرامپت را بفرست.'); return
+    if data=='prompt_edit' and guard(uid,'prompts'):
+        reset_admin_flow(uid)
+        STATES[uid]={'type':'prompt_edit_post_select','step':'id','last_message_id':None}
+        send(cid,'🔢 شماره پست را برای ویرایش بفرست. مثال: 2')
+        return
     if data=='prompt_text' and guard(uid,'prompts'): STATES[uid]={'type':'prompt_manage','action':'text','step':'id'}; send(cid,'🔢 شماره پرامپت را بفرست.'); return
     if data=='prompt_delete' and guard(uid,'prompts'): STATES[uid]={'type':'prompt_manage','action':'delete','step':'id'}; send(cid,'🔢 شماره پرامپت را بفرست.'); return
 
@@ -2324,9 +2419,20 @@ def callback(uid,cid,data,msgid=None,callback_id=None):
         value['price']=int(s.get('price',value.get('price',0)) or 0)
         value['variants']={b['key']:{'label':b['label'],'prompt':b['prompt']} for b in s['buttons']}
         save_data(f'Edit buttons {s.get("key")}')
+        old_archive=list(value.get('archive_message_ids',[]))
+        archive_ids=archive_vip_version(s.get('key'),value)
+        value['archive_message_ids']=old_archive+[x for x in archive_ids if x]
+        save_data(f'VIP archive snapshot {s.get("key")}')
         STATES.pop(uid,None); persist_conversation_states_async()
         if msgid: api('editMessageReplyMarkup',{'chat_id':cid,'message_id':msgid,'reply_markup':{'inline_keyboard':[]}})
-        send(cid,f'✅ {vip_label(s.get("key"),value)} با موفقیت ویرایش شد.')
+        message=f'✅ {vip_label(s.get("key"),value)} با موفقیت ویرایش شد.'
+        if not ARCHIVE_CHAT:
+            message+='\n⚠️ کانال آرشیو تنظیم نشده است؛ نسخهٔ آرشیوی ارسال نشد.'
+        elif archive_ids:
+            message+='\n📚 نسخهٔ جدید VIP به آرشیو اضافه شد. نسخه‌های قبلی هم باقی ماندند.'
+        else:
+            message+='\n⚠️ تغییرات ذخیره شد، اما ارسال نسخهٔ آرشیوی موفق نبود.'
+        send(cid,message)
         vip_admin(cid)
         return
 
