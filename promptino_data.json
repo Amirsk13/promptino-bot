@@ -1933,7 +1933,7 @@
     "676953423": {
       "type": "vip_edit",
       "mode": "edit",
-      "step": "buttons",
+      "step": "edit_add_label",
       "key": "VIP-1",
       "title": "Azure Bloom Reverie",
       "price": 200000,
@@ -1950,7 +1950,7 @@
         }
       ],
       "flow_id": "9860eafbdc04",
-      "stage_token": "82c5e06bed",
+      "stage_token": "364204dc54",
       "last_message_id": null,
       "vip_processed_message_ids": [],
       "vip_last_user_message_id": 0
