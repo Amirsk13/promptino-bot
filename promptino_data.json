@@ -1937,7 +1937,7 @@
       "stage_token": "ae34218da1",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "ae34218da1",
       "name": "Warm Urban Portrait",
       "number": 8
     }
