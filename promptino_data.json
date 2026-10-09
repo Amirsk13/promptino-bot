@@ -1883,12 +1883,17 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "title",
+      "step": "price",
       "buttons": [],
-      "last_message_id": null,
+      "last_message_id": 3588,
       "processed_message_ids": [],
       "flow_id": "7d388e474c21",
-      "stage_token": "14d9c0a3bd"
+      "stage_token": "ed73e331c8",
+      "vip_processed_message_ids": [
+        3588
+      ],
+      "vip_last_user_message_id": 3588,
+      "title": "Azure Bloom Reverie"
     }
   },
   "active_post_states": {},
