@@ -1919,25 +1919,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAINDmrHNzu-VHo4PhqEBp52Zl2GPM_VAAI9EWsbcO85UqYaoJWTzDwNAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAINEGrHN0DqEyFm0_Sy0r1zceA7CzqCAAI-EWsbcO85UvT9MwFK8tKVAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3657,
-      "last_user_message_id": 3657,
+      "last_message_id": 3659,
+      "last_user_message_id": 3659,
       "processed_message_ids": [
         3652,
         3654,
-        3657
+        3657,
+        3659
       ],
       "flow_id": "709a2081a7a2",
-      "stage_token": "e8ca1e6fc3",
-      "revision": 4,
+      "stage_token": "ae34218da1",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "e8ca1e6fc3",
-      "name": "Warm Urban Portrait"
+      "prompt_sent_token": null,
+      "name": "Warm Urban Portrait",
+      "number": 8
     }
   },
   "settings": {
