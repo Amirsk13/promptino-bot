@@ -1894,7 +1894,15 @@
       "user_id": 1036077370
     }
   },
-  "active_order_states": {},
+  "active_order_states": {
+    "676953423": {
+      "type": "vip_order",
+      "step": "contact",
+      "vip": "VIP-1",
+      "price": 200000,
+      "flow_id": "a24feee2bf5c"
+    }
+  },
   "active_admin_states": {},
   "active_post_states": {},
   "settings": {
