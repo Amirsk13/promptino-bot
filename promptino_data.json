@@ -2031,31 +2031,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E",
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3803,
-      "last_user_message_id": 3803,
+      "last_message_id": 3806,
+      "last_user_message_id": 3806,
       "processed_message_ids": [
         3792,
         3794,
         3797,
         3799,
         3801,
-        3803
+        3803,
+        3806
       ],
       "flow_id": "05d65e1675bc",
-      "stage_token": "13402e9a4b",
-      "revision": 8,
+      "stage_token": "16b617190c",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
       "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
-      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
