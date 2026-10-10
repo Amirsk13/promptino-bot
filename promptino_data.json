@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2232,10 +2232,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION. Use the attached image as the primary reference and preserve its original composition with high fidelity. Generate a photorealistic portrait of a young adult Iranian woman, changing only the subject details necessary to produce the requested natural female appearance.\n\nCOMPOSITION LOCK: Square 1:1 crop. Tight head-and-shoulders framing. Maintain the original head size, face placement, camera distance, three-quarter profile, downward head tilt, lowered eyelids, subtle smile, and direction of the face. Do not mirror the image or change the camera perspective.\n\nFACE: Elegant oval face, naturally defined dark eyebrows, almond-shaped dark brown eyes with understated neutral eyeshadow and fine eyeliner, straight delicate nose, naturally full muted terracotta-rose lips, realistic warm light-to-medium skin, fine skin texture, and subtle natural facial contours.\n\nHAIR: Thick, glossy black hair in a voluminous high half-up bun with swept-back sections and long hair cascading behind the shoulders. Preserve the lifted crown, hair volume, side arrangement, and two loose S-shaped curls framing the cheeks. Detailed individual strands and believable hairline.\n\nCLOTHING: Simple black wide-neck top, delicate silver chain necklace, tiny understated earring. Keep the wardrobe minimal and consistent with the reference.\n\nBACKGROUND LOCK: Pale cool-gray interior wall with faint dark abstract decorative lines. Retain the visible shapes and overall background placement. Do not replace with a plain backdrop or a different environment.\n\nLIGHTING LOCK: Soft diffused studio light, gentle shadows around the nose and chin, subtle highlights on the cheeks and glossy hair, warm natural skin against the cool gray background. Restrained cinematic color grading.\n\nCAMERA: 70–85mm full-frame portrait-lens appearance, natural perspective, moderate shallow depth of field, softly defocused background with visible structure. Avoid wide-angle distortion and excessive background blur.\n\nQUALITY: High-end realistic beauty photography, authentic skin pores, natural facial anatomy, detailed hair, balanced contrast, refined but unfiltered appearance. The result must look like a real photograph, not an illustration or a beauty-filtered render."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION. Use the attached image as the exact scene and composition reference. Create a photorealistic masculine counterpart featuring a young adult Iranian man while preserving the original portrait structure and visual atmosphere.\n\nSTRICT COMPOSITION PRESERVATION: Square 1:1 image. Tight head-and-shoulders crop. Preserve the subject's scale and placement, camera distance, three-quarter head orientation, downward tilt, lowered gaze, relaxed mouth, subtle smile, and original perspective. Do not mirror the image, move closer, widen the crop, or change the pose.\n\nSUBJECT: Young adult Iranian man with a naturally masculine oval-to-angular face, gently defined jawline, thick dark eyebrows, dark brown almond-shaped eyes directed downward, a straight nose, natural rose-brown lips, and realistic warm light-to-medium skin. Maintain a calm, elegant expression with no exaggerated masculinity.\n\nHAIR: Thick, glossy black hair styled in a voluminous swept-back half-up arrangement with a compact gathered top section, long hair behind the head, and a few loose side strands. Adapt the reference's distinctive hairstyle silhouette to a believable masculine style without changing the head outline or introducing a different haircut.\n\nWARDROBE: Plain black wide-neck top and a fine silver chain necklace. Preserve the understated styling.\n\nBACKGROUND: The same pale cool-gray interior wall with faint, soft-focus dark abstract decorative strokes. Keep these elements visible in their original general positions. No environmental replacement.\n\nLIGHTING AND COLOR: Soft diffused studio lighting, gentle facial shadows, subtle highlights on the forehead, nose, cheeks, and black hair. Natural skin tones contrasted with the cool gray background. Keep the original subdued palette, realistic contrast, and soft cinematic atmosphere.\n\nCAMERA AND DEPTH: 70–85mm full-frame portrait appearance, eye-level to slightly elevated viewpoint, natural facial proportions, moderate shallow depth of field, and a softly blurred but identifiable background.\n\nOUTPUT QUALITY: High-end photorealistic editorial portrait with authentic skin texture, detailed individual hairs, natural facial anatomy, realistic shadows, and no plastic skin, excessive retouching, distorted features, or artificial bokeh. The final image must read as the same scene photographed with a male subject."
         }
       ],
-      "last_message_id": 4014,
-      "last_user_message_id": 4014,
+      "last_message_id": 4016,
+      "last_user_message_id": 4016,
       "processed_message_ids": [
         3975,
         3977,
@@ -2253,18 +2258,18 @@
         4006,
         4009,
         4011,
-        4014
+        4014,
+        4016
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "774605b20a",
-      "revision": 24,
+      "stage_token": "42aa41f1a4",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "774605b20a",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
     }
   },
   "settings": {
