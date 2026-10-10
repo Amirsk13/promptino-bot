@@ -2031,7 +2031,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E"
@@ -2048,8 +2048,8 @@
           "prompt": "Use the uploaded reference image as the primary visual reference for a photorealistic image-to-image recreation. Transform the subject into a natural young Iranian man while preserving the original scene, composition, camera perspective, pose, book interaction, sweater style, autumn landscape, lighting, and color palette.\n\nSUBJECT: A young Iranian man, approximately 20–28 years old, shown in right-side profile facing left. Natural masculine facial proportions, dark eyes looking down at the book, thick dark hair with naturally tousled strands falling slightly over the forehead, subtle natural facial stubble, and a calm, thoughtful expression. His hair and head are completely uncovered.\n\nCLOTHING: Remove the headscarf and all head coverings entirely. Do not replace them with a hood, hat, beanie, bandana, or any other accessory. Show natural dark hair, ears, forehead, and the back of the head. Retain the original warm knitted sweater with horizontal geometric patterns in brown, cream, beige, and muted gray. Preserve the sweater's texture, colors, pattern, and overall silhouette.\n\nPOSE AND BOOK: Maintain the same side-profile posture, head angle, body orientation, and reading gesture. An open paperback book is held diagonally across the lower-left foreground. One hand supports the book from below while the other steadies it naturally. Keep the visible printed pages, book angle, hand positions, and realistic finger anatomy consistent with the reference.\n\nCOMPOSITION: Square 1:1 image. Medium-close portrait, framed from the upper torso upward. The subject occupies the right half of the image, with the book extending toward the lower-left corner. Do not zoom in or crop closer than the reference.\n\nBACKGROUND: Preserve the dark mountain ridge in the upper-left background, vivid orange and rust-colored autumn foliage in the middle distance, muted green-brown terrain, and subdued gray-blue area near the bottom. Maintain the natural landscape and its spatial arrangement.\n\nCAMERA AND LIGHTING: Natural 50–70mm portrait-lens perspective, no wide-angle distortion. Soft outdoor daylight, subtle facial shadows, natural skin tones, moderate contrast, earthy autumn colors, and restrained cinematic grading. Use moderate depth of field so the man and book remain detailed while the mountain and trees stay softly blurred but recognizable.\n\nSTYLE: High-quality photorealistic editorial photography, authentic Iranian appearance, natural masculine features, realistic hair strands, detailed knitwear, and anatomically correct hands.\n\nSTRICT CONSTRAINTS: Absolutely no scarf, head covering, hood, hat, or fabric around the head or neck. Keep the neck visible above the sweater collar. Do not mirror the image, change the pose, reposition the book, alter the hands, remove the mountain or autumn foliage, or introduce unrelated objects. Preserve the original composition as closely as possible."
         }
       ],
-      "last_message_id": 3838,
-      "last_user_message_id": 3838,
+      "last_message_id": 3841,
+      "last_user_message_id": 3841,
       "processed_message_ids": [
         3817,
         3819,
@@ -2060,17 +2060,19 @@
         3831,
         3833,
         3836,
-        3838
+        3838,
+        3841
       ],
       "flow_id": "83ed27f699a9",
-      "stage_token": "a61f7682c4",
-      "revision": 14,
+      "stage_token": "9f261bae96",
+      "revision": 15,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
       "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
-      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
+      "pending_label": "Gemini-Girl"
     }
   },
   "settings": {
