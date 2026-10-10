@@ -1974,29 +1974,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 3756,
-      "last_user_message_id": 3756,
+      "last_message_id": 3758,
+      "last_user_message_id": 3758,
       "processed_message_ids": [
         3747,
         3749,
         3752,
         3754,
-        3756
+        3756,
+        3758
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "a486f6d05d",
-      "revision": 6,
+      "stage_token": "8f63b07a4c",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "a486f6d05d",
+      "prompt_sent_token": null,
       "name": "Shadowlit Persian Portrait",
       "number": 9,
-      "suitable": "پرتره کلوزآپ با نور طبیعی و سایه‌های پنجره روی چهره"
+      "suitable": "پرتره کلوزآپ با نور طبیعی و سایه‌های پنجره روی چهره",
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره مدلینگ پسرانه و دخترانه\nعکاسی ادیتوریال و هنری\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nطراحی پرتره سینمایی با نور طبیعی"
     }
   },
   "settings": {
