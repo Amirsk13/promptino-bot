@@ -2049,7 +2049,7 @@
       "stage_token": "45f6c09122",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "45f6c09122",
       "name": "Autumn Reading Portrait",
       "number": 10
     }
