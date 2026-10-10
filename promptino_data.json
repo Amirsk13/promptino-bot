@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2191,8 +2191,8 @@
         3961
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "10563ab5df",
-      "revision": 19,
+      "stage_token": "facc2e10a4",
+      "revision": 20,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
