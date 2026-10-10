@@ -2031,25 +2031,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E",
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3797,
-      "last_user_message_id": 3797,
+      "last_message_id": 3799,
+      "last_user_message_id": 3799,
       "processed_message_ids": [
         3792,
         3794,
-        3797
+        3797,
+        3799
       ],
       "flow_id": "05d65e1675bc",
-      "stage_token": "94d26f8a5e",
-      "revision": 4,
+      "stage_token": "45f6c09122",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "94d26f8a5e",
-      "name": "Autumn Reading Portrait"
+      "prompt_sent_token": null,
+      "name": "Autumn Reading Portrait",
+      "number": 10
     }
   },
   "settings": {
