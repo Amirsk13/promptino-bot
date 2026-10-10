@@ -2202,27 +2202,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3982,
-      "last_user_message_id": 3982,
+      "last_message_id": 3984,
+      "last_user_message_id": 3984,
       "processed_message_ids": [
         3975,
         3977,
         3980,
-        3982
+        3982,
+        3984
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "cee5913044",
-      "revision": 5,
+      "stage_token": "bbd6cdd7ad",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "cee5913044",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
-      "number": 13
+      "number": 13,
+      "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری"
     }
   },
   "settings": {
