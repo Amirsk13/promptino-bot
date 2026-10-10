@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2224,8 +2224,8 @@
           "prompt": "Recreate the attached reference image as a highly realistic portrait of a young adult Iranian woman. Treat the reference as the composition and styling guide. Preserve the original three-quarter facial angle, downward gaze, gentle smile, elaborate black hairstyle, black clothing, fine silver necklace, cool gray background, soft lighting, and square crop.\n\nA young Iranian woman with an elegant oval face, naturally full dark eyebrows, lowered almond-shaped dark brown eyes, subtle warm neutral eyeshadow, fine eyeliner, a straight nose, full natural terracotta-rose lips, and lifelike warm-toned skin. Her thick, shiny black hair forms a voluminous high half-up bun with swept-back sections and long dark hair cascading behind her shoulders. Two loose, defined S-shaped curls frame her face on either side. Retain the hairstyle's original volume and asymmetry.\n\nShe wears a simple black wide-neck top and a fine silver chain necklace. Her head is inclined gently downward and turned slightly to the viewer's right, with eyes closed or nearly closed and a soft, confident smile. Frame her tightly from the upper chest upward, keeping the face at the same scale as the reference.\n\nBackground: pale cool-gray interior wall with faint, abstract dark decorative strokes, softly out of focus but still visible. Do not replace the background with flowers, nature, or a different room.\n\nLighting: soft diffused studio light, gentle facial shadows, delicate highlights on the cheeks and hair, natural skin tones against the cooler background. Use the visual characteristics of a 70–85mm portrait lens, realistic perspective, moderate shallow depth of field, and restrained cinematic color grading.\n\nDeliver a refined, photorealistic beauty portrait with authentic skin texture, detailed hair strands, natural facial proportions, and no plastic skin, exaggerated makeup, or excessive blur. Match the reference's mood and composition closely. 1:1 square aspect ratio."
         }
       ],
-      "last_message_id": 4001,
-      "last_user_message_id": 4001,
+      "last_message_id": 4004,
+      "last_user_message_id": 4004,
       "processed_message_ids": [
         3975,
         3977,
@@ -2238,17 +2238,19 @@
         3994,
         3996,
         3999,
-        4001
+        4001,
+        4004
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "9d56006010",
-      "revision": 17,
+      "stage_token": "e625247492",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
