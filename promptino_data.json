@@ -2031,29 +2031,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 3826,
-      "last_user_message_id": 3826,
+      "last_message_id": 3828,
+      "last_user_message_id": 3828,
       "processed_message_ids": [
         3817,
         3819,
         3822,
         3824,
-        3826
+        3826,
+        3828
       ],
       "flow_id": "83ed27f699a9",
-      "stage_token": "11ae937e59",
-      "revision": 6,
+      "stage_token": "b800799386",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "11ae937e59",
+      "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
-      "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی."
+      "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
     }
   },
   "settings": {
