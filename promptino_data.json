@@ -2145,25 +2145,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3912,
-      "last_user_message_id": 3912,
+      "last_message_id": 3914,
+      "last_user_message_id": 3914,
       "processed_message_ids": [
         3907,
         3909,
-        3912
+        3912,
+        3914
       ],
       "flow_id": "35fb06a1bd5d",
-      "stage_token": "a7ede49535",
-      "revision": 4,
+      "stage_token": "af38300875",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "a7ede49535",
-      "name": "Elegant Neutral Mirror Selfie"
+      "prompt_sent_token": null,
+      "name": "Elegant Neutral Mirror Selfie",
+      "number": 12
     }
   },
   "settings": {
