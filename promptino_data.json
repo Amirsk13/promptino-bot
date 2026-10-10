@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2172,8 +2172,8 @@
           "prompt": "Use the attached reference photograph for image-to-image reconstruction. Generate a realistic male adaptation of the same mirror selfie, keeping the original environment and photographic composition as consistent as possible.\n\nCreate a handsome young Iranian man with thick, naturally wavy black hair, dark eyes, strong but natural eyebrows, a straight nose, a defined jawline, and subtle stubble. His expression is relaxed and self-assured. His head is turned slightly toward the right side of the frame as he looks at his phone screen in the mirror.\n\nPOSE:\nMaintain the original mirror-selfie arrangement. The man stands slightly left of center, holding a light-blue smartphone vertically beside his face with his right hand. His left hand rests inside his trouser pocket. Preserve the natural bend of his raised arm, phone height, head angle, torso orientation, and relaxed stance. Do not flip the image.\n\nCLOTHING:\nReplace the original outfit with sophisticated masculine tailoring: a light taupe-gray men's blazer with broad notched lapels and a natural structured silhouette; an ivory-white button-up dress shirt with a visible button placket, open collar, and casually rolled sleeves; matching taupe-gray tailored trousers with subtle pleats; a dark-brown leather belt with a simple buckle; and a restrained wristwatch.\n\nThe shirt must be visibly a shirt, not a coat or tunic. The blazer must have a conventional men's cut. Remove the headscarf, handbag, hanging decorative scarf, and feminine accessories completely.\n\nBACKGROUND:\nReconstruct the exact warm minimalist interior: beige wall with diagonal and rectangular sunlight shadows, dark wooden dresser on the left, framed artwork, candle, small decorative objects, light textured chair in the lower-left foreground, dark vertical mirror frame on the right, and large green leafy plants along the right edge. Retain the original spatial arrangement and natural background detail.\n\nCAMERA:\nSquare 1:1 aspect ratio, straight-on mirror perspective, approximately chest-height viewpoint, natural 35–50mm equivalent lens. Maintain the original subject-to-frame ratio, visible room area, and generous negative space on the right. Avoid close-up framing and wide-angle distortion.\n\nLIGHT:\nSoft warm daylight from the left. Preserve realistic window shadows, gentle facial highlights, natural skin tones, muted beige and taupe colors, warm wooden textures, and realistic green foliage.\n\nQUALITY:\nNatural photographic realism, correct male anatomy, believable fingers and wrists, accurate smartphone reflection, detailed shirt buttons, natural blazer folds, realistic trousers, and subtle editorial fashion styling.\n\nDo not replace the background, remove furniture or plants, move the smartphone, add a handbag, add a scarf, alter the sunlight direction, change the camera angle, or crop the image more tightly than the reference."
         }
       ],
-      "last_message_id": 3961,
-      "last_user_message_id": 3961,
+      "last_message_id": 3964,
+      "last_user_message_id": 3964,
       "processed_message_ids": [
         3930,
         3932,
@@ -2188,17 +2188,19 @@
         3954,
         3956,
         3959,
-        3961
+        3961,
+        3964
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "facc2e10a4",
-      "revision": 20,
+      "stage_token": "77b07e45c6",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
