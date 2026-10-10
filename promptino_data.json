@@ -2031,7 +2031,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E",
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ"
@@ -2041,10 +2041,15 @@
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Use the uploaded image as the primary visual reference for an image-to-image recreation. Preserve the original composition, camera perspective, subject placement, pose, clothing, book interaction, autumn landscape, lighting, color palette, and photographic realism as closely as possible.\n\nCreate a realistic young Iranian woman, approximately 20–28 years old, shown in a right-side profile facing left. Her face is visible in profile, with natural facial proportions, a softly defined nose, dark eyes directed toward the open book, dark hair with loose straight strands falling beside her cheek, and a calm, contemplative expression.\n\nShe wears a thick, layered taupe, beige, and muted brown patterned headscarf wrapped around her head and neck, along with a warm knitted sweater featuring intricate horizontal geometric patterns in brown, cream, and muted gray. Preserve the scarf's volume, folds, woven texture, and layered arrangement.\n\nHer hands hold an open paperback book across the lower-left portion of the frame. One hand supports the book while the other rests naturally beneath it. Keep the book tilted diagonally, its pale printed pages visible, and both hands anatomically accurate with natural fingers. Preserve the exact reading gesture and hand-to-book relationship.\n\nThe subject occupies the right half of the square composition, framed from approximately the upper torso upward, with the open book extending toward the lower-left foreground. Behind her, retain the softly focused autumn landscape: a dark mountain ridge in the upper-left background, orange and rust-colored fall foliage in the middle distance, muted green-brown vegetation, and a subdued gray-blue natural area near the bottom. Keep the landscape recognizable rather than replacing it with generic bokeh.\n\nUse soft, diffused natural outdoor light, subdued warm autumn tones, gentle facial shadows, realistic skin texture, moderate contrast, and a slightly muted cinematic color grade. Simulate a natural 50–70mm portrait-lens perspective with moderate depth of field: the woman and book remain detailed while the distant scenery is softly blurred but identifiable.\n\nSquare 1:1 aspect ratio. Photorealistic editorial portrait, natural textures, authentic Iranian appearance, restrained color grading, realistic hands, faithful reference composition.\n\nPrioritize reference fidelity over creative reinterpretation. Do not change the camera angle, mirror the image, enlarge the subject, alter the reading pose, remove the book, replace the landscape, or introduce new objects."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Use the uploaded image as the primary visual reference for an image-to-image recreation. Reproduce the same scene as a realistic young Iranian man, approximately 20–28 years old, while keeping the composition, camera perspective, subject scale, posture, hand placement, book, clothing textures, autumn landscape, lighting, and color grading as close to the reference as possible.\n\nShow the man in a right-side profile facing left, with his gaze lowered toward an open paperback book. Give him natural masculine facial proportions, a realistic nose and lips, dark eyes, and dark hair with a few straight strands falling naturally along the side of his face. His expression is quiet, thoughtful, and absorbed in reading.\n\nPreserve the reference's distinctive layered head covering and knitted clothing, adapting them naturally for a young man without changing their visual character: a thick taupe, beige, and muted brown geometric-patterned scarf wrapped around the head and neck, paired with a warm knitted sweater featuring horizontal brown, cream, and gray geometric patterns. Maintain the bulky scarf folds, woven fibers, and authentic fabric texture.\n\nHis hands hold the open paperback book across the lower-left portion of the frame. One hand supports the book while the other rests naturally underneath it. Keep the book diagonally tilted, with pale printed pages visible. Preserve the hand positions, proportions, and relationship to the book; fingers must look natural and anatomically correct.\n\nKeep the subject on the right half of the square frame, visible from approximately the upper torso upward. The book extends into the lower-left foreground. Retain the original autumn setting: a dark mountain ridge in the upper-left background, blurred orange and rust-colored trees in the middle distance, subdued green-brown vegetation, and a muted gray-blue natural area along the bottom. Do not remove or replace the landscape.\n\nUse soft, diffused outdoor daylight, warm muted fall colors, subtle shadows, realistic skin texture, moderate contrast, and understated cinematic photography. Simulate a 50–70mm portrait lens with moderate depth of field, preserving detail in the subject and book while keeping distant foliage softly blurred but recognizable.\n\nSquare 1:1 aspect ratio, photorealistic editorial portrait, natural masculine features, authentic Iranian appearance, detailed knitted fabric and scarf, realistic hands, faithful reference reconstruction.\n\nKeep the same camera angle, framing, profile direction, pose, book position, and environmental balance. Do not mirror the image, crop closer, change the reading gesture, or add unrelated objects."
         }
       ],
-      "last_message_id": 3811,
-      "last_user_message_id": 3811,
+      "last_message_id": 3813,
+      "last_user_message_id": 3813,
       "processed_message_ids": [
         3792,
         3794,
@@ -2054,18 +2059,18 @@
         3803,
         3806,
         3808,
-        3811
+        3811,
+        3813
       ],
       "flow_id": "05d65e1675bc",
-      "stage_token": "238a664dae",
-      "revision": 12,
+      "stage_token": "4ad4170a0a",
+      "revision": 13,
       "mode": "create",
-      "prompt_sent_token": "238a664dae",
+      "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
       "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
-      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
-      "pending_label": "ChatGPT-Boy"
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
     }
   },
   "settings": {
