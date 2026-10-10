@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2234,8 +2234,8 @@
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION. Use the attached image as the primary reference and preserve its original composition with high fidelity. Generate a photorealistic portrait of a young adult Iranian woman, changing only the subject details necessary to produce the requested natural female appearance.\n\nCOMPOSITION LOCK: Square 1:1 crop. Tight head-and-shoulders framing. Maintain the original head size, face placement, camera distance, three-quarter profile, downward head tilt, lowered eyelids, subtle smile, and direction of the face. Do not mirror the image or change the camera perspective.\n\nFACE: Elegant oval face, naturally defined dark eyebrows, almond-shaped dark brown eyes with understated neutral eyeshadow and fine eyeliner, straight delicate nose, naturally full muted terracotta-rose lips, realistic warm light-to-medium skin, fine skin texture, and subtle natural facial contours.\n\nHAIR: Thick, glossy black hair in a voluminous high half-up bun with swept-back sections and long hair cascading behind the shoulders. Preserve the lifted crown, hair volume, side arrangement, and two loose S-shaped curls framing the cheeks. Detailed individual strands and believable hairline.\n\nCLOTHING: Simple black wide-neck top, delicate silver chain necklace, tiny understated earring. Keep the wardrobe minimal and consistent with the reference.\n\nBACKGROUND LOCK: Pale cool-gray interior wall with faint dark abstract decorative lines. Retain the visible shapes and overall background placement. Do not replace with a plain backdrop or a different environment.\n\nLIGHTING LOCK: Soft diffused studio light, gentle shadows around the nose and chin, subtle highlights on the cheeks and glossy hair, warm natural skin against the cool gray background. Restrained cinematic color grading.\n\nCAMERA: 70–85mm full-frame portrait-lens appearance, natural perspective, moderate shallow depth of field, softly defocused background with visible structure. Avoid wide-angle distortion and excessive background blur.\n\nQUALITY: High-end realistic beauty photography, authentic skin pores, natural facial anatomy, detailed hair, balanced contrast, refined but unfiltered appearance. The result must look like a real photograph, not an illustration or a beauty-filtered render."
         }
       ],
-      "last_message_id": 4011,
-      "last_user_message_id": 4011,
+      "last_message_id": 4014,
+      "last_user_message_id": 4014,
       "processed_message_ids": [
         3975,
         3977,
@@ -2252,17 +2252,19 @@
         4004,
         4006,
         4009,
-        4011
+        4011,
+        4014
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "21aa834bee",
-      "revision": 23,
+      "stage_token": "774605b20a",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
