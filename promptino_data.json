@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2175,10 +2175,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION — STRICT REFERENCE PRESERVATION\n\nUse the uploaded photograph as the primary source image. Recreate it with maximum visual fidelity, retaining the original scene geometry, composition, subject scale, pose, outfit styling, lighting, and environmental details.\n\nSUBJECT: A young Iranian woman with a natural oval face, defined dark eyebrows, almond-shaped dark eyes, a straight delicate nose, natural full lips, and long dark brown wavy hair partially visible beneath a softly wrapped beige-taupe headscarf. Calm, self-assured expression; subtle closed-mouth smile; gaze directed toward the smartphone screen in the mirror. Keep realistic facial anatomy and skin texture.\n\nEXACT POSE: Vertical mirror selfie. Preserve the original nearly full-body framing, from the head to below the hips. The subject occupies approximately the same portion of the frame and stands slightly left of center. Her right hand holds a light-blue smartphone vertically beside her face. Her left hand rests at waist level near the belt and handbag. Maintain the same arm bends, wrist angles, finger positions, head angle, body orientation, and gaze. No mirroring or pose reinterpretation.\n\nWARDROBE AND ACCESSORIES: Light taupe-gray double-breasted blazer, structured lapels, two rows of buttons, relaxed sleeves, matching neutral lower garment, beige-taupe headscarf, slim brown leather belt, and decorative white hanging fabric detail. Small rectangular taupe quilted handbag with a short handle and gold-tone clasp. Preserve realistic garment seams, folds, button placement, handbag scale, and accessory positions.\n\nLOCKED BACKGROUND: Large warm beige wall; soft window-shaped sunlight shadows; dark wooden dresser at the left; small framed picture and candle on the dresser; light textured chair in the lower-left foreground; dark vertical mirror frame at the right; large leafy green plant entering from the right. Preserve the exact arrangement and proportions. Do not remove, replace, or invent environmental elements.\n\nLIGHT: Natural warm daylight from the left, soft directional highlights, gentle shadows, realistic reflected light, and natural exposure. Muted warm neutrals with restrained green accents. No dramatic cinematic recoloring.\n\nCAMERA: Fixed mirror viewpoint at approximately chest height, realistic smartphone-camera perspective, 35–50mm equivalent focal length, no wide-angle distortion. Preserve the original square 1:1 aspect ratio, perspective, framing, and visible background.\n\nRENDERING: Photorealistic, natural skin pores, realistic hair strands, accurate hands, five anatomically plausible fingers per visible hand, realistic fabric textures, correct mirror reflections, and clear environmental details.\n\nHARD CONSTRAINTS: Preserve scene and composition before enhancing aesthetics. No close-up crop, no zoom, no background replacement, no excessive bokeh, no reversed hand positions, no changed phone orientation, no altered handbag placement, no exaggerated facial retouching, and no extra fingers or accessories."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE | STRICT SCENE PRESERVATION | MASCULINE FASHION ADAPTATION\n\nUse the uploaded image as the primary reference image. Reconstruct the same photograph with maximum fidelity to its environment, geometry, framing, lighting, and pose. Change the subject to a young Iranian man wearing conventional masculine clothing.\n\nSUBJECT:\nA photorealistic young Iranian man with thick, voluminous, slightly wavy black hair styled away from the forehead, dark expressive eyes, defined eyebrows, a natural straight nose, a masculine jawline, and subtle stubble. Realistic facial proportions, natural skin pores, and a calm, confident expression. His head is slightly turned to the right side of the frame, looking at his phone screen in the mirror.\n\nPOSE LOCK:\nPreserve the reference's mirror-selfie arrangement. The subject stands slightly left of center. His right hand holds a light-blue smartphone vertically at face level, partially obscuring the side of his face. His left hand rests naturally in his trouser pocket. Keep the same general torso angle, raised arm position, wrist angle, phone orientation, and relaxed body posture. No horizontal flipping.\n\nOUTFIT REPLACEMENT:\nRemove all original feminine clothing and accessories. Dress the subject in:\n- A light taupe-gray men's blazer with conventional notched lapels, structured shoulders, and a relaxed tailored fit.\n- An ivory-white men's button-up shirt with a visible front button placket, open collar, and sleeves rolled to the forearms.\n- Matching light taupe-gray men's tailored trousers with subtle pleats.\n- A simple dark-brown leather belt with a modest metal buckle.\n- A classic understated wristwatch.\n\nThe shirt must clearly read as a men's shirt. The blazer must have the structure and proportions of a men's jacket, not a long women's coat. No headscarf, no handbag, no decorative hanging scarf, and no feminine accessories.\n\nBACKGROUND LOCK:\nPreserve the large beige wall, warm window-shaped shadows, dark wooden dresser on the left, framed picture, lit candle, understated decorative objects, textured light-colored chair in the lower-left foreground, tall dark mirror frame on the right, and large leafy indoor plant along the right edge. Do not remove, replace, or reposition any of these elements.\n\nCAMERA LOCK:\nKeep the original square 1:1 aspect ratio, mirror viewpoint, approximate chest-height camera position, realistic smartphone perspective, and 35–50mm equivalent lens appearance. Maintain the same subject scale and the broad empty wall area to the right. Avoid zooming in, wide-angle distortion, or artificial perspective changes.\n\nLIGHTING LOCK:\nRetain warm daylight entering from the left, soft directional highlights, gentle window shadows, natural shadow gradients, realistic skin tones, and the original beige, taupe, ivory, brown, and green color palette.\n\nPHOTOREALISM:\nAccurate male anatomy, naturally formed hands with five fingers, realistic hair texture, natural skin pores, detailed shirt buttons and fabric, believable tailoring, accurate reflections, realistic foliage, and restrained fashion-editorial color grading.\n\nFINAL CONSTRAINTS:\nThe final result must look like the same scene photographed in the same room with the same camera placement. Only the subject's gender presentation and clothing should change. No headscarf, no handbag, no purse, no long tunic, no feminine overcoat, no added props, no background replacement, no excessive bokeh, no close-up crop, and no distorted hands."
         }
       ],
-      "last_message_id": 3969,
-      "last_user_message_id": 3969,
+      "last_message_id": 3971,
+      "last_user_message_id": 3971,
       "processed_message_ids": [
         3930,
         3932,
@@ -2196,18 +2201,18 @@
         3961,
         3964,
         3966,
-        3969
+        3969,
+        3971
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "8a2635e761",
-      "revision": 24,
+      "stage_token": "a024e95144",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "8a2635e761",
+      "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
     }
   },
   "settings": {
