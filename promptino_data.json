@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2234,8 +2234,8 @@
         3996
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "afa992606b",
-      "revision": 13,
+      "stage_token": "4668df1963",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
