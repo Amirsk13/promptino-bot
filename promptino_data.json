@@ -2088,27 +2088,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3869,
-      "last_user_message_id": 3869,
+      "last_message_id": 3871,
+      "last_user_message_id": 3871,
       "processed_message_ids": [
         3862,
         3864,
         3867,
-        3869
+        3869,
+        3871
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "600144218f",
-      "revision": 5,
+      "stage_token": "74f52c7c2b",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "600144218f",
+      "prompt_sent_token": null,
       "name": "Golden Harvest Portrait",
-      "number": 11
+      "number": 11,
+      "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل."
     }
   },
   "settings": {
