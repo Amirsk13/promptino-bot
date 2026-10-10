@@ -2105,7 +2105,7 @@
       "stage_token": "36e296aca4",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "36e296aca4",
       "name": "Golden Harvest Portrait"
     }
   },
