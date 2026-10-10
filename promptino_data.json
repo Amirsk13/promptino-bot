@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2217,10 +2217,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Using the attached image as the primary visual reference, recreate the same elegant, photorealistic close-up portrait as a masculine version of the same scene. Preserve the camera position, tight head-and-shoulders framing, head orientation, downward gaze, subtle smile, background, lighting, and overall composition.\n\nSubject: A young adult Iranian man with a naturally masculine oval-to-angular face, defined but realistic jawline, dark naturally shaped eyebrows, almond-shaped dark brown eyes lowered toward the ground, a straight nose, naturally shaped muted rose-brown lips, and realistic warm light-to-medium skin texture. His thick, glossy black hair is styled in a voluminous swept-back half-up arrangement with a compact, loosely gathered top section and longer hair flowing behind his head. Two natural loose strands frame the sides of his face. Keep the hairstyle sophisticated and believable, adapting the original silhouette to a masculine appearance without changing the framing.\n\nWardrobe and accessories: A plain black top with a wide neckline and a delicate understated silver chain necklace. Keep the styling minimal and close to the original.\n\nPose and framing: Head gently tilted downward and slightly toward the viewer's right, eyelids lowered, lips forming a restrained natural smile. Tight head-and-shoulders portrait, with the face occupying approximately the same area of the square image as in the reference. Preserve the three-quarter angle and do not turn the face toward the camera.\n\nEnvironment: Cool pale-gray interior background with subtle, softly blurred dark abstract decorative lines. Maintain the same background layout, visual texture, and understated studio atmosphere.\n\nCamera and lighting: Professional portrait photography using an approximately 70–85mm full-frame equivalent lens, eye-level to slightly elevated viewpoint, natural facial proportions, and moderate shallow depth of field. Soft diffused frontal lighting, gentle side shadows, subtle highlights on the forehead, nose, and glossy black hair, and smooth natural tonal transitions. Preserve the contrast between the cool gray background and warm skin tones.\n\nStyle: Photorealistic high-end editorial portrait, calm and refined mood, natural masculine facial anatomy, realistic pores, individual hair strands, accurate anatomy, subtle color grading, and no artificial skin smoothing. This is the masculine counterpart of the reference composition, not a different scene. Square 1:1 aspect ratio, 1024 × 1024 composition."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Recreate the attached reference image as a highly realistic portrait of a young adult Iranian woman. Treat the reference as the composition and styling guide. Preserve the original three-quarter facial angle, downward gaze, gentle smile, elaborate black hairstyle, black clothing, fine silver necklace, cool gray background, soft lighting, and square crop.\n\nA young Iranian woman with an elegant oval face, naturally full dark eyebrows, lowered almond-shaped dark brown eyes, subtle warm neutral eyeshadow, fine eyeliner, a straight nose, full natural terracotta-rose lips, and lifelike warm-toned skin. Her thick, shiny black hair forms a voluminous high half-up bun with swept-back sections and long dark hair cascading behind her shoulders. Two loose, defined S-shaped curls frame her face on either side. Retain the hairstyle's original volume and asymmetry.\n\nShe wears a simple black wide-neck top and a fine silver chain necklace. Her head is inclined gently downward and turned slightly to the viewer's right, with eyes closed or nearly closed and a soft, confident smile. Frame her tightly from the upper chest upward, keeping the face at the same scale as the reference.\n\nBackground: pale cool-gray interior wall with faint, abstract dark decorative strokes, softly out of focus but still visible. Do not replace the background with flowers, nature, or a different room.\n\nLighting: soft diffused studio light, gentle facial shadows, delicate highlights on the cheeks and hair, natural skin tones against the cooler background. Use the visual characteristics of a 70–85mm portrait lens, realistic perspective, moderate shallow depth of field, and restrained cinematic color grading.\n\nDeliver a refined, photorealistic beauty portrait with authentic skin texture, detailed hair strands, natural facial proportions, and no plastic skin, exaggerated makeup, or excessive blur. Match the reference's mood and composition closely. 1:1 square aspect ratio."
         }
       ],
-      "last_message_id": 3999,
-      "last_user_message_id": 3999,
+      "last_message_id": 4001,
+      "last_user_message_id": 4001,
       "processed_message_ids": [
         3975,
         3977,
@@ -2232,18 +2237,18 @@
         3991,
         3994,
         3996,
-        3999
+        3999,
+        4001
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "b04e4c3f21",
-      "revision": 15,
+      "stage_token": "c2c93a0db3",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "b04e4c3f21",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
-      "pending_label": "Gemini-Girl"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
     }
   },
   "settings": {
