@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2167,8 +2167,8 @@
           "prompt": "Analyze the attached reference image and use it as the visual source for a faithful image-to-image reconstruction. Generate a highly realistic photograph of the same scene with a young Iranian woman as the subject.\n\nMatch the original square composition: a nearly full-body mirror selfie with the subject centered slightly left, visible from her head to below her hips. Preserve the exact mirror viewpoint, subject scale, body angle, head tilt, hand positions, and surrounding room.\n\nThe woman has an oval face, defined dark eyebrows, almond-shaped dark eyes, a straight delicate nose, natural lips, and long dark wavy hair partially visible beneath a light beige-taupe headscarf. Her expression is composed and subtly confident. She looks at her phone screen in the mirror.\n\nReproduce the original outfit: a light taupe-gray double-breasted blazer with structured notched lapels, two rows of buttons, relaxed sleeves, and a tailored shape; a matching neutral lower garment; a softly draped beige-taupe headscarf; a narrow brown leather belt; and a decorative white fabric scarf hanging from the belt. Her right hand holds a light-blue smartphone vertically beside her face. Her left hand rests at waist level beside a small rectangular quilted taupe handbag with a short handle and gold-tone clasp. Preserve the accessories and the natural interaction between both hands and the objects.\n\nReconstruct the exact interior: warm beige wall, soft rectangular sunlight and window shadows, dark wooden dresser at the left with a small framed picture and candle, a textured upholstered chair entering the lower-left foreground, a dark vertical mirror frame on the right, and a large green leafy indoor plant along the right edge.\n\nLighting is warm, soft natural daylight entering from the left. Preserve the gentle shadows, warm neutral color palette, realistic skin texture, visible textile detail, and natural background clarity. Use a realistic 35–50mm equivalent perspective without wide-angle distortion. Keep the background recognizable and detailed rather than excessively blurred.\n\nPhotographic style: authentic smartphone mirror photography, elegant understated fashion editorial, natural proportions, accurate reflection, realistic hands, detailed fabrics, balanced exposure, and subtle natural color grading.\n\nMaintain the reference image's square 1:1 aspect ratio. Do not change the scene, reverse the image, move the phone, alter the pose, crop closer, remove the plant or furniture, exaggerate facial beauty, or add objects that are absent from the reference."
         }
       ],
-      "last_message_id": 3956,
-      "last_user_message_id": 3956,
+      "last_message_id": 3959,
+      "last_user_message_id": 3959,
       "processed_message_ids": [
         3930,
         3932,
@@ -2181,17 +2181,19 @@
         3949,
         3951,
         3954,
-        3956
+        3956,
+        3959
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "b7e8b1afa2",
-      "revision": 17,
+      "stage_token": "c20aa7b4f0",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
