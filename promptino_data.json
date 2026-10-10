@@ -2145,31 +2145,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3941,
-      "last_user_message_id": 3941,
+      "last_message_id": 3944,
+      "last_user_message_id": 3944,
       "processed_message_ids": [
         3930,
         3932,
         3935,
         3937,
         3939,
-        3941
+        3941,
+        3944
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "465c0c5d5c",
-      "revision": 8,
+      "stage_token": "ab0b7d80dc",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
