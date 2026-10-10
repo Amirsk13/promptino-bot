@@ -1974,23 +1974,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 3749,
-      "last_user_message_id": 3749,
+      "last_message_id": 3752,
+      "last_user_message_id": 3752,
       "processed_message_ids": [
         3747,
-        3749
+        3749,
+        3752
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "3aceeab17c",
-      "revision": 3,
+      "stage_token": "acfa671a2e",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": "acfa671a2e",
+      "name": "Shadowlit Persian Portrait"
     }
   },
   "settings": {
