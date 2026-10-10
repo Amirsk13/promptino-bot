@@ -1974,7 +1974,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
@@ -1986,8 +1986,8 @@
           "prompt": "Use the attached reference image as the exact visual guide. Create a photorealistic close-up portrait of a young Iranian woman with long, thick, dark brown-black hair, subtle lighter brown strands, full natural eyebrows, almond-shaped dark brown eyes, delicate eyeliner, a straight nose, naturally full muted rose-brown lips, and realistic skin texture. Her expression is calm and slightly mysterious. Her head is gently tilted, her face turned slightly toward the right side of the frame, with her eyes looking toward the camera. Preserve the original facial proportions, hairstyle, gaze, and head angle.\n\nShe wears a cream-colored ribbed turtleneck sweater. Reproduce the plain warm off-white wall, the soft natural sunlight from the upper right, and the distinctive diagonal window-frame shadows crossing her forehead, eyes, cheeks, and background. Tight square composition, face filling most of the frame, hair extending to the edges, eye-level camera, approximately 70–85mm portrait lens, natural perspective, realistic skin pores, crisp eyes, moderate depth of field, subtle film-like contrast, warm neutral color grading. Keep the background recognizable rather than excessively blurred. No beauty filter, plastic skin, exaggerated makeup, altered pose, or artificial studio lighting. Preserve the reference image's composition and intimate editorial photography style."
         }
       ],
-      "last_message_id": 3763,
-      "last_user_message_id": 3763,
+      "last_message_id": 3766,
+      "last_user_message_id": 3766,
       "processed_message_ids": [
         3747,
         3749,
@@ -1996,17 +1996,19 @@
         3756,
         3758,
         3761,
-        3763
+        3763,
+        3766
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "330b294366",
-      "revision": 11,
+      "stage_token": "68694231a8",
+      "revision": 12,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Shadowlit Persian Portrait",
       "number": 9,
       "suitable": "پرتره کلوزآپ با نور طبیعی و سایه‌های پنجره روی چهره",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره مدلینگ پسرانه و دخترانه\nعکاسی ادیتوریال و هنری\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nطراحی پرتره سینمایی با نور طبیعی"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره مدلینگ پسرانه و دخترانه\nعکاسی ادیتوریال و هنری\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nطراحی پرتره سینمایی با نور طبیعی",
+      "pending_label": "ChatGPT-Boy"
     }
   },
   "settings": {
