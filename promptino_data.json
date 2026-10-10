@@ -2031,7 +2031,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E"
@@ -2063,8 +2063,8 @@
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION. Use the uploaded photograph as the primary visual reference. Preserve the composition, camera perspective, subject placement, pose, book interaction, wardrobe, autumn scenery, lighting, and photographic realism.\n\nCreate a natural young Iranian woman, approximately 20–28 years old, in right-side profile facing left. She has dark eyes looking down at the book, natural facial proportions, dark hair partially visible under a thick taupe, beige, and brown geometric-patterned headscarf, and a calm, contemplative expression.\n\nWARDROBE: Retain the voluminous layered headscarf wrapped around the head and neck, with detailed woven geometric motifs and natural fabric folds. Preserve the patterned knitted sweater with horizontal stripes in brown, cream, beige, and muted gray.\n\nHANDS AND BOOK: An open paperback book is held diagonally in the lower-left foreground. One hand supports it underneath while the other steadies it. Preserve the original hand positions, book angle, visible pages, and realistic finger anatomy.\n\nFRAMING: Square 1:1 composition. Medium-close portrait from the upper torso upward. Subject on the right half; book extends toward the lower-left. Natural 50–70mm lens perspective, no artificial zoom or wide-angle distortion.\n\nBACKGROUND: Retain the dark mountain ridge in the upper-left, orange and rust-colored autumn foliage, muted green-brown vegetation, and subdued gray-blue landscape near the bottom. Do not replace the environment.\n\nLIGHTING: Soft diffused daylight, subtle facial shadows, natural skin texture, earthy autumn tones, moderate contrast, and restrained cinematic grading. Keep the subject and book sharp while allowing moderate background blur without losing recognizable scenery.\n\nPhotorealistic editorial photography, realistic woven fibers, natural anatomy, authentic facial features, accurate sweater patterns, and square aspect ratio.\n\nSTRICT REFERENCE LOCK: No mirroring, pose changes, altered hand positions, book displacement, excessive zoom, artificial skin smoothing, removed scenery, or unrelated objects."
         }
       ],
-      "last_message_id": 3853,
-      "last_user_message_id": 3853,
+      "last_message_id": 3856,
+      "last_user_message_id": 3856,
       "processed_message_ids": [
         3817,
         3819,
@@ -2081,17 +2081,19 @@
         3846,
         3848,
         3851,
-        3853
+        3853,
+        3856
       ],
       "flow_id": "83ed27f699a9",
-      "stage_token": "88c14fd4d3",
-      "revision": 23,
+      "stage_token": "e8b4e967e1",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
       "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
-      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
