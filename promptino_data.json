@@ -1974,27 +1974,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 3754,
-      "last_user_message_id": 3754,
+      "last_message_id": 3756,
+      "last_user_message_id": 3756,
       "processed_message_ids": [
         3747,
         3749,
         3752,
-        3754
+        3754,
+        3756
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "97dd1eb7e4",
-      "revision": 5,
+      "stage_token": "a486f6d05d",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "97dd1eb7e4",
+      "prompt_sent_token": null,
       "name": "Shadowlit Persian Portrait",
-      "number": 9
+      "number": 9,
+      "suitable": "پرتره کلوزآپ با نور طبیعی و سایه‌های پنجره روی چهره"
     }
   },
   "settings": {
