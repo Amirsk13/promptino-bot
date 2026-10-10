@@ -2088,29 +2088,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3871,
-      "last_user_message_id": 3871,
+      "last_message_id": 3873,
+      "last_user_message_id": 3873,
       "processed_message_ids": [
         3862,
         3864,
         3867,
         3869,
-        3871
+        3871,
+        3873
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "74f52c7c2b",
-      "revision": 6,
+      "stage_token": "96bece49fe",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "74f52c7c2b",
+      "prompt_sent_token": null,
       "name": "Golden Harvest Portrait",
       "number": 11,
-      "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل."
+      "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل.",
+      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع"
     }
   },
   "settings": {
