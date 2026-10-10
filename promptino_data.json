@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2157,8 +2157,8 @@
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the photograph as closely as possible, preserving the original composition, environment, pose, camera perspective, lighting, colors, and photographic realism.\n\nSUBJECT: A stylish young Iranian woman with a naturally attractive oval face, defined dark eyebrows, almond-shaped dark eyes, a straight delicate nose, natural full lips, and long dark brown hair with loose waves, partially visible beneath a light taupe-beige headscarf. Her expression is calm and confident, with a subtle closed-mouth smile. Her gaze is directed toward her smartphone screen through the mirror.\n\nPOSE AND COMPOSITION: A vertical, nearly full-body mirror selfie, framed from the head to below the hips with the lower outfit and handbag visible near the bottom edge. Her body faces the mirror with a slight natural angle. Her right hand holds a light-blue smartphone vertically at face level, partially covering the right side of her face in the reflection. Her left hand rests naturally near her waist, interacting with the handbag and belt area. Preserve the exact hand positions, phone orientation, body posture, and head angle. Do not mirror or reverse the reference composition.\n\nCLOTHING: A sophisticated light-grayish taupe double-breasted blazer with structured lapels, two rows of buttons, slightly oversized sleeves, and a tailored silhouette. A matching long neutral-toned skirt or lower garment continues beneath the blazer. A soft beige-taupe headscarf wraps naturally around the head and neck, with realistic folds and fabric texture. A slim brown leather belt with a decorative white hanging scarf detail defines the waist. She carries a small rectangular quilted taupe handbag with a short top handle, a subtle gold-tone clasp, and a refined luxury-inspired appearance. Include a delicate wristwatch or bracelet and a fine minimalist bracelet on the phone-holding wrist where visible.\n\nENVIRONMENT: Reproduce the exact warm, elegant interior. A large plain beige wall fills most of the background. On the left, include a dark wooden dresser with a small framed picture, a lit candle, and subtle decorative objects. A light textured upholstered chair enters the bottom-left foreground. On the right, preserve the tall dark-framed mirror edge or reflective panel and the large leafy green indoor plant extending into the frame. Keep all objects in their original relative positions.\n\nCAMERA: Straight-on mirror photography at approximately chest height, natural smartphone-camera perspective, approximately 35–50mm full-frame equivalent. Preserve the original subject-to-frame ratio and the visible surrounding room. No close-up, no wide-angle distortion, no artificial camera tilt.\n\nLIGHTING AND COLOR: Warm natural sunlight enters from the left, creating soft window-shaped shadows on the beige wall and gentle highlights on the face, scarf, and blazer. Use a muted palette of taupe, beige, warm gray, brown, and natural green. Maintain soft realistic contrast, subtle shadow gradients, natural skin texture, and a cozy premium fashion-editorial atmosphere.\n\nIMAGE QUALITY: Photorealistic mirror selfie, believable anatomy, anatomically correct hands and fingers, realistic fabric folds, detailed hair strands, natural skin pores, accurate reflections, restrained color grading, and crisp subject detail. Preserve the original square 1:1 aspect ratio.\n\nPRIORITY: Faithfully reproduce the reference scene, framing, pose, smartphone placement, outfit silhouette, handbag position, furniture, plants, and warm side lighting. Do not simplify the environment, crop closer, add unnecessary objects, or introduce dramatic cinematic effects."
         }
       ],
-      "last_message_id": 3946,
-      "last_user_message_id": 3946,
+      "last_message_id": 3949,
+      "last_user_message_id": 3949,
       "processed_message_ids": [
         3930,
         3932,
@@ -2167,17 +2167,19 @@
         3939,
         3941,
         3944,
-        3946
+        3946,
+        3949
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "aedc77f0b3",
-      "revision": 11,
+      "stage_token": "9cd053f117",
+      "revision": 12,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
+      "pending_label": "ChatGPT-Boy"
     }
   },
   "settings": {
