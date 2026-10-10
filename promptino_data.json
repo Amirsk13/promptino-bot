@@ -2088,7 +2088,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
@@ -2115,8 +2115,8 @@
           "prompt": "Reconstruct the uploaded photograph as a photorealistic image-to-image portrait of a young Iranian man. Maintain the source image's exact scene structure, camera perspective, subject scale, seated posture, hand placement, clothing style, giant hay bale, countryside, lighting, and warm earthy color palette.\n\nSUBJECT: A young Iranian man, approximately 20–28 years old, with short thick dark hair styled upward, dark eyebrows, a natural masculine face, faint mustache, subtle facial hair, and realistic skin texture. He sits in front of the hay bale with a calm, self-assured, contemplative expression. His head and gaze are directed toward the right side of the frame.\n\nPOSE: Preserve the original seated pose and limb positions. His torso is upright and relaxed. One knee is raised, with the forearm on the image-left side resting loosely across it and the hand hanging over the knee. His other hand rests near the opposite thigh or knee. Keep both legs bent, shoulders relaxed, and body facing the camera with the same slight natural asymmetry.\n\nWARDROBE: Loose white button-up shirt with an open collar and casually rolled sleeves, black relaxed-fit trousers, a simple thin chain necklace, and a dark wristwatch. Keep the clothing casual and natural, with realistic folds and no added jacket or headwear.\n\nSCENE: A huge round golden hay bale occupies most of the background immediately behind him. Preserve its circular outline, layered dry straw, rough edges, individual stalks, and detailed texture. Retain the dry field in the foreground, distant green-brown fields, softly blurred trees, and a hazy pale sky.\n\nFRAMING: Square 1:1 composition, medium-wide full seated portrait with the head, torso, raised knee, other leg, and feet or near-feet visible. Maintain the original camera distance, subject size, and placement. The hay bale should remain a dominant background element, not a small distant object.\n\nLIGHT AND COLOR: Natural golden-hour sunlight, warm straw highlights, soft directional shadows, warm skin tones, bright but realistic white fabric, black trousers with retained detail, muted countryside greens, and a subtle cinematic finish.\n\nCAMERA: Natural 50mm portrait-lens perspective, realistic proportions, moderate depth of field, and softly blurred but recognizable distant trees. High-resolution photorealism with natural anatomy, realistic hair, accurate hands, and believable textile texture.\n\nSTRICT CONSTRAINTS: Do not change the pose, hand positions, leg arrangement, gaze, clothes, background, or camera perspective. No mirrored image, no close-up crop, no excessive bokeh, no additional people, and no unrelated props."
         }
       ],
-      "last_message_id": 3893,
-      "last_user_message_id": 3893,
+      "last_message_id": 3896,
+      "last_user_message_id": 3896,
       "processed_message_ids": [
         3862,
         3864,
@@ -2131,17 +2131,19 @@
         3886,
         3888,
         3891,
-        3893
+        3893,
+        3896
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "09e5cc7fa5",
-      "revision": 20,
+      "stage_token": "3cd4482459",
+      "revision": 21,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "3cd4482459",
       "name": "Golden Harvest Portrait",
       "number": 11,
       "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل.",
-      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع"
+      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
