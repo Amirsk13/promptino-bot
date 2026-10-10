@@ -2088,7 +2088,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
@@ -2120,8 +2120,8 @@
           "prompt": "IMAGE-TO-IMAGE. Use the uploaded photograph as the strict visual reference. Recreate the same rural golden-hour portrait with a natural young Iranian woman. Preserve the original composition, camera angle, subject scale, seated pose, arm and hand positions, hay bale, foreground, background, lighting, and color grading.\n\nSUBJECT: Young Iranian woman in her twenties, with natural facial proportions, dark eyes and eyebrows, realistic skin, and a calm, thoughtful expression. Her head turns slightly toward the right side of the frame, looking into the distance. Use a plain black headscarf covering her hair and wrapping naturally around the neck.\n\nPOSE: The woman sits on the ground directly in front of the huge round hay bale. Her torso is upright and relaxed, one knee is raised in front of her, one forearm rests loosely on the raised knee with the hand hanging naturally, and the other hand rests near the opposite thigh. Preserve the exact seated configuration and natural hand anatomy.\n\nCLOTHING: Loose white button-up shirt with an open collar and casually rolled sleeves, relaxed black trousers, a simple necklace, and a wristwatch. Maintain the reference's casual styling, natural folds, and understated accessories.\n\nENVIRONMENT: Large circular golden hay bale dominating the central background, with individual dry straw strands, irregular edges, and realistic layered texture. Keep the dry harvested field and scattered straw in the foreground, blurred trees and vegetation in the distance, and pale warm sky.\n\nCOMPOSITION: Square 1:1 image. Medium-wide seated portrait showing the full seated pose and legs down to the feet or near-feet. Keep the subject slightly right of center and the hay bale large behind her. Preserve the source camera distance and perspective. Do not zoom or crop tightly.\n\nLIGHTING: Warm golden-hour light, natural highlights on straw and skin, gentle directional shadows, realistic white shirt exposure, muted green-brown background, and subtle cinematic color grading.\n\nCAMERA AND FINISH: Natural 50mm portrait-lens look, moderate depth of field, clear subject and hay texture, softly blurred but recognizable distant trees. Photorealistic, realistic anatomy, natural skin texture, detailed fabric and straw.\n\nSTRICT REFERENCE LOCK: No pose changes, no mirrored composition, no changed hand placement, no altered hay bale, no replaced background, no excessive bokeh, no extra people, and no unnecessary props."
         }
       ],
-      "last_message_id": 3898,
-      "last_user_message_id": 3898,
+      "last_message_id": 3901,
+      "last_user_message_id": 3901,
       "processed_message_ids": [
         3862,
         3864,
@@ -2138,17 +2138,19 @@
         3891,
         3893,
         3896,
-        3898
+        3898,
+        3901
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "ad714470ec",
-      "revision": 23,
+      "stage_token": "2ce174d6f8",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Harvest Portrait",
       "number": 11,
       "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل.",
-      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع"
+      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
