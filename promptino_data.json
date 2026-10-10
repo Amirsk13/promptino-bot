@@ -2088,7 +2088,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
@@ -2105,8 +2105,8 @@
           "prompt": "Use the uploaded image as the primary visual reference for a photorealistic image-to-image recreation. Preserve the original rural setting, composition, camera distance, seated pose, hand positions, clothing, hay bale, background, golden-hour light, and natural cinematic mood.\n\nSUBJECT: A natural young Iranian man, approximately 20–28 years old, seated on the ground in front of a huge round hay bale. He has short, thick, dark hair styled upward and backward, dark eyebrows, a natural masculine jawline, a faint mustache, subtle facial hair, and realistic skin texture. His expression is calm and thoughtful. His head is turned slightly toward the right side of the frame, with his gaze directed into the distance.\n\nPOSE: Reproduce the reference posture. His torso is upright and relaxed against the hay bale. One knee is raised prominently in front of his body. His image-left forearm rests loosely on the raised knee, with the hand hanging naturally over it. His other hand rests near the opposite thigh or knee. Keep the original leg spacing, relaxed shoulders, arm angles, and body orientation. Do not mirror or reinterpret the pose.\n\nCLOTHING: A loose white button-up shirt with an open collar and casually rolled sleeves, paired with relaxed black trousers. The shirt is slightly open at the upper chest, with a thin, understated chain necklace. Include a dark wristwatch and natural folds in the shirt and trousers. No head covering. Keep the outfit simple, youthful, and consistent with the reference.\n\nENVIRONMENT: A massive round golden-brown hay bale sits immediately behind the subject and dominates the central background. Preserve the circular shape, irregular straw edges, dense tangled stalks, and highly detailed dry-hay texture. Retain the dry field and scattered straw in the foreground, softly blurred green-brown fields, distant trees, and hazy countryside horizon.\n\nCOMPOSITION: Square 1:1 aspect ratio. Medium-wide full seated portrait, including the head, torso, both bent legs, and feet or near-feet where visible. Keep the subject centered slightly to the right, occupying the same relative scale as in the reference. The hay bale should remain large and extend across most of the background. Preserve the original camera distance and natural perspective. No close-up crop.\n\nLIGHTING AND COLOR: Warm golden-hour sunlight from the side, illuminating the straw, face, and white shirt. Soft but directional highlights, gentle natural shadows, a pale warm sky, muted countryside greens, and rich amber straw. Use restrained cinematic color grading without excessive orange saturation or artificial glow.\n\nCAMERA AND QUALITY: Natural 50mm portrait-lens perspective, moderate depth of field, realistic background separation while retaining recognizable trees and fields. High-resolution photorealistic editorial photography, accurate male anatomy, natural skin texture, detailed hair, realistic hands, and believable clothing folds.\n\nSTRICT REFERENCE CONSTRAINTS: Do not change the seated pose, hand positions, gaze direction, clothing colors, hay bale, environment, camera distance, or composition. Do not mirror the image, crop closer, remove the surrounding landscape, add headwear, introduce extra people, or add unrelated props."
         }
       ],
-      "last_message_id": 3883,
-      "last_user_message_id": 3883,
+      "last_message_id": 3886,
+      "last_user_message_id": 3886,
       "processed_message_ids": [
         3862,
         3864,
@@ -2117,17 +2117,19 @@
         3876,
         3878,
         3881,
-        3883
+        3883,
+        3886
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "77c312c4df",
-      "revision": 14,
+      "stage_token": "cb56116816",
+      "revision": 15,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Harvest Portrait",
       "number": 11,
       "suitable": "بازسازی پرتره روستایی در نور طلایی غروب با حفظ ژست نشستن مقابل کپه بزرگ کاه، پیراهن سفید، شلوار مشکی، اکسسوری‌ها و پس‌زمینه طبیعی؛ همراه با نسخه دخترانه و پسرانه مستقل.",
-      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع"
+      "for_what": "ساخت عکس پروفایل پاییزی و روستایی\nتبدیل تصویر مرجع به نسخه دخترانه و پسرانه\nتولید پرتره واقع‌گرایانه با هوش مصنوعی\nساخت تصاویر سینمایی با نور Golden Hour\nحفظ ژست، لباس، محیط و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Gemini-Girl"
     }
   },
   "settings": {
