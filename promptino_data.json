@@ -1974,7 +1974,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
@@ -1991,8 +1991,8 @@
         3758
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "8f63b07a4c",
-      "revision": 7,
+      "stage_token": "445dd933c0",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Shadowlit Persian Portrait",
