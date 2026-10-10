@@ -2088,23 +2088,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3864,
-      "last_user_message_id": 3864,
+      "last_message_id": 3867,
+      "last_user_message_id": 3867,
       "processed_message_ids": [
         3862,
-        3864
+        3864,
+        3867
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "a9e26bf1dd",
-      "revision": 3,
+      "stage_token": "36e296aca4",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Golden Harvest Portrait"
     }
   },
   "settings": {
