@@ -2145,27 +2145,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3937,
-      "last_user_message_id": 3937,
+      "last_message_id": 3939,
+      "last_user_message_id": 3939,
       "processed_message_ids": [
         3930,
         3932,
         3935,
-        3937
+        3937,
+        3939
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "0889748feb",
-      "revision": 5,
+      "stage_token": "a9a6eb0694",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "0889748feb",
+      "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
-      "number": 12
+      "number": 12,
+      "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه."
     }
   },
   "settings": {
