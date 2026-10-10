@@ -2202,14 +2202,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 3989,
-      "last_user_message_id": 3989,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Using the attached image as the primary visual reference, recreate the same elegant, photorealistic close-up portrait with a young adult Iranian woman as the subject. Preserve the reference composition, head position, camera distance, three-quarter profile, downward gaze, gently closed eyelids, subtle smile, and relaxed facial expression.\n\nSubject: A beautiful young Iranian woman with a softly contoured oval face, naturally defined dark eyebrows, almond-shaped dark brown eyes with subtle neutral eyeshadow and fine eyeliner, a straight delicate nose, naturally full muted terracotta-rose lips, and realistic warm light-to-medium skin with fine natural texture. Her long, thick, glossy black hair is styled in an elaborate high half-up bun with voluminous swept-back sections, the remaining hair flowing behind her shoulders, and two loose, curled tendrils framing her cheeks. Preserve the asymmetrical arrangement of the hair and face-framing strands.\n\nWardrobe and accessories: A simple black top with a wide neckline, a delicate fine silver necklace, and a tiny understated earring. Keep accessories minimal and faithful to the reference.\n\nPose and framing: Head gently tilted downward and slightly toward the viewer's right, eyes lowered, lips softly curved into a natural smile. Tight head-and-shoulders portrait with the head occupying approximately the same proportion of the square frame. Do not move closer to the face, change the head angle, or mirror the composition.\n\nEnvironment: Cool pale-gray interior background with subtle, softly blurred dark abstract decorative lines, maintaining the original understated studio atmosphere. Keep the background visible and recognizable rather than replacing it with a plain backdrop.\n\nCamera and lighting: Portrait photography, approximately 70–85mm full-frame equivalent, eye-level to slightly elevated camera position, natural perspective, shallow but realistic depth of field. Soft diffused frontal light with gentle side modeling, smooth transitions across the cheeks, subtle highlights on the hair and nose, and natural shadows beneath the chin. Cool gray background contrasted with warm skin tones, rich black hair, muted rose lips, restrained color grading, refined cinematic softness.\n\nStyle: High-end realistic beauty photography, elegant and serene mood, precise facial anatomy, detailed individual hair strands, realistic skin pores, natural hands-free composition, clean image quality, no excessive retouching. Preserve the reference's visual identity and composition while rendering a distinct fictional Iranian female subject. Square 1:1 aspect ratio, 1024 × 1024 composition."
+        }
+      ],
+      "last_message_id": 3991,
+      "last_user_message_id": 3991,
       "processed_message_ids": [
         3975,
         3977,
@@ -2217,18 +2223,18 @@
         3982,
         3984,
         3986,
-        3989
+        3989,
+        3991
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "6cf6b4d3e3",
-      "revision": 9,
+      "stage_token": "ae8d95805d",
+      "revision": 10,
       "mode": "create",
-      "prompt_sent_token": "6cf6b4d3e3",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
     }
   },
   "settings": {
