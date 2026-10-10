@@ -1992,7 +1992,7 @@
       "stage_token": "97dd1eb7e4",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "97dd1eb7e4",
       "name": "Shadowlit Persian Portrait",
       "number": 9
     }
