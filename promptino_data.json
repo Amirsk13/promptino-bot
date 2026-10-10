@@ -2031,7 +2031,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E"
@@ -2077,8 +2077,8 @@
         3848
       ],
       "flow_id": "83ed27f699a9",
-      "stage_token": "4254e17bd2",
-      "revision": 19,
+      "stage_token": "43972fe7c0",
+      "revision": 20,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
