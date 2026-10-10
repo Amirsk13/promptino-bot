@@ -2220,7 +2220,7 @@
       "stage_token": "cee5913044",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "cee5913044",
       "name": "Elegant Cinematic Portrait",
       "number": 13
     }
