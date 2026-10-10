@@ -2162,7 +2162,7 @@
       "stage_token": "acf1fcf738",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "acf1fcf738",
       "name": "Elegant Neutral Mirror Selfie"
     }
   },
