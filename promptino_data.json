@@ -2088,7 +2088,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIPFmrJxjwoMJTQ7QEZuxy-miSLL2kJAAL9DWsbYfNRUoLCIZsPNaWCAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPGGrJxlB_vdLbH2rDB3VFBt96ZtTjAAL-DWsbYfNRUmb3WU9suPQsAQADAgADeQADPQQ"
@@ -2120,8 +2120,8 @@
         3883
       ],
       "flow_id": "d462d69e69fa",
-      "stage_token": "771c8ddaea",
-      "revision": 13,
+      "stage_token": "77c312c4df",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Harvest Portrait",
