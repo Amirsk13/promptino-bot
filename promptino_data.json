@@ -2163,7 +2163,7 @@
       "stage_token": "0889748feb",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "0889748feb",
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12
     }
