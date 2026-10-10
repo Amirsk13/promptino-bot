@@ -2031,7 +2031,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIO0mrJwWo3OJuM6kzqVdHBXZH9I49IAAL7DWsbYfNRUjqfCQyj55z7AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIO0GrJwVpA91HeY5jOvIKxXgABR5LCDQAC-g1rG2HzUVJ_siEcF5694wEAAwIAA3gAAz0E"
@@ -2043,8 +2043,8 @@
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the photograph as faithfully as possible, preserving the original composition, subject placement, pose, camera perspective, book interaction, clothing, autumn landscape, lighting, colors, and photographic mood.\n\nCreate a realistic young Iranian woman, approximately 20–28 years old, shown in right-side profile facing left. She has natural Iranian facial features, dark eyes looking down at the open book, dark hair partially visible beneath a thick, layered taupe and brown geometric-patterned headscarf, and a calm, contemplative expression.\n\nShe wears a voluminous patterned scarf wrapped around her head and neck and a textured knitted sweater with horizontal geometric patterns in brown, cream, beige, and muted gray. Preserve the scarf's folds, woven texture, and the sweater's original pattern.\n\nHer hands hold an open paperback book diagonally across the lower-left foreground. One hand supports the book while the other naturally steadies it. Preserve the original hand positions, book angle, visible printed pages, and realistic finger anatomy.\n\nKeep the subject on the right half of the square frame, visible from approximately the upper torso upward. In the background, preserve the dark mountain ridge in the upper-left, softly blurred orange and rust-colored autumn trees, muted green-brown vegetation, and the subdued gray-blue landscape near the bottom.\n\nUse soft natural outdoor light, gentle facial shadows, realistic skin texture, warm muted autumn colors, moderate contrast, and subtle cinematic color grading. Simulate a natural 50–70mm portrait lens with moderate depth of field. Keep the subject and book detailed while retaining recognizable shapes in the softly blurred background.\n\nSquare 1:1 aspect ratio, photorealistic editorial portrait, natural facial proportions, realistic knitted fibers, detailed scarf patterns, anatomically correct hands.\n\nPrioritize reference fidelity. Do not mirror the image, change the reading pose, move the hands, enlarge the subject, replace the landscape, over-blur the background, or add unrelated objects."
         }
       ],
-      "last_message_id": 3833,
-      "last_user_message_id": 3833,
+      "last_message_id": 3836,
+      "last_user_message_id": 3836,
       "processed_message_ids": [
         3817,
         3819,
@@ -2053,17 +2053,19 @@
         3826,
         3828,
         3831,
-        3833
+        3833,
+        3836
       ],
       "flow_id": "83ed27f699a9",
-      "stage_token": "18e5f4e02e",
-      "revision": 11,
+      "stage_token": "24dd275e94",
+      "revision": 12,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Reading Portrait",
       "number": 10,
       "suitable": "بازسازی پرتره پاییزی با حفظ ترکیب‌بندی، شال و لباس بافتنی، کتاب باز در دست، نمای نیم‌رخ، پس‌زمینه کوهستانی و درختان نارنجی پاییزی؛ مناسب ساخت نسخه دخترانه و پسرانه با سه هوش مصنوعی.",
-      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
+      "for_what": "ساخت عکس پروفایل هنری و طبیعی\nتبدیل تصویر مرجع به نسخه دخترانه یا پسرانه\nتولید پرتره پاییزی واقع‌گرایانه\nساخت تصاویر سینمایی برای شبکه‌های اجتماعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
+      "pending_label": "ChatGPT-Boy"
     }
   },
   "settings": {
