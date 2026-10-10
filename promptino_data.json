@@ -2145,7 +2145,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPQ2rJ10Zmm1OZfey2oOHWTeFxVjAeAAIPDmsbYfNRUm70aFHTAtNJAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIPRWrJ11xqJCn_cmxzy6-Rb0m_3nSfAAIQDmsbYfNRUpbJUKocLOJ8AQADAgADeAADPQQ"
@@ -2160,10 +2160,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the same photograph as a highly realistic masculine version, preserving the original scene, composition, camera perspective, pose, lighting, colors, and photographic atmosphere.\n\nSUBJECT:\nA handsome young Iranian man in his early twenties, with naturally masculine facial proportions, a balanced oval face, defined jawline, thick dark eyebrows, dark almond-shaped eyes, a straight nose, natural lips, thick black hair styled in a voluminous, slightly wavy, casually swept-back hairstyle, and subtle natural stubble. Maintain realistic skin texture and a calm, confident expression. His head is slightly turned toward the right side of the frame, and his gaze is directed at his smartphone screen in the mirror.\n\nPOSE AND HAND POSITION:\nPreserve the reference's mirror-selfie setup and general body angle. The subject stands slightly left of center, holding a light-blue smartphone vertically beside his face with his right hand. His left hand rests naturally inside his trouser pocket. Keep the raised elbow, wrist angle, phone orientation, head tilt, and relaxed posture believable and consistent. Do not mirror or reverse the composition.\n\nMASCULINE OUTFIT:\nReplace the original feminine outfit entirely with a clearly recognizable men's smart-casual ensemble: a light taupe-gray tailored men's blazer with broad notched lapels and a relaxed but structured fit, worn over an ivory-white men's button-up shirt. The shirt has a visible front button placket, a natural open collar with the top buttons undone, and sleeves casually rolled to the forearms. Pair it with matching light taupe-gray tailored trousers featuring a masculine cut and subtle front pleats, plus a slim dark-brown leather belt with a simple metal buckle. A classic wristwatch is visible on the free wrist. The blazer must look like a conventional men's jacket, not a long coat, tunic, or women's overcoat.\n\nRemove the headscarf, handbag, decorative hanging scarf, and all feminine accessories completely. Keep the outfit elegant, understated, and realistic.\n\nENVIRONMENT:\nFaithfully recreate the original interior: a large warm beige wall, soft rectangular window shadows, a dark wooden dresser on the left, a small framed picture, a lit candle and subtle decorative objects on the dresser, a light textured upholstered chair entering the bottom-left foreground, a tall dark mirror frame on the right, and a large leafy green indoor plant extending along the right edge. Preserve the relative positions, sizes, and visibility of all environmental elements.\n\nCAMERA AND FRAMING:\nRealistic mirror photography from approximately chest height, natural smartphone-camera perspective, approximately 35–50mm full-frame equivalent focal length. Preserve the original square 1:1 composition, the subject's approximate size and position, and the large area of empty beige wall on the right. Keep the subject framed from slightly above the head to the upper legs. Do not zoom in or change the perspective.\n\nLIGHTING AND COLOR:\nWarm natural sunlight enters from the left, producing soft window-shaped shadows on the beige wall and gentle highlights across the subject's face, shirt, and blazer. Maintain the muted taupe, beige, ivory, warm-brown, and natural-green palette, with realistic shadows and natural skin tones.\n\nIMAGE STYLE:\nPhotorealistic smartphone mirror selfie, sophisticated contemporary Iranian men's fashion, realistic facial anatomy, detailed hair strands, natural skin pores, convincing textile textures, anatomically correct hands, accurate reflections, subtle contrast, and restrained color grading.\n\nSTRICT REFERENCE PRESERVATION:\nKeep the same room, furniture, plant positions, mirror frame, sunlight direction, composition, and general pose. Remove the scarf, handbag, and hanging fabric accessory. Use a conventional men's shirt, men's blazer, and tailored trousers. Do not introduce new props, change the room, alter the phone position, reverse the image, crop closer, or blur the background excessively."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Analyze the attached reference image and use it as the visual source for a faithful image-to-image reconstruction. Generate a highly realistic photograph of the same scene with a young Iranian woman as the subject.\n\nMatch the original square composition: a nearly full-body mirror selfie with the subject centered slightly left, visible from her head to below her hips. Preserve the exact mirror viewpoint, subject scale, body angle, head tilt, hand positions, and surrounding room.\n\nThe woman has an oval face, defined dark eyebrows, almond-shaped dark eyes, a straight delicate nose, natural lips, and long dark wavy hair partially visible beneath a light beige-taupe headscarf. Her expression is composed and subtly confident. She looks at her phone screen in the mirror.\n\nReproduce the original outfit: a light taupe-gray double-breasted blazer with structured notched lapels, two rows of buttons, relaxed sleeves, and a tailored shape; a matching neutral lower garment; a softly draped beige-taupe headscarf; a narrow brown leather belt; and a decorative white fabric scarf hanging from the belt. Her right hand holds a light-blue smartphone vertically beside her face. Her left hand rests at waist level beside a small rectangular quilted taupe handbag with a short handle and gold-tone clasp. Preserve the accessories and the natural interaction between both hands and the objects.\n\nReconstruct the exact interior: warm beige wall, soft rectangular sunlight and window shadows, dark wooden dresser at the left with a small framed picture and candle, a textured upholstered chair entering the lower-left foreground, a dark vertical mirror frame on the right, and a large green leafy indoor plant along the right edge.\n\nLighting is warm, soft natural daylight entering from the left. Preserve the gentle shadows, warm neutral color palette, realistic skin texture, visible textile detail, and natural background clarity. Use a realistic 35–50mm equivalent perspective without wide-angle distortion. Keep the background recognizable and detailed rather than excessively blurred.\n\nPhotographic style: authentic smartphone mirror photography, elegant understated fashion editorial, natural proportions, accurate reflection, realistic hands, detailed fabrics, balanced exposure, and subtle natural color grading.\n\nMaintain the reference image's square 1:1 aspect ratio. Do not change the scene, reverse the image, move the phone, alter the pose, crop closer, remove the plant or furniture, exaggerate facial beauty, or add objects that are absent from the reference."
         }
       ],
-      "last_message_id": 3954,
-      "last_user_message_id": 3954,
+      "last_message_id": 3956,
+      "last_user_message_id": 3956,
       "processed_message_ids": [
         3930,
         3932,
@@ -2175,18 +2180,18 @@
         3946,
         3949,
         3951,
-        3954
+        3954,
+        3956
       ],
       "flow_id": "7275039ffe1b",
-      "stage_token": "b01898c3f2",
-      "revision": 15,
+      "stage_token": "08c4b62a8e",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "b01898c3f2",
+      "prompt_sent_token": null,
       "name": "Elegant Neutral Mirror Selfie",
       "number": 12,
       "suitable": "بازسازی عکس آینه‌ای فشن با استایل مینیمال و لوکس، پوشش خنثی، نور گرم طبیعی و فضای داخلی شیک؛ مناسب نسخه دخترانه و پسرانه.",
-      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری",
-      "pending_label": "Gemini-Girl"
+      "for_what": "پروفایل شبکه‌های اجتماعی\nعکاسی فشن و استایل روزمره\nتولید محتوای پوشاک و استایل مینیمال\nساخت پرتره‌های واقع‌گرایانه با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه با حفظ صحنه و ژست\nتبلیغات پوشاک، کیف و اکسسوری"
     }
   },
   "settings": {
