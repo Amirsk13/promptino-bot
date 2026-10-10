@@ -2202,7 +2202,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
@@ -2229,8 +2229,8 @@
           "prompt": "Create a photorealistic masculine counterpart to the attached portrait while keeping the original scene and composition consistent. Use the reference for framing, head angle, downward gaze, expression, hairstyle silhouette, clothing, background, lighting, and color palette.\n\nSubject: A young adult Iranian man with a natural masculine oval face, gently defined jawline, thick dark eyebrows, almond-shaped dark brown eyes looking downward, a straight nose, natural rose-brown lips, and realistic warm light-to-medium skin. His expression is calm and subtly smiling, with relaxed facial muscles.\n\nHair: Thick, glossy black hair swept backward into a voluminous half-up style with a loosely gathered upper section and longer hair flowing behind the head. Preserve the lifted crown, natural volume, loose side strands, and asymmetrical silhouette of the reference while making the style plausible for a man.\n\nClothing and accessories: Plain black wide-neck top and a delicate silver chain necklace, kept understated and close to the reference.\n\nPose: Tight head-and-shoulders portrait. The head tilts downward and turns slightly toward the viewer's right. The eyelids remain lowered and the smile subtle. Maintain the original three-quarter angle and face-to-frame ratio; do not create a frontal passport-style portrait or an extreme close-up.\n\nBackground: Cool pale-gray interior with subtle blurred dark abstract decorative lines. Retain the visible background details and their soft, understated appearance.\n\nPhotography: Approximately 70–85mm portrait lens, natural perspective, slightly elevated or eye-level camera angle, moderate shallow depth of field, soft diffused studio lighting, subtle facial shadows, glossy hair highlights, and realistic skin detail. Maintain the cool gray and warm skin contrast, restrained saturation, and polished editorial quality.\n\nFinal image: A natural, sophisticated, cinematic portrait that looks like the same photograph recreated with a male subject. No artificial beauty filters, excessive sharpening, unrealistic hair, altered composition, or background replacement. Square 1:1 format."
         }
       ],
-      "last_message_id": 4006,
-      "last_user_message_id": 4006,
+      "last_message_id": 4009,
+      "last_user_message_id": 4009,
       "processed_message_ids": [
         3975,
         3977,
@@ -2245,17 +2245,19 @@
         3999,
         4001,
         4004,
-        4006
+        4006,
+        4009
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "80c3aefc48",
-      "revision": 20,
+      "stage_token": "6e59006e63",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
       "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
