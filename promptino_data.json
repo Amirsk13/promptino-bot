@@ -2202,29 +2202,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPh2rKnPH7l45WEksptjThAAG1DEsQ5AACKg9rG2HzUVLfsxHdir1-zQEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIPiWrKnP39vHMi-K0YfGHOdm54hp7KAAIrD2sbYfNRUkJ78VmGZ-i-AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 3984,
-      "last_user_message_id": 3984,
+      "last_message_id": 3986,
+      "last_user_message_id": 3986,
       "processed_message_ids": [
         3975,
         3977,
         3980,
         3982,
-        3984
+        3984,
+        3986
       ],
       "flow_id": "b085e38c8b25",
-      "stage_token": "bbd6cdd7ad",
-      "revision": 6,
+      "stage_token": "3ea4eac1cb",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "bbd6cdd7ad",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 13,
-      "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری"
+      "suitable": "پرتره‌های زیبای دخترانه و پسرانه با نورپردازی نرم، موهای حالت‌دار، ژست نیم‌رخ سه‌رخ و پس‌زمینه محو هنری",
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره آتلیه‌ای حرفه‌ای\nساخت تصاویر مدل دختر و پسر ایرانی\nتولید محتوای زیبایی و فشن\nساخت تصاویر سینمایی و هنری\nعکس پرتره برای شبکه‌های اجتماعی"
     }
   },
   "settings": {
