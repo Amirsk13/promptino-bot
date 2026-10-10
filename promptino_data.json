@@ -1974,7 +1974,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIOo2rJvUssv-RMWebeas_GlnSp8T4TAAL2DWsbYfNRUukqvKcBl2FTAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIOpWrJvVSFCjsAAU4wd6JwAuZAyco89gAC9w1rG2HzUVKbLIJGZr3ToQEAAwIAA3gAAz0E"
@@ -2004,10 +2004,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE. Use the provided photograph as the source of truth. Recreate the same portrait with maximum visual fidelity.\n\nSUBJECT: Young Iranian woman, long thick dark brown-black hair with subtle lighter brown strands, full dark eyebrows, almond-shaped dark eyes, fine eyeliner, straight nose, naturally full muted rose-brown lips, realistic skin pores, calm and subtly mysterious expression.\n\nPOSE AND COMPOSITION: Same gentle head tilt, same three-quarter facial angle toward the right side of the frame, same gaze toward the camera, same hair placement, same tight square crop. Face occupies most of the frame without further zooming.\n\nWARDROBE: Cream ribbed turtleneck sweater, preserving its visible collar and knit texture.\n\nENVIRONMENT: Plain warm off-white wall, no added objects.\n\nLIGHTING: Natural sunlight entering from the upper right. Preserve the distinctive diagonal window-frame shadows across the forehead, eyes, cheeks, and wall. Match the highlights on the nose, cheekbones, and forehead.\n\nCAMERA AND FINISH: Eye-level camera, approximately 70–85mm portrait lens, natural perspective, moderate depth of field, sharp eyes, realistic hair strands and skin texture, warm neutral color palette, restrained contrast, high-end natural-light editorial photography.\n\nPRIORITY: Preserve the reference's framing, pose, facial proportions, shadows, background, and color balance. Do not replace the setting, exaggerate bokeh, apply beauty filters, smooth the skin unnaturally, or alter the head position."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE TRANSFORMATION. Use the uploaded photograph as a strict reference for composition, lighting, pose, and environment. Change the subject into a photorealistic young Iranian man while keeping the photograph recognizably the same.\n\nSUBJECT: Young Iranian man with thick tousled dark brown-black hair, a few subtle lighter strands, strong natural eyebrows, deep brown almond-shaped eyes, straight nose, naturally defined lips, a softly angular masculine jawline, very light stubble, and authentic skin texture. Keep the expression calm, confident, and introspective.\n\nPOSE: Preserve the original head tilt, three-quarter angle toward the right side of the frame, eye direction, facial placement, and hair silhouette. Do not mirror the image.\n\nWARDROBE: Same cream ribbed turtleneck sweater, with realistic knit texture.\n\nBACKGROUND: Same plain warm off-white wall. No new objects or environmental changes.\n\nLIGHTING: Reproduce the natural upper-right sunlight and the same diagonal window-frame shadows crossing the forehead, eyes, cheekbones, and background. Keep shadow edges, highlights, contrast, and warm-neutral tones consistent with the reference.\n\nCAMERA: Tight square close-up, same subject-to-frame ratio, eye-level perspective, approximately 70–85mm portrait lens, moderate depth of field, sharp eyes, naturally detailed hair and skin, professional realistic editorial photography.\n\nSTRICT CONSTRAINTS: Do not zoom in further, change the head angle, shift the gaze, remove the window shadows, over-blur the background, change the sweater color, exaggerate masculinity, or create artificial smooth skin. Prioritize photographic realism and fidelity to the original scene."
         }
       ],
-      "last_message_id": 3786,
-      "last_user_message_id": 3786,
+      "last_message_id": 3788,
+      "last_user_message_id": 3788,
       "processed_message_ids": [
         3747,
         3749,
@@ -2025,18 +2030,18 @@
         3778,
         3781,
         3783,
-        3786
+        3786,
+        3788
       ],
       "flow_id": "5faf65dc7825",
-      "stage_token": "8942f91758",
-      "revision": 24,
+      "stage_token": "64a0c0a719",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "8942f91758",
+      "prompt_sent_token": null,
       "name": "Shadowlit Persian Portrait",
       "number": 9,
       "suitable": "پرتره کلوزآپ با نور طبیعی و سایه‌های پنجره روی چهره",
-      "for_what": "عکس پروفایل اینستاگرام\nپرتره مدلینگ پسرانه و دخترانه\nعکاسی ادیتوریال و هنری\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nطراحی پرتره سینمایی با نور طبیعی",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "عکس پروفایل اینستاگرام\nپرتره مدلینگ پسرانه و دخترانه\nعکاسی ادیتوریال و هنری\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nطراحی پرتره سینمایی با نور طبیعی"
     }
   },
   "settings": {
