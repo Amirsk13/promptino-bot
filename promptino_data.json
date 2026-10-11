@@ -2259,14 +2259,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4049,
-      "last_user_message_id": 4049,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Use the attached reference image as the primary visual reference. Recreate the same photorealistic urban fashion portrait, changing only the subject into a natural young adult Iranian woman while preserving the original scene, composition, camera distance, pose, clothing style, lighting, colors, and photographic mood.\n\nSUBJECT: A young adult Iranian woman with naturally defined dark eyebrows, dark brown eyes, a softly structured face, realistic skin texture, and dark hair styled in a neat, naturally voluminous updo-inspired silhouette appropriate to the reference hairstyle. Maintain believable facial proportions, subtle natural makeup, and a calm, confident, slightly contemplative expression. Her gaze is directed toward the left side of the frame, away from the camera.\n\nPOSE AND COMPOSITION: Preserve the reference's three-quarter standing pose, body angled slightly toward the camera, head turned toward the left side of the frame, shoulders relaxed, and one hand casually tucked into the front pocket of her jeans. Keep the same subject placement, body scale, and amount of visible environment. Use a medium-long portrait framing from approximately the upper thighs to above the head. Do not mirror the image or change the pose.\n\nCLOTHING: Preserve the oversized off-white hoodie, black sleeveless padded puffer vest, and blue denim jeans as closely as possible. Keep the hood resting naturally around the neck, the sleeves loose, the vest unzipped, and the outfit understated and contemporary. Retain the original garment proportions, folds, textures, and color relationships.\n\nENVIRONMENT: Reproduce the same spacious industrial warehouse interior, with a high roof made of dark metal trusses, large geometric skylight openings, warm tan brick or masonry walls, and bright rectangular windows along the lower background. Keep the industrial roof structure prominent across the upper half of the image. Preserve the architectural depth and visible background rather than replacing it with a generic studio or an outdoor setting.\n\nCAMERA AND OPTICS: Vertical 2:3 portrait composition, eye-level to slightly low camera perspective, medium-long framing, natural perspective similar to a 50mm portrait lens. Avoid wide-angle distortion, excessive cropping, and close-up framing.\n\nLIGHTING AND COLOR: Warm natural daylight filtering through the roof, soft directional highlights on the face and cream hoodie, gentle shadows, warm amber-brown masonry, muted olive-black tones, and a restrained cinematic film color grade. Maintain realistic exposure and the original contrast between the bright roof openings and the darker industrial framework.\n\nIMAGE QUALITY: Highly photorealistic fashion photography, realistic skin pores, natural fabric texture, physically plausible anatomy, authentic hands and fingers, subtle background softness, and crisp architectural detail. Keep the subject integrated naturally into the environment. Preserve the original visual balance, subdued mood, and warm cinematic atmosphere.\n\nDo not add text, watermarks, logos, extra accessories, extra people, or new objects. The final image should look like a genuine photograph taken in the same location, with the same framing and styling, featuring a female subject."
+        }
+      ],
+      "last_message_id": 4051,
+      "last_user_message_id": 4051,
       "processed_message_ids": [
         4035,
         4037,
@@ -2274,18 +2280,18 @@
         4042,
         4044,
         4046,
-        4049
+        4049,
+        4051
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "b718d9890a",
-      "revision": 9,
+      "stage_token": "395345deab",
+      "revision": 10,
       "mode": "create",
-      "prompt_sent_token": "b718d9890a",
+      "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
       "number": 14,
       "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری"
     }
   },
   "settings": {
