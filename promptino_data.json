@@ -2259,7 +2259,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
@@ -2279,10 +2279,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Using the attached image as the main image reference, generate a photorealistic female version of the same industrial fashion portrait. Preserve the original scene and visual structure as faithfully as possible. Change the subject's gender presentation naturally without changing the camera angle, pose, framing, clothing concept, lighting, or background.\n\nCreate a young adult Iranian woman with realistic dark eyes, naturally defined eyebrows, dark hair, authentic skin texture, subtle makeup, and a calm, confident expression. Her head is turned toward the left side of the image, and her eyes look off-camera in the same direction as the reference.\n\nKeep the original body pose: standing slightly right of center, torso gently angled, shoulders relaxed, one hand inside the front pocket of blue jeans. Match the reference's body scale, head position, arm placement, and visible body area. Do not mirror or recenter the image.\n\nPreserve the outfit: off-white hoodie, open black sleeveless padded vest, and blue jeans. Maintain the hoodie drawstrings, hood around the neck, loose sleeves, vest quilting, and realistic fabric folds.\n\nReconstruct the original warehouse: dark intersecting metal roof beams, bright translucent skylight openings, warm beige-brown brick walls, and rectangular windows in the lower background. The roof must occupy a substantial portion of the upper frame. Keep the architectural details recognizable rather than replacing them with abstract bokeh.\n\nUse a vertical 2:3 portrait, medium-long framing from the upper thighs to above the head, and a natural 50mm-equivalent perspective. The camera remains around eye level or slightly lower, with the subject at the same distance from the camera as in the reference.\n\nMatch the warm daylight entering through the roof, the bright cream clothing, deep black vest, warm masonry, gentle shadows, and restrained cinematic brown-and-amber grading. Maintain realistic exposure and moderate depth of field, with the subject sharp and the industrial background softly defined but still visible.\n\nProfessional editorial fashion photography, realistic anatomy and hands, natural skin pores, detailed fabric, accurate lighting, authentic photographic texture. No watermark, text overlays, extra people, additional accessories, dramatic beauty filters, altered framing, or excessive background blur."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Use the attached reference photograph as the primary source for image-to-image reconstruction. Recreate the same young adult Iranian man in the same industrial warehouse, preserving his recognizable visible facial characteristics and the reference's composition.\n\nMaintain the short black hair with a full brushed-up top and tapered sides, dark eyebrows, dark eyes, straight nose, subtle mustache, natural skin texture, and contemplative expression. Keep his gaze directed off-camera toward the left side of the frame.\n\nPreserve the exact pose and proportions: standing slightly right of center, torso angled casually, head turned to the left, shoulders relaxed, one hand tucked into the front pocket of his blue jeans. Keep the same arm positions and natural body language. Do not mirror the image.\n\nReproduce the outfit accurately: cream-white hoodie with hood resting around the neck, visible drawstrings and a small understated chest graphic, black open sleeveless padded vest, and blue denim jeans. Maintain realistic quilting, fabric weight, folds, and the original color balance.\n\nThe setting must remain the same spacious industrial warehouse, with a high geometric roof of dark intersecting steel trusses, bright skylight panels, warm brown masonry walls, and rectangular windows. Preserve the roof's large presence in the composition, the architectural perspective, and the depth of the room.\n\nUse a vertical 2:3 image, medium-long portrait framing from upper thighs to above the head, natural 50mm-equivalent perspective, and an eye-level to slightly low viewpoint. Maintain the original subject-to-background distance and negative space.\n\nReproduce the warm natural daylight, soft face highlights, cream fabric illumination, subtle shadows, amber-brown walls, deep black vest, and muted cinematic color grading. Keep the subject crisp while retaining visible architectural details in the softly focused background.\n\nThe output must look like a real editorial photograph, with natural skin texture, accurate anatomy, realistic fingers, and authentic clothing materials. No watermark, no added writing, no extra people, no new props, no pose changes, no artificial skin smoothing, and no excessive blur."
         }
       ],
-      "last_message_id": 4064,
-      "last_user_message_id": 4064,
+      "last_message_id": 4066,
+      "last_user_message_id": 4066,
       "processed_message_ids": [
         4035,
         4037,
@@ -2296,18 +2301,18 @@
         4056,
         4059,
         4061,
-        4064
+        4064,
+        4066
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "84c09f8008",
-      "revision": 18,
+      "stage_token": "7709587d89",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "84c09f8008",
+      "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
       "number": 14,
       "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری",
-      "pending_label": "Gemini-Boy"
+      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری"
     }
   },
   "settings": {
