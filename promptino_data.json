@@ -2277,7 +2277,7 @@
       "stage_token": "1faa0e9497",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "1faa0e9497",
       "name": "Industrial Golden Portrait",
       "number": 14
     }
