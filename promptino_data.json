@@ -2259,7 +2259,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
@@ -2298,8 +2298,8 @@
         4061
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "e47cabc70a",
-      "revision": 16,
+      "stage_token": "5cbfa4c8c2",
+      "revision": 17,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
