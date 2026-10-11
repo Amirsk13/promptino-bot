@@ -2259,23 +2259,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4037,
-      "last_user_message_id": 4037,
+      "last_message_id": 4040,
+      "last_user_message_id": 4040,
       "processed_message_ids": [
         4035,
-        4037
+        4037,
+        4040
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "726acecee1",
-      "revision": 3,
+      "stage_token": "22ac73b379",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Industrial Golden Portrait"
     }
   },
   "settings": {
