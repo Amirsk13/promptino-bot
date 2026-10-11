@@ -2259,27 +2259,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4042,
-      "last_user_message_id": 4042,
+      "last_message_id": 4044,
+      "last_user_message_id": 4044,
       "processed_message_ids": [
         4035,
         4037,
         4040,
-        4042
+        4042,
+        4044
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "2401a10a5c",
-      "revision": 5,
+      "stage_token": "53a5970e6e",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "2401a10a5c",
+      "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
-      "number": 14
+      "number": 14,
+      "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه."
     }
   },
   "settings": {
