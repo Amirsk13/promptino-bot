@@ -2259,7 +2259,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
@@ -2276,8 +2276,8 @@
           "prompt": "Use the attached reference image as the exact visual guide. Recreate the original photorealistic portrait of a young adult Iranian man, prioritizing fidelity to the reference's composition, facial appearance, hairstyle, pose, clothing, architecture, lighting, and color grading.\n\nSUBJECT: A young adult Iranian man with short, thick black hair styled upward with a clean tapered fade, strong dark eyebrows, dark brown eyes, a straight nose, a subtle mustache, and natural medium-light olive skin. Preserve the reference's youthful facial proportions, realistic skin texture, and calm, serious, contemplative expression. His gaze remains directed toward the left side of the frame, away from the camera.\n\nPOSE AND BODY POSITION: Maintain the exact overall posture: standing casually with the torso slightly angled, shoulders relaxed, head turned toward the left side of the frame, and one hand tucked into the front pocket of the jeans. Preserve the original hand placement, arm positions, body orientation, and natural posture. Do not mirror the reference.\n\nCLOTHING: Keep the original outfit as closely as possible: an off-white hoodie with drawstrings and a small understated chest print, a black sleeveless padded vest worn open, and blue denim jeans. Preserve the hood around the neck, loose hoodie sleeves, vest quilting, fabric folds, and garment proportions. Do not introduce jackets, bags, jewelry, or other accessories.\n\nENVIRONMENT: Reproduce the same large industrial warehouse with a high ceiling of intersecting dark metal trusses, bright geometric skylight panels, warm tan brick or masonry walls, and rectangular windows along the lower background. The roof structure must remain a major compositional element. Preserve the visible architectural depth and the original balance between the subject and the surrounding space.\n\nCAMERA AND FRAMING: Vertical 2:3 composition, medium-long portrait from approximately the upper thighs to slightly above the head. Use an eye-level to subtly low viewpoint and natural 50mm portrait-lens perspective. Keep the subject positioned slightly right of center with generous architectural space around him. Avoid close-up framing, wide-angle distortion, and excessive background blur.\n\nLIGHTING AND COLOR: Warm natural daylight passing through the skylights, soft highlights on the face and cream hoodie, subtle shadows beneath the roof structure, muted warm browns, beige masonry, deep blacks, and subdued denim blue. Maintain cinematic but realistic color grading, natural contrast, and believable light falloff.\n\nPHOTOGRAPHIC STYLE: High-end realistic urban fashion photography with natural skin texture, accurate anatomy, detailed clothing, realistic hands and fingers, subtle depth of field, and clearly recognizable industrial architecture. Preserve the original quiet, confident, slightly moody atmosphere.\n\nNo watermark, no added text, no extra people, no new objects, no exaggerated beauty retouching, no altered pose, and no changes to the location or camera distance. The result should closely resemble the reference photograph, not a loosely inspired alternative."
         }
       ],
-      "last_message_id": 4056,
-      "last_user_message_id": 4056,
+      "last_message_id": 4059,
+      "last_user_message_id": 4059,
       "processed_message_ids": [
         4035,
         4037,
@@ -2288,17 +2288,19 @@
         4049,
         4051,
         4054,
-        4056
+        4056,
+        4059
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "d080396c7a",
-      "revision": 14,
+      "stage_token": "963b9a8eca",
+      "revision": 15,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
       "number": 14,
       "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری"
+      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری",
+      "pending_label": "Gemini-Girl"
     }
   },
   "settings": {
