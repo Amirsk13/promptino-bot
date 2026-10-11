@@ -2259,7 +2259,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
@@ -2281,8 +2281,8 @@
           "prompt": "Using the attached image as the main image reference, generate a photorealistic female version of the same industrial fashion portrait. Preserve the original scene and visual structure as faithfully as possible. Change the subject's gender presentation naturally without changing the camera angle, pose, framing, clothing concept, lighting, or background.\n\nCreate a young adult Iranian woman with realistic dark eyes, naturally defined eyebrows, dark hair, authentic skin texture, subtle makeup, and a calm, confident expression. Her head is turned toward the left side of the image, and her eyes look off-camera in the same direction as the reference.\n\nKeep the original body pose: standing slightly right of center, torso gently angled, shoulders relaxed, one hand inside the front pocket of blue jeans. Match the reference's body scale, head position, arm placement, and visible body area. Do not mirror or recenter the image.\n\nPreserve the outfit: off-white hoodie, open black sleeveless padded vest, and blue jeans. Maintain the hoodie drawstrings, hood around the neck, loose sleeves, vest quilting, and realistic fabric folds.\n\nReconstruct the original warehouse: dark intersecting metal roof beams, bright translucent skylight openings, warm beige-brown brick walls, and rectangular windows in the lower background. The roof must occupy a substantial portion of the upper frame. Keep the architectural details recognizable rather than replacing them with abstract bokeh.\n\nUse a vertical 2:3 portrait, medium-long framing from the upper thighs to above the head, and a natural 50mm-equivalent perspective. The camera remains around eye level or slightly lower, with the subject at the same distance from the camera as in the reference.\n\nMatch the warm daylight entering through the roof, the bright cream clothing, deep black vest, warm masonry, gentle shadows, and restrained cinematic brown-and-amber grading. Maintain realistic exposure and moderate depth of field, with the subject sharp and the industrial background softly defined but still visible.\n\nProfessional editorial fashion photography, realistic anatomy and hands, natural skin pores, detailed fabric, accurate lighting, authentic photographic texture. No watermark, text overlays, extra people, additional accessories, dramatic beauty filters, altered framing, or excessive background blur."
         }
       ],
-      "last_message_id": 4061,
-      "last_user_message_id": 4061,
+      "last_message_id": 4064,
+      "last_user_message_id": 4064,
       "processed_message_ids": [
         4035,
         4037,
@@ -2295,17 +2295,19 @@
         4054,
         4056,
         4059,
-        4061
+        4061,
+        4064
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "5cbfa4c8c2",
-      "revision": 17,
+      "stage_token": "84c09f8008",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
       "number": 14,
       "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری"
+      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
