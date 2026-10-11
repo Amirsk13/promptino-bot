@@ -2256,36 +2256,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "buttons",
-      "photos": [
-        "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
-        "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
-      ],
-      "buttons": [],
-      "last_message_id": 4031,
-      "last_user_message_id": 4031,
-      "processed_message_ids": [
-        4020,
-        4022,
-        4025,
-        4027,
-        4029,
-        4031
-      ],
-      "flow_id": "77705d2b83c6",
-      "stage_token": "8c9d8e2841",
-      "revision": 7,
-      "mode": "create",
-      "prompt_sent_token": null,
-      "name": "Industrial Golden Portrait",
-      "number": 14,
-      "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی • عکاسی فشن و استایل خیابانی • ساخت نسخه دخترانه و پسرانه از یک تصویر • بازسازی تصاویر با Image Reference • تولید تصاویر واقع‌گرایانه با نور سینمایی گرم • طراحی محتوای ادیتوریال و پرتره هنری"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
