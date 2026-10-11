@@ -2259,7 +2259,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIPtGrLnZBAemxU8clM0G66AAFjhZs2pwACXBBrG7IEYVIxgDAlm4MbkQEAAwIAA3cAAz0E",
         "AgACAgQAAxkBAAIPtmrLnaGVITULC9u16caa0nGXjhX6AAJdEGsbsgRhUvRBNAGIqXH5AQADAgADdwADPQQ"
@@ -2289,10 +2289,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE / REFERENCE-LOCKED GENERATION\n\nTreat the attached photograph as the source image. Reconstruct the same photograph with a young adult Iranian woman as the subject. Preserve the original scene, perspective, composition, subject scale, pose, outfit design, lighting, and cinematic color palette. Modify only the subject's gender presentation and naturally corresponding facial features.\n\nIDENTITY AND APPEARANCE:\nA realistic young adult Iranian woman with naturally dark eyes, defined dark eyebrows, dark hair, authentic skin texture, and subtle natural makeup. Keep realistic facial proportions and a composed, slightly serious expression. Her face is turned toward the left side of the frame, with her gaze directed off-camera.\n\nPOSE LOCK:\nPreserve the original standing posture and body orientation. The subject remains slightly right of center, with a relaxed torso angle, natural shoulders, and one hand tucked into the front pocket of her jeans. Match the original arm placement, head angle, body scale, and amount of visible body. Do not flip, mirror, or reinterpret the pose.\n\nWARDROBE LOCK:\nRetain the off-white hoodie, hood around the neck, visible drawstrings, open black sleeveless quilted puffer vest, and blue jeans. Preserve the silhouette, material, stitching, folds, and garment proportions. Do not substitute a coat, blazer, dress, or different style of clothing.\n\nENVIRONMENT LOCK:\nReproduce the same industrial warehouse interior. Keep the intersecting black metal roof trusses, bright geometric skylight openings, warm tan brick walls, and rectangular windows. Preserve the original roof geometry and its prominent position in the upper image. Do not replace the location or simplify the architecture.\n\nCAMERA LOCK:\nVertical 2:3 portrait, medium-long shot from upper thighs to above the head, natural 50mm-equivalent perspective, eye-level to slightly low viewpoint. Keep the subject at the same distance and scale as the reference, with matching headroom and negative space. No close-up crop or wide-angle distortion.\n\nLIGHTING AND COLOR LOCK:\nWarm daylight through the skylights, natural highlights on the face and hoodie, soft directional shadows, muted amber-brown walls, deep black clothing, subdued denim blue, realistic contrast, and subtle cinematic film grading. Keep the background gently softened but architecturally recognizable.\n\nQUALITY:\nPhotorealistic editorial fashion photography, accurate anatomy, natural hands and fingers, realistic skin pores, detailed fabrics, consistent perspective, and authentic light interaction. The final image must feel like the female counterpart of the original photograph, captured in the same place at the same moment.\n\nDo not add text, watermarks, logos, extra subjects, accessories, or objects. Avoid excessive retouching, plastic skin, changed hand positions, altered camera distance, excessive bokeh, or environmental redesign."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE / STRICT REFERENCE RECONSTRUCTION\n\nRecreate the attached photograph as faithfully as possible. Preserve the original young adult Iranian man, visible facial features, hairstyle, pose, clothing, industrial environment, camera perspective, lighting, and photographic mood. Prioritize visual fidelity over creative reinterpretation.\n\nSUBJECT:\nYoung adult Iranian man with short black hair styled upward, neatly tapered sides, thick dark eyebrows, dark brown eyes, straight nose, subtle mustache, and realistic natural skin texture. Preserve the original face shape, facial proportions, expression, and off-camera gaze toward the left side of the frame.\n\nPOSE:\nStanding casually, positioned slightly right of center. The torso is angled slightly toward the camera, the head turned toward the left, shoulders relaxed, and one hand placed inside the front pocket of the jeans. Keep the original hand placement, arm positions, body orientation, and visible body area. Do not mirror the source image.\n\nOUTFIT:\nOff-white hoodie with hood resting around the neck, visible drawstrings, small understated chest print, open black sleeveless quilted puffer vest, and blue jeans. Match the garment fit, folds, stitching, texture, and colors. Preserve the original outfit without introducing additional accessories.\n\nBACKGROUND:\nLarge industrial warehouse with a high roof formed by dark intersecting metal beams and geometric bright skylight panels. Warm tan brick or masonry walls and rectangular lower windows remain visible. Preserve the architectural lines, roof structure, room depth, and original placement of the subject within the environment.\n\nFRAMING AND LENS:\nVertical 2:3 composition, medium-long portrait, upper thighs to above the head, eye-level to slightly low camera angle, natural 50mm-equivalent lens perspective. Match the original subject scale, headroom, background visibility, and perspective. Avoid cropping closer or expanding the field of view.\n\nLIGHT:\nWarm natural daylight filtering through the skylights. Soft highlights on the face and cream hoodie, gentle realistic shadows, dark roof beams, warm amber masonry, deep blacks, and muted blue denim. Preserve the original understated cinematic grade without oversaturation or excessive contrast.\n\nFINISH:\nHigh-resolution photorealistic fashion portrait, realistic skin pores, natural hair texture, detailed quilted fabric, anatomically correct hands and fingers, believable lighting, and moderately shallow depth of field. Keep the industrial architecture visible and recognizable.\n\nNo watermark, no added text, no extra people, no new objects, no artificial facial enhancement, no plastic skin, no pose changes, no mirrored composition, and no excessive background blur. The result must remain visually consistent with the exact source photograph."
         }
       ],
-      "last_message_id": 4074,
-      "last_user_message_id": 4074,
+      "last_message_id": 4076,
+      "last_user_message_id": 4076,
       "processed_message_ids": [
         4035,
         4037,
@@ -2310,18 +2315,18 @@
         4066,
         4069,
         4071,
-        4074
+        4074,
+        4076
       ],
       "flow_id": "d5d1adf0e956",
-      "stage_token": "5baf15c995",
-      "revision": 24,
+      "stage_token": "3f90547e2e",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "5baf15c995",
+      "prompt_sent_token": null,
       "name": "Industrial Golden Portrait",
       "number": 14,
       "suitable": "بازسازی پرتره فشن شهری با نور گرم، سقف صنعتی هندسی و استایل کژوال؛ با حفظ ترکیب‌بندی مرجع در دو نسخه دخترانه و پسرانه.",
-      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "• پرتره پروفایل و شبکه‌های اجتماعی \n• عکاسی فشن و استایل خیابانی \n• ساخت نسخه دخترانه و پسرانه از یک تصویر \n• بازسازی تصاویر با Image Reference \n• تولید تصاویر واقع‌گرایانه با نور سینمایی گرم \n• طراحی محتوای ادیتوریال و پرتره هنری"
     }
   },
   "settings": {
