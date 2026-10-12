@@ -2430,27 +2430,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4179,
-      "last_user_message_id": 4179,
+      "last_message_id": 4181,
+      "last_user_message_id": 4181,
       "processed_message_ids": [
         4172,
         4174,
         4177,
-        4179
+        4179,
+        4181
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "d6a2b24643",
-      "revision": 5,
+      "stage_token": "fa87363abe",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "d6a2b24643",
+      "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
-      "number": 16
+      "number": 16,
+      "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی"
     }
   },
   "settings": {
