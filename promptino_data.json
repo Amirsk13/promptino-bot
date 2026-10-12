@@ -2373,7 +2373,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
@@ -2400,8 +2400,8 @@
           "prompt": "Use the provided image as a strict image-to-image reference. Recreate the same seaside photograph with a young adult Iranian man while maintaining the original composition, pose, camera position, lighting, and environment. Change the trousers to charcoal gray.\n\nSUBJECT:\nYoung adult Iranian man, dark hair in a casual small bun with a few loose strands, oversized dark sunglasses, natural facial features, realistic skin texture, and a relaxed everyday expression.\n\nPOSE LOCK:\nKeep the exact original unmirrored pose: standing near the center, slightly left of the large foreground palm. Right hand touching the sunglasses at the right temple; left hand resting on the left thigh. Preserve the original arm bends, hand positions, head angle, body orientation, and weight distribution.\n\nCLOTHING LOCK:\nOversized taupe-gray short-sleeved T-shirt, charcoal-gray wide-leg pencil-gray trousers, black smartwatch on the left wrist, black sunglasses, and light chunky sneakers. The trousers must be dark neutral gray, not green, blue, or black. Use a relaxed straight-leg fit with realistic fabric folds and a natural drape over the sneakers. Keep the outfit casual and minimalist.\n\nBACKGROUND LOCK:\nLarge textured date palm in the right foreground, with fronds spreading across the top of the image. Second palm in the middle-left background. Blue sea and a low distant horizon, pale blue sky, seaside railing, simple benches, smaller distant palms, broad beige concrete pavement, circular stone border around the main palm, and clearly defined palm-frond shadows.\n\nCAMERA:\nSquare 1:1 composition, full-body portrait, entire figure and both shoes visible. Eye-level view, moderate camera distance, approximately 35–40mm equivalent lens. Maintain the original subject-to-frame ratio and all major spatial relationships. Keep the large palm on the right and the open seaside background visible. No close-up, no cropping, no mirroring, and no artificial wide-angle distortion.\n\nLIGHTING AND COLOR:\nBright natural midday sunshine, realistic sharp shadows, blue-turquoise sea, pale blue sky, warm beige pavement, muted taupe-gray shirt, charcoal-gray trousers, and natural skin tones. Maintain realistic exposure and restrained color grading.\n\nOUTPUT:\nHigh-fidelity photorealistic travel photography with natural anatomy, accurate hands, detailed foliage, realistic fabric, and a readable background. Preserve the original photograph as closely as possible while changing the subject to a young Iranian man and the trousers to charcoal gray."
         }
       ],
-      "last_message_id": 4158,
-      "last_user_message_id": 4158,
+      "last_message_id": 4161,
+      "last_user_message_id": 4161,
       "processed_message_ids": [
         4127,
         4129,
@@ -2416,17 +2416,19 @@
         4151,
         4153,
         4156,
-        4158
+        4158,
+        4161
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "c2f20d4bb9",
-      "revision": 20,
+      "stage_token": "0ad81db05b",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 16,
       "suitable": "بازسازی پرتره تمام‌قد در ساحل با حفظ ژست، لباس، درختان نخل، دریا، سایه‌های طبیعی و نور آفتاب؛ در دو نسخه دخترانه و پسرانه با ترکیب‌بندی نزدیک به تصویر مرجع.",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
