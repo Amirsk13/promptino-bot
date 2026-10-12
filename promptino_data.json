@@ -2316,7 +2316,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
@@ -2348,8 +2348,8 @@
         4103
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "39bddee9eb",
-      "revision": 13,
+      "stage_token": "5a70646534",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
