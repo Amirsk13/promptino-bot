@@ -2316,27 +2316,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4089,
-      "last_user_message_id": 4089,
+      "last_message_id": 4091,
+      "last_user_message_id": 4091,
       "processed_message_ids": [
         4082,
         4084,
         4087,
-        4089
+        4089,
+        4091
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "2ff34f8948",
-      "revision": 5,
+      "stage_token": "f91c48da1e",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "2ff34f8948",
+      "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
-      "number": 15
+      "number": 15,
+      "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی."
     }
   },
   "settings": {
