@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
@@ -2450,10 +2450,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Edit the provided reference image into a realistic photograph featuring one young adult Iranian woman. Remove all background pedestrians while preserving the original location and scene.\n\nMatch the reference's centered full-body composition, walking posture, downward gaze, camera height, perspective, subject scale, and distance. The woman wears a long camel double-breasted coat, black hijab, black clothing, dark sunglasses, black boots, and a black shoulder bag. Keep one hand holding the bag strap and the other in her coat pocket.\n\nFaithfully retain the rain-wet stone promenade, reflective puddles, fallen leaves, parallel rows of golden autumn trees, planters, benches, and drainage channel. Preserve the natural depth and visible detail of the surroundings.\n\nUse realistic skin, fabric, and hair textures; soft cloudy daylight; subtle shadows; warm yellow-brown foliage; and natural reflections on the wet pavement. The result should look like a genuine outdoor photograph, not an illustration or composite.\n\nDo not crop closer, change the pose, mirror the image, or replace the environment. Vertical 2:3 framing, photorealistic quality."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Edit the provided reference image into a realistic photograph featuring one young adult Iranian man. Remove all background pedestrians while preserving the original location and scene.\n\nMatch the reference's centered full-body composition, walking posture, downward gaze, camera height, perspective, subject scale, and distance. The man wears a long camel double-breasted overcoat, black turtleneck, black tailored trousers, dark sunglasses, black boots, and a black shoulder backpack. One hand grips the backpack strap while the other rests in his coat pocket. Give him naturally styled dark hair and subtle facial hair.\n\nFaithfully retain the rain-wet stone promenade, reflective puddles, fallen leaves, parallel rows of golden autumn trees, planters, benches, and drainage channel. Preserve the natural depth and visible detail of the surroundings.\n\nUse realistic skin and fabric textures, soft cloudy daylight, subtle shadows, warm yellow-brown foliage, and natural reflections on the wet pavement. The result should look like a genuine outdoor men's fashion photograph, not an illustration or composite.\n\nDo not crop closer, change the pose, mirror the image, or replace the environment. Vertical 2:3 framing, photorealistic quality."
         }
       ],
-      "last_message_id": 4201,
-      "last_user_message_id": 4201,
+      "last_message_id": 4203,
+      "last_user_message_id": 4203,
       "processed_message_ids": [
         4172,
         4174,
@@ -2467,18 +2472,18 @@
         4193,
         4196,
         4198,
-        4201
+        4201,
+        4203
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "a935d79c25",
-      "revision": 18,
+      "stage_token": "5f1c9310bd",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "a935d79c25",
+      "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
       "number": 16,
       "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی",
-      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی"
     }
   },
   "settings": {
