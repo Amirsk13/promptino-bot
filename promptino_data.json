@@ -2373,7 +2373,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
@@ -2403,10 +2403,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "REFERENCE-LOCKED IMAGE RECREATION — GIRL VERSION\n\nUse the uploaded photograph as the primary reference. Recreate the same image with a young adult Iranian woman. Preserve the original framing, scene layout, pose, camera perspective, lighting, clothing style, and environmental detail.\n\nSUBJECT:\nYoung adult Iranian woman, dark hair tied in a casual bun with a few loose strands, oversized dark sunglasses, natural facial proportions, relaxed expression, realistic skin texture.\n\nPOSE:\nKeep the original pose exactly. The subject stands near the center, slightly left of the large foreground palm. Right hand raised to the sunglasses at the temple; left hand resting on the front of the left thigh. Preserve the exact hand sides, elbow bends, head angle, body orientation, and relaxed stance. No mirroring.\n\nOUTFIT:\nOversized taupe-gray short-sleeved T-shirt, loose sage-green wide-leg trousers, black smartwatch on the left wrist, and light-colored casual sneakers. Maintain the same loose unisex styling, proportions, fabric folds, and colors.\n\nSCENE:\nBright seaside promenade. Large mature date palm dominates the right foreground, with a rough layered trunk and broad fronds stretching across the upper image. A second palm stands in the middle-left background. Blue sea and a low distant horizon, pale blue sky, waterfront railing, simple benches, smaller distant palms, pale beige concrete pavement, circular stone edging around the main palm, and clearly defined palm-frond shadows.\n\nCAMERA:\nSquare 1:1 image, full-body portrait, entire figure visible including shoes, eye-level view, moderate distance, 35–40mm equivalent lens. Maintain the original subject-to-frame ratio, large foreground palm, horizon position, and generous surrounding environment. Do not zoom in or crop.\n\nLIGHTING:\nBright midday natural sun, crisp realistic shadows across the pavement, blue sea, pale sky, muted taupe-gray and sage-green clothing, natural skin tones, balanced exposure.\n\nFIDELITY:\nPhotorealistic candid travel photo, realistic anatomy and fingers, authentic fabric and palm textures, moderate depth of field, clear environmental context. Preserve the original composition rather than redesigning it. Only change the subject to a woman; keep all other visible elements as close to the reference as possible."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "REFERENCE-LOCKED IMAGE RECREATION — IRANIAN MALE MODEL\n\nUse the uploaded reference image as the primary visual guide. Recreate the same realistic seaside photograph with a young adult Iranian man. Preserve the original scene geometry, pose, camera distance, perspective, and natural lighting.\n\nSUBJECT:\nYoung adult Iranian man with dark hair styled in a casual small bun, loose strands around the forehead, oversized black sunglasses, natural facial proportions, and realistic skin texture.\n\nPOSE:\nMatch the original pose precisely without mirroring. The subject stands near the center, slightly left of the large foreground palm. His right hand adjusts the sunglasses at the right temple; his left hand rests on the front of his left thigh. Keep the same elbow angles, hand positions, shoulder posture, head tilt, and relaxed stance. Natural fingers and wrists are essential.\n\nOUTFIT:\nOversized taupe-gray short-sleeved T-shirt, charcoal-gray pencil-gray wide-leg trousers, black smartwatch on the left wrist, oversized black sunglasses, and chunky light-colored sneakers. The trousers must be a distinct dark charcoal gray, replacing the original sage-green trousers. Use a relaxed straight-leg silhouette, realistic fabric folds, and natural stacking over the shoes. Retain the original casual streetwear style.\n\nENVIRONMENT:\nA bright seaside promenade with a massive textured date palm occupying the right foreground, its long fronds spreading across the upper image. A second tall palm stands in the middle-left background. Preserve the blue sea, distant horizon, pale blue sky, waterfront railing, simple benches, distant small palms, beige concrete walkway, circular stone edging around the foreground palm, and sharp palm-frond shadows.\n\nCOMPOSITION:\nSquare 1:1 image. Full-body environmental portrait with the head and both shoes visible. Eye-level camera, moderate distance, approximately 35–40mm equivalent lens. Keep the subject relatively small within the frame and preserve the large palm, extensive ground, sky, and surrounding scenery. Do not crop, zoom, shift the horizon, or change the camera angle.\n\nLIGHTING AND COLOR:\nStrong natural midday sunlight, crisp realistic shadows, pale blue sky, blue-turquoise sea, warm beige pavement, taupe-gray shirt, charcoal-gray trousers, and light sneakers. Avoid exaggerated saturation or cinematic color grading.\n\nREALISM AND PRIORITY:\nPhotorealistic candid travel photography, realistic skin and hands, detailed palm textures, natural clothing folds, and moderate depth of field. Preserve the same scene, pose, framing, and wardrobe apart from the requested trouser color and cut. Do not add people, props, or unnecessary accessories. Avoid green trousers, excessive background blur, distorted anatomy, and artificial skin smoothing."
         }
       ],
-      "last_message_id": 4166,
-      "last_user_message_id": 4166,
+      "last_message_id": 4168,
+      "last_user_message_id": 4168,
       "processed_message_ids": [
         4127,
         4129,
@@ -2424,18 +2429,18 @@
         4158,
         4161,
         4163,
-        4166
+        4166,
+        4168
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "d3f27f0794",
-      "revision": 24,
+      "stage_token": "c1d903f567",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "d3f27f0794",
+      "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 16,
       "suitable": "بازسازی پرتره تمام‌قد در ساحل با حفظ ژست، لباس، درختان نخل، دریا، سایه‌های طبیعی و نور آفتاب؛ در دو نسخه دخترانه و پسرانه با ترکیب‌بندی نزدیک به تصویر مرجع.",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی"
     }
   },
   "settings": {
