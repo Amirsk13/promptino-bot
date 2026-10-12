@@ -2430,29 +2430,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4181,
-      "last_user_message_id": 4181,
+      "last_message_id": 4183,
+      "last_user_message_id": 4183,
       "processed_message_ids": [
         4172,
         4174,
         4177,
         4179,
-        4181
+        4181,
+        4183
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "fa87363abe",
-      "revision": 6,
+      "stage_token": "805ff8cb41",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "fa87363abe",
+      "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
       "number": 16,
-      "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی"
+      "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی",
+      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی"
     }
   },
   "settings": {
