@@ -2430,25 +2430,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4222,
-      "last_user_message_id": 4222,
+      "last_message_id": 4224,
+      "last_user_message_id": 4224,
       "processed_message_ids": [
         4217,
         4219,
-        4222
+        4222,
+        4224
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "39e596731c",
-      "revision": 4,
+      "stage_token": "a053ec2fec",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "39e596731c",
-      "name": "Persian Garden Portrait"
+      "prompt_sent_token": null,
+      "name": "Persian Garden Portrait",
+      "number": 17
     }
   },
   "settings": {
