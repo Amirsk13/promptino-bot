@@ -2430,31 +2430,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4228,
-      "last_user_message_id": 4228,
+      "last_message_id": 4231,
+      "last_user_message_id": 4231,
       "processed_message_ids": [
         4217,
         4219,
         4222,
         4224,
         4226,
-        4228
+        4228,
+        4231
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "96c9acd92c",
-      "revision": 8,
+      "stage_token": "dde42594be",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
