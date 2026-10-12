@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
@@ -2445,10 +2445,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the attached reference image as the primary visual reference. Recreate the same photorealistic autumn park photograph with a young adult Iranian man as the only person in the scene. Remove every other person completely.\n\nPreserve the original composition, full-body framing, camera distance, eye-level perspective, centered subject, walking pose, slightly lowered head, downward gaze, and natural body proportions.\n\nThe man wears a long camel-colored double-breasted overcoat, a black turtleneck, black tailored trousers, black ankle boots, dark sunglasses, and a black shoulder backpack. One hand holds the backpack strap near his shoulder while the other rests naturally in his coat pocket. Give him natural dark hair and subtle, realistic facial hair.\n\nReproduce the symmetrical tree-lined walkway, golden autumn foliage, wet reflective paving stones, scattered fallen leaves, planters, benches, drainage channel, and overcast sky. Keep the background recognizable and detailed, with only natural distance blur.\n\nMaintain the original warm ochre, golden yellow, olive green, black, and wet-stone colors, realistic fabric textures, soft overcast lighting, natural shadows, and photographic depth.\n\nCreate a natural-looking Iranian men's fashion portrait, not a collage. Keep the entire environment visible, avoid close-up framing, and preserve the solitary, understated autumn mood. Vertical 2:3 composition, high-resolution realistic photography."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Edit the provided reference image into a realistic photograph featuring one young adult Iranian woman. Remove all background pedestrians while preserving the original location and scene.\n\nMatch the reference's centered full-body composition, walking posture, downward gaze, camera height, perspective, subject scale, and distance. The woman wears a long camel double-breasted coat, black hijab, black clothing, dark sunglasses, black boots, and a black shoulder bag. Keep one hand holding the bag strap and the other in her coat pocket.\n\nFaithfully retain the rain-wet stone promenade, reflective puddles, fallen leaves, parallel rows of golden autumn trees, planters, benches, and drainage channel. Preserve the natural depth and visible detail of the surroundings.\n\nUse realistic skin, fabric, and hair textures; soft cloudy daylight; subtle shadows; warm yellow-brown foliage; and natural reflections on the wet pavement. The result should look like a genuine outdoor photograph, not an illustration or composite.\n\nDo not crop closer, change the pose, mirror the image, or replace the environment. Vertical 2:3 framing, photorealistic quality."
         }
       ],
-      "last_message_id": 4196,
-      "last_user_message_id": 4196,
+      "last_message_id": 4198,
+      "last_user_message_id": 4198,
       "processed_message_ids": [
         4172,
         4174,
@@ -2460,18 +2465,18 @@
         4188,
         4191,
         4193,
-        4196
+        4196,
+        4198
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "54351e5a0a",
-      "revision": 15,
+      "stage_token": "cdf7b987bf",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "54351e5a0a",
+      "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
       "number": 16,
       "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی",
-      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی",
-      "pending_label": "Gemini-Girl"
+      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی"
     }
   },
   "settings": {
