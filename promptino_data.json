@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2442,8 +2442,8 @@
           "prompt": "Use the attached reference image as the primary visual reference and recreate it as a highly photorealistic portrait of a young adult Iranian woman. Preserve the original scene, composition, camera perspective, subject scale, pose, and natural atmosphere.\n\nSUBJECT AND CLOTHING:\nA young Iranian woman with naturally dark eyes, dark eyebrows, dark hair neatly tied back, and a warm, natural smile. She wears a soft dusty-pink Persian-style headscarf (shal), draped naturally around her head and neck with subtle fabric texture, a pastel pink casual jacket, a light neutral top, straight blue denim jeans, and white athletic sneakers. Keep her facial proportions realistic, skin texture natural, and makeup understated.\n\nPOSE AND ANATOMY:\nShe sits sideways on an ornate, honey-brown carved wooden traditional bench. Her torso is slightly turned toward the camera, and she looks directly at the camera with a relaxed smile. One hand rests naturally on the bench beside her body for support, while the other rests gently on her thigh. Her legs remain positioned naturally in front of her, following the reference image's seated posture. Preserve the original hand placement and body orientation; do not mirror the image.\n\nENVIRONMENT:\nReproduce the same traditional outdoor wooden bench with intricate geometric and floral cutout carvings, richly patterned Persian-style cushions, a red patterned rug on the seat, and dense green foliage with small pale blossoms in the background. Keep the bench, cushions, rug, greenery, and visible ground in their original relative positions. Do not replace or simplify the environment.\n\nCAMERA AND COMPOSITION:\nVertical portrait, approximately 4:5 aspect ratio. Medium-to-three-quarter seated portrait, showing the subject from head to shoes with the surrounding bench clearly visible. Camera at approximately seated upper-body height, natural perspective, approximately 50mm lens equivalent. Maintain the original camera distance and the subject's position in the frame. No close-up, no wide-angle distortion, no excessive cropping.\n\nLIGHTING AND COLOR:\nSoft natural daylight filtered through garden foliage, realistic highlights on the face and clothing, gentle shadows, natural skin tones, warm brown wood, dusty-pink clothing, blue denim, and rich natural greens. Moderate background blur while keeping the bench carvings and cushions recognizable.\n\nSTYLE AND QUALITY:\nHigh-end natural lifestyle photography, realistic Iranian facial features, accurate fabric folds, anatomically correct hands and fingers, believable denim texture, realistic footwear, detailed woodwork, natural color grading, and authentic photographic depth of field.\n\nSTRICT PRESERVATION:\nKeep the original setting, bench design, cushion arrangement, camera angle, perspective, seated pose, and overall framing as close to the reference as possible. Change only the subject's appearance and the requested feminine clothing details. Avoid artificial beauty filters, plastic skin, exaggerated facial features, distorted limbs, extra fingers, missing fingers, floating hands, altered furniture, invented objects, excessive bokeh, and cartoon-like rendering."
         }
       ],
-      "last_message_id": 4233,
-      "last_user_message_id": 4233,
+      "last_message_id": 4236,
+      "last_user_message_id": 4236,
       "processed_message_ids": [
         4217,
         4219,
@@ -2452,17 +2452,19 @@
         4226,
         4228,
         4231,
-        4233
+        4233,
+        4236
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "87fc9d93b2",
-      "revision": 11,
+      "stage_token": "abe2d5a40d",
+      "revision": 12,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "ChatGPT-Boy"
     }
   },
   "settings": {
