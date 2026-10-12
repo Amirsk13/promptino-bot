@@ -2430,23 +2430,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4174,
-      "last_user_message_id": 4174,
+      "last_message_id": 4177,
+      "last_user_message_id": 4177,
       "processed_message_ids": [
         4172,
-        4174
+        4174,
+        4177
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "3991474c89",
-      "revision": 3,
+      "stage_token": "9dd555a30a",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Autumn Rain Portrait"
     }
   },
   "settings": {
