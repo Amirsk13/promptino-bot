@@ -2373,25 +2373,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4132,
-      "last_user_message_id": 4132,
+      "last_message_id": 4134,
+      "last_user_message_id": 4134,
       "processed_message_ids": [
         4127,
         4129,
-        4132
+        4132,
+        4134
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "ea0f52a7c0",
-      "revision": 4,
+      "stage_token": "d588896c9b",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "ea0f52a7c0",
-      "name": "Palm Beach Casual Portrait"
+      "prompt_sent_token": null,
+      "name": "Palm Beach Casual Portrait",
+      "number": 16
     }
   },
   "settings": {
