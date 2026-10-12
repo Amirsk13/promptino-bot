@@ -2373,7 +2373,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
@@ -2398,8 +2398,8 @@
         4143
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "49e77466a2",
-      "revision": 10,
+      "stage_token": "28510bce18",
+      "revision": 11,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
