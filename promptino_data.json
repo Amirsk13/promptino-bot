@@ -2316,7 +2316,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
@@ -2343,8 +2343,8 @@
           "prompt": "Use the uploaded photograph as the precise visual guide. Recreate the same photorealistic portrait of a young adult Iranian man. Preserve the subject's visible facial features, hairstyle, expression, pose, outfit, architectural background, camera perspective, lighting, and warm cinematic mood.\n\nSUBJECT:\nYoung adult Iranian man with short black hair and a clean tapered fade, dark eyebrows, dark eyes, a straight nose, subtle mustache, and natural medium-light olive skin. Preserve the original youthful facial proportions and contemplative expression. His gaze remains slightly toward the left side of the frame.\n\nPOSE:\nThe man stands beside a tall stone pillar on the right. His left hand is inside the front pocket of his jeans. His right elbow extends outward, while his right forearm crosses horizontally in front of his upper chest and his right hand rests near the opposite shoulder. Keep the exact hand placement, arm angles, body orientation, and leg position. Do not mirror the image.\n\nCLOTHING:\nOversized cream hoodie with drawstrings and a small understated chest graphic, open black sleeveless quilted vest, and relaxed blue jeans. Preserve the original garment proportions, folds, stitching, and colors.\n\nENVIRONMENT:\nKeep the large beige stone pillar in the right foreground, showing its weathered rectangular blocks and visible mortar joints. Retain the dark masonry wall, tall industrial windows, exposed black metal roof trusses, and bright skylight panels. Preserve the original architectural geometry and background depth.\n\nCOMPOSITION:\nVertical 2:3 image, medium-long portrait from approximately the knees to above the head. Keep the man at the same distance from the camera, maintain the original headroom and pillar placement, and use a natural 50mm-equivalent perspective from approximately eye level. The industrial environment must remain a substantial part of the image.\n\nLIGHTING AND COLOR:\nWarm daylight filtering through the skylights, soft highlights on the face and hoodie, subtle architectural shadows, warm stone and masonry, deep blacks, off-white clothing, and muted blue denim. Use natural contrast and restrained cinematic color grading.\n\nCreate a highly realistic fashion photograph with accurate anatomy, realistic hands, natural skin texture, detailed fabrics, and clearly visible stone and steel textures.\n\nNo watermark, added text, logos, extra people, props, pose changes, mirrored composition, artificial beauty filters, or excessive background blur. Faithfully reproduce the reference rather than creating a different scene."
         }
       ],
-      "last_message_id": 4113,
-      "last_user_message_id": 4113,
+      "last_message_id": 4116,
+      "last_user_message_id": 4116,
       "processed_message_ids": [
         4082,
         4084,
@@ -2359,17 +2359,19 @@
         4106,
         4108,
         4111,
-        4113
+        4113,
+        4116
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "12d136bb0d",
-      "revision": 20,
+      "stage_token": "8dcd3f2ae5",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
       "number": 15,
       "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی.",
-      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه"
+      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
