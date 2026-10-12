@@ -2316,25 +2316,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4087,
-      "last_user_message_id": 4087,
+      "last_message_id": 4089,
+      "last_user_message_id": 4089,
       "processed_message_ids": [
         4082,
         4084,
-        4087
+        4087,
+        4089
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "2796c39031",
-      "revision": 4,
+      "stage_token": "2ff34f8948",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "2796c39031",
-      "name": "Industrial Stone Portrait"
+      "prompt_sent_token": null,
+      "name": "Industrial Stone Portrait",
+      "number": 15
     }
   },
   "settings": {
