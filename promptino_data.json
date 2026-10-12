@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
@@ -2476,8 +2476,8 @@
         4203
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "5f1c9310bd",
-      "revision": 19,
+      "stage_token": "2f7112e3bf",
+      "revision": 20,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
