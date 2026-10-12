@@ -2430,25 +2430,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4177,
-      "last_user_message_id": 4177,
+      "last_message_id": 4179,
+      "last_user_message_id": 4179,
       "processed_message_ids": [
         4172,
         4174,
-        4177
+        4177,
+        4179
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "9dd555a30a",
-      "revision": 4,
+      "stage_token": "d6a2b24643",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "9dd555a30a",
-      "name": "Autumn Rain Portrait"
+      "prompt_sent_token": null,
+      "name": "Autumn Rain Portrait",
+      "number": 16
     }
   },
   "settings": {
