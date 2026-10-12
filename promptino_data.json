@@ -2448,7 +2448,7 @@
       "stage_token": "d6a2b24643",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "d6a2b24643",
       "name": "Autumn Rain Portrait",
       "number": 16
     }
