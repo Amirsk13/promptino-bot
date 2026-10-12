@@ -2391,7 +2391,7 @@
       "stage_token": "d588896c9b",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "d588896c9b",
       "name": "Palm Beach Casual Portrait",
       "number": 16
     }
