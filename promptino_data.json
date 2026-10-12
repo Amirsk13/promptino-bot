@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2457,8 +2457,8 @@
           "prompt": "IMAGE-TO-IMAGE TASK: Reconstruct the attached photograph as a photorealistic portrait of a young adult Iranian man. Use the supplied image as the strict visual reference for the environment, camera, framing, lighting, and seated pose.\n\nThe subject is a naturally handsome young Iranian man with dark eyes, thick dark hair, defined but realistic eyebrows, and subtle natural stubble. He wears a plain white short-sleeve T-shirt, straight-leg blue denim jeans, and white athletic sneakers. He wears no scarf, head covering, jacket, or feminine accessories.\n\nPOSE IS CRITICAL: He sits sideways on the same carved wooden bench, leaning back slightly. Both hands are placed behind his hips on the bench, with both arms supporting his upper-body weight. His palms contact the seat naturally, and his shoulders and elbows follow believable biomechanics. His legs extend forward in a relaxed position and remain uncrossed. The right leg must not rest over the left. Maintain the original subject orientation and camera relationship; do not mirror the scene.\n\nPreserve the original honey-brown wooden bench, intricate carved geometric and floral panels, Persian-style patterned cushions, red patterned rug, dense green foliage, and pale blossoms. Keep their spatial arrangement and proportions consistent with the reference. Do not remove background elements or replace the garden.\n\nComposition: vertical 4:5 portrait, medium-to-three-quarter seated framing, subject visible from head to shoes, natural seated-height viewpoint, approximately 50mm equivalent lens, realistic perspective, and no wide-angle distortion. Retain the same camera distance and visible environmental space.\n\nLighting: soft natural garden daylight, gentle shadows, believable highlights on the white T-shirt and face, warm wooden tones, rich but natural greens, red carpet details, and authentic blue denim. Keep moderate background blur while preserving visible furniture detail.\n\nPhotographic quality: high-resolution, lifelike Iranian male facial features, natural skin texture, accurate anatomy, realistic fabric folds, correct hand and finger structure, believable weight distribution, detailed carved wood, and natural color rendering.\n\nDo not alter the original location, furniture, camera angle, perspective, lighting direction, or overall composition. Do not cross the legs, move either hand onto the thigh, omit one supporting hand, create malformed fingers, distort elbows or wrists, over-blur the garden, add objects, or apply artificial beauty filters."
         }
       ],
-      "last_message_id": 4248,
-      "last_user_message_id": 4248,
+      "last_message_id": 4251,
+      "last_user_message_id": 4251,
       "processed_message_ids": [
         4217,
         4219,
@@ -2473,17 +2473,19 @@
         4241,
         4243,
         4246,
-        4248
+        4248,
+        4251
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "e382fe81e2",
-      "revision": 20,
+      "stage_token": "1261797889",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
