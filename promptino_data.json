@@ -686,8 +686,27 @@
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        78,
+        79,
+        80
+      ],
+      "archive_message_ids": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338
+      ]
     }
   },
   "vip": {
