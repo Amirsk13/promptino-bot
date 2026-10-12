@@ -2430,14 +2430,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4186,
-      "last_user_message_id": 4186,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Use the attached reference image as the primary visual reference. Recreate the same photorealistic autumn park photograph with a young adult Iranian woman as the only person in the scene. Remove every other person completely.\n\nPreserve the original composition, full-body framing, camera distance, eye-level perspective, centered subject, walking pose, slightly lowered head, downward gaze, and natural body proportions.\n\nThe woman wears a long camel-colored double-breasted coat over an all-black outfit, a black hijab, dark sunglasses, black ankle boots, and carries a black shoulder bag. One hand holds the bag strap near her shoulder while the other rests naturally in her coat pocket.\n\nReproduce the symmetrical tree-lined walkway, golden autumn foliage, wet reflective paving stones, scattered fallen leaves, planters, benches, drainage channel, and overcast sky. Keep the background recognizable and detailed, with only natural distance blur.\n\nMaintain the original warm ochre, golden yellow, olive green, black, and wet-stone colors, realistic fabric textures, soft overcast lighting, natural shadows, and photographic depth.\n\nCreate a natural-looking Iranian fashion portrait, not a collage. Keep the entire environment visible, avoid close-up framing, and preserve the solitary, understated autumn mood. Vertical 2:3 composition, high-resolution realistic photography."
+        }
+      ],
+      "last_message_id": 4188,
+      "last_user_message_id": 4188,
       "processed_message_ids": [
         4172,
         4174,
@@ -2445,18 +2451,18 @@
         4179,
         4181,
         4183,
-        4186
+        4186,
+        4188
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "57e92e6080",
-      "revision": 9,
+      "stage_token": "daa618c21e",
+      "revision": 10,
       "mode": "create",
-      "prompt_sent_token": "57e92e6080",
+      "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
       "number": 16,
       "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی",
-      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی"
     }
   },
   "settings": {
