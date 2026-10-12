@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2445,10 +2445,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the attached reference image as the primary visual reference and recreate the same scene as a highly photorealistic portrait of a young adult Iranian man. Preserve the original composition, camera perspective, subject scale, seated posture, environment, and natural photographic atmosphere.\n\nSUBJECT AND CLOTHING:\nA young Iranian man with naturally dark eyes, dark eyebrows, thick dark hair styled naturally, realistic masculine facial features, and light natural stubble. He wears a plain white short-sleeve T-shirt, straight-leg blue denim jeans, and clean white athletic sneakers. No headscarf, no scarf, no jacket, and no feminine accessories. Keep his appearance natural and age-appropriate, with realistic skin texture and proportions.\n\nPOSE AND ANATOMY:\nHe sits sideways on the same ornate honey-brown carved wooden traditional bench. His torso is slightly turned toward the camera, and he looks directly at the camera with a calm, relaxed expression. Both hands are placed behind his body on the bench, one on either side of his hips, with both arms extended naturally to support his weight. Both palms make believable contact with the seat. His shoulders lean back slightly. His legs extend forward naturally and remain uncrossed, with the right leg not placed over the left leg. Keep the feet, knees, and ankles anatomically correct. Do not mirror the reference or invent a different seated pose.\n\nENVIRONMENT:\nReproduce the exact same outdoor garden setting with an intricately carved wooden bench, decorative geometric and floral cutouts, richly patterned Persian-style cushions, a red patterned rug on the seat, and dense green foliage with small pale blossoms in the background. Preserve the original arrangement of the bench, cushions, rug, and surrounding greenery. Keep visible architectural and ground details consistent with the reference.\n\nCAMERA AND COMPOSITION:\nVertical portrait, approximately 4:5 aspect ratio. Medium-to-three-quarter seated portrait showing the subject from head to shoes and retaining substantial visible detail of the bench and garden. Camera at approximately seated upper-body height, natural perspective, approximately 50mm lens equivalent. Maintain the same camera distance, framing, and subject-to-background proportions. Avoid close-up framing, wide-angle distortion, and unnecessary cropping.\n\nLIGHTING AND COLOR:\nSoft natural daylight filtered through garden foliage, realistic highlights on the face and white T-shirt, gentle natural shadows, warm brown wood, deep natural greens, rich carpet reds, and authentic blue denim. Maintain moderate depth of field so the subject is clear while the carved furniture and patterned cushions remain recognizable.\n\nSTYLE AND QUALITY:\nProfessional photorealistic lifestyle photography, authentic Iranian male appearance, natural facial texture, realistic hair and subtle stubble, accurate clothing folds, anatomically correct hands and fingers, believable arm support, natural denim creases, realistic sneakers, detailed wood carvings, and restrained natural color grading.\n\nSTRICT PRESERVATION:\nKeep the same location, furniture, background, lighting direction, camera angle, perspective, and overall framing as the reference. The intended changes are a natural Iranian male subject, a plain white short-sleeve T-shirt, straight blue jeans, no scarf, and both hands supporting the body from behind with uncrossed legs. Do not alter the scene unnecessarily. Avoid crossed legs, a hand resting on the thigh, missing or extra fingers, distorted arms, unnatural wrist angles, floating hands, altered furniture, excessive background blur, plastic skin, and cartoon-like rendering."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "IMAGE-TO-IMAGE TASK: Reconstruct the attached photograph as a photorealistic portrait of a young adult Iranian woman. Treat the uploaded image as the source of truth for composition, environment, perspective, lighting, and pose.\n\nCreate a young Iranian woman with natural dark eyes, dark eyebrows, dark hair tied back, and a relaxed, genuine smile. Dress her in a softly draped dusty-pink Persian-style headscarf covering her hair and neck, a pastel-pink casual jacket, a light neutral top, straight blue jeans, and white athletic sneakers. Preserve realistic facial proportions, skin texture, and natural body anatomy.\n\nShe sits sideways on the original ornately carved honey-brown wooden bench. Her torso is turned slightly toward the camera, and she looks toward the camera. One hand supports her body on the bench beside her, and the other rests naturally on her thigh. Preserve the reference's seated posture, hand positions, leg placement, and body orientation without mirroring.\n\nReproduce the traditional wooden bench with intricate carved panels, the patterned Persian-style cushions, the red patterned rug on the seat, and the dense green garden foliage with small pale flowers. Keep the same relative placement, scale, and visibility of all major scene elements.\n\nUse a vertical 4:5 portrait composition, a natural seated-height camera perspective, and an approximately 50mm full-frame-equivalent portrait lens. Show the subject from head to shoes while retaining the surrounding bench and garden. Do not move the camera closer or crop away important environmental details.\n\nMatch the original soft natural daylight, gentle foliage-filtered shadows, warm wood tones, dusty-pink clothing, blue denim, natural greens, and moderate optical background blur. The subject should be sharply rendered, with the bench carvings and cushions still visibly detailed.\n\nOutput: authentic high-resolution photography, realistic Iranian female appearance, natural textile textures, believable fabric folds, correct anatomy, accurate hands and fingers, realistic footwear, and restrained color grading.\n\nPreserve everything not explicitly changed. Do not introduce new props, change the furniture, relocate the subject, exaggerate facial beauty, smooth the skin excessively, distort the hands, or turn the image into an illustration."
         }
       ],
-      "last_message_id": 4241,
-      "last_user_message_id": 4241,
+      "last_message_id": 4243,
+      "last_user_message_id": 4243,
       "processed_message_ids": [
         4217,
         4219,
@@ -2460,18 +2465,18 @@
         4233,
         4236,
         4238,
-        4241
+        4241,
+        4243
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "595d940e78",
-      "revision": 15,
+      "stage_token": "83282d7c78",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "595d940e78",
+      "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
-      "pending_label": "Gemini-Girl"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
     }
   },
   "settings": {
