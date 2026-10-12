@@ -2334,7 +2334,7 @@
       "stage_token": "2ff34f8948",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "2ff34f8948",
       "name": "Industrial Stone Portrait",
       "number": 15
     }
