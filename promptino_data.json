@@ -2373,7 +2373,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
@@ -2383,10 +2383,15 @@
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Use the uploaded image as the primary visual reference and recreate the same photograph with a young adult Iranian woman as the subject. Preserve the original scene, composition, camera distance, perspective, lighting, colors, pose, and natural photographic realism as closely as possible.\n\nSUBJECT AND APPEARANCE:\nA young adult Iranian woman with naturally dark hair tied in a casual bun, a few loose strands framing her face, and oversized dark sunglasses. Her expression is relaxed and casual. Preserve the approximate head position and face visibility from the reference. Use realistic skin texture and natural facial proportions without excessive beautification.\n\nPOSE — CRITICAL:\nReproduce the exact standing pose and body orientation. The subject stands near the center of the image, slightly left of the large foreground palm tree. Her right hand is raised to the sunglasses near her temple, as if adjusting them; her left hand rests naturally on the front of her left thigh. Preserve the original arm angles, hand placement, relaxed shoulders, slight head tilt, and natural weight distribution. Do not mirror the image or swap hands.\n\nCLOTHING:\nAn oversized light taupe-gray short-sleeved T-shirt, loose sage-green wide-leg trousers, dark sunglasses, a black smartwatch on the left wrist, and casual light-colored sneakers. Keep the same relaxed unisex streetwear aesthetic, garment fit, fabric drape, and color palette.\n\nENVIRONMENT:\nA sunny seaside promenade with a pale sandy concrete walkway, a large mature date palm dominating the right foreground, another tall palm in the middle-left background, and the blue sea extending across the distant horizon. Preserve the palm trunks, arching fronds, small distant palm trees, waterfront railing, scattered benches, paving details, and open sky. Retain the palm tree's substantial overlap with the right side of the subject and the circular stone edging around its base.\n\nCOMPOSITION AND CAMERA:\nSquare 1:1 image. Full-body environmental portrait with the entire subject visible from head to shoes and generous surrounding scenery. Eye-level camera, moderate shooting distance, natural perspective, approximately 35–40mm full-frame equivalent. Keep the subject relatively small within the frame, with the large foreground palm occupying much of the right side and its fronds stretching across the upper frame. Do not crop tightly or enlarge the subject.\n\nLIGHTING AND COLOR:\nBright natural midday sunlight, pale blue sky, turquoise-blue sea, warm beige paving, muted green trousers, and gray-taupe shirt. Preserve the clearly defined palm-frond shadows across the foreground pavement, realistic highlights, and strong outdoor sunlight without artificial cinematic grading.\n\nPHOTOGRAPHIC STYLE:\nNatural candid travel photography, realistic textures, balanced exposure, sharp environmental details, authentic colors, and moderate natural depth of field. Keep the sea, palm trees, pavement, and distant background recognizable rather than turning them into heavy bokeh.\n\nPRIORITY:\nReference fidelity in framing, full-body scale, hand placement, pose, palm-tree positions, seaside horizon, shadows, and clothing. The result should look like the same photograph captured in the same location, with only the subject presented as a woman. Avoid invented scenery, altered camera angles, mirrored poses, exaggerated anatomy, plastic skin, excessive blur, and unnecessary accessories."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Use the uploaded image as the primary visual reference. Recreate the same photograph with a young adult Iranian man, preserving the original composition, pose, environment, camera perspective, natural lighting, and realistic photographic style.\n\nSUBJECT:\nA young adult Iranian man with naturally dark hair styled in a casual small bun, a few loose strands around the forehead, subtle natural facial hair if appropriate, and oversized black sunglasses. Maintain realistic facial proportions, natural skin texture, and a relaxed, confident expression.\n\nPOSE — CRITICAL:\nReproduce the original unmirrored standing pose. Position the subject near the center, slightly left of the large foreground palm tree. His right hand is raised to the sunglasses near his right temple as if adjusting them, while his left hand rests naturally on the front of his left thigh. Preserve the arm angles, hand placement, wrist orientation, head tilt, body direction, and relaxed weight distribution. Keep both hands anatomically accurate.\n\nOUTFIT:\nAn oversized light taupe-gray short-sleeved T-shirt with natural fabric folds, charcoal-gray wide-leg trousers in a dark pencil-gray tone, a black smartwatch on the left wrist, oversized black sunglasses, and chunky light-colored sneakers. The trousers should be clearly charcoal gray rather than green, with a relaxed straight-leg silhouette, subtle denim or cotton texture, and natural draping over the shoes. Preserve the casual minimalist streetwear aesthetic.\n\nENVIRONMENT:\nRecreate the same sunny seaside promenade. A massive mature date palm dominates the right foreground, with a thick textured trunk and long arching fronds filling much of the upper frame. A second tall palm stands in the middle-left background. Preserve the blue sea, distant horizon, pale blue sky, waterfront railing, simple benches, small distant palms, wide beige pavement, and circular stone edging around the main palm.\n\nCAMERA AND COMPOSITION:\nSquare 1:1 image, full-body environmental portrait with the entire subject visible from head to shoes. Eye-level camera, moderate shooting distance, approximately 35–40mm full-frame equivalent. Preserve the subject's original scale and placement relative to the palm trees and horizon. Keep generous surrounding scenery and foreground pavement. Do not crop, zoom in, mirror the image, or distort perspective.\n\nLIGHTING AND COLORS:\nBright natural midday sunlight, crisp palm-frond shadows across the pavement, pale blue sky, blue-turquoise sea, warm beige ground, taupe-gray shirt, charcoal-gray trousers, and light sneakers. Maintain natural contrast, realistic highlights, and authentic skin tones without excessive color grading.\n\nPHOTOGRAPHIC STYLE:\nPhotorealistic candid travel photography, detailed palm bark and leaves, realistic fabric texture, natural anatomy, moderate depth of field, and a clearly recognizable seaside background.\n\nPRIORITY:\nPreserve the original scene, pose, hand placement, full-body scale, camera distance, and lighting. The principal clothing change is the replacement of the original green trousers with charcoal-gray pencil-gray trousers. Do not change the T-shirt, add unnecessary accessories, remove environmental details, blur the background excessively, or introduce artificial beauty filters."
         }
       ],
-      "last_message_id": 4146,
-      "last_user_message_id": 4146,
+      "last_message_id": 4148,
+      "last_user_message_id": 4148,
       "processed_message_ids": [
         4127,
         4129,
@@ -2396,18 +2401,18 @@
         4138,
         4141,
         4143,
-        4146
+        4146,
+        4148
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "f9fa8e8c48",
-      "revision": 12,
+      "stage_token": "34876a6cf3",
+      "revision": 13,
       "mode": "create",
-      "prompt_sent_token": "f9fa8e8c48",
+      "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 16,
       "suitable": "بازسازی پرتره تمام‌قد در ساحل با حفظ ژست، لباس، درختان نخل، دریا، سایه‌های طبیعی و نور آفتاب؛ در دو نسخه دخترانه و پسرانه با ترکیب‌بندی نزدیک به تصویر مرجع.",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی",
-      "pending_label": "ChatGPT-Boy"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی"
     }
   },
   "settings": {
