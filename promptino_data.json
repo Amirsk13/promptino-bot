@@ -2316,31 +2316,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4093,
-      "last_user_message_id": 4093,
+      "last_message_id": 4096,
+      "last_user_message_id": 4096,
       "processed_message_ids": [
         4082,
         4084,
         4087,
         4089,
         4091,
-        4093
+        4093,
+        4096
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "2d1820772d",
-      "revision": 8,
+      "stage_token": "6196bec8c4",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
       "number": 15,
       "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی.",
-      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه"
+      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
