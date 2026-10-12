@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2469,8 +2469,8 @@
         4243
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "83282d7c78",
-      "revision": 16,
+      "stage_token": "b2ce37f310",
+      "revision": 17,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
