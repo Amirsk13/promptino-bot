@@ -2316,7 +2316,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
@@ -2338,8 +2338,8 @@
           "prompt": "Use the uploaded photograph as the main image reference. Create a faithful image-to-image reconstruction featuring a young adult Iranian woman in place of the original male subject. Preserve the original camera viewpoint, framing, pose, clothing, stone pillar, industrial warehouse, natural lighting, and warm cinematic color palette.\n\nSUBJECT:\nA realistic young adult Iranian woman with dark eyes, naturally defined eyebrows, dark hair neatly styled away from her face, realistic skin texture, and subtle makeup. Keep her expression calm and contemplative, with her gaze directed slightly to the left of the frame.\n\nPOSE — KEEP EXACTLY:\nShe stands in the same position beside the stone pillar. Her left hand remains inside the front pocket of her blue jeans. Her right elbow is raised outward, and her right forearm crosses horizontally in front of her upper chest, with her right hand resting near the opposite shoulder. Preserve the original body orientation, arm angles, hand placement, and leg position. Do not mirror the image.\n\nOUTFIT:\nAn oversized off-white hoodie with drawstrings and a small chest print, an open black sleeveless padded vest, and relaxed blue jeans. Maintain the original unisex streetwear look, garment fit, folds, and textures.\n\nBACKGROUND:\nA large weathered beige stone pillar occupies the right foreground. Its rectangular stone blocks, irregular texture, and mortar lines must remain visible. The background contains a dark masonry wall, tall narrow industrial windows, black steel roof trusses, and bright geometric skylight openings. Preserve the original perspective, architectural depth, and spatial arrangement.\n\nCAMERA:\nVertical 2:3 portrait, medium-long framing from approximately the knees upward, eye-level perspective, and a natural 50mm-equivalent lens. Maintain the subject's original size and position, the pillar's prominence, and the amount of visible environment. Do not zoom in or excessively blur the background.\n\nLIGHTING:\nWarm natural daylight entering through the roof, soft facial highlights, gentle shadows, warm beige stone, dark steel beams, cream fabric, black vest, and muted blue denim. Keep the color grade cinematic but realistic.\n\nOUTPUT:\nPhotorealistic editorial fashion portrait, natural skin texture, anatomically correct hands, realistic clothing folds, crisp stone texture, and recognizable architectural details.\n\nDo not add watermarks, text, logos, extra people, accessories, or props. Do not change the pose, swap hands, mirror the image, replace the setting, or alter the camera distance. Change only the subject's gender presentation and naturally corresponding facial features."
         }
       ],
-      "last_message_id": 4108,
-      "last_user_message_id": 4108,
+      "last_message_id": 4111,
+      "last_user_message_id": 4111,
       "processed_message_ids": [
         4082,
         4084,
@@ -2352,17 +2352,19 @@
         4101,
         4103,
         4106,
-        4108
+        4108,
+        4111
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "770072ac5c",
-      "revision": 17,
+      "stage_token": "e22f70286f",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
       "number": 15,
       "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی.",
-      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه"
+      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
