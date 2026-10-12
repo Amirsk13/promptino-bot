@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2462,8 +2462,8 @@
           "prompt": "Use the uploaded image as the primary reference for a high-fidelity image-to-image reconstruction. Preserve the original scene and change only what is necessary to produce the requested female version.\n\nSUBJECT: A young adult Iranian woman with natural dark eyes, dark eyebrows, dark hair tied back, and a warm, natural smile. She wears a dusty-pink Persian-style headscarf draped naturally over her head and around her neck, a pastel-pink casual jacket, a light neutral shirt, straight blue jeans, and white athletic sneakers. Keep facial anatomy and skin texture realistic.\n\nPOSE: Seated sideways on the original carved wooden bench, torso slightly turned toward the camera, face looking at the camera. One hand rests on the bench beside her body for support; the other rests naturally on her thigh. Preserve the original body orientation, hand placement, leg position, and relaxed posture. No mirroring.\n\nSCENE LOCK: Maintain the same honey-brown carved wooden bench, intricate geometric cutouts, Persian-style patterned cushions, red patterned rug, dense green foliage, pale flowers, and visible ground. Preserve the spatial layout, proportions, and visual detail of the entire setting.\n\nCAMERA LOCK: Vertical 4:5 portrait, natural seated-height viewpoint, approximately 50mm-equivalent lens, medium-to-three-quarter seated framing with the subject visible from head to shoes. Retain the original camera distance, perspective, and environmental coverage. Do not zoom in or crop out the bench.\n\nLIGHTING AND COLOR LOCK: Soft natural daylight filtered through foliage, gentle shadows, natural highlights, warm wood, dusty-pink fabric, blue denim, rich green foliage, and moderate background blur. Keep the furniture and cushions recognizable.\n\nQUALITY: Photorealistic lifestyle photography, realistic Iranian facial features, authentic fabric textures, correct anatomy, naturally shaped hands and fingers, detailed carving, realistic footwear, and restrained color grading.\n\nPriority order: scene and composition fidelity, pose fidelity, correct clothing, realistic anatomy, natural photographic finish. Do not redesign the scene, add props, change the furniture, exaggerate facial features, over-smooth skin, distort hands, or use illustration-like rendering."
         }
       ],
-      "last_message_id": 4253,
-      "last_user_message_id": 4253,
+      "last_message_id": 4256,
+      "last_user_message_id": 4256,
       "processed_message_ids": [
         4217,
         4219,
@@ -2480,17 +2480,19 @@
         4246,
         4248,
         4251,
-        4253
+        4253,
+        4256
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "590fe420d6",
-      "revision": 23,
+      "stage_token": "b19e68078d",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
