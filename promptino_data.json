@@ -2316,7 +2316,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
@@ -2346,10 +2346,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE — STRICT REFERENCE PRESERVATION\n\nUse the uploaded image as the source reference. Recreate the same industrial fashion photograph with a natural young adult Iranian woman replacing the male subject. Preserve the scene, composition, pose, clothing, architectural geometry, lighting, and photographic mood. Make only the gender-related changes necessary to create a believable female subject.\n\nSUBJECT:\nA young adult Iranian woman with naturally dark eyes, defined dark eyebrows, dark hair neatly styled away from her face, realistic skin texture, subtle natural makeup, and a calm, contemplative expression. Maintain believable facial proportions and a gaze directed slightly toward the left side of the frame.\n\nPOSE LOCK:\nKeep the original pose unchanged. The woman stands in front of the industrial background, immediately beside the large stone pillar on the right. Her left hand is tucked into the front pocket of her jeans. Her right elbow extends outward, and her right forearm crosses horizontally in front of her upper chest, with her right hand positioned near the opposite shoulder. Preserve the exact arm angles, hand placement, torso orientation, shoulder position, and leg stance. Never mirror or reverse the image.\n\nWARDROBE LOCK:\nMaintain the oversized off-white hoodie, visible drawstrings, small understated chest print, open black sleeveless padded vest, and blue denim jeans. Keep the hood around the neck, loose sleeves, original vest silhouette, and natural garment folds. Preserve the same unisex streetwear styling.\n\nENVIRONMENT LOCK:\nRetain the large, weathered beige stone pillar occupying the right foreground, with rectangular blocks, irregular surfaces, and visible mortar joints. Preserve the dark masonry wall behind the subject, tall narrow windows, exposed black steel roof trusses, and bright geometric skylights. Maintain the same architectural depth and arrangement. Do not remove, replace, or simplify the pillar or roof.\n\nCAMERA LOCK:\nVertical 2:3 portrait. Medium-long framing from approximately the knees to above the head. Eye-level perspective with natural 50mm-equivalent lens characteristics. Preserve the original subject scale, headroom, pillar position, negative space, and distance from the camera. No close-up crop, wide-angle distortion, or artificial perspective changes.\n\nLIGHTING AND COLOR LOCK:\nWarm natural daylight filtering through the roof openings, soft highlights on the face and cream hoodie, realistic shadows, beige and amber stone, dark steel beams, black vest, and muted blue denim. Maintain the original subdued cinematic color grade, realistic exposure, and natural contrast.\n\nFINAL QUALITY:\nPhotorealistic editorial fashion photography, realistic skin pores, accurate anatomy, natural fingers, detailed fabric, authentic stone textures, recognizable architectural features, and moderate depth of field.\n\nRemove any visible watermark from the recreated composition by generating clean, unmarked imagery rather than reproducing the watermark. Do not add text, signatures, logos, accessories, extra people, or new objects. The result should look like the female counterpart of the same original photograph, not a new interpretation."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE — HIGH-FIDELITY RECONSTRUCTION\n\nTreat the uploaded photograph as the definitive visual reference. Recreate the original portrait of the young adult Iranian man while preserving his visible appearance, pose, clothing, camera position, architectural setting, lighting, and cinematic color grading.\n\nSUBJECT PRESERVATION:\nYoung adult Iranian man with short black hair styled upward, neatly tapered sides, strong dark eyebrows, dark eyes, a straight nose, subtle mustache, and natural medium-light olive skin. Preserve the original youthful facial proportions, realistic skin texture, and serious, contemplative expression. His gaze remains directed slightly toward the left side of the frame.\n\nEXACT POSE:\nThe man stands casually beside the large stone pillar on the right. His left hand remains in the front pocket of his blue jeans. His right elbow is raised outward, with his right forearm crossing horizontally in front of his upper chest and his right hand near the opposite shoulder. Preserve the original arm positions, hand placement, torso angle, shoulder alignment, and leg stance. Do not mirror, flip, or reinterpret the pose.\n\nEXACT WARDROBE:\nOff-white oversized hoodie with drawstrings and a small understated chest print, open black sleeveless padded vest, and relaxed blue denim jeans. Preserve the garment silhouette, vest quilting, hoodie folds, sleeve gathering, and original colors. Do not add accessories or replace the clothing.\n\nARCHITECTURAL PRESERVATION:\nThe right foreground is dominated by a large beige stone pillar with weathered rectangular blocks, irregular stone surfaces, and visible mortar lines. Behind the subject, retain the dark industrial masonry wall, tall narrow windows, black metal roof trusses, and bright geometric skylight openings. Preserve the architectural perspective, depth, and relationship between the man and pillar.\n\nCAMERA AND FRAMING:\nVertical 2:3 composition, medium-long portrait from approximately the knees to above the head. Maintain the original subject size, camera distance, headroom, pillar position, and visible environment. Use a natural 50mm-equivalent perspective and an eye-level viewpoint. Do not crop closer or distort the architecture.\n\nLIGHTING AND COLOR:\nWarm daylight filtering through the skylights, soft highlights on the face and cream hoodie, natural shadow gradients, warm beige stone, muted brown masonry, deep black clothing, and subdued denim blue. Preserve the restrained cinematic film look and realistic exposure.\n\nPHOTOGRAPHIC FINISH:\nHigh-resolution photorealistic urban fashion photography, natural skin texture, realistic hair, anatomically correct hands and fingers, detailed fabrics, visible stone grain, and recognizable roof structure. Keep the background moderately soft but clearly identifiable.\n\nGenerate a clean image without watermarks, signatures, or text overlays. Do not introduce additional people, props, accessories, pose changes, altered clothing, excessive beauty retouching, or environmental redesign. Prioritize source-image fidelity over artistic variation."
         }
       ],
-      "last_message_id": 4121,
-      "last_user_message_id": 4121,
+      "last_message_id": 4123,
+      "last_user_message_id": 4123,
       "processed_message_ids": [
         4082,
         4084,
@@ -2367,18 +2372,18 @@
         4113,
         4116,
         4118,
-        4121
+        4121,
+        4123
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "7f730fc475",
-      "revision": 24,
+      "stage_token": "5711ebc72c",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "7f730fc475",
+      "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
       "number": 15,
       "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی.",
-      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه"
     }
   },
   "settings": {
