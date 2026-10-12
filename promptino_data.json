@@ -2430,31 +2430,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQTGrNPg0omqxlcDSGZPTPTJe_yt5FAAKbD2sb6X9xUngRR-ZUYdLEAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQTmrNPii6Z_oOFduJnaZl3WeKIPweAAKcD2sb6X9xUo6_iujczHFXAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4183,
-      "last_user_message_id": 4183,
+      "last_message_id": 4186,
+      "last_user_message_id": 4186,
       "processed_message_ids": [
         4172,
         4174,
         4177,
         4179,
         4181,
-        4183
+        4183,
+        4186
       ],
       "flow_id": "92acf8e87492",
-      "stage_token": "d6a6af10f8",
-      "revision": 8,
+      "stage_token": "57e92e6080",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Autumn Rain Portrait",
       "number": 16,
       "suitable": "بازسازی فوتورئال عکس مرجع با مدل ایرانی، حفظ محیط و ژست و حذف افراد اضافی",
-      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nتولید تصویر دخترانه و پسرانه\nمحتوای شبکه‌های اجتماعی\nعکاسی مد و استایل پاییزی\nبازسازی تصویر با هوش مصنوعی",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
