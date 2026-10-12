@@ -2430,7 +2430,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQeWrNQ-UTtb8wdvm-aRxafj5xURbFAAKzD2sb6X9xUuLI17tDFNRlAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQe2rNRCA6WURTCsdSRefzLhHW-EfrAAK3D2sb6X9xUso59OSoxtnpAQADAgADdwADPQQ"
@@ -2452,8 +2452,8 @@
           "prompt": "IMAGE-TO-IMAGE TASK: Reconstruct the attached photograph as a photorealistic portrait of a young adult Iranian woman. Treat the uploaded image as the source of truth for composition, environment, perspective, lighting, and pose.\n\nCreate a young Iranian woman with natural dark eyes, dark eyebrows, dark hair tied back, and a relaxed, genuine smile. Dress her in a softly draped dusty-pink Persian-style headscarf covering her hair and neck, a pastel-pink casual jacket, a light neutral top, straight blue jeans, and white athletic sneakers. Preserve realistic facial proportions, skin texture, and natural body anatomy.\n\nShe sits sideways on the original ornately carved honey-brown wooden bench. Her torso is turned slightly toward the camera, and she looks toward the camera. One hand supports her body on the bench beside her, and the other rests naturally on her thigh. Preserve the reference's seated posture, hand positions, leg placement, and body orientation without mirroring.\n\nReproduce the traditional wooden bench with intricate carved panels, the patterned Persian-style cushions, the red patterned rug on the seat, and the dense green garden foliage with small pale flowers. Keep the same relative placement, scale, and visibility of all major scene elements.\n\nUse a vertical 4:5 portrait composition, a natural seated-height camera perspective, and an approximately 50mm full-frame-equivalent portrait lens. Show the subject from head to shoes while retaining the surrounding bench and garden. Do not move the camera closer or crop away important environmental details.\n\nMatch the original soft natural daylight, gentle foliage-filtered shadows, warm wood tones, dusty-pink clothing, blue denim, natural greens, and moderate optical background blur. The subject should be sharply rendered, with the bench carvings and cushions still visibly detailed.\n\nOutput: authentic high-resolution photography, realistic Iranian female appearance, natural textile textures, believable fabric folds, correct anatomy, accurate hands and fingers, realistic footwear, and restrained color grading.\n\nPreserve everything not explicitly changed. Do not introduce new props, change the furniture, relocate the subject, exaggerate facial beauty, smooth the skin excessively, distort the hands, or turn the image into an illustration."
         }
       ],
-      "last_message_id": 4243,
-      "last_user_message_id": 4243,
+      "last_message_id": 4246,
+      "last_user_message_id": 4246,
       "processed_message_ids": [
         4217,
         4219,
@@ -2466,17 +2466,19 @@
         4236,
         4238,
         4241,
-        4243
+        4243,
+        4246
       ],
       "flow_id": "a8625429e2bf",
-      "stage_token": "b2ce37f310",
-      "revision": 17,
+      "stage_token": "cfbc1f8b4f",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Garden Portrait",
       "number": 17,
       "suitable": "بازسازی دو نسخه دخترانه با شال صورتی و پسرانه با تیشرت سفید، با حفظ ترکیب‌بندی، ژست، لباس، نیمکت چوبی سنتی، کوسن‌های طرح‌دار، فضای سبز و نور طبیعی تصویر مرجع؛ بهینه‌شده برای ChatGPT، Gemini و Nano Banana Pro.",
-      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع"
+      "for_what": "بازسازی حرفه‌ای عکس با Image-to-Image\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست، آناتومی دست‌ها و موقعیت پاها\nتولید تصاویر فوتورئال با مدل ایرانی\nساخت تصاویر پرتره و محتوای شبکه‌های اجتماعی\nحفظ محیط، نور، پرسپکتیو و ترکیب‌بندی تصویر مرجع",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
