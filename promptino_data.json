@@ -2373,31 +2373,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4138,
-      "last_user_message_id": 4138,
+      "last_message_id": 4141,
+      "last_user_message_id": 4141,
       "processed_message_ids": [
         4127,
         4129,
         4132,
         4134,
         4136,
-        4138
+        4138,
+        4141
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "9dde977fce",
-      "revision": 8,
+      "stage_token": "c2b9982410",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 16,
       "suitable": "بازسازی پرتره تمام‌قد در ساحل با حفظ ژست، لباس، درختان نخل، دریا، سایه‌های طبیعی و نور آفتاب؛ در دو نسخه دخترانه و پسرانه با ترکیب‌بندی نزدیک به تصویر مرجع.",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
