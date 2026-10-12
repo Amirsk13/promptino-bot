@@ -2448,7 +2448,7 @@
       "stage_token": "a053ec2fec",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "a053ec2fec",
       "name": "Persian Garden Portrait",
       "number": 17
     }
