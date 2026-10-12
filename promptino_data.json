@@ -2316,7 +2316,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIP8mrMmC6e2v8Plujm6S0XOFx7JOyOAAJaDmsbsgRpUumN6RunZgEfAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIP9GrMmDrjXQrmOdao1PYAATlQkUYsjAACWw5rG7IEaVL0fKphULk6aQEAAwIAA3cAAz0E"
@@ -2348,8 +2348,8 @@
           "prompt": "IMAGE-TO-IMAGE — STRICT REFERENCE PRESERVATION\n\nUse the uploaded image as the source reference. Recreate the same industrial fashion photograph with a natural young adult Iranian woman replacing the male subject. Preserve the scene, composition, pose, clothing, architectural geometry, lighting, and photographic mood. Make only the gender-related changes necessary to create a believable female subject.\n\nSUBJECT:\nA young adult Iranian woman with naturally dark eyes, defined dark eyebrows, dark hair neatly styled away from her face, realistic skin texture, subtle natural makeup, and a calm, contemplative expression. Maintain believable facial proportions and a gaze directed slightly toward the left side of the frame.\n\nPOSE LOCK:\nKeep the original pose unchanged. The woman stands in front of the industrial background, immediately beside the large stone pillar on the right. Her left hand is tucked into the front pocket of her jeans. Her right elbow extends outward, and her right forearm crosses horizontally in front of her upper chest, with her right hand positioned near the opposite shoulder. Preserve the exact arm angles, hand placement, torso orientation, shoulder position, and leg stance. Never mirror or reverse the image.\n\nWARDROBE LOCK:\nMaintain the oversized off-white hoodie, visible drawstrings, small understated chest print, open black sleeveless padded vest, and blue denim jeans. Keep the hood around the neck, loose sleeves, original vest silhouette, and natural garment folds. Preserve the same unisex streetwear styling.\n\nENVIRONMENT LOCK:\nRetain the large, weathered beige stone pillar occupying the right foreground, with rectangular blocks, irregular surfaces, and visible mortar joints. Preserve the dark masonry wall behind the subject, tall narrow windows, exposed black steel roof trusses, and bright geometric skylights. Maintain the same architectural depth and arrangement. Do not remove, replace, or simplify the pillar or roof.\n\nCAMERA LOCK:\nVertical 2:3 portrait. Medium-long framing from approximately the knees to above the head. Eye-level perspective with natural 50mm-equivalent lens characteristics. Preserve the original subject scale, headroom, pillar position, negative space, and distance from the camera. No close-up crop, wide-angle distortion, or artificial perspective changes.\n\nLIGHTING AND COLOR LOCK:\nWarm natural daylight filtering through the roof openings, soft highlights on the face and cream hoodie, realistic shadows, beige and amber stone, dark steel beams, black vest, and muted blue denim. Maintain the original subdued cinematic color grade, realistic exposure, and natural contrast.\n\nFINAL QUALITY:\nPhotorealistic editorial fashion photography, realistic skin pores, accurate anatomy, natural fingers, detailed fabric, authentic stone textures, recognizable architectural features, and moderate depth of field.\n\nRemove any visible watermark from the recreated composition by generating clean, unmarked imagery rather than reproducing the watermark. Do not add text, signatures, logos, accessories, extra people, or new objects. The result should look like the female counterpart of the same original photograph, not a new interpretation."
         }
       ],
-      "last_message_id": 4118,
-      "last_user_message_id": 4118,
+      "last_message_id": 4121,
+      "last_user_message_id": 4121,
       "processed_message_ids": [
         4082,
         4084,
@@ -2366,17 +2366,19 @@
         4111,
         4113,
         4116,
-        4118
+        4118,
+        4121
       ],
       "flow_id": "0f5cfb09e28c",
-      "stage_token": "23b82de4b0",
-      "revision": 23,
+      "stage_token": "7f730fc475",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Industrial Stone Portrait",
       "number": 15,
       "suitable": "بازسازی پرتره فشن مردانه و زنانه در فضای صنعتی با ستون سنگی، سقف فلزی هندسی، هودی کرم، جلیقه مشکی و نور گرم سینمایی.",
-      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه"
+      "for_what": "ساخت پرتره دخترانه و پسرانه با حفظ ژست مرجع\nبازسازی عکس با هوش مصنوعی و Image-to-Image\nعکاسی فشن خیابانی و استایل کژوال\nساخت عکس پروفایل حرفه‌ای\nحفظ معماری، ستون سنگی و نورپردازی طبیعی\nتولید تصاویر واقع‌گرایانه",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
