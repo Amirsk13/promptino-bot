@@ -2373,7 +2373,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQH2rMpuKPaRtJpJSF46Ro5HafHdf3AAKEDmsbsgRpUtKH0ZW1Lev9AQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIQIWrMq2gxBZgNf-PyKmgHDTc5bKs9AAKTDmsbsgRpUqQNkV87Qsn-AQADAgADeQADPQQ"
@@ -2393,10 +2393,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Recreate the uploaded reference photograph using image-to-image guidance. Generate a photorealistic version featuring a young adult Iranian woman while retaining the original photograph's composition and environmental details.\n\nIDENTITY AND STYLING:\nA young adult Iranian woman with dark hair tied in a casual bun, loose wisps around the forehead, oversized dark sunglasses, and a relaxed candid expression. She wears an oversized taupe-gray T-shirt, loose sage-green wide-leg trousers, a black smartwatch on her left wrist, and light-colored casual sneakers. Preserve the outfit's original silhouette and colors.\n\nPOSE LOCK:\nKeep the same unmirrored standing pose. Her right hand touches the sunglasses at her temple; her left hand rests on her left thigh. Maintain the same elbow bends, wrist angles, shoulder position, slight head tilt, body orientation, and relaxed stance. Both hands must be anatomically correct with natural fingers.\n\nSCENE LOCK:\nThe location is a bright seaside promenade. A massive date palm occupies the right foreground, its rough layered trunk rising from a circular border of paving stones and its fronds spreading overhead. A second tall palm stands behind and to the left of the subject. Beyond them, preserve the blue sea, distant horizon, pale blue sky, waterfront railing, simple benches, small distant palms, and wide beige concrete pavement.\n\nFRAME AND CAMERA:\nSquare 1:1 composition, full-body view from head to shoes, eye-level viewpoint, moderate distance, approximately 35–40mm equivalent lens. Preserve the subject's original scale and central placement, the foreground palm's dominance on the right, and the large area of visible ground and sky. Do not zoom in, crop the feet, shift the horizon, or change the perspective.\n\nSUNLIGHT:\nStrong natural midday sunlight with crisp palm-frond shadows stretching diagonally across the pavement. Maintain the original bright exposure, pale blue sky, blue sea, warm neutral ground, gray-taupe shirt, and sage-green trousers. Keep realistic shadow density and skin tones.\n\nREALISM AND FIDELITY:\nPhotographic realism, natural skin texture, accurate clothing folds, detailed palm bark and fronds, believable hands, consistent sunlight, and a clearly visible environment. Retain moderate background clarity instead of excessive portrait-mode blur.\n\nThe final image must look like the original scene photographed at the same moment and from the same camera position. Change the subject to a woman without changing the location, pose, clothing style, framing, lighting, or overall mood."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Use the provided image as a strict image-to-image reference. Recreate the same seaside photograph with a young adult Iranian man while maintaining the original composition, pose, camera position, lighting, and environment. Change the trousers to charcoal gray.\n\nSUBJECT:\nYoung adult Iranian man, dark hair in a casual small bun with a few loose strands, oversized dark sunglasses, natural facial features, realistic skin texture, and a relaxed everyday expression.\n\nPOSE LOCK:\nKeep the exact original unmirrored pose: standing near the center, slightly left of the large foreground palm. Right hand touching the sunglasses at the right temple; left hand resting on the left thigh. Preserve the original arm bends, hand positions, head angle, body orientation, and weight distribution.\n\nCLOTHING LOCK:\nOversized taupe-gray short-sleeved T-shirt, charcoal-gray wide-leg pencil-gray trousers, black smartwatch on the left wrist, black sunglasses, and light chunky sneakers. The trousers must be dark neutral gray, not green, blue, or black. Use a relaxed straight-leg fit with realistic fabric folds and a natural drape over the sneakers. Keep the outfit casual and minimalist.\n\nBACKGROUND LOCK:\nLarge textured date palm in the right foreground, with fronds spreading across the top of the image. Second palm in the middle-left background. Blue sea and a low distant horizon, pale blue sky, seaside railing, simple benches, smaller distant palms, broad beige concrete pavement, circular stone border around the main palm, and clearly defined palm-frond shadows.\n\nCAMERA:\nSquare 1:1 composition, full-body portrait, entire figure and both shoes visible. Eye-level view, moderate camera distance, approximately 35–40mm equivalent lens. Maintain the original subject-to-frame ratio and all major spatial relationships. Keep the large palm on the right and the open seaside background visible. No close-up, no cropping, no mirroring, and no artificial wide-angle distortion.\n\nLIGHTING AND COLOR:\nBright natural midday sunshine, realistic sharp shadows, blue-turquoise sea, pale blue sky, warm beige pavement, muted taupe-gray shirt, charcoal-gray trousers, and natural skin tones. Maintain realistic exposure and restrained color grading.\n\nOUTPUT:\nHigh-fidelity photorealistic travel photography with natural anatomy, accurate hands, detailed foliage, realistic fabric, and a readable background. Preserve the original photograph as closely as possible while changing the subject to a young Iranian man and the trousers to charcoal gray."
         }
       ],
-      "last_message_id": 4156,
-      "last_user_message_id": 4156,
+      "last_message_id": 4158,
+      "last_user_message_id": 4158,
       "processed_message_ids": [
         4127,
         4129,
@@ -2410,18 +2415,18 @@
         4148,
         4151,
         4153,
-        4156
+        4156,
+        4158
       ],
       "flow_id": "7803b1364729",
-      "stage_token": "1ae53462a4",
-      "revision": 18,
+      "stage_token": "cd72c2244e",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "1ae53462a4",
+      "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 16,
       "suitable": "بازسازی پرتره تمام‌قد در ساحل با حفظ ژست، لباس، درختان نخل، دریا، سایه‌های طبیعی و نور آفتاب؛ در دو نسخه دخترانه و پسرانه با ترکیب‌بندی نزدیک به تصویر مرجع.",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nتبدیل نسخه دخترانه به پسرانه و برعکس\nساخت عکس پرتره طبیعی برای پروفایل\nتولید تصاویر فشن و استایل خیابانی\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر مشابه با حفظ محیط و ژست اصلی"
     }
   },
   "settings": {
