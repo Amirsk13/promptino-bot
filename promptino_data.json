@@ -2697,21 +2697,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIRamrOAAHD4fWF8_isgzr21D17HcviRgACZBBrG-l_cVKSrD5hMGntXAEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4458,
-      "last_user_message_id": 4458,
+      "last_message_id": 4461,
+      "last_user_message_id": 4461,
       "processed_message_ids": [
-        4458
+        4458,
+        4461
       ],
       "flow_id": "6bb6de67833b",
-      "stage_token": "91ba2e36f2",
-      "revision": 2,
+      "stage_token": "5180ee7216",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Soft Rose Portrait"
     }
   },
   "settings": {
