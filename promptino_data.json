@@ -2597,26 +2597,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "button_prompt",
-      "buttons": [],
-      "last_message_id": 4360,
-      "processed_message_ids": [],
-      "flow_id": "1f0affb290bf",
-      "stage_token": "c13b148f57",
-      "vip_processed_message_ids": [
-        4355,
-        4357,
-        4360
-      ],
-      "vip_last_user_message_id": 4360,
-      "title": "Retro Vinyl Portrait",
-      "price": 200000,
-      "pending_label": "ChatGPT"
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
