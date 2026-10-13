@@ -2662,7 +2662,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
@@ -2676,10 +2676,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Use the attached image as the primary image reference for a faithful, photorealistic image-to-image reconstruction. Preserve the original woman's facial identity, hairstyle, expression, pose, clothing, camera, background objects, and composition. Do not creatively rearrange the scene.\n\nSUBJECT: A young adult Iranian woman lying diagonally on a richly patterned red-and-black Persian carpet. Her head rests in the lower-right portion of the square frame, her face angled toward the camera with a relaxed, playful smile. She has natural pale skin, dark expressive eyes, defined eyebrows, subtle winged eyeliner, muted red lipstick, and long, thick black curls spreading around her head. A burgundy headband with tiny light-colored dots holds her hair back.\n\nPOSE AND PROPS: She wears a black outfit with small red dots and holds a vintage silver-and-black analog camera across her upper torso with both hands. Accurately reproduce the large circular lens, metallic lens rings, camera body, top controls, and reflective silver surfaces. Maintain the reference's hand positions, realistic fingers, and natural grip. Retain the small visible forearm tattoo and delicate ring when matching the original image.\n\nBACKGROUND: An ornate Persian carpet with dense crimson, burgundy, and black patterns fills the frame. A cream-colored vintage record player with a ribbed speaker grille is partially cropped at the upper-right. A black vinyl record with a yellow-orange center label lies beside the woman's head, and a second dark record is partially visible along the right edge. Preserve their original arrangement and cropping.\n\nCAMERA: Square 1:1 aspect ratio, close overhead photograph, steep top-down angle, natural 50mm perspective, realistic proportions, no mirroring, no wide-angle distortion. Show the woman's head, upper torso, both hands, camera, and surrounding props.\n\nLIGHTING AND STYLE: Soft indoor illumination, gentle shadows, realistic skin texture, detailed curls, crisp camera details, rich red-and-black tones, subtle analog-film grain, and a nostalgic editorial photography aesthetic.\n\nPrioritize reference fidelity, natural anatomy, accurate object geometry, and the original visual balance. Avoid changed facial features, altered pose, missing fingers, duplicated props, distorted camera components, oversaturated colors, excessive skin smoothing, illustration, CGI, text, logos, or watermarks."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "STRICT IMAGE-TO-IMAGE RECONSTRUCTION — MATCH THE REFERENCE\n\nUse the uploaded image as the base visual reference. Recreate the same photorealistic vintage overhead portrait of a young adult Iranian woman. Preserve the facial appearance, hairstyle, pose, expression, clothing, camera, accessories, environment, lighting, and exact square composition. Do not redesign or rearrange the scene.\n\nSUBJECT AND FACE: A young Iranian woman lying diagonally on an ornate red-and-black Persian carpet. Her head is in the lower-right half of the frame, with thick black curly hair spreading outward and held by a burgundy-black headband patterned with tiny light-colored dots. Pale natural skin, dark expressive eyes, defined dark eyebrows, subtle winged eyeliner, muted red lipstick, and a gentle playful smile. Keep facial proportions natural and faithful to the reference.\n\nPOSE AND CLOTHING: She wears a black garment patterned with small red dots. Both hands hold a vintage silver-and-black analog camera across her upper torso. One hand supports the body while the other steadies the camera near the lens and controls. Preserve the original finger positions, grip, wrist angles, camera orientation, and metallic details. Keep the delicate ring and small visible forearm tattoo if reproducing the reference without modifications.\n\nCAMERA DETAILS: A realistic retro film camera with a prominent circular lens, layered silver lens rings, metallic body, top dials, small controls, and natural reflective highlights. Do not replace it with a modern digital camera.\n\nENVIRONMENT LOCK: Intricate red-and-black Persian carpet covering the entire background. Cream-colored vintage record player with ribbed speaker grille, partially cropped at the upper-right. Black vinyl record with a yellow-orange center label to the right of the woman's head. A second dark record partially cropped along the far-right edge. Maintain all original object positions, sizes, orientations, and edge cropping.\n\nPHOTOGRAPHIC SETTINGS: Square 1:1 image, steep overhead top-down perspective, close editorial framing, natural 50mm lens appearance, realistic geometry, no mirroring, no wide-angle distortion. Soft diffused indoor light, natural shadows, detailed skin and hair texture, rich crimson and burgundy tones, deep blacks, muted metallic highlights, restrained film grain, and authentic nostalgic color grading.\n\nFIDELITY PRIORITY: Match the reference image's composition, facial appearance, hand placement, camera design, clothing pattern, carpet, record player, vinyl records, and vintage mood. Keep the result photorealistic, not illustrated.\n\nNEGATIVE CONSTRAINTS: altered facial proportions, different hairstyle, changed pose, different outfit, modern camera, missing camera controls, deformed hands, extra fingers, fused fingers, duplicated records, displaced turntable, simplified carpet, excessive retouching, plastic skin, CGI, text, logos, watermark."
         }
       ],
-      "last_message_id": 4452,
-      "last_user_message_id": 4452,
+      "last_message_id": 4454,
+      "last_user_message_id": 4454,
       "processed_message_ids": [
         4430,
         4433,
@@ -2690,18 +2695,18 @@
         4444,
         4447,
         4449,
-        4452
+        4452,
+        4454
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "33bbe4fb26",
-      "revision": 14,
+      "stage_token": "fd51246087",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "33bbe4fb26",
+      "prompt_sent_token": null,
       "name": "Retro Camera Aesthetic",
       "number": 20,
       "suitable": "بازسازی عکس‌های رترو و نوستالژیک با حفظ چهره، ژست خوابیده، دوربین آنالوگ، صفحه وینیل، گرامافون و فضای عکاسی سینمایی با فرش ایرانی.",
-      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
     }
   },
   "settings": {
