@@ -2697,7 +2697,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIRamrOAAHD4fWF8_isgzr21D17HcviRgACZBBrG-l_cVKSrD5hMGntXAEAAwIAA3kAAz0E"
       ],
@@ -2712,8 +2712,8 @@
         4467
       ],
       "flow_id": "6bb6de67833b",
-      "stage_token": "57b96fd118",
-      "revision": 6,
+      "stage_token": "2fa0a2abf1",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Soft Rose Portrait",
