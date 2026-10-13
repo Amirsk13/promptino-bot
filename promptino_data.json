@@ -2943,7 +2943,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
@@ -2966,8 +2966,8 @@
         4689
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "b927a8c8cb",
-      "revision": 9,
+      "stage_token": "0d31853880",
+      "revision": 10,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Wild Water Motion",
