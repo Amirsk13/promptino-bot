@@ -2697,25 +2697,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIRamrOAAHD4fWF8_isgzr21D17HcviRgACZBBrG-l_cVKSrD5hMGntXAEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4463,
-      "last_user_message_id": 4463,
+      "last_message_id": 4465,
+      "last_user_message_id": 4465,
       "processed_message_ids": [
         4458,
         4461,
-        4463
+        4463,
+        4465
       ],
       "flow_id": "6bb6de67833b",
-      "stage_token": "53bce6939f",
-      "revision": 4,
+      "stage_token": "362392ce22",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "53bce6939f",
+      "prompt_sent_token": null,
       "name": "Soft Rose Portrait",
-      "number": 21
+      "number": 21,
+      "suitable": "بازسازی پرتره‌های طبیعی و رئال با حفظ چهره، ژست خوابیده، موهای مشکی موج‌دار، لباس صورتی مرجانی و نورپردازی ملایم و رمانتیک."
     }
   },
   "settings": {
