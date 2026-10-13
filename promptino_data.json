@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2497,10 +2497,15 @@
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the same photorealistic outdoor portrait with a young adult Iranian woman wearing a black headscarf (shal), preserving the composition, pose, camera perspective, environment, and natural atmosphere of the approved reference.\n\nSUBJECT:\nA naturally beautiful young Iranian woman with dark eyes, dark eyebrows, a softly oval face, and a warm, genuine smile. Her dark hair is mostly covered by a black headscarf, with a few natural strands framing her face. The scarf covers her head and wraps loosely around her neck and shoulders, draping naturally over the upper back.\n\nCLOTHING AND ACCESSORIES:\nA cream-colored quilted sleeveless puffer vest over a white short-sleeve shirt, blue denim jeans, a silver wristwatch, and dark sunglasses held in one hand. Preserve the casual outdoor style and realistic fabric textures.\n\nPOSE — IMPORTANT:\nPosition the woman on the right side of the frame. Her body is angled slightly toward the camera. Her raised hand is held naturally near her mouth and cheek, creating the same playful, candid gesture as the reference. Her other hand holds the sunglasses down near her waist. Preserve the wristwatch and the natural orientation of both hands. Do not mirror the image or swap the hands.\n\nENVIRONMENT:\nA lush green countryside with a large leafy tree dominating the left side, a rocky patch of pale beige and gray stones across the lower-left foreground, rolling green hills, distant hazy mountains, and a softly overcast sky. Keep the tree trunk, foliage canopy, rocks, meadow, and mountain ridges in their original relative positions.\n\nCAMERA AND COMPOSITION:\nVertical portrait, approximately 4:5 aspect ratio. Medium-to-three-quarter shot, framed from the head to the upper thighs, with the subject occupying the right portion of the image and generous landscape visible on the left. Natural eye-level perspective, approximately 50mm lens equivalent. Maintain the same camera distance and subject scale. No close-up, no wide-angle distortion, and no excessive cropping.\n\nLIGHTING AND COLOR:\nSoft, diffused natural daylight under a cloudy sky, gentle facial shadows, realistic skin highlights, muted mountain greens, vivid meadow grass, neutral cream clothing, and natural blue denim. Use moderate depth of field, keeping the landscape recognizable rather than turning it into excessive bokeh.\n\nSTYLE:\nAuthentic candid lifestyle photography, realistic Iranian facial features, natural skin texture, detailed quilted fabric, believable denim, anatomically correct hands, realistic sunglasses and wristwatch, and subtle natural color grading.\n\nSTRICT REQUIREMENTS:\nKeep the same pose, hand positions, clothing colors, landscape, tree placement, rocky foreground, camera perspective, and framing. The black headscarf must clearly cover the head and wrap around the neck and shoulders. Do not omit the scarf, change it to another color, remove the sunglasses, alter the hand gestures, invent extra objects, over-smooth the face, or stylize the photograph."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the same photorealistic outdoor portrait as a young adult Iranian man, preserving the approved male reference's composition, pose, camera perspective, environment, and natural atmosphere.\n\nSUBJECT:\nA young Iranian man with naturally dark eyes, thick dark hair styled casually, defined eyebrows, realistic masculine facial features, and subtle natural stubble. His expression is relaxed and slightly playful, with a gentle smile.\n\nCLOTHING AND ACCESSORIES:\nA plain white short-sleeve T-shirt under a light cream quilted sleeveless puffer vest, blue denim jeans, and a dark round-faced wristwatch. He holds a pair of dark sunglasses in one hand. No headscarf, no scarf, and no feminine accessories.\n\nPOSE — IMPORTANT:\nPosition the man on the right side of the frame, with his body angled slightly toward the camera. One hand is raised naturally near his mouth and chin in the same relaxed, playful gesture as the approved male reference. His other hand holds the sunglasses down near his waist. Preserve the original orientation of the arms, wrists, and hands. Do not mirror the image or swap the hand positions.\n\nENVIRONMENT:\nReproduce the same lush countryside scene: a large leafy tree on the left, its dark trunk clearly visible, pale beige and gray rocks scattered across the lower-left foreground, a green meadow, rolling hills, distant hazy mountain ridges, and a softly overcast sky. Keep all landscape elements in their original relative positions.\n\nCAMERA AND COMPOSITION:\nVertical portrait, approximately 4:5 aspect ratio. Medium-to-three-quarter shot, framed from the head to the upper thighs. Keep the man on the right, leaving generous open landscape on the left. Natural eye-level perspective, approximately 50mm lens equivalent. Maintain the same camera distance, subject size, and visible landscape. Avoid close-up cropping and wide-angle distortion.\n\nLIGHTING AND COLOR:\nSoft diffused daylight, natural facial highlights, gentle shadows, rich but realistic greens, muted distant mountains, cream-colored vest, white shirt, and natural blue denim. Moderate depth of field with recognizable tree foliage, rocks, hills, and mountains.\n\nSTYLE:\nHigh-quality candid outdoor photography, authentic Iranian male appearance, realistic skin texture, natural hair and stubble, detailed quilted vest, believable denim texture, anatomically correct hands, realistic accessories, and natural color grading.\n\nSTRICT REQUIREMENTS:\nPreserve the same pose, sunglasses, watch, clothing style, landscape, tree placement, rocky foreground, framing, and lighting. Only adapt the subject to a natural Iranian male appearance and remove the headscarf. Do not change the environment, alter hand positions, omit the sunglasses, add props, over-smooth the skin, or create a stylized image."
         }
       ],
-      "last_message_id": 4281,
-      "last_user_message_id": 4281,
+      "last_message_id": 4283,
+      "last_user_message_id": 4283,
       "processed_message_ids": [
         4262,
         4264,
@@ -2510,18 +2515,18 @@
         4273,
         4276,
         4278,
-        4281
+        4281,
+        4283
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "b05c779022",
-      "revision": 12,
+      "stage_token": "a13ba32559",
+      "revision": 13,
       "mode": "create",
-      "prompt_sent_token": "b05c779022",
+      "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
-      "pending_label": "ChatGPT-Boy"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
     }
   },
   "settings": {
