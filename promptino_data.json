@@ -2544,31 +2544,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4318,
-      "last_user_message_id": 4318,
+      "last_message_id": 4321,
+      "last_user_message_id": 4321,
       "processed_message_ids": [
         4307,
         4309,
         4312,
         4314,
         4316,
-        4318
+        4318,
+        4321
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "a83f5089eb",
-      "revision": 8,
+      "stage_token": "34d3329f76",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "34d3329f76",
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
