@@ -2655,10 +2655,10 @@
     "676953423": {
       "type": "vip_edit",
       "mode": "edit",
-      "step": "edit_price",
+      "step": "buttons",
       "key": "VIP-1",
       "title": "Azure Bloom Reverie For Girls",
-      "price": 200000,
+      "price": 220000,
       "buttons": [
         {
           "key": "chatgpt",
@@ -2677,8 +2677,8 @@
         }
       ],
       "flow_id": "69cf8473c88d",
-      "stage_token": "e27acd0e36",
-      "last_message_id": 4421,
+      "stage_token": "25011d6b30",
+      "last_message_id": 4424,
       "vip_processed_message_ids": [],
       "vip_last_user_message_id": 0
     }
