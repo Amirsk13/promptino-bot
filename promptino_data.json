@@ -2662,7 +2662,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
@@ -2678,8 +2678,8 @@
           "prompt": "Use the attached image as the primary image reference for a faithful, photorealistic image-to-image reconstruction. Preserve the original woman's facial identity, hairstyle, expression, pose, clothing, camera, background objects, and composition. Do not creatively rearrange the scene.\n\nSUBJECT: A young adult Iranian woman lying diagonally on a richly patterned red-and-black Persian carpet. Her head rests in the lower-right portion of the square frame, her face angled toward the camera with a relaxed, playful smile. She has natural pale skin, dark expressive eyes, defined eyebrows, subtle winged eyeliner, muted red lipstick, and long, thick black curls spreading around her head. A burgundy headband with tiny light-colored dots holds her hair back.\n\nPOSE AND PROPS: She wears a black outfit with small red dots and holds a vintage silver-and-black analog camera across her upper torso with both hands. Accurately reproduce the large circular lens, metallic lens rings, camera body, top controls, and reflective silver surfaces. Maintain the reference's hand positions, realistic fingers, and natural grip. Retain the small visible forearm tattoo and delicate ring when matching the original image.\n\nBACKGROUND: An ornate Persian carpet with dense crimson, burgundy, and black patterns fills the frame. A cream-colored vintage record player with a ribbed speaker grille is partially cropped at the upper-right. A black vinyl record with a yellow-orange center label lies beside the woman's head, and a second dark record is partially visible along the right edge. Preserve their original arrangement and cropping.\n\nCAMERA: Square 1:1 aspect ratio, close overhead photograph, steep top-down angle, natural 50mm perspective, realistic proportions, no mirroring, no wide-angle distortion. Show the woman's head, upper torso, both hands, camera, and surrounding props.\n\nLIGHTING AND STYLE: Soft indoor illumination, gentle shadows, realistic skin texture, detailed curls, crisp camera details, rich red-and-black tones, subtle analog-film grain, and a nostalgic editorial photography aesthetic.\n\nPrioritize reference fidelity, natural anatomy, accurate object geometry, and the original visual balance. Avoid changed facial features, altered pose, missing fingers, duplicated props, distorted camera components, oversaturated colors, excessive skin smoothing, illustration, CGI, text, logos, or watermarks."
         }
       ],
-      "last_message_id": 4449,
-      "last_user_message_id": 4449,
+      "last_message_id": 4452,
+      "last_user_message_id": 4452,
       "processed_message_ids": [
         4430,
         4433,
@@ -2689,17 +2689,19 @@
         4442,
         4444,
         4447,
-        4449
+        4449,
+        4452
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "13f27d20dc",
-      "revision": 13,
+      "stage_token": "33bbe4fb26",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Retro Camera Aesthetic",
       "number": 20,
       "suitable": "بازسازی عکس‌های رترو و نوستالژیک با حفظ چهره، ژست خوابیده، دوربین آنالوگ، صفحه وینیل، گرامافون و فضای عکاسی سینمایی با فرش ایرانی.",
-      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
+      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
