@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2519,8 +2519,8 @@
         4283
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "a13ba32559",
-      "revision": 13,
+      "stage_token": "4b57617e5b",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
