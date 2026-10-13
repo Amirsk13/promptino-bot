@@ -2697,7 +2697,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRamrOAAHD4fWF8_isgzr21D17HcviRgACZBBrG-l_cVKSrD5hMGntXAEAAwIAA3kAAz0E"
       ],
@@ -2713,8 +2713,8 @@
           "prompt": "Use the attached photograph as the primary image reference and recreate it as a faithful, photorealistic image-to-image portrait. Preserve the original subject's facial appearance, pose, expression, hairstyle, clothing, framing, lighting, and background.\n\nCreate a young adult Iranian woman with fair natural skin, an oval face, dark defined eyebrows, large almond-shaped dark brown eyes, long eyelashes, subtle eyeliner, a delicate straight nose, and muted rose-pink lips. Her expression is relaxed and slightly dreamy, and she looks toward the camera. Keep her facial proportions realistic and consistent with the reference.\n\nHer long, thick, dark hair falls in loose waves and curls around her head and shoulders, spreading over pale pink plush bedding. A few natural strands fall over her forehead. She wears a dusty coral-pink fitted top or dress with a softly gathered ruched neckline and short sleeves. One shoulder and part of the collarbone are visible. Retain the small metallic stud earring.\n\nCOMPOSITION: Square 1:1 crop, close overhead portrait, head in the left half of the frame and upper torso extending diagonally toward the right. The subject reclines naturally on fluffy pale pink bedding. Match the reference's camera distance, face angle, and body position.\n\nLIGHTING AND COLOR: Soft diffused indoor light, gentle shadows, realistic skin highlights, detailed dark hair, pale blush-pink background, warm coral clothing, natural contrast, and a subtle romantic beauty-photography aesthetic.\n\nUse realistic skin texture, authentic fabric folds, natural hair strands, accurate anatomy, and restrained retouching. Keep the background simple and free of extra objects.\n\nDo not alter the subject's identity or facial proportions. Avoid artificial skin, exaggerated makeup, oversmoothing, different clothing, changed pose, wide-angle distortion, extra fingers or limbs, harsh lighting, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4477,
-      "last_user_message_id": 4477,
+      "last_message_id": 4480,
+      "last_user_message_id": 4480,
       "processed_message_ids": [
         4458,
         4461,
@@ -2724,17 +2724,19 @@
         4470,
         4472,
         4475,
-        4477
+        4477,
+        4480
       ],
       "flow_id": "6bb6de67833b",
-      "stage_token": "d618c2ccc9",
-      "revision": 13,
+      "stage_token": "bce8ce68d8",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Soft Rose Portrait",
       "number": 21,
       "suitable": "بازسازی پرتره‌های طبیعی و رئال با حفظ چهره، ژست خوابیده، موهای مشکی موج‌دار، لباس صورتی مرجانی و نورپردازی ملایم و رمانتیک.",
-      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های رمانتیک و لایف‌استایل\nعکاسی فشن و زیبایی\nبازسازی عکس با حفظ چهره\nتولید تصاویر فوتورئال با هوش مصنوعی\nساخت تصاویر با نورپردازی نرم و رنگ‌های پاستلی"
+      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های رمانتیک و لایف‌استایل\nعکاسی فشن و زیبایی\nبازسازی عکس با حفظ چهره\nتولید تصاویر فوتورئال با هوش مصنوعی\nساخت تصاویر با نورپردازی نرم و رنگ‌های پاستلی",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
