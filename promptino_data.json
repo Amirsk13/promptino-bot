@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2512,10 +2512,15 @@
           "key": "gemini_boy",
           "label": "Gemini-Boy",
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION\n\nUse the supplied image and the approved male result as visual references. Recreate the same outdoor portrait with a young adult Iranian man, preserving the original composition, pose, scenery, camera perspective, and natural light.\n\nSubject: Young Iranian man with dark eyes, thick dark hair, realistic masculine facial proportions, subtle stubble, and a relaxed smile.\n\nOutfit: Plain white short-sleeve T-shirt, cream quilted sleeveless puffer vest, blue denim jeans, dark round-faced wristwatch, and dark sunglasses held in one hand. No scarf or head covering.\n\nPose: Place the man on the right side of the frame, slightly angled toward the camera. One hand rests naturally near his mouth and chin; the other holds the sunglasses near his waist. Preserve the exact arm orientation and hand placement of the approved male reference. Do not mirror the image.\n\nEnvironment: The same large leafy tree on the left, dark trunk, pale beige and gray rocks in the lower-left foreground, lush meadow, rolling green hills, distant hazy mountains, and cloudy sky. Preserve the landscape and its relative proportions.\n\nComposition: Vertical 4:5 portrait, medium-to-three-quarter framing from head to upper thighs, natural eye-level perspective, approximately 50mm equivalent lens. Keep the subject on the right and the landscape open on the left. Do not zoom in or crop away the rocks, tree, or hills.\n\nLighting and style: Soft natural overcast light, gentle shadows, authentic skin texture, realistic clothing folds, natural greens, cream and white clothing, blue denim, moderate depth of field, and lifelike photographic detail.\n\nPreserve the scene, pose, accessories, lighting, and camera perspective. Change only the subject's appearance to a natural Iranian man and remove the headscarf. Avoid altered hand gestures, extra fingers, distorted anatomy, missing sunglasses, artificial skin, excessive background blur, and illustration-like rendering."
+        },
+        {
+          "key": "nano_banana_pro_girl",
+          "label": "Nano Banana Pro-Girl",
+          "prompt": "Reconstruct the uploaded image with maximum reference fidelity. Create the female version as a photorealistic outdoor portrait of a young adult Iranian woman wearing a BLACK HEADSCARF.\n\nSUBJECT LOCK:\nYoung Iranian woman, natural dark eyes and eyebrows, realistic facial proportions, dark hair mostly covered, a few loose strands around the face, and a genuine relaxed smile.\n\nCLOTHING LOCK:\nBlack shal covering the head and wrapping around the neck and shoulders; cream quilted sleeveless vest; white short-sleeve shirt; blue denim jeans; silver wristwatch; dark sunglasses held in one hand.\n\nPOSE LOCK:\nSubject stands on the RIGHT side of the image. Body slightly angled toward the camera. One hand raised naturally near the mouth and cheek. The other hand holds the sunglasses near the waist. Preserve hand positions, wristwatch placement, arm orientation, and natural posture. No mirroring.\n\nSCENE LOCK:\nLarge leafy tree and dark trunk on the LEFT; pale beige and gray rocks across the lower-left foreground; lush green grass; rolling green hills; hazy distant mountains; cloudy sky. Keep all major background and foreground elements recognizable and in their original relative positions.\n\nCAMERA LOCK:\nVertical 4:5 portrait, medium-to-three-quarter framing from head to upper thighs, natural eye-level camera angle, approximately 50mm equivalent lens. Keep the same subject scale, camera distance, and landscape coverage. Do not crop tightly or enlarge the subject disproportionately.\n\nLIGHTING LOCK:\nSoft overcast daylight, realistic facial shadows, natural skin tones, cream fabric, black scarf, blue denim, green meadow, and muted mountains. Moderate depth of field, without excessive bokeh.\n\nOUTPUT:\nHigh-resolution natural photography, realistic Iranian appearance, anatomically correct hands, accurate fingers, lifelike clothing texture, detailed landscape, and restrained color grading.\n\nHighest priority: retain the black headscarf, original hand gestures, cream vest, white shirt, sunglasses, watch, tree, rocks, and mountain landscape. Do not omit or recolor the scarf, change the pose, mirror the scene, add props, or alter the background."
         }
       ],
-      "last_message_id": 4296,
-      "last_user_message_id": 4296,
+      "last_message_id": 4298,
+      "last_user_message_id": 4298,
       "processed_message_ids": [
         4262,
         4264,
@@ -2531,18 +2536,18 @@
         4288,
         4291,
         4293,
-        4296
+        4296,
+        4298
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "9cf926ce8a",
-      "revision": 21,
+      "stage_token": "c5855d88a8",
+      "revision": 22,
       "mode": "create",
-      "prompt_sent_token": "9cf926ce8a",
+      "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
-      "pending_label": "Nano Banana Pro-Girl"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
     }
   },
   "settings": {
