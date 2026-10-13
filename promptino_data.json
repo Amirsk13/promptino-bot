@@ -2820,7 +2820,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
@@ -2850,8 +2850,8 @@
         4587
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "72f7ac09bf",
-      "revision": 12,
+      "stage_token": "ca0c984ba1",
+      "revision": 13,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Emerald Garden Portrait",
