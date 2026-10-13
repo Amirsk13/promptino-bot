@@ -2852,56 +2852,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "buttons",
-      "photos": [
-        "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
-      ],
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the uploaded image as the primary composition and photography reference. Create a highly photorealistic portrait of a beautiful young adult Iranian woman with a distinctly different face from the reference, while preserving the same pose, framing, hairstyle, outfit, accessories, lighting, and background arrangement.\n\nSUBJECT: A young Iranian woman with a naturally warm, light-olive complexion, an elegant oval face, softly defined cheekbones, a refined straight nose, full rose-pink lips, and expressive hazel-brown almond-shaped eyes. Give her a unique, natural facial identity, with realistic proportions and subtle skin texture. Her gaze is directed toward the left side of the frame, with a calm, confident, contemplative expression.\n\nHAIR: Dark brown, almost-black hair gathered into a loose, voluminous high bun. Add soft curtain bangs parted near the center, with wispy strands framing both sides of the face. Preserve natural flyaways and realistic individual hair strands.\n\nPOSE AND COMPOSITION: Square 1:1 portrait, framed from the upper chest to just above the head. Her shoulders are relaxed and mostly facing the camera, while her head turns slightly toward the left side of the image. Her chin is neutral, neck elongated naturally, and gaze directed off-camera. Keep the subject centered, with both shoulders visible and the top of the bun near the upper edge.\n\nCLOTHING: A minimalist black sleeveless halter-neck top with straps converging behind the neck, exposing the shoulders and upper arms. The fabric is smooth, matte, and elegant.\n\nJEWELRY: Small polished gold hoop earrings and several delicate layered gold necklaces resting naturally over the upper chest. Preserve fine chain details and subtle metallic reflections.\n\nBACKGROUND: A bright, lush green garden or leafy outdoor setting, rendered as soft, creamy bokeh. Include diffused light-green and yellow-green circles, with a narrow pale vertical architectural edge along the far left side. Keep all background elements indistinct.\n\nLIGHTING AND CAMERA: Soft natural daylight, gently illuminating the face from the front-left, subtle highlights on the forehead, nose, cheekbones, and lips, and delicate shadows beneath the jaw and chin. Natural skin tones, balanced exposure, shallow depth of field, eye-level camera, and a realistic 70–85mm portrait-lens perspective.\n\nSTYLE: Premium editorial beauty photography, photorealistic skin and hair, crisp eyes, natural makeup, realistic gold jewelry, soft green background blur, fresh color grading, and a refined, serene mood.\n\nMaintain the exact visual arrangement of the reference but create a genuinely different Iranian model with a new facial identity. Avoid exaggerated features, excessive retouching, plastic skin, changed hairstyle, different clothing, oversized jewelry, harsh shadows, wide-angle distortion, text, logos, and watermarks."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Using the uploaded image as a visual reference, generate a photorealistic square portrait of a young adult Iranian woman with a clearly different facial identity. Preserve the reference's framing, head angle, gaze direction, hairstyle, outfit, gold accessories, soft lighting, and green garden background.\n\nThe model has a naturally warm light-olive complexion, an elegant oval face, softly defined cheekbones, a straight refined nose, full rose-pink lips, and expressive hazel-brown almond-shaped eyes. Her gaze turns toward the left side of the frame, and her expression is calm, poised, and slightly contemplative. Her facial features must look natural and distinct rather than copying the reference model's face.\n\nHer dark brown-black hair is styled in a loose high bun with center-parted curtain bangs and fine face-framing strands. She wears a simple black sleeveless halter-neck top, small gold hoop earrings, and several fine layered gold necklaces.\n\nCOMPOSITION: Square 1:1, upper-chest portrait with the head centered and both shoulders visible. The head is slightly turned toward image-left while the shoulders remain mostly front-facing. Keep the bun close to the upper frame edge.\n\nBACKGROUND: Bright green foliage rendered as soft circular bokeh, with pale yellow-green highlights and a narrow light-colored vertical edge at the far left. No distinct objects.\n\nLIGHTING: Soft outdoor daylight, gentle facial highlights, subtle jawline shadows, natural skin texture, and realistic gold reflections.\n\nCAMERA: Eye-level portrait, natural 70–85mm lens appearance, shallow depth of field, sharply focused eyes and face, creamy defocused background, realistic proportions without wide-angle distortion.\n\nSTYLE: High-end natural beauty photography, restrained makeup, realistic hair strands, detailed skin, soft green color palette, balanced exposure, and an elegant editorial finish.\n\nKeep the composition and styling faithful to the reference while creating a new Iranian model with different facial features. Avoid artificial skin smoothing, exaggerated makeup, altered gaze direction, messy anatomy, changed outfit, missing jewelry, text, logos, or watermarks."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "IMAGE-TO-IMAGE PORTRAIT GENERATION — COMPOSITION PRESERVATION, NEW FACIAL IDENTITY\n\nUse the uploaded image as the main visual reference. Recreate its photorealistic portrait composition with a distinctly different young adult Iranian woman. Preserve the pose, framing, hairstyle, black halter-neck outfit, gold jewelry, lighting, background, and photographic style, but do not reproduce the original woman's exact face.\n\nFACE: A unique Iranian model with naturally warm light-olive skin, an elegant oval face, softly defined cheekbones, a refined straight nose, full rose-pink lips, and hazel-brown almond-shaped eyes. Natural facial proportions, subtle skin texture, realistic pores, and a calm, confident expression. Her gaze is directed toward image-left, slightly away from the camera.\n\nHAIR: Dark brown-black hair gathered into a loose, voluminous high bun, with center-parted curtain bangs, delicate strands framing the cheeks, and natural flyaways.\n\nPOSE AND CROP: Square 1:1 upper-chest portrait. Head near the upper center, both shoulders visible, shoulders mostly facing forward, and head turned slightly toward the left side of the image. Preserve the relaxed neck position and off-camera gaze.\n\nOUTFIT AND ACCESSORIES: Minimalist black sleeveless halter-neck top with a deep, clean neckline. Small gold hoop earrings and several fine layered gold necklaces resting naturally against the upper chest. Realistic fabric texture and metallic highlights.\n\nBACKGROUND: Lush, bright green garden foliage with soft lime-green and yellow-green bokeh circles. A narrow pale vertical edge appears at the far left. Background remains heavily defocused and unobtrusive.\n\nLIGHTING AND OPTICS: Soft natural daylight, gentle illumination from the front-left, subtle highlights on the cheeks, forehead, nose, and lips, natural jaw shadows, eye-level camera, 70–85mm portrait-lens appearance, shallow depth of field, and sharp facial detail.\n\nFINISH: Premium photorealistic editorial portrait, realistic skin, fine hair strands, natural makeup, accurate jewelry, fresh green tones, soft contrast, and lifelike color grading.\n\nPRIORITIES: Preserve the original composition, gaze direction, high bun, curtain bangs, black halter top, gold jewelry, and green bokeh. Make the model's face clearly different while retaining a believable Iranian appearance. Do not add objects or alter the photographic setting.\n\nNEGATIVE CONSTRAINTS: same face as reference, exaggerated facial features, artificial skin, excessive retouching, heavy makeup, altered gaze, loose hair instead of a bun, different outfit, missing necklaces, oversized earrings, distorted anatomy, harsh flash, sharp busy background, illustration, CGI, text, logos, watermark."
-        }
-      ],
-      "last_message_id": 4592,
-      "last_user_message_id": 4592,
-      "processed_message_ids": [
-        4568,
-        4571,
-        4573,
-        4575,
-        4577,
-        4580,
-        4582,
-        4585,
-        4587,
-        4590,
-        4592
-      ],
-      "flow_id": "41b4a57cbb30",
-      "stage_token": "0c82607202",
-      "revision": 15,
-      "mode": "create",
-      "prompt_sent_token": null,
-      "name": "Emerald Garden Portrait",
-      "number": 24,
-      "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
