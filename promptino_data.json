@@ -946,6 +946,19 @@
         69
       ],
       "channel_expires_at": "2026-10-23T09:06:21.598303"
+    },
+    {
+      "id": "VIP-23",
+      "type": "vip",
+      "user_id": 676953423,
+      "contact": "d",
+      "item": "VIP-1",
+      "price": 200000,
+      "payer_name": "g",
+      "status": "🟠 در حال تأیید",
+      "payment": "pending",
+      "created_at": "2026-10-13 09:20",
+      "channel_chat": "-1003992937119"
     }
   ],
   "completed_orders": [
@@ -2663,7 +2676,7 @@
     "order": 19,
     "customer": 16,
     "logo": 14,
-    "vip": 22,
+    "vip": 23,
     "report": 2
   },
   "messages": {
