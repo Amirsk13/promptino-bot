@@ -2600,12 +2600,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [],
       "last_message_id": 4369,
       "processed_message_ids": [],
       "flow_id": "ac3421b5bfcd",
-      "stage_token": "0aca1119c2",
+      "stage_token": "17fd59d9a3",
       "vip_processed_message_ids": [
         4367,
         4369
