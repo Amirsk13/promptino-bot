@@ -2597,7 +2597,17 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {},
+  "active_admin_states": {
+    "676953423": {
+      "type": "vip_add",
+      "step": "title",
+      "buttons": [],
+      "last_message_id": null,
+      "processed_message_ids": [],
+      "flow_id": "ac3421b5bfcd",
+      "stage_token": "77f49b115d"
+    }
+  },
   "active_post_states": {},
   "settings": {
     "notifications": {
