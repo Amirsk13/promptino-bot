@@ -2662,7 +2662,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
@@ -2685,8 +2685,8 @@
         4444
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "d4d73f6565",
-      "revision": 9,
+      "stage_token": "ecc6e3d883",
+      "revision": 10,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Retro Camera Aesthetic",
