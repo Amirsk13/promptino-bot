@@ -2855,31 +2855,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4608,
-      "last_user_message_id": 4608,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference. Recreate the photograph as closely as possible, preserving its composition, subject placement, facial appearance, pose, hair, dark atmosphere, red-orange lighting, film grain, and cinematic aesthetic. Improve the lighting and visibility so the woman's face and hair are easier to distinguish, while retaining the original moody, low-key style.\n\nSUBJECT: A young adult woman with long, dark, slightly wavy hair framing her face. She is positioned near the center of the image, looking toward the left side of the frame with a quiet, introspective, mysterious expression. Her head is slightly angled, and only part of her face is illuminated. Keep her facial features realistic and naturally integrated into the shadows.\n\nCOMPOSITION: Square 1:1 image. Preserve the original wide negative space: a large nearly black area across the upper third and lower portion of the frame, with the subject occupying a narrow horizontal cinematic band through the middle. Her face is small relative to the entire canvas and slightly right of center. Do not zoom in, crop tightly, or reposition the subject.\n\nENVIRONMENT: A dark, indistinct interior or nighttime setting with a horizontal red-orange illuminated background strip behind the subject. Include a subtle warm vertical light accent just above and behind her head. Keep the surroundings vague and shadowy, without adding recognizable objects.\n\nLIGHTING: Cinematic low-key lighting with deep black shadows, rich crimson and burnt-orange tones, and a soft warm key light illuminating the woman's eyes, nose, cheekbones, and part of her lips. Slightly lift the facial shadows and midtones to reveal natural skin texture, eye detail, and individual hair strands. Retain strong contrast and dark negative space. Add a restrained warm rim light along selected strands of hair. Prevent blown highlights, flat lighting, excessive brightness, or loss of the red atmosphere.\n\nCAMERA AND TEXTURE: Static, distant medium-long framing, eye-level perspective, compressed cinematic composition, shallow atmospheric clarity, analog film grain, subtle dust and scratches, faint imperfections, soft focus around the background, and gentle halation around the warm lights. Maintain the authentic vintage film appearance without making the entire image excessively blurry.\n\nCOLOR GRADING: Deep black, dark burgundy, crimson red, burnt orange, and restrained amber highlights. Slightly improve exposure, local contrast, and facial clarity while preserving the original dark tonal balance.\n\nFINAL RESULT: A haunting, intimate, cinematic analog-film portrait that closely matches the reference, but with a more legible face and better-controlled shadows. No text, no logos, no added objects, no artificial skin smoothing, no exaggerated facial details, no bright modern studio lighting, and no changes to the original composition."
+        }
+      ],
+      "last_message_id": 4610,
+      "last_user_message_id": 4610,
       "processed_message_ids": [
         4596,
         4599,
         4601,
         4603,
         4605,
-        4608
+        4608,
+        4610
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "6496d6706e",
-      "revision": 8,
+      "stage_token": "41859f6960",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "6496d6706e",
+      "prompt_sent_token": null,
       "name": "Crimson Noir Portrait",
       "number": 25,
       "suitable": "بازسازی پرتره سینمایی با فضای تاریک و رازآلود، نور قرمز و نارنجی، حفظ ترکیب‌بندی مینیمال و بافت فیلم آنالوگ، با بهبود نور چهره و جزئیات تصویر بدون از بین بردن حس نوآر.",
-      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری",
-      "pending_label": "ChatGPT"
+      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری"
     }
   },
   "settings": {
