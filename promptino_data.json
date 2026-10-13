@@ -2600,7 +2600,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2608,19 +2608,21 @@
           "prompt": "Using the uploaded reference image as the primary visual reference, recreate the same highly photorealistic vintage editorial portrait with a beautiful young adult Iranian woman. Preserve the reference composition, facial identity within the reference-based generation, pose, expression, camera angle, object placement, and nostalgic atmosphere.\n\nSUBJECT: A young Iranian woman with naturally dark, voluminous curly hair held back by a burgundy-black headband with tiny white dots. Defined dark eyebrows, almond-shaped dark brown eyes, subtle winged eyeliner, natural skin texture, and muted deep-red lipstick. She gives a subtle, confident smile while looking sideways toward the left side of the frame.\n\nPOSE AND CLOTHING: She is reclining on the floor, photographed from a steep overhead angle. Her head is near the upper center, and her body extends diagonally toward the lower-left. One hand naturally holds a vintage black corded telephone receiver beside her cheek. Preserve the original finger placement, wrist angle, and telephone position. She wears a black short-sleeved outfit covered in small red dots, a delicate ring, and a silver-toned metal wristwatch. Both visible forearms must have completely natural, clean skin with NO tattoos, ink, symbols, or tattoo-like markings.\n\nENVIRONMENT: An ornate red-and-black Persian-style carpet fills the background. A partially cropped vintage turntable appears along the upper-right edge, a black vinyl record with a yellow center label sits to the right of her head, and a small cropped dark rectangular object remains near the lower-right edge. Preserve their relative positions, scale, and orientation.\n\nCAMERA AND LIGHTING: Square 1:1 composition, steep top-down perspective, close overhead editorial framing, natural 50mm lens appearance without wide-angle distortion. Soft directional indoor lighting, realistic facial highlights, gentle shadows, deep blacks, rich crimson and burgundy reds, warm natural skin tones, subtle analog-film grain, and cinematic vintage color grading.\n\nSTRICT PRESERVATION: Keep the original scene, pose, hairstyle, headband, expression, telephone, coiled cord, clothing pattern, jewelry, watch, carpet, turntable, vinyl record, and framing. Remove the forearm tattoo completely and reconstruct the underlying skin naturally, matching the surrounding skin tone and texture. Do not change anything else unnecessarily.\n\nAvoid altered facial proportions, excessive beautification, tattoo marks, distorted fingers, extra fingers, deformed hands, missing accessories, duplicated objects, changed background layout, artificial skin smoothing, CGI, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4374,
+      "last_message_id": 4377,
       "processed_message_ids": [],
       "flow_id": "ac3421b5bfcd",
-      "stage_token": "87411bda87",
+      "stage_token": "bab896f077",
       "vip_processed_message_ids": [
         4367,
         4369,
         4372,
-        4374
+        4374,
+        4377
       ],
-      "vip_last_user_message_id": 4374,
+      "vip_last_user_message_id": 4377,
       "title": "Retro Vinyl Portrait For Girls",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Gemini"
     }
   },
   "active_post_states": {},
