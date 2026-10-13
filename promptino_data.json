@@ -2978,21 +2978,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4703,
-      "last_user_message_id": 4703,
+      "last_message_id": 4706,
+      "last_user_message_id": 4706,
       "processed_message_ids": [
-        4703
+        4703,
+        4706
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "9504c93c8a",
-      "revision": 2,
+      "stage_token": "bc53830729",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": "bc53830729",
+      "name": "Snowy Elegance Portrait"
     }
   },
   "settings": {
