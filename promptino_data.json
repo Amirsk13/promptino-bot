@@ -2820,25 +2820,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4573,
-      "last_user_message_id": 4573,
+      "last_message_id": 4575,
+      "last_user_message_id": 4575,
       "processed_message_ids": [
         4568,
         4571,
-        4573
+        4573,
+        4575
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "b286bbc44f",
-      "revision": 4,
+      "stage_token": "06b91bc8e3",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "b286bbc44f",
+      "prompt_sent_token": null,
       "name": "Emerald Garden Portrait",
-      "number": 24
+      "number": 24,
+      "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی."
     }
   },
   "settings": {
