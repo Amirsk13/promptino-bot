@@ -2978,7 +2978,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
@@ -2987,10 +2987,15 @@
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the photograph as a highly realistic winter fashion portrait of a young adult Iranian woman with a different, naturally beautiful and distinctive face. Preserve the original composition, body pose, clothing style, camera perspective, and snowy environment.\n\nThe woman stands slightly right of center on a snow-covered walkway, smiling warmly at the camera. Her very long, dark brown hair falls over the front of her shoulders. She wears a white quilted winter jacket with a raised hood over her head, a light cream ribbed high-neck sweater, fitted dark navy trousers, and black knee-high leather boots with chunky lug soles and silver side buckles. Both hands are raised naturally beside her hood, gently touching its edges. One knee is bent, with the boot lifted behind and across the supporting leg.\n\nReproduce the snow-covered path, heavily snow-laden bare tree branches, snow-covered shrubs, dark tree trunks, and subtle green and yellow foliage along the right side. Use soft, overcast winter daylight, balanced exposure, realistic skin texture, natural facial proportions, detailed fabric stitching, and crisp snow textures. The background should be softly blurred while remaining recognizable. Full-body vertical composition, eye-level camera, natural 50–70mm portrait-lens perspective, realistic colors, clean details, and professional lifestyle photography.\n\nCreate a different Iranian female model rather than copying the reference person's exact facial identity. Keep the original pose, outfit, winter atmosphere, framing, and background layout as close to the reference as possible. Avoid exaggerated beauty filters, artificial skin, distorted hands, extra fingers, incorrect limbs, altered clothing, and artificial-looking snow."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Analyze the uploaded reference image and recreate it as a photorealistic winter fashion photograph. Use a different-looking young adult Iranian woman with a distinctive natural face, while preserving the reference's composition, pose, wardrobe, and environment.\n\nFull-body vertical shot. The woman stands on a snowy outdoor walkway, positioned slightly right of center, smiling naturally at the camera. She has very long, dark brown hair flowing down the front of her body. She wears a white quilted hooded winter jacket, a cream ribbed high-neck sweater, fitted dark navy trousers, and black knee-high boots with chunky soles and silver buckles. Both hands gently hold the edges of her hood. One knee is bent, with one boot lifted behind the other leg.\n\nMatch the background: snow-covered bare trees with thick white snow on their branches, a snow-covered path receding into the distance on the left, dark tree trunks, and low shrubs with patches of green and yellow foliage on the right. Soft, diffused daylight, balanced brightness, natural skin tones, realistic snow, detailed jacket quilting, subtle background blur, and a calm winter atmosphere.\n\nUse a natural eye-level camera, realistic 50–70mm portrait perspective, and vertical framing that includes the full outfit and boots. Maintain anatomically correct hands and limbs, realistic proportions, and authentic photographic texture. No dramatic color grading, no excessive retouching, no added accessories, and no changes to the reference pose or clothing design."
         }
       ],
-      "last_message_id": 4720,
-      "last_user_message_id": 4720,
+      "last_message_id": 4722,
+      "last_user_message_id": 4722,
       "processed_message_ids": [
         4703,
         4706,
@@ -2999,18 +3004,18 @@
         4712,
         4715,
         4717,
-        4720
+        4720,
+        4722
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "3ddbfcbc90",
-      "revision": 11,
+      "stage_token": "bcd52e2983",
+      "revision": 12,
       "mode": "create",
-      "prompt_sent_token": "3ddbfcbc90",
+      "prompt_sent_token": null,
       "name": "Snowy Elegance Portrait",
       "number": 28,
       "suitable": "بازسازی پرتره تمام‌قد در فضای برفی با استایل زمستانی شیک، ژست طبیعی و نورپردازی روشن و ملایم؛ با امکان استفاده از چهره‌ای متفاوت و ایرانی.",
-      "for_what": "عکس پروفایل زمستانی\nتولید محتوای اینستاگرام\nپرتره فشن و استایل خیابانی\nعکاسی مدلینگ در فضای برفی\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
-      "pending_label": "Gemini"
+      "for_what": "عکس پروفایل زمستانی\nتولید محتوای اینستاگرام\nپرتره فشن و استایل خیابانی\nعکاسی مدلینگ در فضای برفی\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
     }
   },
   "settings": {
