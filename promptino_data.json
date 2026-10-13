@@ -2487,31 +2487,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4273,
-      "last_user_message_id": 4273,
+      "last_message_id": 4276,
+      "last_user_message_id": 4276,
       "processed_message_ids": [
         4262,
         4264,
         4267,
         4269,
         4271,
-        4273
+        4273,
+        4276
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "646bcac75d",
-      "revision": 8,
+      "stage_token": "1b086f880e",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
