@@ -2600,7 +2600,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2613,21 +2613,23 @@
           "prompt": "Use the attached image as the exact visual reference for an image-to-image recreation. Generate a photorealistic portrait of a young Iranian woman while preserving the original composition, pose, expression, clothing, accessories, background objects, lighting, and vintage mood.\n\nThe woman has thick, dark, naturally curly hair held back with a burgundy headband patterned with tiny white dots. She has defined dark eyebrows, dark brown eyes with subtle winged eyeliner, realistic skin texture, muted red lipstick, and a slight playful smile. Her gaze is directed toward frame-left.\n\nShe lies on an ornate red-and-black Persian carpet, viewed from directly above at a steep overhead angle. Her head is positioned near the upper center, and her body extends diagonally toward the lower-left. She holds a glossy black vintage telephone receiver beside her face with one hand. Keep the hand anatomy, finger positions, receiver angle, and trailing coiled cord natural and faithful to the reference.\n\nHer black outfit has numerous small red dots. Retain her delicate ring and silver-toned wristwatch. IMPORTANT: Remove the tattoo from the forearm completely. Both visible forearms must have unmarked, natural skin with no tattoos, lettering, ink, or decorative body art.\n\nMaintain the exact environmental arrangement: detailed red-and-black Persian-style carpet, partially visible turntable cropped at the upper-right, black vinyl record with a yellow center label to the right of her head, and a small cropped dark rectangular object at the bottom-right.\n\nPhotographic specifications: square 1:1 crop, close overhead framing, natural 50mm perspective, realistic proportions, soft directional indoor lighting, gentle shadows, detailed hair strands, realistic hands and skin, deep blacks, rich red tones, subdued highlights, and restrained analog-film grain.\n\nPrioritize fidelity to the reference rather than artistic reinterpretation. Change only what is necessary to produce the Iranian female model and remove the tattoo. Do not rearrange objects, mirror the image, change the pose, invent accessories, smooth the skin excessively, or add text, logos, watermarks, or tattoos."
         }
       ],
-      "last_message_id": 4379,
+      "last_message_id": 4382,
       "processed_message_ids": [],
       "flow_id": "ac3421b5bfcd",
-      "stage_token": "4118eaea24",
+      "stage_token": "c461035f91",
       "vip_processed_message_ids": [
         4367,
         4369,
         4372,
         4374,
         4377,
-        4379
+        4379,
+        4382
       ],
-      "vip_last_user_message_id": 4379,
+      "vip_last_user_message_id": 4382,
       "title": "Retro Vinyl Portrait For Girls",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Nano Banana Pro"
     }
   },
   "active_post_states": {},
