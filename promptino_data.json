@@ -2801,7 +2801,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2812,12 +2812,17 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Use the attached image as the main reference for a faithful photorealistic image reconstruction. Recreate the same intimate close-up portrait with a young adult Iranian woman, preserving the original framing, facial appearance, hairstyle, sunflower position, lighting, shadows, color palette, and mood.\n\nThe woman has natural light olive skin, a softly defined face, thick dark eyebrows, one clearly visible dark brown almond-shaped eye, long eyelashes, a delicate nose, and full muted rose-brown lips. Her expression is calm and dreamy, with a direct gaze toward the camera. Her dark, slightly wavy hair frames the right side of her face.\n\nA large bright yellow sunflower fills the left foreground, partially covering the woman's face. Its layered golden petals surround a large textured dark brown center. A few small white daisy-like flowers and green stems appear near the bottom-left. The flower is very close to the lens, creating strong foreground depth and overlap.\n\nCOMPOSITION: Square 1:1 extreme close-up. The woman's face occupies the center and right side, while the sunflower fills the left third to half of the frame. Preserve the close crop, partial facial occlusion, visible eye, lips near the lower center, and natural perspective.\n\nLIGHTING: Warm direct late-afternoon sunlight from the upper-left. Bright golden highlights on the petals and skin, delicate sunflower-shaped shadows across the cheek and nose, realistic contrast, and detailed dark hair.\n\nCAMERA: Close-up editorial portrait, natural 70–100mm lens perspective, shallow depth of field, sharp visible eye and flower detail, softly blurred dark background.\n\nSTYLE: Photorealistic beauty photography, realistic skin texture, natural makeup, warm golden tones, rich yellow petals, subtle cinematic color grading, refined detail, and an intimate artistic mood.\n\nPrioritize reference accuracy. Do not move the sunflower to the right, reveal the entire face, change the gaze, remove the floral shadows, or introduce additional props. Avoid distorted petals, unnatural skin, exaggerated makeup, text, logos, and watermarks."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "STRICT IMAGE-TO-IMAGE RECONSTRUCTION — MAXIMUM REFERENCE FIDELITY\n\nUse the uploaded photograph as the base visual reference. Recreate the same photorealistic extreme close-up portrait with a young adult Iranian woman. Preserve the reference's composition, face placement, visible eye, hairstyle, sunflower overlap, light direction, shadow pattern, and warm color palette.\n\nFACE: Natural light olive skin, softly defined facial structure, thick dark eyebrows, long eyelashes, dark brown almond-shaped eye looking toward the camera, delicate nose, and full muted rose-brown lips. Calm, dreamy expression. Natural makeup and realistic skin texture.\n\nHAIR: Thick dark brown-black hair, slightly wavy, parted slightly off-center and falling along the right side of the face. Fine strands catch the sunlight.\n\nFLOWER PLACEMENT: A large bright yellow sunflower dominates the left foreground. Its layered petals partially obscure the woman's forehead, nose, and one side of her face. A large textured dark brown center is visible along the left edge. Add a few small white daisy-like flowers and subtle green stems at the lower-left. Preserve the flower's close-to-camera scale, petal structure, and overlap with the face.\n\nFRAMING: Square 1:1 extreme close-up. The woman's face fills the center and right side. The sunflower occupies approximately the left third to half of the frame. One eye remains clearly visible and in sharp focus; lips sit near the lower-center area. Keep the original tight crop and realistic perspective.\n\nLIGHTING: Strong warm sunlight from the upper-left, golden highlights across the flower and skin, natural directional shadows cast by sunflower petals across the cheek and nose, detailed dark hair, and realistic highlight roll-off.\n\nCAMERA: Close-range editorial portrait, natural 70–100mm lens look, shallow depth of field, sharp eye and foreground petals, softly blurred dark background, natural optical rendering.\n\nSTYLE: Photorealistic editorial beauty portrait, warm golden-hour tones, vivid sunflower yellow, realistic skin pores, natural makeup, muted rose-brown lips, subtle cinematic contrast, and an intimate artistic atmosphere.\n\nFIDELITY PRIORITY: Maintain the sunflower on the left, partial face occlusion, single clearly visible eye, direct gaze, floral shadows, warm sunlight, and square crop. If changing the model, use a distinct Iranian facial appearance without changing the composition.\n\nNEGATIVE CONSTRAINTS: fully visible face, flower moved to the right, multiple visible eyes, distorted flower center, malformed petals, artificial skin, excessive smoothing, exaggerated makeup, incorrect shadow direction, cool lighting, cluttered background, illustration, CGI, text, logos, watermark."
         }
       ],
-      "last_message_id": 4560,
+      "last_message_id": 4562,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "a456cd6519",
+      "stage_token": "c1d419075f",
       "vip_processed_message_ids": [
         4545,
         4547,
@@ -2825,12 +2830,12 @@
         4552,
         4555,
         4557,
-        4560
+        4560,
+        4562
       ],
-      "vip_last_user_message_id": 4560,
+      "vip_last_user_message_id": 4562,
       "title": "Sunflower Shadow Portrait For Girls",
-      "price": 230000,
-      "pending_label": "Nano Banana Pro"
+      "price": 230000
     }
   },
   "active_post_states": {},
