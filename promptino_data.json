@@ -2600,12 +2600,17 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "title",
+      "step": "price",
       "buttons": [],
-      "last_message_id": null,
+      "last_message_id": 4355,
       "processed_message_ids": [],
       "flow_id": "1f0affb290bf",
-      "stage_token": "80e61bcdb9"
+      "stage_token": "31e39cde11",
+      "vip_processed_message_ids": [
+        4355
+      ],
+      "vip_last_user_message_id": 4355,
+      "title": "Retro Vinyl Portrait"
     }
   },
   "active_post_states": {},
