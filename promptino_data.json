@@ -3118,31 +3118,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4827,
-      "last_user_message_id": 4827,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary composition reference. Create a highly photorealistic portrait of a young adult Iranian woman with a distinctly different, natural-looking face, while preserving the reference image's pose, framing, clothing style, and Yalda-night atmosphere. She has long, straight dark-brown hair styled in a high half-ponytail with a few loose strands framing her face, expressive dark eyes, natural eyebrows, and a warm smile showing her teeth with elegant red lipstick. She is seated sideways on a green upholstered sofa, turning her upper body toward the camera and looking directly at it. She wears a cream-colored outfit with colorful traditional floral patterns, long sleeves, delicate gold jewelry, a bracelet, and a wristwatch. An open decorated book rests across her lap, held naturally with both hands. In the background, recreate a richly arranged Iranian Yalda table with a vivid red tablecloth, red candles, a decorative red teapot, plates of fruit including watermelon, pomegranates, oranges, and grapes, along with traditional sweets and nuts. Warm indoor ambient lighting, soft flattering illumination on her face, realistic skin texture, balanced exposure, natural shadows, gentle background blur, detailed fabrics and food, authentic smartphone photography, eye-level three-quarter view, medium-full seated portrait, square 1:1 composition. Keep the scene believable and culturally authentic. Change the woman's facial identity substantially; do not copy the original face. No text, no watermark, no exaggerated beauty filters, no extra fingers, no distorted hands."
+        }
+      ],
+      "last_message_id": 4829,
+      "last_user_message_id": 4829,
       "processed_message_ids": [
         4815,
         4818,
         4820,
         4822,
         4824,
-        4827
+        4827,
+        4829
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "eaa0750b0a",
-      "revision": 8,
+      "stage_token": "e680d35440",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "eaa0750b0a",
+      "prompt_sent_token": null,
       "name": "Persian Yalda Portrait",
       "number": 32,
       "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی.",
-      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت",
-      "pending_label": "ChatGPT"
+      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت"
     }
   },
   "settings": {
