@@ -2978,7 +2978,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
@@ -2992,10 +2992,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Analyze the uploaded reference image and recreate it as a photorealistic winter fashion photograph. Use a different-looking young adult Iranian woman with a distinctive natural face, while preserving the reference's composition, pose, wardrobe, and environment.\n\nFull-body vertical shot. The woman stands on a snowy outdoor walkway, positioned slightly right of center, smiling naturally at the camera. She has very long, dark brown hair flowing down the front of her body. She wears a white quilted hooded winter jacket, a cream ribbed high-neck sweater, fitted dark navy trousers, and black knee-high boots with chunky soles and silver buckles. Both hands gently hold the edges of her hood. One knee is bent, with one boot lifted behind the other leg.\n\nMatch the background: snow-covered bare trees with thick white snow on their branches, a snow-covered path receding into the distance on the left, dark tree trunks, and low shrubs with patches of green and yellow foliage on the right. Soft, diffused daylight, balanced brightness, natural skin tones, realistic snow, detailed jacket quilting, subtle background blur, and a calm winter atmosphere.\n\nUse a natural eye-level camera, realistic 50–70mm portrait perspective, and vertical framing that includes the full outfit and boots. Maintain anatomically correct hands and limbs, realistic proportions, and authentic photographic texture. No dramatic color grading, no excessive retouching, no added accessories, and no changes to the reference pose or clothing design."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "Recreate the uploaded image as a highly realistic winter fashion photograph, using the reference image to guide composition, pose, outfit, lighting, and background. Replace the original subject with a different young adult Iranian female model with a distinct, naturally attractive face.\n\nCOMPOSITION AND POSE: Vertical full-body portrait, subject slightly right of center, standing on a snow-covered walkway. She smiles warmly at the camera. Both hands are raised beside her head, lightly holding the edges of her hood. One knee bends backward, lifting one boot behind and across the supporting leg. Keep the same relaxed, playful posture and natural body proportions.\n\nAPPEARANCE AND OUTFIT: Very long dark brown hair falling over the front of her shoulders. White quilted hooded winter jacket with visible stitching, cream ribbed high-neck sweater, fitted dark navy trousers, and black knee-high leather boots with thick lug soles and silver buckles. Reproduce the original clothing silhouette and details accurately.\n\nENVIRONMENT: Snow-covered walkway receding toward the left background, bare trees heavily coated in snow, dark tree trunks, snow-covered shrubs, and small patches of green and yellow foliage along the right edge. Preserve the quiet winter garden atmosphere and the spatial arrangement of the background.\n\nCAMERA AND LIGHTING: Eye-level camera, natural 50–70mm portrait-lens perspective, full-body vertical framing, soft overcast daylight, balanced exposure, clear facial details, natural skin texture, realistic shadows, detailed snow, and gentle background depth of field. Keep the image bright enough to reveal the face, jacket texture, trousers, and boots without losing the soft winter mood.\n\nOUTPUT: Photorealistic editorial lifestyle photography, realistic anatomy, accurate hands and fingers, natural facial expression, true-to-life colors, and high detail. Use a different facial identity while keeping all other major visual elements faithful to the reference. Do not add objects, change the outfit, distort the limbs, oversoften the face, or turn the scene into an illustration."
         }
       ],
-      "last_message_id": 4725,
-      "last_user_message_id": 4725,
+      "last_message_id": 4727,
+      "last_user_message_id": 4727,
       "processed_message_ids": [
         4703,
         4706,
@@ -3006,18 +3011,18 @@
         4717,
         4720,
         4722,
-        4725
+        4725,
+        4727
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "26ef77cf84",
-      "revision": 14,
+      "stage_token": "20baa11c4d",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "26ef77cf84",
+      "prompt_sent_token": null,
       "name": "Snowy Elegance Portrait",
       "number": 28,
       "suitable": "بازسازی پرتره تمام‌قد در فضای برفی با استایل زمستانی شیک، ژست طبیعی و نورپردازی روشن و ملایم؛ با امکان استفاده از چهره‌ای متفاوت و ایرانی.",
-      "for_what": "عکس پروفایل زمستانی\nتولید محتوای اینستاگرام\nپرتره فشن و استایل خیابانی\nعکاسی مدلینگ در فضای برفی\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "عکس پروفایل زمستانی\nتولید محتوای اینستاگرام\nپرتره فشن و استایل خیابانی\nعکاسی مدلینگ در فضای برفی\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nتولید تصاویر با حفظ ژست و ترکیب‌بندی مرجع"
     }
   },
   "settings": {
