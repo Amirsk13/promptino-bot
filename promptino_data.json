@@ -2978,25 +2978,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4708,
-      "last_user_message_id": 4708,
+      "last_message_id": 4710,
+      "last_user_message_id": 4710,
       "processed_message_ids": [
         4703,
         4706,
-        4708
+        4708,
+        4710
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "3d730f6bae",
-      "revision": 4,
+      "stage_token": "4b9d29bf61",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "3d730f6bae",
+      "prompt_sent_token": null,
       "name": "Snowy Elegance Portrait",
-      "number": 28
+      "number": 28,
+      "suitable": "بازسازی پرتره تمام‌قد در فضای برفی با استایل زمستانی شیک، ژست طبیعی و نورپردازی روشن و ملایم؛ با امکان استفاده از چهره‌ای متفاوت و ایرانی."
     }
   },
   "settings": {
