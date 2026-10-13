@@ -2732,7 +2732,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
@@ -2748,8 +2748,8 @@
           "prompt": "Use the attached photograph as the main image reference for a faithful photorealistic recreation with a young adult Iranian woman. Preserve the reference's composition, pose, facial proportions, hairstyle, clothing, jewelry, background, lighting, and mood. Do not redesign the scene.\n\nSUBJECT: no A young Iranian woman with fair warm-toned skin, an oval face, dark almond-shaped eyes, thick dark eyebrows, long eyelashes, a delicate straight nose, and full muted rose lips. Soft natural makeup, gently flushed cheeks, realistic skin texture, and a calm, thoughtful expression. She looks toward frame-right.\n\nHAIR: Voluminous black hair in a loose updo, with wispy face-framing strands around the forehead and cheeks. Warm sunlight highlights individual strands on the right side.\n\nPOSE: Medium close-up, square 1:1 framing, upper torso visible. Her body faces mostly forward while her head turns slightly to the right. Both hands are raised beside her face; one gently touches her cheek, while the other rests near the opposite ear and neck. Maintain natural finger curvature, anatomically correct hands, and the original relaxed posture.\n\nOUTFIT: Ivory-white structured blazer with intricate floral lace sleeves and shoulders, over a white gathered blouse with a softly ruched neckline. Fine gold necklace with a small heart pendant, slim gold bracelet, gold-toned wristwatch or bracelet, and small understated earrings.\n\nBACKGROUND: Minimal indoor environment with warm beige and taupe walls. A rectangular patch of sunlight falls across the wall on the left, producing soft geometric shadows. Light-colored curtains or vertical window drapes on the right filter the sunlight. Keep the background softly blurred and uncluttered.\n\nLIGHTING AND CAMERA: Warm late-afternoon sunlight from the upper-right, luminous highlights along the hair, face, shoulders, and lace, soft natural shadows, and a warm cinematic color grade. Eye-level camera, natural 50–85mm portrait-lens appearance, shallow depth of field, crisp facial features, detailed lace and jewelry, realistic skin and hands.\n\nSTYLE: Premium fashion editorial photography, photorealistic, refined and understated, natural color reproduction, warm ivory and champagne tones, subtle film texture, elegant and contemplative atmosphere.\n\nPrioritize accurate reference matching over creative variation. Avoid changing the gaze, pose, hair, clothing, jewelry, light direction, or background arrangement. No extra fingers, distorted hands, artificial skin, excessive smoothing, exaggerated makeup, text, logos, or watermarks."
         }
       ],
-      "last_message_id": 4505,
-      "last_user_message_id": 4505,
+      "last_message_id": 4508,
+      "last_user_message_id": 4508,
       "processed_message_ids": [
         4486,
         4489,
@@ -2759,17 +2759,19 @@
         4498,
         4500,
         4503,
-        4505
+        4505,
+        4508
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "08953bbd44",
-      "revision": 13,
+      "stage_token": "53cfd9a74c",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Hour Elegance",
       "number": 22,
       "suitable": "بازسازی پرتره‌های فوتورئال با مدل دختر ایرانی، حفظ چهره و ژست دست‌ها، کت سفید توری، نور گرم و سینمایی غروب و فضای شیک و مینیمال.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
