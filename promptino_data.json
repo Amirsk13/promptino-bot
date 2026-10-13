@@ -2924,19 +2924,21 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 4655,
+      "last_message_id": 4658,
       "processed_message_ids": [],
       "flow_id": "d5dafb5d22c2",
-      "stage_token": "b600f7c18f",
+      "stage_token": "82b7f34243",
       "vip_processed_message_ids": [
         4653,
-        4655
+        4655,
+        4658
       ],
-      "vip_last_user_message_id": 4655,
+      "vip_last_user_message_id": 4658,
       "title": "Windy Golden Hour For Girls",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "ChatGPT"
     }
   },
   "active_post_states": {},
