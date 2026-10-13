@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2509,8 +2509,8 @@
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION\n\nUse the supplied image as the strict visual reference. Create a photorealistic portrait of a young adult Iranian woman wearing the black headscarf shown in the approved female result.\n\nSubject: Natural Iranian female appearance, dark eyes, dark eyebrows, softly oval face, warm smile, realistic skin texture, and dark hair mostly covered by a black shal. The black scarf must cover her head and wrap loosely around her neck and shoulders, with a few natural strands framing her face.\n\nOutfit: Cream quilted sleeveless vest, white short-sleeve shirt, blue denim jeans, silver wristwatch, and dark sunglasses held in one hand.\n\nPose: The woman stands on the right side of the image. Her body is slightly angled toward the camera. One hand is raised near her mouth and cheek, while the other holds sunglasses near her waist. Preserve the original hand positions, wristwatch, body orientation, and relaxed candid expression. Do not mirror the image.\n\nBackground: Large leafy tree on the left, visible dark trunk, pale rocks in the lower-left foreground, lush green meadow, rolling hills, hazy distant mountains, and a cloudy sky. Preserve the exact visual hierarchy and relative placement of these elements.\n\nCamera: Vertical 4:5 composition, medium-to-three-quarter framing from head to upper thighs, natural eye-level viewpoint, approximately 50mm equivalent lens. Subject on the right with substantial landscape visible on the left. Maintain the original camera distance and perspective.\n\nLighting: Soft overcast daylight, natural shadows, realistic skin tones, cream and black clothing, blue denim, natural green grass, muted distant hills, and moderate background blur. Keep the scenery identifiable.\n\nRender as authentic high-resolution outdoor photography. Prioritize scene fidelity, natural anatomy, realistic hands and fingers, accurate clothing textures, and the correct black headscarf. Do not change the environment, crop too tightly, swap hand positions, remove the scarf, or apply excessive beauty retouching."
         }
       ],
-      "last_message_id": 4288,
-      "last_user_message_id": 4288,
+      "last_message_id": 4291,
+      "last_user_message_id": 4291,
       "processed_message_ids": [
         4262,
         4264,
@@ -2523,17 +2523,19 @@
         4281,
         4283,
         4286,
-        4288
+        4288,
+        4291
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "d5976ad6f8",
-      "revision": 17,
+      "stage_token": "a8aad603ef",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
