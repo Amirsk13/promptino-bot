@@ -2662,23 +2662,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4433,
-      "last_user_message_id": 4433,
+      "last_message_id": 4435,
+      "last_user_message_id": 4435,
       "processed_message_ids": [
         4430,
-        4433
+        4433,
+        4435
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "eb00e5f839",
-      "revision": 3,
+      "stage_token": "a001f12a97",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "eb00e5f839",
-      "name": "Retro Camera Aesthetic"
+      "prompt_sent_token": null,
+      "name": "Retro Camera Aesthetic",
+      "number": 20
     }
   },
   "settings": {
