@@ -3118,29 +3118,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4824,
-      "last_user_message_id": 4824,
+      "last_message_id": 4827,
+      "last_user_message_id": 4827,
       "processed_message_ids": [
         4815,
         4818,
         4820,
         4822,
-        4824
+        4824,
+        4827
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "2be82161cc",
-      "revision": 7,
+      "stage_token": "eaa0750b0a",
+      "revision": 8,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "eaa0750b0a",
       "name": "Persian Yalda Portrait",
       "number": 32,
       "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی.",
-      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت"
+      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
