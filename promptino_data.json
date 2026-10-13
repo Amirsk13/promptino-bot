@@ -3118,21 +3118,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4815,
-      "last_user_message_id": 4815,
+      "last_message_id": 4818,
+      "last_user_message_id": 4818,
       "processed_message_ids": [
-        4815
+        4815,
+        4818
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "0f688d4051",
-      "revision": 2,
+      "stage_token": "618fe45464",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Persian Yalda Portrait"
     }
   },
   "settings": {
