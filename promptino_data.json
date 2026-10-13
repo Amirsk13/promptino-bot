@@ -2890,7 +2890,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISEGrOIKAF10-YIWz0qfJUVZZEpl5JAALRFGsb6X95UjpCFeK2BEeUAQADAgADeQADPQQ"
       ],
@@ -2901,8 +2901,8 @@
           "prompt": "Use the attached image as the primary visual reference. Recreate the photograph as closely as possible, replacing the original subject with a different-looking young adult Iranian woman with naturally attractive Persian features. Preserve the reference's composition, pose, clothing style, environment, camera perspective, and winter atmosphere.\n\nCreate a realistic vertical outdoor winter fashion photograph. Show the woman in a three-quarter to nearly full-body composition, standing slightly right of center on a wet, snow-covered residential road. Her body faces slightly sideways, her head turns gently toward the left side of the frame, and she smiles naturally with her eyes softly closed, enjoying the falling snow. Give her a distinct Iranian face, dark eyebrows, dark hair partially tucked behind fluffy white earmuffs, and a relaxed, cheerful expression.\n\nShe wears large white plush earmuffs, a cream high-neck sweater, a taupe-brown buttoned winter coat with a soft cream faux-fur shawl collar draped over her shoulders, and dark blue jeans. Her arms rest naturally at her sides, with relaxed hands.\n\nReproduce the heavy snow covering the branches of tall evergreen trees in the background, the partially visible building and entrance on the left, the gray icy road extending into the distance on the right, and delicate snowflakes falling throughout the scene. Use soft, overcast winter daylight, muted gray and earthy brown tones, natural skin texture, realistic fabric and fur details, subtle background depth, and authentic photographic color grading. Keep the subject clearly visible with balanced exposure and enough facial detail. Preserve the original framing and natural candid mood. Photorealistic, high detail, no text, no watermark, no artificial beauty filters."
         }
       ],
-      "last_message_id": 4638,
-      "last_user_message_id": 4638,
+      "last_message_id": 4641,
+      "last_user_message_id": 4641,
       "processed_message_ids": [
         4624,
         4627,
@@ -2910,17 +2910,19 @@
         4631,
         4633,
         4636,
-        4638
+        4638,
+        4641
       ],
       "flow_id": "678827321778",
-      "stage_token": "6eb1ef7f80",
-      "revision": 10,
+      "stage_token": "c38802aaa3",
+      "revision": 11,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Snowfall Elegance",
       "number": 26,
       "suitable": "بازسازی پرتره زمستانی با حفظ ترکیب‌بندی عکس مرجع، پوشش گرم و شیک، لبخند طبیعی، بارش برف و فضای واقعی و برفی؛ با قابلیت جایگزینی سوژه با یک مدل ایرانی و حفظ سبک عکاسی.",
-      "for_what": "• عکس پروفایل زمستانی\n\n• تولید محتوای اینستاگرام\n\n• پرتره طبیعی و فشن زمستانی\n\n• ساخت تصاویر با مدل ایرانی\n\n• بازسازی عکس با حفظ ژست و کادربندی\n\n• عکاسی تبلیغاتی پوشاک زمستانی"
+      "for_what": "• عکس پروفایل زمستانی\n\n• تولید محتوای اینستاگرام\n\n• پرتره طبیعی و فشن زمستانی\n\n• ساخت تصاویر با مدل ایرانی\n\n• بازسازی عکس با حفظ ژست و کادربندی\n\n• عکاسی تبلیغاتی پوشاک زمستانی",
+      "pending_label": "Gemini"
     }
   },
   "settings": {
