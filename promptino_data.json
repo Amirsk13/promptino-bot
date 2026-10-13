@@ -2732,7 +2732,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
@@ -2755,8 +2755,8 @@
         4500
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "e86c8d39ca",
-      "revision": 9,
+      "stage_token": "72dc49bc6a",
+      "revision": 10,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Hour Elegance",
