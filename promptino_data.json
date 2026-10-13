@@ -2767,7 +2767,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
@@ -2797,8 +2797,8 @@
         4533
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "9591edba9e",
-      "revision": 12,
+      "stage_token": "e76c9f80b9",
+      "revision": 13,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Blush Garden Portrait",
