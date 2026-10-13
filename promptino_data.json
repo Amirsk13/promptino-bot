@@ -3133,7 +3133,7 @@
       "stage_token": "618fe45464",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "618fe45464",
       "name": "Persian Yalda Portrait"
     }
   },
