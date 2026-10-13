@@ -2890,25 +2890,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAISEGrOIKAF10-YIWz0qfJUVZZEpl5JAALRFGsb6X95UjpCFeK2BEeUAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4629,
-      "last_user_message_id": 4629,
+      "last_message_id": 4631,
+      "last_user_message_id": 4631,
       "processed_message_ids": [
         4624,
         4627,
-        4629
+        4629,
+        4631
       ],
       "flow_id": "678827321778",
-      "stage_token": "c91f6f9b3a",
-      "revision": 4,
+      "stage_token": "56ac53d623",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "c91f6f9b3a",
+      "prompt_sent_token": null,
       "name": "Snowfall Elegance",
-      "number": 26
+      "number": 26,
+      "suitable": "بازسازی پرتره زمستانی با حفظ ترکیب‌بندی عکس مرجع، پوشش گرم و شیک، لبخند طبیعی، بارش برف و فضای واقعی و برفی؛ با قابلیت جایگزینی سوژه با یک مدل ایرانی و حفظ سبک عکاسی."
     }
   },
   "settings": {
