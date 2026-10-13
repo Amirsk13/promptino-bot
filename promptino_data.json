@@ -2732,21 +2732,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4486,
-      "last_user_message_id": 4486,
+      "last_message_id": 4489,
+      "last_user_message_id": 4489,
       "processed_message_ids": [
-        4486
+        4486,
+        4489
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "46b54a53c4",
-      "revision": 2,
+      "stage_token": "b0e7d161d6",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Golden Hour Elegance"
     }
   },
   "settings": {
