@@ -2662,27 +2662,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4437,
-      "last_user_message_id": 4437,
+      "last_message_id": 4439,
+      "last_user_message_id": 4439,
       "processed_message_ids": [
         4430,
         4433,
         4435,
-        4437
+        4437,
+        4439
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "0ea5801136",
-      "revision": 5,
+      "stage_token": "6476138ea8",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "0ea5801136",
+      "prompt_sent_token": null,
       "name": "Retro Camera Aesthetic",
       "number": 20,
-      "suitable": "بازسازی عکس‌های رترو و نوستالژیک با حفظ چهره، ژست خوابیده، دوربین آنالوگ، صفحه وینیل، گرامافون و فضای عکاسی سینمایی با فرش ایرانی."
+      "suitable": "بازسازی عکس‌های رترو و نوستالژیک با حفظ چهره، ژست خوابیده، دوربین آنالوگ، صفحه وینیل، گرامافون و فضای عکاسی سینمایی با فرش ایرانی.",
+      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
     }
   },
   "settings": {
