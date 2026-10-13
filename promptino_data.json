@@ -2484,7 +2484,21 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {},
+  "active_post_states": {
+    "676953423": {
+      "type": "post",
+      "step": "photos",
+      "photos": [],
+      "buttons": [],
+      "last_message_id": null,
+      "last_user_message_id": 0,
+      "processed_message_ids": [],
+      "flow_id": "68a6a041e0a0",
+      "stage_token": "8c762d8150",
+      "revision": 0,
+      "mode": "create"
+    }
+  },
   "settings": {
     "notifications": {
       "new_order": true,
