@@ -3013,29 +3013,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISe2rOLf_6kYmxaPP2WLLZ3NViqpNdAALvFGsb6X95Ugec2B7bAvMIAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4740,
-      "last_user_message_id": 4740,
+      "last_message_id": 4743,
+      "last_user_message_id": 4743,
       "processed_message_ids": [
         4731,
         4734,
         4736,
         4738,
-        4740
+        4740,
+        4743
       ],
       "flow_id": "746059ad72d9",
-      "stage_token": "6bbcc60acb",
-      "revision": 7,
+      "stage_token": "15ef9f093d",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rose Bouquet Mirror Selfie",
       "number": 29,
       "suitable": "بازسازی عکس آینه‌ای طبیعی و واقع‌گرایانه در کافه، با دسته‌گل رز قرمز، استایل روزمره و حفظ دقیق ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل و شبکه‌های اجتماعی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nبازسازی عکس‌های آینه‌ای کافه‌ای\nتصاویر استایل و فشن روزمره\nتصاویر هدیه و دسته‌گل رز"
+      "for_what": "عکس پروفایل و شبکه‌های اجتماعی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nبازسازی عکس‌های آینه‌ای کافه‌ای\nتصاویر استایل و فشن روزمره\nتصاویر هدیه و دسته‌گل رز",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
