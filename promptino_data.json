@@ -2820,7 +2820,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
@@ -2836,8 +2836,8 @@
           "prompt": "Using the uploaded image as a visual reference, generate a photorealistic square portrait of a young adult Iranian woman with a clearly different facial identity. Preserve the reference's framing, head angle, gaze direction, hairstyle, outfit, gold accessories, soft lighting, and green garden background.\n\nThe model has a naturally warm light-olive complexion, an elegant oval face, softly defined cheekbones, a straight refined nose, full rose-pink lips, and expressive hazel-brown almond-shaped eyes. Her gaze turns toward the left side of the frame, and her expression is calm, poised, and slightly contemplative. Her facial features must look natural and distinct rather than copying the reference model's face.\n\nHer dark brown-black hair is styled in a loose high bun with center-parted curtain bangs and fine face-framing strands. She wears a simple black sleeveless halter-neck top, small gold hoop earrings, and several fine layered gold necklaces.\n\nCOMPOSITION: Square 1:1, upper-chest portrait with the head centered and both shoulders visible. The head is slightly turned toward image-left while the shoulders remain mostly front-facing. Keep the bun close to the upper frame edge.\n\nBACKGROUND: Bright green foliage rendered as soft circular bokeh, with pale yellow-green highlights and a narrow light-colored vertical edge at the far left. No distinct objects.\n\nLIGHTING: Soft outdoor daylight, gentle facial highlights, subtle jawline shadows, natural skin texture, and realistic gold reflections.\n\nCAMERA: Eye-level portrait, natural 70–85mm lens appearance, shallow depth of field, sharply focused eyes and face, creamy defocused background, realistic proportions without wide-angle distortion.\n\nSTYLE: High-end natural beauty photography, restrained makeup, realistic hair strands, detailed skin, soft green color palette, balanced exposure, and an elegant editorial finish.\n\nKeep the composition and styling faithful to the reference while creating a new Iranian model with different facial features. Avoid artificial skin smoothing, exaggerated makeup, altered gaze direction, messy anatomy, changed outfit, missing jewelry, text, logos, or watermarks."
         }
       ],
-      "last_message_id": 4587,
-      "last_user_message_id": 4587,
+      "last_message_id": 4590,
+      "last_user_message_id": 4590,
       "processed_message_ids": [
         4568,
         4571,
@@ -2847,17 +2847,19 @@
         4580,
         4582,
         4585,
-        4587
+        4587,
+        4590
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "ca0c984ba1",
-      "revision": 13,
+      "stage_token": "2b8f6a6250",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Emerald Garden Portrait",
       "number": 24,
       "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
