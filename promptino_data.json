@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2566,8 +2566,8 @@
           "prompt": "Recreate the attached reference image using image-to-image generation. Treat the uploaded photograph as the authoritative guide for composition, room geometry, camera perspective, lighting, pose, and visual style. Generate a feminine counterpart while keeping the scene unmistakably the same.\n\nA photorealistic full-length mirror selfie of a young adult Iranian woman wearing an elegant royal-blue tailored pantsuit, a fitted blue blazer, matching straight-leg trousers, and a simple black inner top. Give her naturally dark eyes, defined eyebrows, dark neatly styled hair, realistic skin texture, and refined but believable facial features. Her styling should be sophisticated and contemporary.\n\nMatch the original pose exactly: the subject stands centered before the mirror, holding a dark smartphone vertically in her right hand at upper-chest height while looking down at the screen. Her left hand remains inside her trouser pocket. Preserve the slight head tilt, body orientation, relaxed stance, leg positioning, and original proportions. No mirroring or hand swapping.\n\nReproduce every major background feature: the large full-length mirror, dark textured vertical borders, closely spaced dark walnut wall slats, warm wall sconces on both sides, leafy potted plant at the left, narrow dark cabinet at the right with decorative objects and greenery, gray patterned rug, and tiled floor.\n\nMaintain the same full-body framing and natural smartphone-camera perspective, approximately 35–50mm equivalent. Keep the subject at the original distance from the mirror and retain the surrounding interior. Warm, soft indoor lighting, subtle golden highlights, realistic shadows, balanced exposure, moderate depth of field, and visible background textures.\n\nThe result must look like a genuine photograph, with realistic reflections, anatomically correct hands, natural clothing folds, detailed fabrics, and consistent room geometry. Change only the subject's gender presentation and the minimum outfit details necessary for a natural feminine interpretation. Avoid close-ups, excessive background blur, beauty-filter skin, distorted hands, extra fingers, reversed orientation, altered architecture, and invented accessories."
         }
       ],
-      "last_message_id": 4333,
-      "last_user_message_id": 4333,
+      "last_message_id": 4336,
+      "last_user_message_id": 4336,
       "processed_message_ids": [
         4307,
         4309,
@@ -2580,17 +2580,19 @@
         4326,
         4328,
         4331,
-        4333
+        4333,
+        4336
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "3c0c681014",
-      "revision": 17,
+      "stage_token": "5bd3c9983d",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
