@@ -2801,29 +2801,34 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded image as the primary visual reference and recreate it as a highly photorealistic close-up portrait of a young adult Iranian woman. Preserve the reference's composition, facial proportions, hairstyle, expression, flower placement, lighting, shadows, colors, and photographic mood. If generating a new model, use a distinct Iranian face while retaining the same visual arrangement.\n\nSUBJECT: A young Iranian woman with naturally light olive skin, dark brown almond-shaped eyes, thick dark eyebrows, long eyelashes, a softly defined nose, and full muted rose-brown lips. Her expression is calm and slightly dreamy, with her visible eye looking directly toward the camera. Her face is relaxed, lips gently closed, and makeup is natural with subtle warm eyeshadow and soft lip color. Preserve realistic pores and fine facial details.\n\nHAIR: Thick, dark brown to black hair with loose natural waves, parted slightly off-center and falling around the right side of her face. A few fine strands catch the sunlight.\n\nFOREGROUND FLOWER: A large, vivid yellow sunflower occupies most of the left foreground, partially obscuring the woman's forehead, one eye area, nose, and cheek. Its bright layered petals radiate around a large dark brown textured center. Include a few small white daisy-like flowers and hints of green stems near the lower-left corner. The sunflower must be close to the lens and noticeably larger than the woman's facial features due to perspective.\n\nCOMPOSITION: Square 1:1 extreme close-up portrait. The woman's face fills the center and right side of the frame. The sunflower fills the left third to nearly half of the image, overlapping the face. Only one eye is clearly visible between the petals and hair. Keep the lips near the lower-center area and preserve the tight crop around the forehead, cheek, and chin.\n\nLIGHTING: Strong warm late-afternoon sunlight from the upper-left, illuminating the yellow petals, visible eye, cheek, and nose. Cast delicate, sharply defined sunflower-petal shadows across the woman's cheek and nose. Preserve bright golden highlights, natural skin texture, and deep but detailed shadows in the hair.\n\nCAMERA: Close-range portrait photography, natural 70–100mm portrait-lens appearance, shallow depth of field, sharp focus on the visible eye and nearby sunflower petals, softly blurred background, realistic foreground perspective, no wide-angle distortion.\n\nCOLOR AND STYLE: Golden yellow petals, dark brown flower center, warm skin tones, glossy dark hair, muted rose-brown lips, and rich natural contrast. High-end editorial beauty photography, realistic optical detail, subtle film texture, intimate artistic mood, no artificial beauty filter.\n\nBACKGROUND: Keep the background minimal, dark, and softly out of focus, with no distracting objects.\n\nAvoid changing the sunflower's left-side placement, the face's right-side placement, the direct gaze, the floral shadows, or the warm natural light. No extra eyes, distorted petals, artificial skin, exaggerated makeup, text, logos, or watermarks."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Use the attached image as the main reference for a faithful photorealistic image reconstruction. Recreate the same intimate close-up portrait with a young adult Iranian woman, preserving the original framing, facial appearance, hairstyle, sunflower position, lighting, shadows, color palette, and mood.\n\nThe woman has natural light olive skin, a softly defined face, thick dark eyebrows, one clearly visible dark brown almond-shaped eye, long eyelashes, a delicate nose, and full muted rose-brown lips. Her expression is calm and dreamy, with a direct gaze toward the camera. Her dark, slightly wavy hair frames the right side of her face.\n\nA large bright yellow sunflower fills the left foreground, partially covering the woman's face. Its layered golden petals surround a large textured dark brown center. A few small white daisy-like flowers and green stems appear near the bottom-left. The flower is very close to the lens, creating strong foreground depth and overlap.\n\nCOMPOSITION: Square 1:1 extreme close-up. The woman's face occupies the center and right side, while the sunflower fills the left third to half of the frame. Preserve the close crop, partial facial occlusion, visible eye, lips near the lower center, and natural perspective.\n\nLIGHTING: Warm direct late-afternoon sunlight from the upper-left. Bright golden highlights on the petals and skin, delicate sunflower-shaped shadows across the cheek and nose, realistic contrast, and detailed dark hair.\n\nCAMERA: Close-up editorial portrait, natural 70–100mm lens perspective, shallow depth of field, sharp visible eye and flower detail, softly blurred dark background.\n\nSTYLE: Photorealistic beauty photography, realistic skin texture, natural makeup, warm golden tones, rich yellow petals, subtle cinematic color grading, refined detail, and an intimate artistic mood.\n\nPrioritize reference accuracy. Do not move the sunflower to the right, reveal the entire face, change the gaze, remove the floral shadows, or introduce additional props. Avoid distorted petals, unnatural skin, exaggerated makeup, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4555,
+      "last_message_id": 4557,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "fd113ab9c8",
+      "stage_token": "054d24a085",
       "vip_processed_message_ids": [
         4545,
         4547,
         4550,
         4552,
-        4555
+        4555,
+        4557
       ],
-      "vip_last_user_message_id": 4555,
+      "vip_last_user_message_id": 4557,
       "title": "Sunflower Shadow Portrait For Girls",
-      "price": 230000,
-      "pending_label": "Gemini"
+      "price": 230000
     }
   },
   "active_post_states": {},
