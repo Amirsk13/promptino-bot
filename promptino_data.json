@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2514,8 +2514,8 @@
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION\n\nUse the supplied image and the approved male result as visual references. Recreate the same outdoor portrait with a young adult Iranian man, preserving the original composition, pose, scenery, camera perspective, and natural light.\n\nSubject: Young Iranian man with dark eyes, thick dark hair, realistic masculine facial proportions, subtle stubble, and a relaxed smile.\n\nOutfit: Plain white short-sleeve T-shirt, cream quilted sleeveless puffer vest, blue denim jeans, dark round-faced wristwatch, and dark sunglasses held in one hand. No scarf or head covering.\n\nPose: Place the man on the right side of the frame, slightly angled toward the camera. One hand rests naturally near his mouth and chin; the other holds the sunglasses near his waist. Preserve the exact arm orientation and hand placement of the approved male reference. Do not mirror the image.\n\nEnvironment: The same large leafy tree on the left, dark trunk, pale beige and gray rocks in the lower-left foreground, lush meadow, rolling green hills, distant hazy mountains, and cloudy sky. Preserve the landscape and its relative proportions.\n\nComposition: Vertical 4:5 portrait, medium-to-three-quarter framing from head to upper thighs, natural eye-level perspective, approximately 50mm equivalent lens. Keep the subject on the right and the landscape open on the left. Do not zoom in or crop away the rocks, tree, or hills.\n\nLighting and style: Soft natural overcast light, gentle shadows, authentic skin texture, realistic clothing folds, natural greens, cream and white clothing, blue denim, moderate depth of field, and lifelike photographic detail.\n\nPreserve the scene, pose, accessories, lighting, and camera perspective. Change only the subject's appearance to a natural Iranian man and remove the headscarf. Avoid altered hand gestures, extra fingers, distorted anatomy, missing sunglasses, artificial skin, excessive background blur, and illustration-like rendering."
         }
       ],
-      "last_message_id": 4293,
-      "last_user_message_id": 4293,
+      "last_message_id": 4296,
+      "last_user_message_id": 4296,
       "processed_message_ids": [
         4262,
         4264,
@@ -2530,17 +2530,19 @@
         4286,
         4288,
         4291,
-        4293
+        4293,
+        4296
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "5d3af49060",
-      "revision": 20,
+      "stage_token": "9cf926ce8a",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
