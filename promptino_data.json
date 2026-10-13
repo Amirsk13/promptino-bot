@@ -2978,23 +2978,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4706,
-      "last_user_message_id": 4706,
+      "last_message_id": 4708,
+      "last_user_message_id": 4708,
       "processed_message_ids": [
         4703,
-        4706
+        4706,
+        4708
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "bc53830729",
-      "revision": 3,
+      "stage_token": "3d730f6bae",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "bc53830729",
-      "name": "Snowy Elegance Portrait"
+      "prompt_sent_token": null,
+      "name": "Snowy Elegance Portrait",
+      "number": 28
     }
   },
   "settings": {
