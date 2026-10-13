@@ -3083,23 +3083,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4790,
-      "last_user_message_id": 4790,
+      "last_message_id": 4792,
+      "last_user_message_id": 4792,
       "processed_message_ids": [
         4787,
-        4790
+        4790,
+        4792
       ],
       "flow_id": "fe56b007288e",
-      "stage_token": "c36aed7774",
-      "revision": 3,
+      "stage_token": "80eae65fb8",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "c36aed7774",
-      "name": "Monochrome Mirror Portrait"
+      "prompt_sent_token": null,
+      "name": "Monochrome Mirror Portrait",
+      "number": 31
     }
   },
   "settings": {
