@@ -2855,7 +2855,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
@@ -2870,8 +2870,8 @@
         4605
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "5ba9d756cf",
-      "revision": 6,
+      "stage_token": "e7d579ce3a",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Crimson Noir Portrait",
