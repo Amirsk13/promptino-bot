@@ -2662,7 +2662,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
@@ -2673,8 +2673,8 @@
           "prompt": "Using the uploaded image as the primary visual reference, recreate the photograph as closely as possible. Preserve the subject's recognizable facial features, hairstyle, expression, pose, clothing, accessories, object placement, camera angle, lighting, and vintage photographic aesthetic.\n\nCreate a highly photorealistic square 1:1 overhead portrait of a beautiful young adult Iranian woman lying diagonally on an ornate red-and-black Persian carpet. Her head is positioned in the lower-right half of the frame, tilted slightly, with her face turned toward the camera and a relaxed, playful smile. She has pale natural skin, dark expressive eyes, defined eyebrows, subtle winged eyeliner, muted red lipstick, and thick, voluminous black curly hair spreading across the lower-right edge. A burgundy-black headband with tiny light-colored dots holds back her hair.\n\nShe wears a black outfit covered in small, evenly distributed red dots. Both hands hold a vintage silver-and-black film camera across her upper torso. One hand supports the camera body while the other steadies it near the lens and controls. Reproduce the camera's metallic body, large circular lens, lens rings, top dials, and reflective details accurately. Preserve the natural position and anatomy of her fingers. A delicate ring and a small fine-line tattoo on the upper forearm are visible in the reference; reproduce the tattoo only if matching the reference image exactly.\n\nENVIRONMENT AND PROPS: The richly detailed red-and-black Persian carpet fills the entire background. A partially cropped cream-colored vintage record player with a ribbed speaker grille occupies the upper-right corner. A black vinyl record with a yellow-orange center label lies to the right of the woman's head. Another dark vinyl record is partially cropped along the far-right edge. Preserve the exact relative positions, angles, scale, and cropping of all objects.\n\nCOMPOSITION AND CAMERA: Square 1:1 crop, steep overhead top-down perspective, medium-close composition showing the woman's head, upper torso, both hands, camera, and surrounding music equipment. Natural 50mm photographic perspective without wide-angle distortion. The subject and camera form the main diagonal across the image.\n\nLIGHTING AND COLOR: Soft, diffused indoor light with realistic skin highlights and gentle shadows. Rich crimson and burgundy carpet tones, deep blacks, natural skin colors, and muted metallic silver highlights. Subtle analog-film grain, restrained contrast, slightly moody vintage color grading, and authentic editorial photography.\n\nMaintain realistic skin texture, individual hair strands, accurate hands, convincing camera materials, and intricate carpet details. Preserve the reference's candid, nostalgic, music-inspired mood. Avoid excessive retouching, altered facial proportions, distorted hands, extra fingers, malformed camera parts, misplaced records, changed clothing patterns, artificial CGI appearance, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4444,
-      "last_user_message_id": 4444,
+      "last_message_id": 4447,
+      "last_user_message_id": 4447,
       "processed_message_ids": [
         4430,
         4433,
@@ -2682,17 +2682,19 @@
         4437,
         4439,
         4442,
-        4444
+        4444,
+        4447
       ],
       "flow_id": "f660bffe3439",
-      "stage_token": "ecc6e3d883",
-      "revision": 10,
+      "stage_token": "ece0cf2118",
+      "revision": 11,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Retro Camera Aesthetic",
       "number": 20,
       "suitable": "بازسازی عکس‌های رترو و نوستالژیک با حفظ چهره، ژست خوابیده، دوربین آنالوگ، صفحه وینیل، گرامافون و فضای عکاسی سینمایی با فرش ایرانی.",
-      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
+      "for_what": "عکس پروفایل هنری\nتولید محتوای اینستاگرام\nپرتره‌های رترو و نوستالژیک\nعکاسی فشن و ادیتوریال\nبازسازی عکس با حفظ چهره\nتصاویر با تم موسیقی و عکاسی آنالوگ\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
+      "pending_label": "Gemini"
     }
   },
   "settings": {
