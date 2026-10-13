@@ -2487,7 +2487,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
@@ -2519,8 +2519,8 @@
           "prompt": "Reconstruct the uploaded image with maximum reference fidelity. Create the female version as a photorealistic outdoor portrait of a young adult Iranian woman wearing a BLACK HEADSCARF.\n\nSUBJECT LOCK:\nYoung Iranian woman, natural dark eyes and eyebrows, realistic facial proportions, dark hair mostly covered, a few loose strands around the face, and a genuine relaxed smile.\n\nCLOTHING LOCK:\nBlack shal covering the head and wrapping around the neck and shoulders; cream quilted sleeveless vest; white short-sleeve shirt; blue denim jeans; silver wristwatch; dark sunglasses held in one hand.\n\nPOSE LOCK:\nSubject stands on the RIGHT side of the image. Body slightly angled toward the camera. One hand raised naturally near the mouth and cheek. The other hand holds the sunglasses near the waist. Preserve hand positions, wristwatch placement, arm orientation, and natural posture. No mirroring.\n\nSCENE LOCK:\nLarge leafy tree and dark trunk on the LEFT; pale beige and gray rocks across the lower-left foreground; lush green grass; rolling green hills; hazy distant mountains; cloudy sky. Keep all major background and foreground elements recognizable and in their original relative positions.\n\nCAMERA LOCK:\nVertical 4:5 portrait, medium-to-three-quarter framing from head to upper thighs, natural eye-level camera angle, approximately 50mm equivalent lens. Keep the same subject scale, camera distance, and landscape coverage. Do not crop tightly or enlarge the subject disproportionately.\n\nLIGHTING LOCK:\nSoft overcast daylight, realistic facial shadows, natural skin tones, cream fabric, black scarf, blue denim, green meadow, and muted mountains. Moderate depth of field, without excessive bokeh.\n\nOUTPUT:\nHigh-resolution natural photography, realistic Iranian appearance, anatomically correct hands, accurate fingers, lifelike clothing texture, detailed landscape, and restrained color grading.\n\nHighest priority: retain the black headscarf, original hand gestures, cream vest, white shirt, sunglasses, watch, tree, rocks, and mountain landscape. Do not omit or recolor the scarf, change the pose, mirror the scene, add props, or alter the background."
         }
       ],
-      "last_message_id": 4298,
-      "last_user_message_id": 4298,
+      "last_message_id": 4301,
+      "last_user_message_id": 4301,
       "processed_message_ids": [
         4262,
         4264,
@@ -2537,17 +2537,19 @@
         4291,
         4293,
         4296,
-        4298
+        4298,
+        4301
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "775503b4cb",
-      "revision": 23,
+      "stage_token": "0bf7f94180",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Mountain Meadow Portrait",
       "number": 18,
       "suitable": "بازسازی فوتورئال پرتره در طبیعت با مدل ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع، نسخه دخترانه با روسری مشکی و نسخه پسرانه با استایل سفید و کرم.",
-      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی"
+      "for_what": "بازسازی تصویر مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه مشترک\nحفظ ژست دست‌ها و اکسسوری‌ها\nتولید پرتره طبیعی با مدل ایرانی",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
