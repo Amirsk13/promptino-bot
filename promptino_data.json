@@ -2943,7 +2943,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
@@ -2957,10 +2957,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Recreate the uploaded reference as a realistic outdoor action portrait. Use a young Iranian woman with a naturally distinctive face, seated on a broad wet rock in a shallow stream within dense green woodland.\n\nMatch the exact action and silhouette: her body leans backward, her head is tilted up, her eyes are closed, and her expression is relaxed. Her long, thick, dark hair whips upward and to the left in a dramatic semicircular sweep. A clearly visible arc of individual water droplets follows the hair's trajectory, sparkling against the dark green foliage before falling toward the stream on the right.\n\nWardrobe: plain dark brown short-sleeved T-shirt and black trousers. Both arms extend down beside her torso, hands naturally braced on the rocks. Her knees are bent, with the lower body angled toward the bottom-right of the frame.\n\nMaintain a square 1:1 composition, medium-wide framing, a slightly left-of-center subject, visible foreground boulders, flowing shallow water, and a dense leafy forest background. Camera positioned around seated torso height with a natural perspective and enough space above the subject to capture the entire arc of water and hair.\n\nSoft overcast woodland daylight, realistic water reflections, crisp suspended droplets, detailed wet hair strands, natural skin texture, subtle depth of field, earthy colors, deep greens, muted grays, and a calm yet energetic editorial photography aesthetic.\n\nUse the reference image to preserve the composition, gesture, water trajectory, clothing, and setting. Avoid excessive retouching, artificial water shapes, anatomically incorrect hands, extra fingers, unnatural hair volume, oversaturated greens, and synthetic-looking textures."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "Transform the uploaded image into a highly photorealistic recreation, preserving the original composition, body posture, hair movement, water arc, clothing, and woodland setting. Use a young Iranian female model with a different, naturally distinctive face.\n\nThe woman is seated on a large wet gray rock in a shallow forest stream. Her torso leans backward, her head tilts upward, her eyes are closed, and her expression conveys a spontaneous, peaceful moment. Her long, thick, dark brown-black hair is flung upward and toward the left, creating a dramatic sweeping semicircle. Numerous separate, realistic water droplets trace the same arc above her head and descend along the right side. Keep the droplets distinct, irregular, naturally illuminated, and physically believable.\n\nShe wears a plain dark brown short-sleeved T-shirt and black trousers. Her arms extend downward on either side of her body, with both hands resting against the rocks for balance. Her legs are bent and angle toward the lower-right corner.\n\nMatch the original square 1:1 crop and medium-wide view. Keep the subject slightly left of center, the large textured boulders in the foreground, shallow rippling water behind and beneath her, and dense green leaves and tree branches filling the background. Preserve enough headroom for the complete airborne hair and water arc.\n\nUse soft, natural forest daylight, realistic wet surfaces, subtle highlights on individual droplets, detailed hair strands, natural skin pores, accurate anatomy, restrained contrast, deep forest greens, neutral gray rocks, and muted brown clothing. Maintain a genuine outdoor photograph aesthetic with moderate background blur and crisp detail on the subject and water.\n\nDo not change the pose, water trajectory, outfit, or environment. Avoid excessive beautification, unnatural hair shapes, duplicated droplets, distorted fingers, extra limbs, artificial studio lighting, oversaturated colors, and CGI or illustration effects."
         }
       ],
-      "last_message_id": 4697,
-      "last_user_message_id": 4697,
+      "last_message_id": 4699,
+      "last_user_message_id": 4699,
       "processed_message_ids": [
         4675,
         4678,
@@ -2971,18 +2976,18 @@
         4689,
         4692,
         4694,
-        4697
+        4697,
+        4699
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "5d9bcec8ba",
-      "revision": 14,
+      "stage_token": "ce8a4878e2",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "5d9bcec8ba",
+      "prompt_sent_token": null,
       "name": "Wild Water Motion",
       "number": 27,
       "suitable": "بازسازی پرتره‌ای هنری و واقع‌گرایانه در طبیعت، با حرکت چشمگیر موها و قوس قطرات آب، حفظ ژست بدن و فضای جنگلی تصویر مرجع.",
-      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب"
     }
   },
   "settings": {
