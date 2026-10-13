@@ -2732,7 +2732,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
@@ -2746,10 +2746,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Use the attached photograph as the main image reference for a faithful photorealistic recreation with a young adult Iranian woman. Preserve the reference's composition, pose, facial proportions, hairstyle, clothing, jewelry, background, lighting, and mood. Do not redesign the scene.\n\nSUBJECT: no A young Iranian woman with fair warm-toned skin, an oval face, dark almond-shaped eyes, thick dark eyebrows, long eyelashes, a delicate straight nose, and full muted rose lips. Soft natural makeup, gently flushed cheeks, realistic skin texture, and a calm, thoughtful expression. She looks toward frame-right.\n\nHAIR: Voluminous black hair in a loose updo, with wispy face-framing strands around the forehead and cheeks. Warm sunlight highlights individual strands on the right side.\n\nPOSE: Medium close-up, square 1:1 framing, upper torso visible. Her body faces mostly forward while her head turns slightly to the right. Both hands are raised beside her face; one gently touches her cheek, while the other rests near the opposite ear and neck. Maintain natural finger curvature, anatomically correct hands, and the original relaxed posture.\n\nOUTFIT: Ivory-white structured blazer with intricate floral lace sleeves and shoulders, over a white gathered blouse with a softly ruched neckline. Fine gold necklace with a small heart pendant, slim gold bracelet, gold-toned wristwatch or bracelet, and small understated earrings.\n\nBACKGROUND: Minimal indoor environment with warm beige and taupe walls. A rectangular patch of sunlight falls across the wall on the left, producing soft geometric shadows. Light-colored curtains or vertical window drapes on the right filter the sunlight. Keep the background softly blurred and uncluttered.\n\nLIGHTING AND CAMERA: Warm late-afternoon sunlight from the upper-right, luminous highlights along the hair, face, shoulders, and lace, soft natural shadows, and a warm cinematic color grade. Eye-level camera, natural 50–85mm portrait-lens appearance, shallow depth of field, crisp facial features, detailed lace and jewelry, realistic skin and hands.\n\nSTYLE: Premium fashion editorial photography, photorealistic, refined and understated, natural color reproduction, warm ivory and champagne tones, subtle film texture, elegant and contemplative atmosphere.\n\nPrioritize accurate reference matching over creative variation. Avoid changing the gaze, pose, hair, clothing, jewelry, light direction, or background arrangement. No extra fingers, distorted hands, artificial skin, excessive smoothing, exaggerated makeup, text, logos, or watermarks."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "STRICT IMAGE-TO-IMAGE RECONSTRUCTION — PRESERVE REFERENCE COMPOSITION\n\nUse the uploaded photograph as the base image reference. Recreate the same elegant, photorealistic portrait with a young adult Iranian woman. Preserve the original framing, pose, facial proportions, hairstyle, outfit, jewelry, lighting direction, background, and warm cinematic atmosphere.\n\nFACE: Fair warm-toned natural skin, oval face, dark almond-shaped eyes, defined dark eyebrows, long eyelashes, delicate straight nose, full rose-colored lips, soft blush, and understated eyeliner. Calm, contemplative expression, gaze directed toward frame-right. Realistic pores and natural facial proportions.\n\nHAIR: Thick glossy black hair in a loose, voluminous updo, with soft strands framing the forehead and cheeks. Preserve natural flyaways and golden sunlight along the right edge of the hair.\n\nPOSE AND FRAMING: Square 1:1 image, eye-level medium close-up from mid-torso upward. The subject faces mostly forward with her head turned slightly toward frame-right. One hand gently touches her cheek and jawline; the other rests near the opposite ear and neck. Preserve arm placement, wrist angles, shoulder position, and natural finger anatomy.\n\nCLOTHING: Ivory-white tailored blazer with detailed floral lace on the sleeves and shoulders, layered over a white satin-like blouse with a gathered, ruched neckline. Preserve the structured lapels, delicate lace patterns, fabric folds, and layered white textures.\n\nACCESSORIES: Fine gold chain with a small heart-shaped pendant, slim gold bracelet, gold-toned wristwatch or bracelet, and small earrings. Maintain realistic metallic reflections and correct placement.\n\nBACKGROUND LOCK: Softly blurred beige and taupe indoor wall. A rectangular patch of warm sunlight and geometric shadow on the left. Light curtains or vertical window drapes on the right, glowing softly from filtered daylight. Minimal background with no additional objects.\n\nLIGHTING: Warm golden-hour sunlight entering from the upper-right, creating a luminous rim along the hair and shoulder, subtle highlights on the face and hands, and soft natural shadows. Warm ivory, champagne, beige, and golden-brown palette. Balanced cinematic contrast.\n\nCAMERA AND FINISH: Natural 50–85mm portrait perspective, eye-level viewpoint, shallow depth of field, sharp face and eyes, realistic skin, detailed lace, natural hand anatomy, high-end fashion editorial photography, subtle film grain, restrained retouching, and a refined, quiet mood.\n\nFIDELITY PRIORITY: Preserve the original pose, gaze, hand positions, clothing design, jewelry placement, hair silhouette, sunlight direction, and background geometry. Maintain photorealism and natural proportions.\n\nNEGATIVE CONSTRAINTS: distorted hands, extra fingers, fused fingers, unnatural wrists, changed gaze, altered pose, exaggerated makeup, plastic skin, oversmoothing, incorrect lace, missing pendant, duplicated jewelry, cool lighting, harsh flash, cluttered background, illustration, CGI, text, logos, watermark."
         }
       ],
-      "last_message_id": 4508,
-      "last_user_message_id": 4508,
+      "last_message_id": 4510,
+      "last_user_message_id": 4510,
       "processed_message_ids": [
         4486,
         4489,
@@ -2760,18 +2765,18 @@
         4500,
         4503,
         4505,
-        4508
+        4508,
+        4510
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "53cfd9a74c",
-      "revision": 14,
+      "stage_token": "a02d653bae",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "53cfd9a74c",
+      "prompt_sent_token": null,
       "name": "Golden Hour Elegance",
       "number": 22,
       "suitable": "بازسازی پرتره‌های فوتورئال با مدل دختر ایرانی، حفظ چهره و ژست دست‌ها، کت سفید توری، نور گرم و سینمایی غروب و فضای شیک و مینیمال.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
     }
   },
   "settings": {
