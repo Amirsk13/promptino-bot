@@ -2767,25 +2767,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4519,
-      "last_user_message_id": 4519,
+      "last_message_id": 4521,
+      "last_user_message_id": 4521,
       "processed_message_ids": [
         4514,
         4517,
-        4519
+        4519,
+        4521
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "a240a2d52a",
-      "revision": 4,
+      "stage_token": "e4e09e64a5",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "a240a2d52a",
+      "prompt_sent_token": null,
       "name": "Blush Garden Portrait",
-      "number": 23
+      "number": 23,
+      "suitable": "بازسازی پرتره‌های طبیعی و فوتورئال با مدل دختر ایرانی، خنده‌ی ظریف با چشم‌های بسته، دست جلوی دهان، ناخن‌های قرمز، زیورآلات طلایی و پس‌زمینه‌ی باغی با بوکه‌ی سبز و صورتی."
     }
   },
   "settings": {
