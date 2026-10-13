@@ -3048,21 +3048,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAISl2rOL7Z2rBrmX_C7v7pxppGtWLlcAALzFGsb6X95Unk2pLdP7EIAAQEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4759,
-      "last_user_message_id": 4759,
+      "last_message_id": 4762,
+      "last_user_message_id": 4762,
       "processed_message_ids": [
-        4759
+        4759,
+        4762
       ],
       "flow_id": "d118463e82ff",
-      "stage_token": "2b951918c1",
-      "revision": 2,
+      "stage_token": "1c5e989240",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Intense Gaze Portrait"
     }
   },
   "settings": {
