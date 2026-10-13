@@ -3118,27 +3118,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4822,
-      "last_user_message_id": 4822,
+      "last_message_id": 4824,
+      "last_user_message_id": 4824,
       "processed_message_ids": [
         4815,
         4818,
         4820,
-        4822
+        4822,
+        4824
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "62aabef50c",
-      "revision": 5,
+      "stage_token": "69ae1f6e61",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "62aabef50c",
+      "prompt_sent_token": null,
       "name": "Persian Yalda Portrait",
       "number": 32,
-      "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی."
+      "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی.",
+      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت"
     }
   },
   "settings": {
