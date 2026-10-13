@@ -2890,21 +2890,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAISEGrOIKAF10-YIWz0qfJUVZZEpl5JAALRFGsb6X95UjpCFeK2BEeUAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4624,
-      "last_user_message_id": 4624,
+      "last_message_id": 4627,
+      "last_user_message_id": 4627,
       "processed_message_ids": [
-        4624
+        4624,
+        4627
       ],
       "flow_id": "678827321778",
-      "stage_token": "f11ac408eb",
-      "revision": 2,
+      "stage_token": "4d68cbd65c",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": "4d68cbd65c",
+      "name": "Snowfall Elegance"
     }
   },
   "settings": {
