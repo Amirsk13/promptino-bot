@@ -2732,29 +2732,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4495,
-      "last_user_message_id": 4495,
+      "last_message_id": 4498,
+      "last_user_message_id": 4498,
       "processed_message_ids": [
         4486,
         4489,
         4491,
         4493,
-        4495
+        4495,
+        4498
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "65b18489c9",
-      "revision": 7,
+      "stage_token": "a8aad5757f",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Golden Hour Elegance",
       "number": 22,
       "suitable": "بازسازی پرتره‌های فوتورئال با مدل دختر ایرانی، حفظ چهره و ژست دست‌ها، کت سفید توری، نور گرم و سینمایی غروب و فضای شیک و مینیمال.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
