@@ -2820,7 +2820,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "photos",
+      "step": "name",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
@@ -2831,11 +2831,10 @@
         4568
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "29654d491b",
-      "revision": 1,
+      "stage_token": "51e63c83db",
+      "revision": 2,
       "mode": "create",
-      "last_input_fingerprint": "|AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E",
-      "last_input_at": 14908109.445506684
+      "prompt_sent_token": null
     }
   },
   "settings": {
