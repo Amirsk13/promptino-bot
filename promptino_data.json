@@ -3118,25 +3118,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4820,
-      "last_user_message_id": 4820,
+      "last_message_id": 4822,
+      "last_user_message_id": 4822,
       "processed_message_ids": [
         4815,
         4818,
-        4820
+        4820,
+        4822
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "83778425d1",
-      "revision": 4,
+      "stage_token": "62aabef50c",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "83778425d1",
+      "prompt_sent_token": "62aabef50c",
       "name": "Persian Yalda Portrait",
-      "number": 32
+      "number": 32,
+      "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی."
     }
   },
   "settings": {
