@@ -2924,7 +2924,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2932,19 +2932,21 @@
           "prompt": "Use the provided image as the primary visual reference. Recreate the composition as a highly photorealistic cinematic portrait of a young Iranian woman with a distinct, natural Iranian appearance. She has long, thick, dark brown-to-black hair dramatically swept across her face by a strong breeze, with loose strands extending horizontally toward the left. Her head is slightly turned toward the left, her eyes gaze into the distance, and she wears a subtle, peaceful smile.\n\nShe wears large, fluffy white earmuffs, a dark charcoal-brown winter jacket with a thick cream shearling collar and lining, and a light-colored ribbed turtleneck underneath. One arm extends backward toward the left side of the frame, with the hand loosely holding a small loop-shaped object.\n\nPreserve the reference's close medium portrait framing, slightly low camera angle, three-quarter facial view, natural anatomy, and realistic proportions. Place her outdoors at sunset, with a softly blurred pale gray sky transitioning into warm peach and amber near the horizon and a thin line of distant dark hills at the bottom. Use warm golden-hour side and backlighting, delicate highlights on the hair and cheekbones, naturally soft facial shadows, shallow depth of field, realistic skin texture, and a muted cinematic film color grade. Keep the image atmospheric, intimate, and wind-swept, with deep brown shadows and warm amber highlights.\n\nVertical portrait composition, 4:5 aspect ratio, natural 50–70 mm portrait-lens perspective, high detail, authentic photographic realism. Avoid artificial skin smoothing, exaggerated facial features, distorted hands, excessive orange saturation, or a studio backdrop. If a different Iranian model is requested, create a clearly distinct face while preserving the reference's pose, clothing, lighting, and composition."
         }
       ],
-      "last_message_id": 4660,
+      "last_message_id": 4663,
       "processed_message_ids": [],
       "flow_id": "d5dafb5d22c2",
-      "stage_token": "8176b25483",
+      "stage_token": "9aabc7f733",
       "vip_processed_message_ids": [
         4653,
         4655,
         4658,
-        4660
+        4660,
+        4663
       ],
-      "vip_last_user_message_id": 4660,
+      "vip_last_user_message_id": 4663,
       "title": "Windy Golden Hour For Girls",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Gemini"
     }
   },
   "active_post_states": {},
