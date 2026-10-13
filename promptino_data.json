@@ -2729,7 +2729,21 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {},
+  "active_post_states": {
+    "676953423": {
+      "type": "post",
+      "step": "photos",
+      "photos": [],
+      "buttons": [],
+      "last_message_id": null,
+      "last_user_message_id": 0,
+      "processed_message_ids": [],
+      "flow_id": "76a66b751c15",
+      "stage_token": "a26eaee71d",
+      "revision": 0,
+      "mode": "create"
+    }
+  },
   "settings": {
     "notifications": {
       "new_order": true,
