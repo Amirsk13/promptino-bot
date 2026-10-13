@@ -2922,56 +2922,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "buttons",
-      "photos": [
-        "AgACAgQAAxkBAAISEGrOIKAF10-YIWz0qfJUVZZEpl5JAALRFGsb6X95UjpCFeK2BEeUAQADAgADeQADPQQ"
-      ],
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the attached image as the primary visual reference. Recreate the photograph as closely as possible, replacing the original subject with a different-looking young adult Iranian woman with naturally attractive Persian features. Preserve the reference's composition, pose, clothing style, environment, camera perspective, and winter atmosphere.\n\nCreate a realistic vertical outdoor winter fashion photograph. Show the woman in a three-quarter to nearly full-body composition, standing slightly right of center on a wet, snow-covered residential road. Her body faces slightly sideways, her head turns gently toward the left side of the frame, and she smiles naturally with her eyes softly closed, enjoying the falling snow. Give her a distinct Iranian face, dark eyebrows, dark hair partially tucked behind fluffy white earmuffs, and a relaxed, cheerful expression.\n\nShe wears large white plush earmuffs, a cream high-neck sweater, a taupe-brown buttoned winter coat with a soft cream faux-fur shawl collar draped over her shoulders, and dark blue jeans. Her arms rest naturally at her sides, with relaxed hands.\n\nReproduce the heavy snow covering the branches of tall evergreen trees in the background, the partially visible building and entrance on the left, the gray icy road extending into the distance on the right, and delicate snowflakes falling throughout the scene. Use soft, overcast winter daylight, muted gray and earthy brown tones, natural skin texture, realistic fabric and fur details, subtle background depth, and authentic photographic color grading. Keep the subject clearly visible with balanced exposure and enough facial detail. Preserve the original framing and natural candid mood. Photorealistic, high detail, no text, no watermark, no artificial beauty filters."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Analyze the uploaded image and use it as a strict visual reference for image-to-image reconstruction. Generate a photorealistic winter street portrait featuring a different young adult Iranian woman, with a distinct Persian facial appearance.\n\nMatch the reference composition: a vertical photograph with the woman standing slightly right of center, shown from approximately mid-thigh upward with her body angled sideways and her face turned gently toward the left. Her eyes are softly closed and she has a genuine, joyful smile. Her dark hair is partially visible beneath large white fluffy earmuffs.\n\nPreserve the outfit: a cream turtleneck sweater, a taupe-brown button-front winter coat, a thick cream faux-fur shawl collar draped over the shoulders, and dark blue jeans. Her arms hang naturally at her sides.\n\nReproduce the snow-covered evergreen trees filling the upper background, the building entrance on the left, the wet icy road extending behind her to the right, and visible falling snow. Use soft natural winter daylight, realistic shadows, neutral cool grays, muted browns, creamy whites, lifelike skin texture, and convincing snow and fur detail. Maintain the candid street-photography aesthetic, original camera angle, subject scale, and background layout. Keep the woman's face clearly exposed without losing the cold winter atmosphere. Avoid excessive blur, oversaturated colors, distorted hands, extra limbs, text, and watermarks."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "Recreate the uploaded reference photograph with high visual fidelity. Replace only the person with a different young adult Iranian woman with a clearly distinct Persian face, while preserving the original scene, pose, clothing concept, framing, and photographic realism.\n\nVertical outdoor winter portrait. The woman stands slightly right of center on a snow-covered, slushy road, her body angled slightly sideways and her head turned toward the left side of the frame. Her eyes are gently closed and she wears a natural, delighted smile. She has dark hair, natural eyebrows, and large white fluffy earmuffs.\n\nClothing: cream high-neck knit sweater, taupe-brown buttoned winter coat, thick cream faux-fur shawl collar over the shoulders, dark blue jeans. Arms relaxed naturally beside her body.\n\nMatch the environment precisely: dense evergreen trees heavily laden with fresh snow, a partially visible building and entrance along the left edge, an icy gray road receding into the right background, and fine snowflakes falling in front of and behind the subject. Preserve the subdued winter palette, soft cloudy daylight, natural skin tones, realistic fur and knit textures, authentic shadows, and candid fashion-photography look.\n\nKeep the original perspective, subject placement, scale, and environmental proportions. Improve facial clarity and exposure slightly while retaining the overcast winter lighting and realistic atmosphere. Photorealistic, natural anatomy, detailed face, no extra fingers, no duplicated objects, no text, no logos, no watermark."
-        }
-      ],
-      "last_message_id": 4648,
-      "last_user_message_id": 4648,
-      "processed_message_ids": [
-        4624,
-        4627,
-        4629,
-        4631,
-        4633,
-        4636,
-        4638,
-        4641,
-        4643,
-        4646,
-        4648
-      ],
-      "flow_id": "678827321778",
-      "stage_token": "e2d7bd3d95",
-      "revision": 15,
-      "mode": "create",
-      "prompt_sent_token": null,
-      "name": "Snowfall Elegance",
-      "number": 26,
-      "suitable": "بازسازی پرتره زمستانی با حفظ ترکیب‌بندی عکس مرجع، پوشش گرم و شیک، لبخند طبیعی، بارش برف و فضای واقعی و برفی؛ با قابلیت جایگزینی سوژه با یک مدل ایرانی و حفظ سبک عکاسی.",
-      "for_what": "• عکس پروفایل زمستانی\n\n• تولید محتوای اینستاگرام\n\n• پرتره طبیعی و فشن زمستانی\n\n• ساخت تصاویر با مدل ایرانی\n\n• بازسازی عکس با حفظ ژست و کادربندی\n\n• عکاسی تبلیغاتی پوشاک زمستانی"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
