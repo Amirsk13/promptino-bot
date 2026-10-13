@@ -2855,21 +2855,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4596,
-      "last_user_message_id": 4596,
+      "last_message_id": 4599,
+      "last_user_message_id": 4599,
       "processed_message_ids": [
-        4596
+        4596,
+        4599
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "24458aa420",
-      "revision": 2,
+      "stage_token": "4635d0b963",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Crimson Noir Portrait"
     }
   },
   "settings": {
