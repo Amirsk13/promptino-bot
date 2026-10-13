@@ -2939,46 +2939,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "buttons",
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the provided image as the primary visual reference. Recreate the composition as a highly photorealistic cinematic portrait of a young Iranian woman with a distinct, natural Iranian appearance. She has long, thick, dark brown-to-black hair dramatically swept across her face by a strong breeze, with loose strands extending horizontally toward the left. Her head is slightly turned toward the left, her eyes gaze into the distance, and she wears a subtle, peaceful smile.\n\nShe wears large, fluffy white earmuffs, a dark charcoal-brown winter jacket with a thick cream shearling collar and lining, and a light-colored ribbed turtleneck underneath. One arm extends backward toward the left side of the frame, with the hand loosely holding a small loop-shaped object.\n\nPreserve the reference's close medium portrait framing, slightly low camera angle, three-quarter facial view, natural anatomy, and realistic proportions. Place her outdoors at sunset, with a softly blurred pale gray sky transitioning into warm peach and amber near the horizon and a thin line of distant dark hills at the bottom. Use warm golden-hour side and backlighting, delicate highlights on the hair and cheekbones, naturally soft facial shadows, shallow depth of field, realistic skin texture, and a muted cinematic film color grade. Keep the image atmospheric, intimate, and wind-swept, with deep brown shadows and warm amber highlights.\n\nVertical portrait composition, 4:5 aspect ratio, natural 50–70 mm portrait-lens perspective, high detail, authentic photographic realism. Avoid artificial skin smoothing, exaggerated facial features, distorted hands, excessive orange saturation, or a studio backdrop. If a different Iranian model is requested, create a clearly distinct face while preserving the reference's pose, clothing, lighting, and composition."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Analyze the reference image and reproduce its visual structure as a photorealistic cinematic outdoor portrait. Subject: a young Iranian woman with a distinct natural face, long dark hair blown strongly across her face toward the left, a relaxed subtle smile, and a distant sideways gaze. She wears oversized fluffy white earmuffs, a dark charcoal-brown winter coat with a thick cream shearling collar, and a pale ribbed turtleneck. One arm extends diagonally backward toward the left, holding a small loop-shaped object.\n\nComposition: vertical 4:5 portrait, close medium shot, subject positioned slightly right of center, three-quarter facial angle, slightly low viewpoint, with the extended arm creating a diagonal leading line. Preserve the windblown hair as a major foreground element without completely obscuring the face.\n\nEnvironment: open outdoor setting at sunset, pale gray sky fading into peach and warm amber near the horizon, distant soft-focus dark hills along the lower edge. Lighting: low-angle golden-hour sunlight, warm side lighting, subtle backlit hair strands, soft natural facial shadows, and realistic highlights. Style: editorial photography, shallow depth of field, natural skin texture, muted cinematic color grading, fine photographic detail, restrained contrast, and an introspective, free-spirited mood.\n\nUse the uploaded image as the composition and styling reference. Maintain realistic anatomy and believable fabric textures. Avoid beauty-filter skin, excessive sharpening, oversaturated colors, distorted hands, or unnecessary background objects."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "Reconstruct the uploaded reference as a highly realistic cinematic photograph, preserving its composition, pose, wardrobe, wind direction, and sunset atmosphere while using a different young Iranian female model with a naturally distinctive face.\n\nThe woman has long, thick, dark brown-black hair swept dramatically across her face and streaming toward the left in the wind. Her face is turned slightly left in a three-quarter view, her gaze is directed into the distance, and she has a subtle, serene smile. She wears large fluffy white earmuffs, a dark charcoal-brown winter jacket with a thick cream shearling collar, and a pale ribbed turtleneck. Her arm extends backward toward the left side of the frame, holding a small loop-shaped object.\n\nMatch the reference framing: vertical 4:5 image, close medium portrait, subject occupying the right-center, slightly low camera viewpoint, extended arm visible behind her, and windblown hair crossing the foreground. Background: uncluttered open sky in soft gray, fading to peach and amber at the horizon, with a narrow strip of distant blurred dark hills.\n\nLighting must remain naturally warm and directional, resembling late golden hour, with subtle rim light on individual hair strands, gentle highlights across the face, and deep but detailed shadows in the coat. Apply realistic skin pores, natural facial proportions, detailed shearling fibers, shallow depth of field, subtle film grain, restrained warm color grading, and authentic editorial photography quality.\n\nKeep the face clearly visible through the moving hair. Do not change the core pose, clothing, framing, or lighting design. No illustration, CGI appearance, excessive retouching, artificial glow, exaggerated makeup, extra fingers, or distorted anatomy."
-        }
-      ],
-      "last_message_id": 4670,
-      "processed_message_ids": [],
-      "flow_id": "d5dafb5d22c2",
-      "stage_token": "e60c58d392",
-      "vip_processed_message_ids": [
-        4653,
-        4655,
-        4658,
-        4660,
-        4663,
-        4665,
-        4668,
-        4670
-      ],
-      "vip_last_user_message_id": 4670,
-      "title": "Windy Golden Hour For Girls",
-      "price": 200000
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
