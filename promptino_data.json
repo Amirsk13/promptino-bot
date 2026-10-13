@@ -3118,7 +3118,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
@@ -3133,8 +3133,8 @@
         4824
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "69ae1f6e61",
-      "revision": 6,
+      "stage_token": "2be82161cc",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Yalda Portrait",
