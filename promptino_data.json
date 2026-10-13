@@ -3013,7 +3013,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISe2rOLf_6kYmxaPP2WLLZ3NViqpNdAALvFGsb6X95Ugec2B7bAvMIAQADAgADeQADPQQ"
       ],
@@ -3028,8 +3028,8 @@
         4740
       ],
       "flow_id": "746059ad72d9",
-      "stage_token": "9cb8ef6701",
-      "revision": 6,
+      "stage_token": "6bbcc60acb",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rose Bouquet Mirror Selfie",
