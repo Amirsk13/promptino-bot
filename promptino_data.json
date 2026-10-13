@@ -2782,7 +2782,7 @@
       "stage_token": "a85a080aa4",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "a85a080aa4",
       "name": "Blush Garden Portrait"
     }
   },
