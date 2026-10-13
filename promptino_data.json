@@ -2747,7 +2747,7 @@
       "stage_token": "b0e7d161d6",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "b0e7d161d6",
       "name": "Golden Hour Elegance"
     }
   },
