@@ -2943,23 +2943,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4678,
-      "last_user_message_id": 4678,
+      "last_message_id": 4680,
+      "last_user_message_id": 4680,
       "processed_message_ids": [
         4675,
-        4678
+        4678,
+        4680
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "409f49c3e2",
-      "revision": 3,
+      "stage_token": "1ff04c516b",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "409f49c3e2",
-      "name": "Wild Water Motion"
+      "prompt_sent_token": null,
+      "name": "Wild Water Motion",
+      "number": 27
     }
   },
   "settings": {
