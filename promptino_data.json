@@ -2801,19 +2801,21 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 4547,
+      "last_message_id": 4550,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "2f6b62920e",
+      "stage_token": "31e27c36ab",
       "vip_processed_message_ids": [
         4545,
-        4547
+        4547,
+        4550
       ],
-      "vip_last_user_message_id": 4547,
+      "vip_last_user_message_id": 4550,
       "title": "Sunflower Shadow Portrait For Girls",
-      "price": 230000
+      "price": 230000,
+      "pending_label": "ChatGPT"
     }
   },
   "active_post_states": {},
