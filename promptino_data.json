@@ -2697,29 +2697,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRamrOAAHD4fWF8_isgzr21D17HcviRgACZBBrG-l_cVKSrD5hMGntXAEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4467,
-      "last_user_message_id": 4467,
+      "last_message_id": 4470,
+      "last_user_message_id": 4470,
       "processed_message_ids": [
         4458,
         4461,
         4463,
         4465,
-        4467
+        4467,
+        4470
       ],
       "flow_id": "6bb6de67833b",
-      "stage_token": "2fa0a2abf1",
-      "revision": 7,
+      "stage_token": "87a0979c85",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Soft Rose Portrait",
       "number": 21,
       "suitable": "بازسازی پرتره‌های طبیعی و رئال با حفظ چهره، ژست خوابیده، موهای مشکی موج‌دار، لباس صورتی مرجانی و نورپردازی ملایم و رمانتیک.",
-      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های رمانتیک و لایف‌استایل\nعکاسی فشن و زیبایی\nبازسازی عکس با حفظ چهره\nتولید تصاویر فوتورئال با هوش مصنوعی\nساخت تصاویر با نورپردازی نرم و رنگ‌های پاستلی"
+      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های رمانتیک و لایف‌استایل\nعکاسی فشن و زیبایی\nبازسازی عکس با حفظ چهره\nتولید تصاویر فوتورئال با هوش مصنوعی\nساخت تصاویر با نورپردازی نرم و رنگ‌های پاستلی",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
