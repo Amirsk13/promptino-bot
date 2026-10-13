@@ -3083,31 +3083,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4799,
-      "last_user_message_id": 4799,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference and recreate the same composition as a highly realistic black-and-white mirror selfie of a different young adult Iranian man. Give him a distinctly different, natural face with short, thick dark hair styled upward, defined eyebrows, dark eyes, a subtle mustache, and a short trimmed beard. Preserve the reference's head tilt, relaxed expression, direct gaze toward the mirror, and close-up framing. He wears a casual plaid button-up shirt with alternating light and dark checks, an open collar, and a thin chain necklace. His right hand holds a smartphone vertically in front of the mirror on the right side of the frame; the phone has a dark case with a light border, and a metallic ring is visible on one finger. Keep the dim, nearly black background, soft directional light across one side of the face, deep shadows on the opposite side, authentic grayscale tones, natural skin texture, subtle photographic grain, and the slightly imperfect quality of a real phone photograph. Square 1:1 composition, close portrait from the upper chest to above the head, realistic proportions, no artificial beauty filters, no color, no text, no watermark. Prioritize the reference's framing, pose, lighting, and atmosphere while ensuring the man's facial identity is clearly different."
+        }
+      ],
+      "last_message_id": 4801,
+      "last_user_message_id": 4801,
       "processed_message_ids": [
         4787,
         4790,
         4792,
         4794,
         4796,
-        4799
+        4799,
+        4801
       ],
       "flow_id": "fe56b007288e",
-      "stage_token": "354c37c349",
-      "revision": 8,
+      "stage_token": "05b905b78b",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "354c37c349",
+      "prompt_sent_token": null,
       "name": "Monochrome Mirror Portrait",
       "number": 31,
       "suitable": "بازسازی سلفی آینه‌ای مردانه با سبک سیاه‌وسفید، نورپردازی دراماتیک، حفظ ژست و جزئیات چهره و لباس با امکان استفاده از چهره‌ای متفاوت.",
-      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت",
-      "pending_label": "ChatGPT"
+      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت"
     }
   },
   "settings": {
