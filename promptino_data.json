@@ -3098,7 +3098,7 @@
       "stage_token": "c36aed7774",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "c36aed7774",
       "name": "Monochrome Mirror Portrait"
     }
   },
