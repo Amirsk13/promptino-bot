@@ -2943,31 +2943,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4687,
-      "last_user_message_id": 4687,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary composition and pose reference. Create a highly photorealistic image featuring a young Iranian woman with a natural, distinctive face and long, thick, dark brown-black hair, seated on a large wet rock in a shallow rocky stream surrounded by dense green woodland.\n\nReproduce the exact dynamic moment: her torso leans backward, her head tilts back with her face turned slightly upward, her eyes gently closed, and her expression peaceful and carefree. Her long hair is being flung dramatically upward and toward the left, forming a large sweeping arc. Numerous individual water droplets follow the curve of her flying hair, creating a distinct semicircular spray that rises above her head and falls toward the stream on the right. Preserve the intricate, suspended droplets and the natural physics of the motion.\n\nShe wears a simple dark brown short-sleeved T-shirt and black trousers. Both arms extend downward beside her body, with her hands resting naturally against the foreground rocks for support. Her legs are bent and angled toward the lower right, with part of her trousers visible.\n\nComposition: square 1:1 frame, full seated pose from the head to the upper legs, subject positioned slightly left of center, camera at approximately seated torso height, medium-wide environmental portrait. Large gray river rocks occupy the foreground, shallow flowing water with subtle ripples fills the lower background, and dense leafy green trees create a softly blurred natural backdrop.\n\nLighting is soft, diffused outdoor daylight beneath a forest canopy, with realistic highlights on the wet hair, sparkling water droplets, subtle shadows, earthy brown clothing, deep natural greens, and cool gray stones. Use realistic skin texture, finely detailed individual hair strands, physically believable water motion, natural depth of field, restrained contrast, and professional documentary-style photography.\n\nPreserve the reference's distinctive hair-and-water arc, backward-leaning posture, hand placement, clothing, environment, and square composition. If a different model is requested, use a clearly different Iranian face while retaining the same pose and visual arrangement. No artificial wind effects, extra limbs, distorted hands, frozen solid water, exaggerated facial expressions, illustration, or CGI appearance."
+        }
+      ],
+      "last_message_id": 4689,
+      "last_user_message_id": 4689,
       "processed_message_ids": [
         4675,
         4678,
         4680,
         4682,
         4684,
-        4687
+        4687,
+        4689
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "c4c439d6ec",
-      "revision": 8,
+      "stage_token": "b927a8c8cb",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "c4c439d6ec",
+      "prompt_sent_token": null,
       "name": "Wild Water Motion",
       "number": 27,
       "suitable": "بازسازی پرتره‌ای هنری و واقع‌گرایانه در طبیعت، با حرکت چشمگیر موها و قوس قطرات آب، حفظ ژست بدن و فضای جنگلی تصویر مرجع.",
-      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب",
-      "pending_label": "ChatGPT"
+      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب"
     }
   },
   "settings": {
