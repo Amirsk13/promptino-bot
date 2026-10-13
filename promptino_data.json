@@ -800,8 +800,27 @@
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        84,
+        85,
+        86
+      ],
+      "archive_message_ids": [
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
+      ]
     }
   },
   "vip": {
