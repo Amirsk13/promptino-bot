@@ -2801,7 +2801,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2817,7 +2817,7 @@
       "last_message_id": 4557,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "054d24a085",
+      "stage_token": "661d54ac84",
       "vip_processed_message_ids": [
         4545,
         4547,
