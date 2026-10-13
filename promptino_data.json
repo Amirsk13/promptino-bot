@@ -2943,27 +2943,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4682,
-      "last_user_message_id": 4682,
+      "last_message_id": 4684,
+      "last_user_message_id": 4684,
       "processed_message_ids": [
         4675,
         4678,
         4680,
-        4682
+        4682,
+        4684
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "ac7ad8a08a",
-      "revision": 5,
+      "stage_token": "2978feefd9",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "ac7ad8a08a",
+      "prompt_sent_token": null,
       "name": "Wild Water Motion",
       "number": 27,
-      "suitable": "بازسازی پرتره‌ای هنری و واقع‌گرایانه در طبیعت، با حرکت چشمگیر موها و قوس قطرات آب، حفظ ژست بدن و فضای جنگلی تصویر مرجع."
+      "suitable": "بازسازی پرتره‌ای هنری و واقع‌گرایانه در طبیعت، با حرکت چشمگیر موها و قوس قطرات آب، حفظ ژست بدن و فضای جنگلی تصویر مرجع.",
+      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب"
     }
   },
   "settings": {
