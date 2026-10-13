@@ -2821,15 +2821,21 @@
     "676953423": {
       "type": "post",
       "step": "photos",
-      "photos": [],
+      "photos": [
+        "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
+      ],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 4568,
+      "last_user_message_id": 4568,
+      "processed_message_ids": [
+        4568
+      ],
       "flow_id": "41b4a57cbb30",
       "stage_token": "29654d491b",
-      "revision": 0,
-      "mode": "create"
+      "revision": 1,
+      "mode": "create",
+      "last_input_fingerprint": "|AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E",
+      "last_input_at": 14908109.445506684
     }
   },
   "settings": {
