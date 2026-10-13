@@ -1193,6 +1193,31 @@
         470,
         471
       ]
+    },
+    "p29": {
+      "title": "Rose Bouquet Mirror Selfie",
+      "suitable": "بازسازی عکس آینه‌ای طبیعی و واقع‌گرایانه در کافه، با دسته‌گل رز قرمز، استایل روزمره و حفظ دقیق ترکیب‌بندی تصویر مرجع.",
+      "for": "عکس پروفایل و شبکه‌های اجتماعی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nبازسازی عکس‌های آینه‌ای کافه‌ای\nتصاویر استایل و فشن روزمره\nتصاویر هدیه و دسته‌گل رز",
+      "price": 0,
+      "variants": {
+        "chatgpt": {
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference. Recreate the same realistic mirror selfie composition, environment, outfit, bouquet, pose, and camera perspective. Show a young adult Iranian woman standing at a slight three-quarter angle inside a modern bakery café, holding a large bouquet of deep red roses with dark green leaves and long stems against her torso. Her other hand holds a white smartphone with three rear cameras directly in front of her face, obscuring most facial features. She has long dark brown hair, partially tied up in a casual half-up hairstyle, with loose strands falling down her back. She wears a plain white short-sleeved T-shirt, a rich burgundy-red scarf draped around her neck and shoulders, light-wash blue high-waisted jeans with distressed horizontal tears at the knees, and a dark wristwatch. Preserve the original relaxed posture and natural proportions.\n\nRecreate the café background: a glass pastry display counter on the right with cakes and pastries, stacks of pastel-colored takeaway cups behind the counter, a small leafy indoor tree above the counter, a menu board on the rear wall, and a vivid blue door or wall panel on the left. Include the reflective glass, counter edges, tiled flooring, and subtle background activity. Use mixed natural and warm indoor lighting, with cool cyan-blue light on the left and soft beige-yellow illumination in the café. Authentic smartphone photography, eye-level mirror perspective, square 1:1 composition, nearly full-body framing from head to below the knees, natural colors, realistic fabric and rose textures, moderate background depth of field, subtle imperfections, and believable reflections. Keep the scene faithful to the reference; do not add text, logos, extra flowers, or unnecessary decorations."
+        },
+        "gemini": {
+          "label": "Gemini",
+          "prompt": "Recreate the uploaded reference as a highly realistic square mirror selfie. A young adult Iranian woman stands inside a contemporary bakery café, her body turned slightly sideways. Her face is mostly hidden behind a white triple-camera smartphone held at eye level. She has long dark brown hair in a loose half-up style. She wears a white short-sleeved T-shirt, a burgundy-red scarf hanging over her shoulders and chest, light blue distressed jeans with ripped knees, and a black wristwatch. She holds a large, dense bouquet of deep crimson roses with green foliage and long stems against her waist and torso.\n\nMatch the original framing and environment: a glass bakery display case filled with pastries on the right, pastel takeaway cups arranged behind the counter, a leafy indoor plant near the ceiling, a wall menu behind her, and a bright cyan-blue door or wall on the left. Preserve the café counter, floor pattern, realistic reflections, and mixed warm indoor and cool blue lighting. Eye-level mirror viewpoint, natural smartphone-camera perspective, square 1:1 crop, head-to-below-knees framing, authentic casual lifestyle photography, natural skin and fabric texture, realistic rose petals, balanced exposure, and subtle background softness. Prioritize accurate composition, wardrobe, bouquet placement, and environmental details. No captions, watermarks, exaggerated body proportions, or artificial beauty filters."
+        },
+        "nano_banana_pro": {
+          "label": "Nano Banana Pro",
+          "prompt": "Edit or recreate the provided reference image while preserving its original composition and photographic realism. The main subject is a young adult Iranian woman taking a mirror selfie in a bakery café. Keep her in the same position and three-quarter body angle, with a white smartphone featuring three rear cameras covering most of her face. Her long dark brown hair is loosely half-up. She wears a simple white short-sleeved T-shirt, a burgundy scarf draped around her shoulders, light blue jeans with distressed knee openings, and a dark wristwatch. A large bouquet of tightly packed deep-red roses with green leaves and long stems rests against her torso, held naturally in one arm.\n\nReproduce the surroundings precisely: glass pastry counter with cakes and pastries on the right, orderly stacks of pastel paper cups, a small leafy plant above the counter, a printed menu board on the rear wall, a bright cyan-blue door or panel on the left, and patterned flooring. Match the original square framing, mirror perspective, head-to-below-knees crop, relaxed posture, and natural smartphone snapshot quality. Use realistic warm café lighting mixed with cool blue light from the left, correct reflections, natural shadows, true-to-life colors, detailed rose petals, believable denim distressing, and realistic fabric folds. Maintain the reference's layout and visual balance; avoid changing the outfit, bouquet color, phone placement, or background arrangement. No added text, logos, extra limbs, distorted hands, duplicate flowers, or excessive retouching."
+        }
+      },
+      "photos": [
+        "AgACAgQAAxkBAAISe2rOLf_6kYmxaPP2WLLZ3NViqpNdAALvFGsb6X95Ugec2B7bAvMIAQADAgADeQADPQQ"
+      ],
+      "channel_message_ids": [],
+      "archive_message_ids": []
     }
   },
   "vip": {
