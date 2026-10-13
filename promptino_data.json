@@ -901,8 +901,18 @@
       "photos": [
         "AgACAgQAAxkBAAIRTmrN_elKmtDroHt2Xf9j0OqUC6TzAAJeEGsb6X9xUuCiCQeN_zJpAQADAgADeQADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        90
+      ],
+      "archive_message_ids": [
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401
+      ]
     }
   },
   "vip": {
