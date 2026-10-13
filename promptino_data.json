@@ -2732,31 +2732,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRhmrOArheCONlp1pr_6h9WSF66tEcAAJlEGsb6X9xUuaaxw9R1BfPAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4498,
-      "last_user_message_id": 4498,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference and recreate the portrait as closely as possible, featuring a beautiful young adult Iranian woman. Preserve the reference composition, natural facial proportions, pose, expression, hairstyle, outfit, jewelry, lighting direction, background, and cinematic photographic style.\n\nSUBJECT: A young Iranian woman with naturally fair, warm-toned skin, an oval face, dark almond-shaped eyes, thick well-defined dark eyebrows, long eyelashes, a straight delicate nose, and full rose-colored lips. Her makeup is elegant and understated, with softly flushed cheeks, subtle eyeliner, and natural skin texture. Her expression is calm and contemplative, and she gazes toward the right side of the frame.\n\nHAIR: Thick, glossy black hair styled in a loose, slightly messy updo with soft face-framing strands falling across her forehead and cheeks. Preserve the natural volume, individual flyaway hairs, and warm highlights along the right side of her hair.\n\nPOSE AND COMPOSITION: Square 1:1 portrait, medium close-up from approximately the waist or mid-torso upward. She is seated or standing upright, facing mostly forward with her head turned slightly toward frame-right. Both hands are raised naturally beside her face: one hand gently touches the cheek and jawline, while the other rests near the opposite ear and neck. Fingers must be anatomically correct, relaxed, elegant, and naturally curved. Preserve the original arm placement, wrist angles, shoulder position, and thoughtful expression.\n\nCLOTHING: An elegant ivory-white tailored blazer with intricate floral lace sleeves and shoulders, worn over a white satin or softly gathered blouse with a folded, ruched neckline. The blazer has structured lapels and delicate lace texture. Preserve the layered white-on-white fabrics and refined silhouette.\n\nJEWELRY: A fine gold necklace with a small heart-shaped pendant resting at the center of the chest, a slim gold bracelet on one wrist, and a delicate gold wristwatch or bracelet on the other. Small understated earrings. Keep all jewelry subtle and realistic.\n\nENVIRONMENT: A minimal, softly blurred indoor setting with warm beige and taupe walls. On the left, a broad rectangular patch of sunlight creates a soft geometric highlight and shadow. On the right, tall, softly illuminated curtains or vertical window drapes filter the sunlight. The background remains unobtrusive and softly out of focus.\n\nLIGHTING: Warm late-afternoon golden-hour sunlight enters from the upper-right, creating a luminous rim light along the hair, cheek, shoulder, and lace sleeve. Soft directional light falls across her face and hands, with gentle shadows and natural skin highlights. Preserve the warm cinematic contrast between the sunlit areas and the darker neutral background.\n\nCAMERA AND STYLE: Eye-level portrait photography, natural 50–85mm lens perspective, shallow depth of field, softly blurred background, sharp facial details, realistic hands, intricate lace, and finely rendered jewelry. Warm beige, ivory, champagne, and golden-brown color palette. High-end fashion editorial photography, photorealistic skin texture, subtle film grain, restrained retouching, and an elegant, quiet, sophisticated mood.\n\nSTRICT FIDELITY: Keep the same pose, gaze direction, hair arrangement, hand placement, white lace blazer, gathered blouse, gold jewelry, warm window light, and background geometry. Use a distinct young Iranian female model while retaining the reference's visual characteristics and overall composition.\n\nAvoid exaggerated makeup, plastic skin, altered hand positions, extra fingers, distorted wrists, incorrect lace patterns, missing jewelry, harsh flash, cool lighting, excessive background detail, text, logos, and watermarks."
+        }
+      ],
+      "last_message_id": 4500,
+      "last_user_message_id": 4500,
       "processed_message_ids": [
         4486,
         4489,
         4491,
         4493,
         4495,
-        4498
+        4498,
+        4500
       ],
       "flow_id": "76a66b751c15",
-      "stage_token": "a8aad5757f",
-      "revision": 8,
+      "stage_token": "e86c8d39ca",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "a8aad5757f",
+      "prompt_sent_token": null,
       "name": "Golden Hour Elegance",
       "number": 22,
       "suitable": "بازسازی پرتره‌های فوتورئال با مدل دختر ایرانی، حفظ چهره و ژست دست‌ها، کت سفید توری، نور گرم و سینمایی غروب و فضای شیک و مینیمال.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی",
-      "pending_label": "ChatGPT"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فشن و ادیتوریال\nعکاسی پرتره سینمایی\nتصاویر شخصی با حفظ شباهت چهره\nتصاویر تبلیغاتی پوشاک و اکسسوری\nتولید تصاویر واقع‌گرایانه با هوش مصنوعی"
     }
   },
   "settings": {
