@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2576,8 +2576,8 @@
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION — FEMININE VERSION\n\nUse the supplied image as the primary visual reference. Preserve its composition and scene geometry with the highest possible fidelity. Generate a photorealistic feminine counterpart, not a different photograph.\n\nIDENTITY AND APPEARANCE:\nA young adult Iranian woman with natural dark eyes, defined eyebrows, dark hair styled neatly, realistic facial proportions, and authentic skin texture. Sophisticated, understated feminine appearance; no exaggerated makeup, facial reshaping, or artificial skin smoothing.\n\nPOSE LOCK:\nMaintain the original full-length mirror-selfie pose. Subject centered in the frame. Head slightly tilted downward, gaze directed at the smartphone screen. Right hand holding the same style of dark smartphone vertically at upper-chest height. Left hand resting inside the trouser pocket. Preserve body angle, shoulder position, posture, leg placement, and weight distribution. Never swap hands or mirror the reference.\n\nOUTFIT:\nElegant royal-blue tailored women's pantsuit, fitted structured blazer, matching straight-leg trousers, simple black inner top, understated dark shoes. Retain the reference's blue-and-black palette, tailored silhouette, and premium fabric appearance.\n\nSCENE LOCK:\nReproduce the same interior: full-length mirror, dark textured vertical mirror borders, dark walnut vertical wall slats, warm wall lights on both sides, leafy floor plant on the left, narrow dark cabinet on the right with small metallic decorative objects and a plant, gray patterned rug, and tiled floor. Keep all objects in their original relative positions.\n\nCAMERA LOCK:\nFull-body vertical mirror composition, natural smartphone perspective, approximately 35–50mm equivalent. Preserve the original subject size, camera distance, eye-level viewpoint, visible floor, shoes, and room margins. No close-up crop, no perspective changes, and no excessive background blur.\n\nLIGHTING LOCK:\nWarm interior illumination with soft golden wall-light glow, realistic skin highlights, gentle shadows, natural blue suit color, balanced exposure, moderate depth of field, and clearly visible wood and decor textures.\n\nQUALITY:\nHigh-resolution photorealism, accurate mirror reflections, realistic fabric folds, natural hands and fingers, anatomically correct body proportions, and coherent room geometry. The final image should appear to have been photographed in the exact same location and moment.\n\nEDIT ONLY WHAT IS NECESSARY:\nChange the subject's gender presentation and adapt the suit subtly for a natural feminine fit. Keep the scene, pose, framing, lighting, and photographic style unchanged."
         }
       ],
-      "last_message_id": 4343,
-      "last_user_message_id": 4343,
+      "last_message_id": 4346,
+      "last_user_message_id": 4346,
       "processed_message_ids": [
         4307,
         4309,
@@ -2594,17 +2594,19 @@
         4336,
         4338,
         4341,
-        4343
+        4343,
+        4346
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "0e80d535a0",
-      "revision": 23,
+      "stage_token": "e641dbacaf",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
