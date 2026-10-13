@@ -2820,7 +2820,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
@@ -2831,8 +2831,8 @@
           "prompt": "Use the uploaded image as the primary composition and photography reference. Create a highly photorealistic portrait of a beautiful young adult Iranian woman with a distinctly different face from the reference, while preserving the same pose, framing, hairstyle, outfit, accessories, lighting, and background arrangement.\n\nSUBJECT: A young Iranian woman with a naturally warm, light-olive complexion, an elegant oval face, softly defined cheekbones, a refined straight nose, full rose-pink lips, and expressive hazel-brown almond-shaped eyes. Give her a unique, natural facial identity, with realistic proportions and subtle skin texture. Her gaze is directed toward the left side of the frame, with a calm, confident, contemplative expression.\n\nHAIR: Dark brown, almost-black hair gathered into a loose, voluminous high bun. Add soft curtain bangs parted near the center, with wispy strands framing both sides of the face. Preserve natural flyaways and realistic individual hair strands.\n\nPOSE AND COMPOSITION: Square 1:1 portrait, framed from the upper chest to just above the head. Her shoulders are relaxed and mostly facing the camera, while her head turns slightly toward the left side of the image. Her chin is neutral, neck elongated naturally, and gaze directed off-camera. Keep the subject centered, with both shoulders visible and the top of the bun near the upper edge.\n\nCLOTHING: A minimalist black sleeveless halter-neck top with straps converging behind the neck, exposing the shoulders and upper arms. The fabric is smooth, matte, and elegant.\n\nJEWELRY: Small polished gold hoop earrings and several delicate layered gold necklaces resting naturally over the upper chest. Preserve fine chain details and subtle metallic reflections.\n\nBACKGROUND: A bright, lush green garden or leafy outdoor setting, rendered as soft, creamy bokeh. Include diffused light-green and yellow-green circles, with a narrow pale vertical architectural edge along the far left side. Keep all background elements indistinct.\n\nLIGHTING AND CAMERA: Soft natural daylight, gently illuminating the face from the front-left, subtle highlights on the forehead, nose, cheekbones, and lips, and delicate shadows beneath the jaw and chin. Natural skin tones, balanced exposure, shallow depth of field, eye-level camera, and a realistic 70–85mm portrait-lens perspective.\n\nSTYLE: Premium editorial beauty photography, photorealistic skin and hair, crisp eyes, natural makeup, realistic gold jewelry, soft green background blur, fresh color grading, and a refined, serene mood.\n\nMaintain the exact visual arrangement of the reference but create a genuinely different Iranian model with a new facial identity. Avoid exaggerated features, excessive retouching, plastic skin, changed hairstyle, different clothing, oversized jewelry, harsh shadows, wide-angle distortion, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4582,
-      "last_user_message_id": 4582,
+      "last_message_id": 4585,
+      "last_user_message_id": 4585,
       "processed_message_ids": [
         4568,
         4571,
@@ -2840,17 +2840,19 @@
         4575,
         4577,
         4580,
-        4582
+        4582,
+        4585
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "5bc3d3549c",
-      "revision": 10,
+      "stage_token": "c7a95c2073",
+      "revision": 11,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Emerald Garden Portrait",
       "number": 24,
       "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی.",
-      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع"
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع",
+      "pending_label": "Gemini"
     }
   },
   "settings": {
