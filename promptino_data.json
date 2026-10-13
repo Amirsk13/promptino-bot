@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2554,10 +2554,15 @@
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Using the attached image as the primary visual reference, recreate the same photorealistic full-length mirror selfie as a feminine version of the original scene. Preserve the exact environment, composition, camera perspective, subject scale, pose, hand positions, lighting, colors, and overall photographic realism.\n\nSUBJECT: A naturally beautiful young adult Iranian woman with realistic facial proportions, natural skin texture, dark eyes, defined eyebrows, and dark hair styled neatly and elegantly. Her appearance should be feminine, sophisticated, and believable, without excessive beauty filters or artificial facial features.\n\nPOSE AND COMPOSITION: Preserve the original standing mirror-selfie pose and full-body framing. The subject stands centered in front of the mirror, with her head slightly tilted downward toward the smartphone screen. Her right hand holds a dark smartphone vertically in front of her upper chest, partially covering the torso, while her left hand rests naturally inside her trouser pocket. Maintain the original relaxed posture, subtle body angle, leg positioning, and natural weight distribution. Do not mirror or reverse the image.\n\nOUTFIT: A tailored royal-blue women's pantsuit inspired by the original blue suit, with a fitted structured blazer, elegant black inner top, matching straight-leg tailored trousers, and understated black footwear. The outfit should look luxurious, contemporary, and appropriately fitted, retaining the original monochromatic blue-and-black styling. Do not add a handbag, hijab, jewelry, or unnecessary accessories.\n\nENVIRONMENT: Reproduce the exact upscale interior: a large full-length mirror bordered by dark textured vertical side panels, a dark walnut-colored wall with closely spaced vertical wooden slats, warm wall lights glowing on both sides, a leafy potted plant on the left, and a narrow dark cabinet on the right holding small decorative objects and a plant. Preserve the gray patterned rug, tiled floor, and visible architectural details.\n\nCAMERA AND LIGHTING: Full-length mirror photograph, eye-level viewpoint, natural smartphone-camera perspective, approximately 35–50mm equivalent field of view. Keep the same distance between the camera and subject, with the entire outfit and surrounding interior visible. Warm ambient tungsten lighting creates soft golden highlights and realistic shadows against the dark wood background. Preserve the original contrast, neutral-to-warm white balance, realistic fabric textures, and moderate depth of field. Keep the background detailed and recognizable rather than excessively blurred.\n\nSTYLE AND QUALITY: Premium fashion photography, authentic mirror-selfie aesthetics, photorealistic anatomy, natural hands and fingers, detailed tailoring, realistic reflections, accurate mirror geometry, and high-resolution photographic texture. The final result must look like a genuine photograph taken in the same room, not a digitally composited fashion advertisement.\n\nPRIORITY: Preserve the reference composition and room first; change only the subject's gender presentation and the minimum clothing details needed to make the feminine version natural. Avoid close-up framing, altered hand positions, reversed orientation, exaggerated curves, plastic skin, distorted reflections, extra fingers, duplicated objects, or invented background elements."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Using the attached image as the primary visual reference, faithfully recreate the same photorealistic full-length mirror selfie. Preserve the male subject's overall appearance, hairstyle, facial hair, body proportions, exact pose, clothing style, room layout, camera distance, perspective, lighting, colors, and photographic realism.\n\nSUBJECT: A young adult Iranian man with short, thick dark hair styled upward and slightly textured, dark eyebrows, dark eyes, a neatly trimmed full beard and mustache, and a natural medium complexion. Maintain realistic facial anatomy, subtle skin texture, and a calm, confident expression. Avoid artificial skin smoothing or exaggerated masculine features.\n\nPOSE AND COMPOSITION: Full-length mirror selfie with the subject standing centrally in front of the mirror. His head tilts slightly downward as he looks at the smartphone screen. His right hand holds a dark smartphone vertically in front of his upper chest, partially covering the torso. His left hand rests naturally inside his trouser pocket. Preserve the original relaxed shoulders, slight body angle, natural weight distribution, leg placement, and overall silhouette. Do not mirror or reverse the image.\n\nOUTFIT: A well-fitted royal-blue two-piece suit with a structured single-breasted blazer, matching tailored trousers, a black button-up shirt, and understated dark dress shoes. Preserve the original blue-and-black color palette, clean tailoring, realistic fabric folds, and elegant contemporary style. Keep the jacket open as in the reference, with the black shirt visible underneath. Do not add a tie, watch, jewelry, or other accessories that are not clearly present in the reference.\n\nENVIRONMENT: Reproduce the original upscale interior precisely: a full-length mirror framed by dark textured vertical side panels, a dark walnut wall composed of closely spaced vertical wooden slats, warm wall lights on both sides, a leafy potted plant on the left, and a narrow dark cabinet on the right with small metallic decorative objects and a plant. Retain the gray patterned rug, tiled floor, and visible architectural details.\n\nCAMERA AND LIGHTING: Natural full-length mirror photography with an eye-level viewpoint and approximately 35–50mm equivalent field of view. Match the reference's subject-to-frame ratio and camera distance, showing the head, entire outfit, shoes, and substantial surrounding room. Warm ambient lighting produces soft golden highlights on the face, suit, and wooden wall, with realistic shadows and balanced exposure. Preserve the moderate depth of field and keep background elements identifiable.\n\nSTYLE AND QUALITY: High-end realistic menswear photography, authentic smartphone mirror selfie, lifelike skin, precise hands and fingers, natural suit draping, accurate mirror reflections, realistic perspective, and high-resolution detail. Maintain the original sophisticated, warm, dark-toned atmosphere.\n\nPRIORITY: Reproduce the reference rather than redesign it. Do not change the pose, move the phone to the opposite hand, remove the pocketed hand, alter the room, crop the feet, enlarge the subject, over-blur the background, or introduce artificial cinematic effects. The result should look like the same photograph recreated with exceptional fidelity."
         }
       ],
-      "last_message_id": 4326,
-      "last_user_message_id": 4326,
+      "last_message_id": 4328,
+      "last_user_message_id": 4328,
       "processed_message_ids": [
         4307,
         4309,
@@ -2567,18 +2572,18 @@
         4318,
         4321,
         4323,
-        4326
+        4326,
+        4328
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "f5510ba9ba",
-      "revision": 12,
+      "stage_token": "942ddf4def",
+      "revision": 13,
       "mode": "create",
-      "prompt_sent_token": "f5510ba9ba",
+      "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
-      "pending_label": "ChatGPT-Boy"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
