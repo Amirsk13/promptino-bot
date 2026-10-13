@@ -3083,27 +3083,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4794,
-      "last_user_message_id": 4794,
+      "last_message_id": 4796,
+      "last_user_message_id": 4796,
       "processed_message_ids": [
         4787,
         4790,
         4792,
-        4794
+        4794,
+        4796
       ],
       "flow_id": "fe56b007288e",
-      "stage_token": "3fa8c9fc30",
-      "revision": 5,
+      "stage_token": "5c71308d6a",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "3fa8c9fc30",
+      "prompt_sent_token": null,
       "name": "Monochrome Mirror Portrait",
       "number": 31,
-      "suitable": "بازسازی سلفی آینه‌ای مردانه با سبک سیاه‌وسفید، نورپردازی دراماتیک، حفظ ژست و جزئیات چهره و لباس با امکان استفاده از چهره‌ای متفاوت."
+      "suitable": "بازسازی سلفی آینه‌ای مردانه با سبک سیاه‌وسفید، نورپردازی دراماتیک، حفظ ژست و جزئیات چهره و لباس با امکان استفاده از چهره‌ای متفاوت.",
+      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت"
     }
   },
   "settings": {
