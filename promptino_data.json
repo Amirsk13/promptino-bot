@@ -2767,7 +2767,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
@@ -2776,10 +2776,15 @@
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the photograph as closely as possible, using a beautiful young adult Iranian woman as the subject. Preserve the reference's composition, facial proportions, expression, hand gesture, hairstyle, clothing, jewelry, background, lighting, and natural photographic style.\n\nSUBJECT: A young Iranian woman with fair, naturally warm skin, a softly oval face, dark well-defined eyebrows, long eyelashes, almond-shaped dark brown eyes, a delicate nose, and naturally rosy cheeks. Her eyes are gently closed as she laughs softly, covering her mouth with one hand. Her expression feels spontaneous, playful, warm, and genuine. Maintain realistic facial anatomy and subtle natural skin texture.\n\nHAIR: Thick dark brown-black hair gathered into a loose, voluminous high bun, with wispy curtain bangs and a few soft strands framing her temples and cheeks. Preserve the natural flyaways and slightly undone hairstyle.\n\nPOSE AND COMPOSITION: Square 1:1 close-up portrait, framed from the upper chest to just above the head. She faces the camera with her head turned only slightly, shoulders relaxed. One hand is raised diagonally across the lower half of her face, covering her mouth while laughing. Her fingers are elegant and naturally curved, with long almond-shaped nails painted glossy deep cherry red. Keep her eyes closed and the hand positioned as in the reference. Her face remains the primary focal point.\n\nCLOTHING: A simple dark navy-blue sleeveless halter-style top with a narrow neckline, leaving the shoulders and upper arms exposed.\n\nJEWELRY: Small gold hoop earrings and two delicate layered gold chain necklaces resting naturally along her collarbone. Keep the jewelry understated, realistic, and consistent with the reference.\n\nBACKGROUND: A lush garden with softly blurred green foliage, circular sunlit bokeh, and scattered pink flowers in the middle and lower background. Use natural greenery and pink floral accents without distinct distracting objects.\n\nLIGHTING AND CAMERA: Soft natural daylight outdoors, evenly illuminating her face and shoulders, gentle highlights on her hair and cheekbones, realistic shadows, and warm natural skin tones. Eye-level camera, natural 50–85mm portrait-lens perspective, shallow depth of field, sharp face and fingernails, creamy background blur.\n\nSTYLE: High-end candid lifestyle photography, photorealistic skin, detailed hair strands, accurate hands, glossy red nail polish, subtle warm color grading, fresh garden atmosphere, natural contrast, and a cheerful, intimate mood.\n\nPrioritize reference fidelity and natural expression. Avoid an open-mouth exaggerated laugh, open eyes, altered hand placement, extra fingers, fused fingers, distorted nails, excessive makeup, plastic skin, changed outfit, oversized jewelry, harsh flash, artificial backgrounds, text, logos, or watermarks."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Use the attached image as the primary visual reference for a faithful photorealistic image reconstruction. Create a young adult Iranian woman while preserving the reference's facial structure, pose, expression, hair, clothing, jewelry, lighting, and background composition.\n\nA beautiful young Iranian woman with fair warm-toned skin, dark expressive eyebrows, long eyelashes, almond-shaped dark brown eyes, a delicate nose, and naturally rosy cheeks. Her eyes are gently closed as she laughs softly, covering her mouth with one hand. Her expression is candid, joyful, and natural.\n\nHer thick dark hair is styled in a loose high bun with wispy curtain bangs and soft face-framing strands. She wears a dark navy-blue sleeveless halter top, small gold hoop earrings, and two delicate layered gold necklaces.\n\nHer hand crosses the lower half of her face, with relaxed, naturally curved fingers and long almond-shaped nails painted glossy deep cherry red. Preserve the reference's hand-to-face relationship, finger positions, shoulder placement, and relaxed posture.\n\nCOMPOSITION: Square 1:1 close-up portrait, upper chest and shoulders visible, face centered slightly above the middle of the frame. Eye-level camera, natural portrait-lens perspective, no wide-angle distortion.\n\nBACKGROUND: Outdoor garden with lush green foliage, soft circular sunlight bokeh, and blurred pink flowers scattered behind her. Background strongly defocused, with no distinct objects competing with the subject.\n\nLIGHTING: Soft natural daylight, gentle facial shadows, warm realistic skin tones, subtle highlights on dark hair, gold jewelry, and glossy nails.\n\nSTYLE: Natural high-resolution lifestyle photography, realistic skin texture, individual hair strands, accurate hand anatomy, shallow depth of field, creamy green-and-pink bokeh, restrained retouching, and a fresh romantic mood.\n\nKeep the eyes closed, the mouth covered by the hand, the red manicure, navy top, gold accessories, and garden setting faithful to the reference. Avoid altered facial proportions, open eyes, exaggerated laughter, deformed fingers, extra nails, artificial skin, oversaturation, text, logos, or watermarks."
         }
       ],
-      "last_message_id": 4531,
-      "last_user_message_id": 4531,
+      "last_message_id": 4533,
+      "last_user_message_id": 4533,
       "processed_message_ids": [
         4514,
         4517,
@@ -2788,18 +2793,18 @@
         4523,
         4526,
         4528,
-        4531
+        4531,
+        4533
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "5d075213cd",
-      "revision": 11,
+      "stage_token": "9591edba9e",
+      "revision": 12,
       "mode": "create",
-      "prompt_sent_token": "5d075213cd",
+      "prompt_sent_token": null,
       "name": "Blush Garden Portrait",
       "number": 23,
       "suitable": "بازسازی پرتره‌های طبیعی و فوتورئال با مدل دختر ایرانی، خنده‌ی ظریف با چشم‌های بسته، دست جلوی دهان، ناخن‌های قرمز، زیورآلات طلایی و پس‌زمینه‌ی باغی با بوکه‌ی سبز و صورتی.",
-      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی",
-      "pending_label": "Gemini"
+      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی"
     }
   },
   "settings": {
