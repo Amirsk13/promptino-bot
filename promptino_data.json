@@ -2546,20 +2546,22 @@
       "type": "post",
       "step": "photos",
       "photos": [
-        "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ"
+        "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
+        "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4307,
-      "last_user_message_id": 4307,
+      "last_message_id": 4309,
+      "last_user_message_id": 4309,
       "processed_message_ids": [
-        4307
+        4307,
+        4309
       ],
       "flow_id": "0198adfc3d3c",
       "stage_token": "83b8e1437a",
-      "revision": 1,
+      "revision": 2,
       "mode": "create",
-      "last_input_fingerprint": "|AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
-      "last_input_at": 14846645.05166285
+      "last_input_fingerprint": "|AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ",
+      "last_input_at": 14846790.454197507
     }
   },
   "settings": {
