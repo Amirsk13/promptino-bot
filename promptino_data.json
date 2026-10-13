@@ -2767,31 +2767,37 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4526,
-      "last_user_message_id": 4526,
+      "buttons": [
+        {
+          "key": "chatgpt",
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference. Recreate the photograph as closely as possible, using a beautiful young adult Iranian woman as the subject. Preserve the reference's composition, facial proportions, expression, hand gesture, hairstyle, clothing, jewelry, background, lighting, and natural photographic style.\n\nSUBJECT: A young Iranian woman with fair, naturally warm skin, a softly oval face, dark well-defined eyebrows, long eyelashes, almond-shaped dark brown eyes, a delicate nose, and naturally rosy cheeks. Her eyes are gently closed as she laughs softly, covering her mouth with one hand. Her expression feels spontaneous, playful, warm, and genuine. Maintain realistic facial anatomy and subtle natural skin texture.\n\nHAIR: Thick dark brown-black hair gathered into a loose, voluminous high bun, with wispy curtain bangs and a few soft strands framing her temples and cheeks. Preserve the natural flyaways and slightly undone hairstyle.\n\nPOSE AND COMPOSITION: Square 1:1 close-up portrait, framed from the upper chest to just above the head. She faces the camera with her head turned only slightly, shoulders relaxed. One hand is raised diagonally across the lower half of her face, covering her mouth while laughing. Her fingers are elegant and naturally curved, with long almond-shaped nails painted glossy deep cherry red. Keep her eyes closed and the hand positioned as in the reference. Her face remains the primary focal point.\n\nCLOTHING: A simple dark navy-blue sleeveless halter-style top with a narrow neckline, leaving the shoulders and upper arms exposed.\n\nJEWELRY: Small gold hoop earrings and two delicate layered gold chain necklaces resting naturally along her collarbone. Keep the jewelry understated, realistic, and consistent with the reference.\n\nBACKGROUND: A lush garden with softly blurred green foliage, circular sunlit bokeh, and scattered pink flowers in the middle and lower background. Use natural greenery and pink floral accents without distinct distracting objects.\n\nLIGHTING AND CAMERA: Soft natural daylight outdoors, evenly illuminating her face and shoulders, gentle highlights on her hair and cheekbones, realistic shadows, and warm natural skin tones. Eye-level camera, natural 50–85mm portrait-lens perspective, shallow depth of field, sharp face and fingernails, creamy background blur.\n\nSTYLE: High-end candid lifestyle photography, photorealistic skin, detailed hair strands, accurate hands, glossy red nail polish, subtle warm color grading, fresh garden atmosphere, natural contrast, and a cheerful, intimate mood.\n\nPrioritize reference fidelity and natural expression. Avoid an open-mouth exaggerated laugh, open eyes, altered hand placement, extra fingers, fused fingers, distorted nails, excessive makeup, plastic skin, changed outfit, oversized jewelry, harsh flash, artificial backgrounds, text, logos, or watermarks."
+        }
+      ],
+      "last_message_id": 4528,
+      "last_user_message_id": 4528,
       "processed_message_ids": [
         4514,
         4517,
         4519,
         4521,
         4523,
-        4526
+        4526,
+        4528
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "376da2ea24",
-      "revision": 8,
+      "stage_token": "69f5620d06",
+      "revision": 9,
       "mode": "create",
-      "prompt_sent_token": "376da2ea24",
+      "prompt_sent_token": null,
       "name": "Blush Garden Portrait",
       "number": 23,
       "suitable": "بازسازی پرتره‌های طبیعی و فوتورئال با مدل دختر ایرانی، خنده‌ی ظریف با چشم‌های بسته، دست جلوی دهان، ناخن‌های قرمز، زیورآلات طلایی و پس‌زمینه‌ی باغی با بوکه‌ی سبز و صورتی.",
-      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی",
-      "pending_label": "ChatGPT"
+      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی"
     }
   },
   "settings": {
