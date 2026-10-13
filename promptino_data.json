@@ -2767,23 +2767,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4517,
-      "last_user_message_id": 4517,
+      "last_message_id": 4519,
+      "last_user_message_id": 4519,
       "processed_message_ids": [
         4514,
-        4517
+        4517,
+        4519
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "a85a080aa4",
-      "revision": 3,
+      "stage_token": "a240a2d52a",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "a85a080aa4",
-      "name": "Blush Garden Portrait"
+      "prompt_sent_token": null,
+      "name": "Blush Garden Portrait",
+      "number": 23
     }
   },
   "settings": {
