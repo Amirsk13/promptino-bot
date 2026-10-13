@@ -2562,7 +2562,7 @@
       "stage_token": "a2ef1feeae",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "a2ef1feeae",
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19
     }
