@@ -3048,25 +3048,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAISl2rOL7Z2rBrmX_C7v7pxppGtWLlcAALzFGsb6X95Unk2pLdP7EIAAQEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4764,
-      "last_user_message_id": 4764,
+      "last_message_id": 4766,
+      "last_user_message_id": 4766,
       "processed_message_ids": [
         4759,
         4762,
-        4764
+        4764,
+        4766
       ],
       "flow_id": "d118463e82ff",
-      "stage_token": "f6a4c7fe57",
-      "revision": 4,
+      "stage_token": "513f22968c",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "f6a4c7fe57",
+      "prompt_sent_token": null,
       "name": "Intense Gaze Portrait",
-      "number": 30
+      "number": 30,
+      "suitable": "بازسازی پرتره کلوزآپ واقع‌گرایانه با تمرکز بر چشم‌های درشت، موهای مشکی نامرتب، آرایش طبیعی و حفظ جزئیات پوست و بافت چهره."
     }
   },
   "settings": {
