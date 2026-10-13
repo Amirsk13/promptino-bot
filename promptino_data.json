@@ -2978,7 +2978,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISX2rOKxMyUI5dsu4SYMyNttJ4-oFYAALkFGsb6X95UvIxqxrxQDwPAQADAgADeQADPQQ"
       ],
@@ -2993,8 +2993,8 @@
         4712
       ],
       "flow_id": "5a912f4aafd1",
-      "stage_token": "2966cdd1b9",
-      "revision": 6,
+      "stage_token": "39ed5f744e",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Snowy Elegance Portrait",
