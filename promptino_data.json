@@ -3115,56 +3115,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "buttons",
-      "photos": [
-        "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
-      ],
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the uploaded image as the primary visual reference and recreate the same composition as a highly realistic black-and-white mirror selfie of a different young adult Iranian man. Give him a distinctly different, natural face with short, thick dark hair styled upward, defined eyebrows, dark eyes, a subtle mustache, and a short trimmed beard. Preserve the reference's head tilt, relaxed expression, direct gaze toward the mirror, and close-up framing. He wears a casual plaid button-up shirt with alternating light and dark checks, an open collar, and a thin chain necklace. His right hand holds a smartphone vertically in front of the mirror on the right side of the frame; the phone has a dark case with a light border, and a metallic ring is visible on one finger. Keep the dim, nearly black background, soft directional light across one side of the face, deep shadows on the opposite side, authentic grayscale tones, natural skin texture, subtle photographic grain, and the slightly imperfect quality of a real phone photograph. Square 1:1 composition, close portrait from the upper chest to above the head, realistic proportions, no artificial beauty filters, no color, no text, no watermark. Prioritize the reference's framing, pose, lighting, and atmosphere while ensuring the man's facial identity is clearly different."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Create a photorealistic 1:1 black-and-white mirror selfie based on the uploaded reference. Replace the original subject with a different-looking young Iranian man, with a unique facial structure, thick short dark hair brushed upward, strong eyebrows, dark eyes, a neat light mustache, and a short beard. He wears a casual light-and-dark plaid shirt with an open collar and a thin necklace. Match the reference composition closely: his head leans slightly toward the left side of the image, his face occupies most of the upper-left and center, and he looks into the mirror with a calm, slightly serious expression. His hand holds a vertically oriented smartphone near the right side of his face, partially covering the right side of the composition; a metallic ring is visible on his finger. Use a dark, indistinct indoor background, soft side lighting, pronounced shadows, realistic grayscale contrast, natural skin pores, slight camera softness, and subtle film grain. Keep the image intimate, understated, and unretouched, like an authentic low-light phone selfie. Do not change the pose, camera distance, or overall layout. No color, no extra people, no text, no watermark, no exaggerated facial features."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "Edit the provided reference into a realistic black-and-white mirror selfie while preserving its original composition, camera angle, lighting direction, and pose. Generate a clearly different young adult Iranian male model with a new facial identity, short thick dark hair styled upward, dark eyes, defined eyebrows, a subtle mustache, and a neatly trimmed short beard. Keep his head tilted slightly to one side and his gaze directed toward the mirror. Retain the casual plaid shirt, open neckline, thin chain necklace, and the vertically held smartphone positioned beside and partly in front of his face on the right. Include a metallic ring on the phone-holding hand. Reproduce the tight head-and-upper-chest crop, dark indistinct background, soft light on the left side of his face, deep shadow on the right, natural grayscale tones, realistic skin texture, and slight grain and softness typical of a genuine phone photograph. Maintain natural anatomy and believable hands. The result must look like a real unedited photograph, not digital art. Square aspect ratio, monochrome only, no captions, no logos, no watermark. Change the face substantially without altering the defining visual arrangement of the reference."
-        }
-      ],
-      "last_message_id": 4811,
-      "last_user_message_id": 4811,
-      "processed_message_ids": [
-        4787,
-        4790,
-        4792,
-        4794,
-        4796,
-        4799,
-        4801,
-        4804,
-        4806,
-        4809,
-        4811
-      ],
-      "flow_id": "fe56b007288e",
-      "stage_token": "6359d5165a",
-      "revision": 15,
-      "mode": "create",
-      "prompt_sent_token": null,
-      "name": "Monochrome Mirror Portrait",
-      "number": 31,
-      "suitable": "بازسازی سلفی آینه‌ای مردانه با سبک سیاه‌وسفید، نورپردازی دراماتیک، حفظ ژست و جزئیات چهره و لباس با امکان استفاده از چهره‌ای متفاوت.",
-      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
