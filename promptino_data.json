@@ -3048,7 +3048,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISl2rOL7Z2rBrmX_C7v7pxppGtWLlcAALzFGsb6X95Unk2pLdP7EIAAQEAAwIAA3kAAz0E"
       ],
@@ -3071,8 +3071,8 @@
         4773
       ],
       "flow_id": "d118463e82ff",
-      "stage_token": "a63990400d",
-      "revision": 9,
+      "stage_token": "a0af37667a",
+      "revision": 10,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Intense Gaze Portrait",
