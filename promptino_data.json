@@ -2870,7 +2870,7 @@
       "stage_token": "4635d0b963",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "4635d0b963",
       "name": "Crimson Noir Portrait"
     }
   },
