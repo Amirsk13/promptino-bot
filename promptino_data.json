@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2583,8 +2583,8 @@
         4333
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "06d97495e6",
-      "revision": 16,
+      "stage_token": "3c0c681014",
+      "revision": 17,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
