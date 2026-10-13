@@ -2820,21 +2820,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4568,
-      "last_user_message_id": 4568,
+      "last_message_id": 4571,
+      "last_user_message_id": 4571,
       "processed_message_ids": [
-        4568
+        4568,
+        4571
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "51e63c83db",
-      "revision": 2,
+      "stage_token": "12060b16a7",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": "12060b16a7",
+      "name": "Emerald Garden Portrait"
     }
   },
   "settings": {
