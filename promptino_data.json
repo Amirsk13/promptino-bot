@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2574,10 +2574,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION — FEMININE VERSION\n\nUse the supplied image as the primary visual reference. Preserve its composition and scene geometry with the highest possible fidelity. Generate a photorealistic feminine counterpart, not a different photograph.\n\nIDENTITY AND APPEARANCE:\nA young adult Iranian woman with natural dark eyes, defined eyebrows, dark hair styled neatly, realistic facial proportions, and authentic skin texture. Sophisticated, understated feminine appearance; no exaggerated makeup, facial reshaping, or artificial skin smoothing.\n\nPOSE LOCK:\nMaintain the original full-length mirror-selfie pose. Subject centered in the frame. Head slightly tilted downward, gaze directed at the smartphone screen. Right hand holding the same style of dark smartphone vertically at upper-chest height. Left hand resting inside the trouser pocket. Preserve body angle, shoulder position, posture, leg placement, and weight distribution. Never swap hands or mirror the reference.\n\nOUTFIT:\nElegant royal-blue tailored women's pantsuit, fitted structured blazer, matching straight-leg trousers, simple black inner top, understated dark shoes. Retain the reference's blue-and-black palette, tailored silhouette, and premium fabric appearance.\n\nSCENE LOCK:\nReproduce the same interior: full-length mirror, dark textured vertical mirror borders, dark walnut vertical wall slats, warm wall lights on both sides, leafy floor plant on the left, narrow dark cabinet on the right with small metallic decorative objects and a plant, gray patterned rug, and tiled floor. Keep all objects in their original relative positions.\n\nCAMERA LOCK:\nFull-body vertical mirror composition, natural smartphone perspective, approximately 35–50mm equivalent. Preserve the original subject size, camera distance, eye-level viewpoint, visible floor, shoes, and room margins. No close-up crop, no perspective changes, and no excessive background blur.\n\nLIGHTING LOCK:\nWarm interior illumination with soft golden wall-light glow, realistic skin highlights, gentle shadows, natural blue suit color, balanced exposure, moderate depth of field, and clearly visible wood and decor textures.\n\nQUALITY:\nHigh-resolution photorealism, accurate mirror reflections, realistic fabric folds, natural hands and fingers, anatomically correct body proportions, and coherent room geometry. The final image should appear to have been photographed in the exact same location and moment.\n\nEDIT ONLY WHAT IS NECESSARY:\nChange the subject's gender presentation and adapt the suit subtly for a natural feminine fit. Keep the scene, pose, framing, lighting, and photographic style unchanged."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION — MALE VERSION\n\nReconstruct the uploaded photograph as faithfully as possible. Use the reference image as the source of truth for the man's appearance, clothing, pose, camera position, room layout, lighting, and color palette. Prioritize structural consistency over creative reinterpretation.\n\nSUBJECT:\nYoung adult Iranian man with short, thick dark hair styled upward, dark eyebrows and eyes, a neatly trimmed full beard and mustache, and a natural medium complexion. Preserve the reference's facial proportions, hairstyle, grooming, and understated confident expression. Natural skin texture; no beauty filters.\n\nEXACT POSE:\nFull-length mirror selfie. Man standing in the center of the mirror, head slightly tilted down while looking at the phone screen. Right hand holding a dark smartphone vertically in front of the upper chest. Left hand inside the trouser pocket. Maintain the same body angle, shoulder alignment, relaxed stance, leg placement, and weight distribution. Do not reverse the image, swap hands, or invent a new pose.\n\nEXACT WARDROBE:\nRoyal-blue two-piece tailored suit, structured blazer worn open, black button-up shirt, matching blue trousers, and understated dark shoes. Preserve the original shade of blue, fitted silhouette, lapel shape, shirt visibility, natural creases, and elegant formal style.\n\nEXACT ENVIRONMENT:\nFull-length mirror with dark textured side panels; dark walnut vertical slat wall; warm wall sconces positioned on both sides; leafy potted plant at the left; narrow dark cabinet on the right with small metallic decorative objects and a plant; gray patterned rug; tiled floor. Preserve the original placement, scale, and appearance of every visible background feature.\n\nCAMERA AND FRAMING:\nVertical full-body mirror selfie with natural eye-level smartphone perspective and approximately 35–50mm equivalent focal length. Maintain the original camera distance, subject-to-frame ratio, complete outfit visibility, and surrounding room margins. No zooming in, cropping the shoes, wide-angle distortion, or changing the viewpoint.\n\nLIGHT AND COLOR:\nWarm indoor lighting, soft amber highlights on the wood slats, natural shadows, realistic skin tones, deep blue tailoring, black shirt, moderate contrast, and controlled depth of field. Preserve the background's recognizable textures and avoid excessive bokeh.\n\nFINAL RENDER:\nPhotographic realism, lifelike skin, accurate hands and fingers, realistic tailoring, consistent mirror geometry, correct reflections, natural proportions, and fine material detail. Reproduce the same photograph with no unnecessary stylistic changes, props, accessories, or environmental alterations."
         }
       ],
-      "last_message_id": 4346,
-      "last_user_message_id": 4346,
+      "last_message_id": 4348,
+      "last_user_message_id": 4348,
       "processed_message_ids": [
         4307,
         4309,
@@ -2595,18 +2600,18 @@
         4338,
         4341,
         4343,
-        4346
+        4346,
+        4348
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "e641dbacaf",
-      "revision": 24,
+      "stage_token": "37f8c6ba3f",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "e641dbacaf",
+      "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
