@@ -3013,21 +3013,23 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAISe2rOLf_6kYmxaPP2WLLZ3NViqpNdAALvFGsb6X95Ugec2B7bAvMIAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4731,
-      "last_user_message_id": 4731,
+      "last_message_id": 4734,
+      "last_user_message_id": 4734,
       "processed_message_ids": [
-        4731
+        4731,
+        4734
       ],
       "flow_id": "746059ad72d9",
-      "stage_token": "31b180a345",
-      "revision": 2,
+      "stage_token": "92f4825581",
+      "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Rose Bouquet Mirror Selfie"
     }
   },
   "settings": {
