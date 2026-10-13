@@ -2943,7 +2943,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISQ2rOKD4nxqHW3C5KSRlqMjGTUQ0OAALcFGsb6X95UvNyDdrlgJB6AQADAgADeAADPQQ"
       ],
@@ -2959,8 +2959,8 @@
           "prompt": "Recreate the uploaded reference as a realistic outdoor action portrait. Use a young Iranian woman with a naturally distinctive face, seated on a broad wet rock in a shallow stream within dense green woodland.\n\nMatch the exact action and silhouette: her body leans backward, her head is tilted up, her eyes are closed, and her expression is relaxed. Her long, thick, dark hair whips upward and to the left in a dramatic semicircular sweep. A clearly visible arc of individual water droplets follows the hair's trajectory, sparkling against the dark green foliage before falling toward the stream on the right.\n\nWardrobe: plain dark brown short-sleeved T-shirt and black trousers. Both arms extend down beside her torso, hands naturally braced on the rocks. Her knees are bent, with the lower body angled toward the bottom-right of the frame.\n\nMaintain a square 1:1 composition, medium-wide framing, a slightly left-of-center subject, visible foreground boulders, flowing shallow water, and a dense leafy forest background. Camera positioned around seated torso height with a natural perspective and enough space above the subject to capture the entire arc of water and hair.\n\nSoft overcast woodland daylight, realistic water reflections, crisp suspended droplets, detailed wet hair strands, natural skin texture, subtle depth of field, earthy colors, deep greens, muted grays, and a calm yet energetic editorial photography aesthetic.\n\nUse the reference image to preserve the composition, gesture, water trajectory, clothing, and setting. Avoid excessive retouching, artificial water shapes, anatomically incorrect hands, extra fingers, unnatural hair volume, oversaturated greens, and synthetic-looking textures."
         }
       ],
-      "last_message_id": 4694,
-      "last_user_message_id": 4694,
+      "last_message_id": 4697,
+      "last_user_message_id": 4697,
       "processed_message_ids": [
         4675,
         4678,
@@ -2970,17 +2970,19 @@
         4687,
         4689,
         4692,
-        4694
+        4694,
+        4697
       ],
       "flow_id": "02cbd886eec9",
-      "stage_token": "0460cae930",
-      "revision": 13,
+      "stage_token": "5d9bcec8ba",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Wild Water Motion",
       "number": 27,
       "suitable": "بازسازی پرتره‌ای هنری و واقع‌گرایانه در طبیعت، با حرکت چشمگیر موها و قوس قطرات آب، حفظ ژست بدن و فضای جنگلی تصویر مرجع.",
-      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب"
+      "for_what": "• عکس پروفایل هنری\n• تولید محتوای اینستاگرام\n• پرتره‌های سینمایی در طبیعت\n• عکاسی مفهومی و خلاقانه\n• تصاویر فشن در فضای باز\n• بازسازی عکس با مدل ایرانی\n• نمایش حرکت مو و قطرات آب",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
