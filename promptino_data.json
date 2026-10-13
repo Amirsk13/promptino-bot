@@ -2820,27 +2820,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIR2GrOGqkz9UQAAVnc9Sq0NYhHihwqaAACxxRrG-l_eVIcoQWwbFm7qgEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4575,
-      "last_user_message_id": 4575,
+      "last_message_id": 4577,
+      "last_user_message_id": 4577,
       "processed_message_ids": [
         4568,
         4571,
         4573,
-        4575
+        4575,
+        4577
       ],
       "flow_id": "41b4a57cbb30",
-      "stage_token": "06b91bc8e3",
-      "revision": 5,
+      "stage_token": "f92f4bfeea",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "06b91bc8e3",
+      "prompt_sent_token": null,
       "name": "Emerald Garden Portrait",
       "number": 24,
-      "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی."
+      "suitable": "بازسازی پرتره فوتورئال با مدل دختر ایرانی، چهره متفاوت، موهای جمع‌شده با چتری‌های پرده‌ای، لباس مشکی یقه‌گردنی، زیورآلات طلایی و پس‌زمینه سبز با بوکه طبیعی.",
+      "for_what": "عکس پروفایل حرفه‌ای\nتولید محتوای اینستاگرام\nپرتره‌های فوتورئال و لایف‌استایل\nعکاسی فشن و زیبایی\nتبلیغات زیورآلات و محصولات آرایشی\nساخت پرتره با مدل ایرانی و چهره جدید\nبازسازی تصاویر با حفظ ترکیب‌بندی مرجع"
     }
   },
   "settings": {
