@@ -2801,17 +2801,19 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "price",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 4545,
+      "last_message_id": 4547,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "18188550c2",
+      "stage_token": "21da57b084",
       "vip_processed_message_ids": [
-        4545
+        4545,
+        4547
       ],
-      "vip_last_user_message_id": 4545,
-      "title": "Sunflower Shadow Portrait For Girls"
+      "vip_last_user_message_id": 4547,
+      "title": "Sunflower Shadow Portrait For Girls",
+      "price": 230000
     }
   },
   "active_post_states": {},
