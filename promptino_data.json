@@ -2600,12 +2600,17 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "title",
+      "step": "price",
       "buttons": [],
-      "last_message_id": null,
+      "last_message_id": 4367,
       "processed_message_ids": [],
       "flow_id": "ac3421b5bfcd",
-      "stage_token": "77f49b115d"
+      "stage_token": "6e6ff77ca8",
+      "vip_processed_message_ids": [
+        4367
+      ],
+      "vip_last_user_message_id": 4367,
+      "title": "Retro Vinyl Portrait For Girls"
     }
   },
   "active_post_states": {},
