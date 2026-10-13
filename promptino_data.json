@@ -2855,29 +2855,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4605,
-      "last_user_message_id": 4605,
+      "last_message_id": 4608,
+      "last_user_message_id": 4608,
       "processed_message_ids": [
         4596,
         4599,
         4601,
         4603,
-        4605
+        4605,
+        4608
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "e7d579ce3a",
-      "revision": 7,
+      "stage_token": "6496d6706e",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Crimson Noir Portrait",
       "number": 25,
       "suitable": "بازسازی پرتره سینمایی با فضای تاریک و رازآلود، نور قرمز و نارنجی، حفظ ترکیب‌بندی مینیمال و بافت فیلم آنالوگ، با بهبود نور چهره و جزئیات تصویر بدون از بین بردن حس نوآر.",
-      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری"
+      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
