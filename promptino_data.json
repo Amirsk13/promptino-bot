@@ -2890,7 +2890,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISEGrOIKAF10-YIWz0qfJUVZZEpl5JAALRFGsb6X95UjpCFeK2BEeUAQADAgADeQADPQQ"
       ],
@@ -2920,8 +2920,8 @@
         4643
       ],
       "flow_id": "678827321778",
-      "stage_token": "0e7288ccd2",
-      "revision": 12,
+      "stage_token": "f24ca86965",
+      "revision": 13,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Snowfall Elegance",
