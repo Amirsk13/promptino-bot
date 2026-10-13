@@ -2677,7 +2677,7 @@
       "stage_token": "eb00e5f839",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "eb00e5f839",
       "name": "Retro Camera Aesthetic"
     }
   },
