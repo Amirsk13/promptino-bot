@@ -2767,29 +2767,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIRomrOBQ-l5LqvkHDDq7TdfnFLpvQRAAJmEGsb6X9xUvn_-1Yt6aWnAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4523,
-      "last_user_message_id": 4523,
+      "last_message_id": 4526,
+      "last_user_message_id": 4526,
       "processed_message_ids": [
         4514,
         4517,
         4519,
         4521,
-        4523
+        4523,
+        4526
       ],
       "flow_id": "501fbe75b233",
-      "stage_token": "338e740538",
-      "revision": 7,
+      "stage_token": "376da2ea24",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Blush Garden Portrait",
       "number": 23,
       "suitable": "بازسازی پرتره‌های طبیعی و فوتورئال با مدل دختر ایرانی، خنده‌ی ظریف با چشم‌های بسته، دست جلوی دهان، ناخن‌های قرمز، زیورآلات طلایی و پس‌زمینه‌ی باغی با بوکه‌ی سبز و صورتی.",
-      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nتولید محتوای اینستاگرام\nپرتره‌های لایف‌استایل\nعکاسی زیبایی و فشن\nتصاویر طبیعی و احساسی\nتصاویر تبلیغاتی زیورآلات و محصولات زیبایی\nبازسازی عکس با حفظ ویژگی‌های چهره\nتولید پرتره فوتورئال با هوش مصنوعی",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
