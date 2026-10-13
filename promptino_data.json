@@ -2600,19 +2600,21 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 4369,
+      "last_message_id": 4372,
       "processed_message_ids": [],
       "flow_id": "ac3421b5bfcd",
-      "stage_token": "17fd59d9a3",
+      "stage_token": "16548edb6d",
       "vip_processed_message_ids": [
         4367,
-        4369
+        4369,
+        4372
       ],
-      "vip_last_user_message_id": 4369,
+      "vip_last_user_message_id": 4372,
       "title": "Retro Vinyl Portrait For Girls",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "ChatGPT"
     }
   },
   "active_post_states": {},
