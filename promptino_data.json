@@ -2615,46 +2615,7 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {
-    "676953423": {
-      "type": "vip_add",
-      "step": "buttons",
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Using the uploaded reference image as the primary visual reference, recreate the same highly photorealistic vintage editorial portrait with a beautiful young adult Iranian woman. Preserve the reference composition, facial identity within the reference-based generation, pose, expression, camera angle, object placement, and nostalgic atmosphere.\n\nSUBJECT: A young Iranian woman with naturally dark, voluminous curly hair held back by a burgundy-black headband with tiny white dots. Defined dark eyebrows, almond-shaped dark brown eyes, subtle winged eyeliner, natural skin texture, and muted deep-red lipstick. She gives a subtle, confident smile while looking sideways toward the left side of the frame.\n\nPOSE AND CLOTHING: She is reclining on the floor, photographed from a steep overhead angle. Her head is near the upper center, and her body extends diagonally toward the lower-left. One hand naturally holds a vintage black corded telephone receiver beside her cheek. Preserve the original finger placement, wrist angle, and telephone position. She wears a black short-sleeved outfit covered in small red dots, a delicate ring, and a silver-toned metal wristwatch. Both visible forearms must have completely natural, clean skin with NO tattoos, ink, symbols, or tattoo-like markings.\n\nENVIRONMENT: An ornate red-and-black Persian-style carpet fills the background. A partially cropped vintage turntable appears along the upper-right edge, a black vinyl record with a yellow center label sits to the right of her head, and a small cropped dark rectangular object remains near the lower-right edge. Preserve their relative positions, scale, and orientation.\n\nCAMERA AND LIGHTING: Square 1:1 composition, steep top-down perspective, close overhead editorial framing, natural 50mm lens appearance without wide-angle distortion. Soft directional indoor lighting, realistic facial highlights, gentle shadows, deep blacks, rich crimson and burgundy reds, warm natural skin tones, subtle analog-film grain, and cinematic vintage color grading.\n\nSTRICT PRESERVATION: Keep the original scene, pose, hairstyle, headband, expression, telephone, coiled cord, clothing pattern, jewelry, watch, carpet, turntable, vinyl record, and framing. Remove the forearm tattoo completely and reconstruct the underlying skin naturally, matching the surrounding skin tone and texture. Do not change anything else unnecessarily.\n\nAvoid altered facial proportions, excessive beautification, tattoo marks, distorted fingers, extra fingers, deformed hands, missing accessories, duplicated objects, changed background layout, artificial skin smoothing, CGI, text, logos, and watermarks."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Use the attached image as the exact visual reference for an image-to-image recreation. Generate a photorealistic portrait of a young Iranian woman while preserving the original composition, pose, expression, clothing, accessories, background objects, lighting, and vintage mood.\n\nThe woman has thick, dark, naturally curly hair held back with a burgundy headband patterned with tiny white dots. She has defined dark eyebrows, dark brown eyes with subtle winged eyeliner, realistic skin texture, muted red lipstick, and a slight playful smile. Her gaze is directed toward frame-left.\n\nShe lies on an ornate red-and-black Persian carpet, viewed from directly above at a steep overhead angle. Her head is positioned near the upper center, and her body extends diagonally toward the lower-left. She holds a glossy black vintage telephone receiver beside her face with one hand. Keep the hand anatomy, finger positions, receiver angle, and trailing coiled cord natural and faithful to the reference.\n\nHer black outfit has numerous small red dots. Retain her delicate ring and silver-toned wristwatch. IMPORTANT: Remove the tattoo from the forearm completely. Both visible forearms must have unmarked, natural skin with no tattoos, lettering, ink, or decorative body art.\n\nMaintain the exact environmental arrangement: detailed red-and-black Persian-style carpet, partially visible turntable cropped at the upper-right, black vinyl record with a yellow center label to the right of her head, and a small cropped dark rectangular object at the bottom-right.\n\nPhotographic specifications: square 1:1 crop, close overhead framing, natural 50mm perspective, realistic proportions, soft directional indoor lighting, gentle shadows, detailed hair strands, realistic hands and skin, deep blacks, rich red tones, subdued highlights, and restrained analog-film grain.\n\nPrioritize fidelity to the reference rather than artistic reinterpretation. Change only what is necessary to produce the Iranian female model and remove the tattoo. Do not rearrange objects, mirror the image, change the pose, invent accessories, smooth the skin excessively, or add text, logos, watermarks, or tattoos."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "STRICT IMAGE REFERENCE EDIT — PRESERVE ALL UNCHANGED DETAILS\n\nUse the uploaded image as the base reference. Recreate the same photorealistic overhead vintage portrait with a young Iranian woman. Preserve the original visual arrangement, pose, expression, camera perspective, proportions, accessories, and environment. Do not redesign the image.\n\nSUBJECT: Young Iranian woman with thick dark curly hair, a burgundy-black headband with tiny white dots, defined dark eyebrows, dark eyes, subtle winged eyeliner, natural skin texture, and muted deep-red lipstick. She looks toward frame-left with a subtle, playful smile.\n\nPOSE: Reclining on a richly patterned red-and-black Persian carpet. Head near the upper center; torso angled diagonally toward the lower-left. One hand holds a black vintage corded telephone receiver next to her cheek. Preserve the exact hand placement, finger count, wrist angle, telephone shape, and coiled cable.\n\nCLOTHING AND ACCESSORIES: Black garment with small red dots, delicate ring, and silver-toned metal wristwatch. Remove the existing forearm tattoo completely. Reconstruct the affected area with clean, natural skin that seamlessly matches the surrounding skin in tone, lighting, texture, and anatomy. NO tattoos, ink, lettering, symbols, or residual tattoo shadows on either visible forearm.\n\nBACKGROUND LOCK: Ornate red-and-black Persian-style carpet across the frame. Keep the partially cropped turntable at the upper-right, the black vinyl record with a yellow center label to the right of her head, and the small cropped dark rectangular object at the bottom-right. Preserve all object positions and relative sizes.\n\nCAMERA: Square 1:1 frame, steep overhead view, close editorial composition, natural 50mm photographic perspective, no wide-angle distortion, no mirroring or reframing.\n\nLIGHTING AND STYLE: Soft directional indoor lighting, natural facial highlights, gentle shadows, deep blacks, rich crimson and burgundy tones, realistic skin and hair texture, subtle analog grain, nostalgic cinematic color grading, high-end editorial photography.\n\nEDITING PRIORITY: Preserve everything from the reference except any explicitly requested model adaptation and complete tattoo removal. The forearm must look naturally unmarked, not blurred, patched, or artificially smoothed.\n\nNEGATIVE CONSTRAINTS: tattoo, tattoo residue, ink, body art, altered pose, changed gaze, changed hairstyle, missing headband, missing wristwatch, malformed hands, extra or missing fingers, altered telephone, displaced vinyl record, rearranged turntable, different carpet, excessive retouching, CGI, text, logos, watermark."
-        }
-      ],
-      "last_message_id": 4384,
-      "processed_message_ids": [],
-      "flow_id": "ac3421b5bfcd",
-      "stage_token": "dad831a922",
-      "vip_processed_message_ids": [
-        4367,
-        4369,
-        4372,
-        4374,
-        4377,
-        4379,
-        4382,
-        4384
-      ],
-      "vip_last_user_message_id": 4384,
-      "title": "Retro Vinyl Portrait For Girls",
-      "price": 200000
-    }
-  },
+  "active_admin_states": {},
   "active_post_states": {},
   "settings": {
     "notifications": {
