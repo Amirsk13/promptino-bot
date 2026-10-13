@@ -2544,7 +2544,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
@@ -2559,10 +2559,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Using the attached image as the primary visual reference, faithfully recreate the same photorealistic full-length mirror selfie. Preserve the male subject's overall appearance, hairstyle, facial hair, body proportions, exact pose, clothing style, room layout, camera distance, perspective, lighting, colors, and photographic realism.\n\nSUBJECT: A young adult Iranian man with short, thick dark hair styled upward and slightly textured, dark eyebrows, dark eyes, a neatly trimmed full beard and mustache, and a natural medium complexion. Maintain realistic facial anatomy, subtle skin texture, and a calm, confident expression. Avoid artificial skin smoothing or exaggerated masculine features.\n\nPOSE AND COMPOSITION: Full-length mirror selfie with the subject standing centrally in front of the mirror. His head tilts slightly downward as he looks at the smartphone screen. His right hand holds a dark smartphone vertically in front of his upper chest, partially covering the torso. His left hand rests naturally inside his trouser pocket. Preserve the original relaxed shoulders, slight body angle, natural weight distribution, leg placement, and overall silhouette. Do not mirror or reverse the image.\n\nOUTFIT: A well-fitted royal-blue two-piece suit with a structured single-breasted blazer, matching tailored trousers, a black button-up shirt, and understated dark dress shoes. Preserve the original blue-and-black color palette, clean tailoring, realistic fabric folds, and elegant contemporary style. Keep the jacket open as in the reference, with the black shirt visible underneath. Do not add a tie, watch, jewelry, or other accessories that are not clearly present in the reference.\n\nENVIRONMENT: Reproduce the original upscale interior precisely: a full-length mirror framed by dark textured vertical side panels, a dark walnut wall composed of closely spaced vertical wooden slats, warm wall lights on both sides, a leafy potted plant on the left, and a narrow dark cabinet on the right with small metallic decorative objects and a plant. Retain the gray patterned rug, tiled floor, and visible architectural details.\n\nCAMERA AND LIGHTING: Natural full-length mirror photography with an eye-level viewpoint and approximately 35–50mm equivalent field of view. Match the reference's subject-to-frame ratio and camera distance, showing the head, entire outfit, shoes, and substantial surrounding room. Warm ambient lighting produces soft golden highlights on the face, suit, and wooden wall, with realistic shadows and balanced exposure. Preserve the moderate depth of field and keep background elements identifiable.\n\nSTYLE AND QUALITY: High-end realistic menswear photography, authentic smartphone mirror selfie, lifelike skin, precise hands and fingers, natural suit draping, accurate mirror reflections, realistic perspective, and high-resolution detail. Maintain the original sophisticated, warm, dark-toned atmosphere.\n\nPRIORITY: Reproduce the reference rather than redesign it. Do not change the pose, move the phone to the opposite hand, remove the pocketed hand, alter the room, crop the feet, enlarge the subject, over-blur the background, or introduce artificial cinematic effects. The result should look like the same photograph recreated with exceptional fidelity."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Recreate the attached reference image using image-to-image generation. Treat the uploaded photograph as the authoritative guide for composition, room geometry, camera perspective, lighting, pose, and visual style. Generate a feminine counterpart while keeping the scene unmistakably the same.\n\nA photorealistic full-length mirror selfie of a young adult Iranian woman wearing an elegant royal-blue tailored pantsuit, a fitted blue blazer, matching straight-leg trousers, and a simple black inner top. Give her naturally dark eyes, defined eyebrows, dark neatly styled hair, realistic skin texture, and refined but believable facial features. Her styling should be sophisticated and contemporary.\n\nMatch the original pose exactly: the subject stands centered before the mirror, holding a dark smartphone vertically in her right hand at upper-chest height while looking down at the screen. Her left hand remains inside her trouser pocket. Preserve the slight head tilt, body orientation, relaxed stance, leg positioning, and original proportions. No mirroring or hand swapping.\n\nReproduce every major background feature: the large full-length mirror, dark textured vertical borders, closely spaced dark walnut wall slats, warm wall sconces on both sides, leafy potted plant at the left, narrow dark cabinet at the right with decorative objects and greenery, gray patterned rug, and tiled floor.\n\nMaintain the same full-body framing and natural smartphone-camera perspective, approximately 35–50mm equivalent. Keep the subject at the original distance from the mirror and retain the surrounding interior. Warm, soft indoor lighting, subtle golden highlights, realistic shadows, balanced exposure, moderate depth of field, and visible background textures.\n\nThe result must look like a genuine photograph, with realistic reflections, anatomically correct hands, natural clothing folds, detailed fabrics, and consistent room geometry. Change only the subject's gender presentation and the minimum outfit details necessary for a natural feminine interpretation. Avoid close-ups, excessive background blur, beauty-filter skin, distorted hands, extra fingers, reversed orientation, altered architecture, and invented accessories."
         }
       ],
-      "last_message_id": 4331,
-      "last_user_message_id": 4331,
+      "last_message_id": 4333,
+      "last_user_message_id": 4333,
       "processed_message_ids": [
         4307,
         4309,
@@ -2574,18 +2579,18 @@
         4323,
         4326,
         4328,
-        4331
+        4331,
+        4333
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "cf0833443e",
-      "revision": 15,
+      "stage_token": "06d97495e6",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "cf0833443e",
+      "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
-      "pending_label": "Gemini-Girl"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
