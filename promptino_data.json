@@ -3013,7 +3013,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISe2rOLf_6kYmxaPP2WLLZ3NViqpNdAALvFGsb6X95Ugec2B7bAvMIAQADAgADeQADPQQ"
       ],
@@ -3027,10 +3027,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Recreate the uploaded reference as a highly realistic square mirror selfie. A young adult Iranian woman stands inside a contemporary bakery café, her body turned slightly sideways. Her face is mostly hidden behind a white triple-camera smartphone held at eye level. She has long dark brown hair in a loose half-up style. She wears a white short-sleeved T-shirt, a burgundy-red scarf hanging over her shoulders and chest, light blue distressed jeans with ripped knees, and a black wristwatch. She holds a large, dense bouquet of deep crimson roses with green foliage and long stems against her waist and torso.\n\nMatch the original framing and environment: a glass bakery display case filled with pastries on the right, pastel takeaway cups arranged behind the counter, a leafy indoor plant near the ceiling, a wall menu behind her, and a bright cyan-blue door or wall on the left. Preserve the café counter, floor pattern, realistic reflections, and mixed warm indoor and cool blue lighting. Eye-level mirror viewpoint, natural smartphone-camera perspective, square 1:1 crop, head-to-below-knees framing, authentic casual lifestyle photography, natural skin and fabric texture, realistic rose petals, balanced exposure, and subtle background softness. Prioritize accurate composition, wardrobe, bouquet placement, and environmental details. No captions, watermarks, exaggerated body proportions, or artificial beauty filters."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "Edit or recreate the provided reference image while preserving its original composition and photographic realism. The main subject is a young adult Iranian woman taking a mirror selfie in a bakery café. Keep her in the same position and three-quarter body angle, with a white smartphone featuring three rear cameras covering most of her face. Her long dark brown hair is loosely half-up. She wears a simple white short-sleeved T-shirt, a burgundy scarf draped around her shoulders, light blue jeans with distressed knee openings, and a dark wristwatch. A large bouquet of tightly packed deep-red roses with green leaves and long stems rests against her torso, held naturally in one arm.\n\nReproduce the surroundings precisely: glass pastry counter with cakes and pastries on the right, orderly stacks of pastel paper cups, a small leafy plant above the counter, a printed menu board on the rear wall, a bright cyan-blue door or panel on the left, and patterned flooring. Match the original square framing, mirror perspective, head-to-below-knees crop, relaxed posture, and natural smartphone snapshot quality. Use realistic warm café lighting mixed with cool blue light from the left, correct reflections, natural shadows, true-to-life colors, detailed rose petals, believable denim distressing, and realistic fabric folds. Maintain the reference's layout and visual balance; avoid changing the outfit, bouquet color, phone placement, or background arrangement. No added text, logos, extra limbs, distorted hands, duplicate flowers, or excessive retouching."
         }
       ],
-      "last_message_id": 4753,
-      "last_user_message_id": 4753,
+      "last_message_id": 4755,
+      "last_user_message_id": 4755,
       "processed_message_ids": [
         4731,
         4734,
@@ -3041,18 +3046,18 @@
         4745,
         4748,
         4750,
-        4753
+        4753,
+        4755
       ],
       "flow_id": "746059ad72d9",
-      "stage_token": "e25e33bb47",
-      "revision": 14,
+      "stage_token": "60f7ebb5a1",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "e25e33bb47",
+      "prompt_sent_token": null,
       "name": "Rose Bouquet Mirror Selfie",
       "number": 29,
       "suitable": "بازسازی عکس آینه‌ای طبیعی و واقع‌گرایانه در کافه، با دسته‌گل رز قرمز، استایل روزمره و حفظ دقیق ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل و شبکه‌های اجتماعی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nبازسازی عکس‌های آینه‌ای کافه‌ای\nتصاویر استایل و فشن روزمره\nتصاویر هدیه و دسته‌گل رز",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "عکس پروفایل و شبکه‌های اجتماعی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر واقع‌گرایانه با هوش مصنوعی\nبازسازی عکس‌های آینه‌ای کافه‌ای\nتصاویر استایل و فشن روزمره\nتصاویر هدیه و دسته‌گل رز"
     }
   },
   "settings": {
