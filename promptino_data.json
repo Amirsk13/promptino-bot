@@ -2855,7 +2855,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
@@ -2869,10 +2869,15 @@
           "key": "gemini",
           "label": "Gemini",
           "prompt": "Recreate the uploaded image as a cinematic, photorealistic analog-film portrait. Use the reference image to preserve the subject placement, facial direction, dark hair, horizontal composition, red-orange background illumination, deep black negative space, and vintage film texture.\n\nA young adult woman with long dark hair appears in the center of a dim, mysterious scene. Her head is slightly turned, and she gazes toward image-left with a subtle, introspective expression. Only part of her face emerges from the darkness.\n\nCOMPOSITION: Square 1:1 canvas. Keep a large nearly black area across the top third and bottom of the image. Place the woman within a narrow horizontal band across the middle, slightly right of center. Her face must remain relatively small in the overall frame. Preserve the original distant framing and negative space.\n\nBACKGROUND: An indistinct dark interior with a horizontal crimson and burnt-orange illuminated strip behind the subject. Add a narrow warm vertical highlight above her head. No distinct furniture or additional props.\n\nLIGHTING: Preserve the dramatic low-key aesthetic. Improve facial visibility with a soft, directional amber key light on the eyes, nose, cheekbones, and lips. Gently raise shadow detail in the face and hair while keeping the surrounding areas almost black. Add subtle warm highlights to individual hair strands and retain deep shadows, rich reds, and controlled highlights.\n\nIMAGE QUALITY: Increase clarity around the face without removing the authentic analog appearance. Keep organic film grain, subtle dust, tiny scratches, slight halation, soft background focus, and restrained vintage imperfections. Avoid excessive noise that obscures the subject.\n\nCOLOR: Deep blacks, burgundy, crimson, burnt orange, and warm amber. Cinematic contrast with slightly improved exposure and balanced midtones.\n\nThe final image should feel like a still from an obscure vintage film: mysterious, atmospheric, intimate, and dark, but with the woman's expression and facial details more clearly visible. Maintain the original composition and avoid over-brightening the image, changing the pose, zooming in, adding objects, or introducing text or logos."
+        },
+        {
+          "key": "nano_banana_pro",
+          "label": "Nano Banana Pro",
+          "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION AND LIGHTING ENHANCEMENT\n\nUse the uploaded image as the exact composition reference. Reconstruct the same square cinematic portrait while improving exposure and facial clarity. Preserve the original subject, pose, framing, dark negative space, red-orange lighting, and analog-film aesthetic.\n\nSUBJECT: A young adult woman with long dark hair, positioned near the center of the image. Her face is partially illuminated, her head slightly angled, and her gaze directed toward image-left. Maintain a quiet, mysterious expression and natural facial proportions.\n\nSTRICT COMPOSITION: Square 1:1. Retain the large nearly black upper third and lower portion. Keep the subject inside the narrow horizontal band across the center, slightly right of center. Preserve the original distance, scale, and negative space. Do not crop, zoom, or enlarge the face.\n\nBACKGROUND: A dark, indistinct setting with a horizontal crimson-red and burnt-orange light band behind the woman and a subtle vertical amber highlight above her head. No new objects or recognizable scenery.\n\nLIGHTING CORRECTION:\n\n* Gently increase exposure on the woman's face only.\n* Recover shadow detail around the eyes, nose, cheeks, lips, and hair.\n* Add soft, directional warm amber illumination from the front-left.\n* Preserve the original red-orange ambient glow and dramatic contrast.\n* Add restrained warm rim highlights to selected hair strands.\n* Keep the background and upper and lower negative spaces predominantly black.\n* Protect highlight detail and prevent washed-out skin, flat illumination, or excessive brightness.\n\nTEXTURE AND DETAIL: Improve facial definition and hair separation while preserving natural film grain, subtle dust, fine scratches, soft halation, and vintage analog imperfections. Reduce distracting noise selectively without eliminating the film texture. Keep the background soft and atmospheric.\n\nCOLOR GRADING: Deep black, burgundy, crimson, burnt orange, and warm amber. Rich shadows, controlled highlights, slightly clearer midtones, and a cohesive cinematic palette.\n\nFINAL TARGET: A faithful recreation of the reference with noticeably improved facial visibility, more readable eyes and hair, and cleaner tonal separation, while retaining the original mysterious, low-key film aesthetic.\n\nNEGATIVE CONSTRAINTS: bright overall exposure, flat lighting, loss of black negative space, oversaturated red, blown highlights, artificial facial reconstruction, altered expression, changed pose, tight close-up, sharp modern digital appearance, excessive denoising, added scenery, text, logos, watermarks."
         }
       ],
-      "last_message_id": 4618,
-      "last_user_message_id": 4618,
+      "last_message_id": 4620,
+      "last_user_message_id": 4620,
       "processed_message_ids": [
         4596,
         4599,
@@ -2883,18 +2888,18 @@
         4610,
         4613,
         4615,
-        4618
+        4618,
+        4620
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "831113c1fe",
-      "revision": 14,
+      "stage_token": "9c73397ee8",
+      "revision": 15,
       "mode": "create",
-      "prompt_sent_token": "831113c1fe",
+      "prompt_sent_token": null,
       "name": "Crimson Noir Portrait",
       "number": 25,
       "suitable": "بازسازی پرتره سینمایی با فضای تاریک و رازآلود، نور قرمز و نارنجی، حفظ ترکیب‌بندی مینیمال و بافت فیلم آنالوگ، با بهبود نور چهره و جزئیات تصویر بدون از بین بردن حس نوآر.",
-      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری",
-      "pending_label": "Nano Banana Pro"
+      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری"
     }
   },
   "settings": {
