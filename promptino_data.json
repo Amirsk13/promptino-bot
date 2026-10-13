@@ -2958,7 +2958,7 @@
       "stage_token": "409f49c3e2",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "409f49c3e2",
       "name": "Wild Water Motion"
     }
   },
