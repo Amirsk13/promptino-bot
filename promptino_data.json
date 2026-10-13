@@ -2561,7 +2561,7 @@
       "stage_token": "71c4dcf1f4",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "71c4dcf1f4",
       "name": "Elegant Blue Suit Mirror Portrait"
     }
   },
