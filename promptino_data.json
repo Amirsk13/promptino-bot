@@ -2924,17 +2924,19 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "price",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 4653,
+      "last_message_id": 4655,
       "processed_message_ids": [],
       "flow_id": "d5dafb5d22c2",
-      "stage_token": "869e50cca4",
+      "stage_token": "69f5b299e7",
       "vip_processed_message_ids": [
-        4653
+        4653,
+        4655
       ],
-      "vip_last_user_message_id": 4653,
-      "title": "Windy Golden Hour For Girls"
+      "vip_last_user_message_id": 4655,
+      "title": "Windy Golden Hour For Girls",
+      "price": 200000
     }
   },
   "active_post_states": {},
