@@ -2924,12 +2924,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [],
       "last_message_id": 4655,
       "processed_message_ids": [],
       "flow_id": "d5dafb5d22c2",
-      "stage_token": "69f5b299e7",
+      "stage_token": "b600f7c18f",
       "vip_processed_message_ids": [
         4653,
         4655
