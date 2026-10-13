@@ -3118,7 +3118,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISz2rOTmxs4jSE3TWtf8DNsAUNcA_FAAItFWsb6X95UqqJakU9FgspAQADAgADeQADPQQ"
       ],
@@ -3134,8 +3134,8 @@
           "prompt": "Generate a realistic square photograph using the uploaded image as a visual guide for composition and atmosphere. Feature a young Iranian woman with a clearly different face, long dark-brown hair in a high half-up ponytail, loose face-framing strands, dark expressive eyes, and a cheerful smile with red lipstick. She sits sideways on a green sofa, turns toward the camera, and holds an open decorative book across her lap with both hands. Her cream outfit features colorful Persian-inspired floral prints; add subtle gold jewelry, a bracelet, and a wristwatch. Recreate the festive Yalda table behind and beside her: red tablecloth, red candles, a red ornamental teapot, pomegranates, watermelon, oranges, grapes, nuts, sweets, and small serving dishes. Use a warm indoor setting with a beige wall, soft golden ambient light, natural skin tones, gentle shadows, and realistic depth of field. Match the reference's three-quarter seated pose, eye-level camera, medium-full framing, green seating, rich red accents, and candid smartphone-photo aesthetic. Keep all details photographic and natural, with accurate hands and book proportions. The face must be noticeably different from the reference while retaining the same overall scene and pose. No text, logos, watermarks, or artificial-looking skin."
         }
       ],
-      "last_message_id": 4836,
-      "last_user_message_id": 4836,
+      "last_message_id": 4839,
+      "last_user_message_id": 4839,
       "processed_message_ids": [
         4815,
         4818,
@@ -3146,17 +3146,19 @@
         4829,
         4832,
         4833,
-        4836
+        4836,
+        4839
       ],
       "flow_id": "a57c44a836ee",
-      "stage_token": "ab79714036",
-      "revision": 13,
+      "stage_token": "90f419b762",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Persian Yalda Portrait",
       "number": 32,
       "suitable": "بازسازی پرتره طبیعی و واقع‌گرایانه با حال‌وهوای شب یلدا، حفظ ژست و ترکیب‌بندی تصویر مرجع و امکان استفاده از چهره‌ای متفاوت برای مدل ایرانی.",
-      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت"
+      "for_what": "• عکس پروفایل و پرتره شخصی\n• تولید محتوای اینستاگرام\n• تصاویر مناسب شب یلدا\n• عکاسی سنتی و مناسبتی ایرانی\n• تولید تصاویر واقع‌گرایانه با هوش مصنوعی\n• بازسازی عکس با مدل و چهره متفاوت",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
