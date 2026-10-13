@@ -2544,14 +2544,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIQ02rNkiqOSR-RtSgEGCmv8zFJRnyOAAIDEGsb6X9xUhTPRwR4LGa7AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQ1WrNkrtmMgLuz6ydRXLMu0qdD9DfAAIEEGsb6X9xUnA4d7Gffh6SAQADAgADdwADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4321,
-      "last_user_message_id": 4321,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Using the attached image as the primary visual reference, recreate the same photorealistic full-length mirror selfie as a feminine version of the original scene. Preserve the exact environment, composition, camera perspective, subject scale, pose, hand positions, lighting, colors, and overall photographic realism.\n\nSUBJECT: A naturally beautiful young adult Iranian woman with realistic facial proportions, natural skin texture, dark eyes, defined eyebrows, and dark hair styled neatly and elegantly. Her appearance should be feminine, sophisticated, and believable, without excessive beauty filters or artificial facial features.\n\nPOSE AND COMPOSITION: Preserve the original standing mirror-selfie pose and full-body framing. The subject stands centered in front of the mirror, with her head slightly tilted downward toward the smartphone screen. Her right hand holds a dark smartphone vertically in front of her upper chest, partially covering the torso, while her left hand rests naturally inside her trouser pocket. Maintain the original relaxed posture, subtle body angle, leg positioning, and natural weight distribution. Do not mirror or reverse the image.\n\nOUTFIT: A tailored royal-blue women's pantsuit inspired by the original blue suit, with a fitted structured blazer, elegant black inner top, matching straight-leg tailored trousers, and understated black footwear. The outfit should look luxurious, contemporary, and appropriately fitted, retaining the original monochromatic blue-and-black styling. Do not add a handbag, hijab, jewelry, or unnecessary accessories.\n\nENVIRONMENT: Reproduce the exact upscale interior: a large full-length mirror bordered by dark textured vertical side panels, a dark walnut-colored wall with closely spaced vertical wooden slats, warm wall lights glowing on both sides, a leafy potted plant on the left, and a narrow dark cabinet on the right holding small decorative objects and a plant. Preserve the gray patterned rug, tiled floor, and visible architectural details.\n\nCAMERA AND LIGHTING: Full-length mirror photograph, eye-level viewpoint, natural smartphone-camera perspective, approximately 35–50mm equivalent field of view. Keep the same distance between the camera and subject, with the entire outfit and surrounding interior visible. Warm ambient tungsten lighting creates soft golden highlights and realistic shadows against the dark wood background. Preserve the original contrast, neutral-to-warm white balance, realistic fabric textures, and moderate depth of field. Keep the background detailed and recognizable rather than excessively blurred.\n\nSTYLE AND QUALITY: Premium fashion photography, authentic mirror-selfie aesthetics, photorealistic anatomy, natural hands and fingers, detailed tailoring, realistic reflections, accurate mirror geometry, and high-resolution photographic texture. The final result must look like a genuine photograph taken in the same room, not a digitally composited fashion advertisement.\n\nPRIORITY: Preserve the reference composition and room first; change only the subject's gender presentation and the minimum clothing details needed to make the feminine version natural. Avoid close-up framing, altered hand positions, reversed orientation, exaggerated curves, plastic skin, distorted reflections, extra fingers, duplicated objects, or invented background elements."
+        }
+      ],
+      "last_message_id": 4323,
+      "last_user_message_id": 4323,
       "processed_message_ids": [
         4307,
         4309,
@@ -2559,18 +2565,18 @@
         4314,
         4316,
         4318,
-        4321
+        4321,
+        4323
       ],
       "flow_id": "0198adfc3d3c",
-      "stage_token": "34d3329f76",
-      "revision": 9,
+      "stage_token": "df7f94d703",
+      "revision": 10,
       "mode": "create",
-      "prompt_sent_token": "34d3329f76",
+      "prompt_sent_token": null,
       "name": "Elegant Blue Suit Mirror Portrait",
       "number": 19,
       "suitable": "بازسازی عکس مرجع با حفظ ژست سلفی آینه‌ای، کت‌وشلوار آبی، دکور لوکس و نور گرم؛ با دو نسخه دخترانه و پسرانه برای",
-      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "بازسازی عکس مرجع با هوش مصنوعی\nساخت نسخه دخترانه و پسرانه از یک صحنه\nتولید پرتره‌های واقع‌گرایانه و فشن\nحفظ ترکیب‌بندی و ژست عکس اصلی\nساخت عکس پروفایل و محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
