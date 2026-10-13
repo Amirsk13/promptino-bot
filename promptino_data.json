@@ -2487,25 +2487,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIQpmrNjVHBFvDSwa-qMKIhw4W8zsRbAAL9D2sb6X9xUqqLRbriyENVAQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIQqGrNjWCTJro92wXV4Am3wJDJtEgcAAL-D2sb6X9xUshWaGHTehjzAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4267,
-      "last_user_message_id": 4267,
+      "last_message_id": 4269,
+      "last_user_message_id": 4269,
       "processed_message_ids": [
         4262,
         4264,
-        4267
+        4267,
+        4269
       ],
       "flow_id": "68a6a041e0a0",
-      "stage_token": "073ba20532",
-      "revision": 4,
+      "stage_token": "2013d8a008",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "073ba20532",
-      "name": "Mountain Meadow Portrait"
+      "prompt_sent_token": "2013d8a008",
+      "name": "Mountain Meadow Portrait",
+      "number": 18
     }
   },
   "settings": {
