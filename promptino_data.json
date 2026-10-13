@@ -3083,7 +3083,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
       ],
@@ -3106,8 +3106,8 @@
         4801
       ],
       "flow_id": "fe56b007288e",
-      "stage_token": "05b905b78b",
-      "revision": 9,
+      "stage_token": "b057aba412",
+      "revision": 10,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Monochrome Mirror Portrait",
