@@ -2801,12 +2801,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [],
       "last_message_id": 4547,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "21da57b084",
+      "stage_token": "2f6b62920e",
       "vip_processed_message_ids": [
         4545,
         4547
