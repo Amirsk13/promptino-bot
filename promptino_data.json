@@ -946,25 +946,6 @@
         69
       ],
       "channel_expires_at": "2026-10-23T09:06:21.598303"
-    },
-    {
-      "id": "VIP-22",
-      "type": "vip",
-      "user_id": 676953423,
-      "contact": "g",
-      "item": "VIP-1",
-      "price": 200000,
-      "payer_name": "gf",
-      "status": "🔵 تحویل داده شد",
-      "payment": "approved",
-      "created_at": "2026-10-13 09:17",
-      "channel_chat": "-1003992937119",
-      "channel_action_message_id": 72,
-      "channel_message_ids": [
-        71,
-        72
-      ],
-      "channel_expires_at": "2026-10-27T09:17:52.551390"
     }
   ],
   "completed_orders": [
@@ -2575,6 +2556,24 @@
       ],
       "channel_expires_at": "2026-10-17T15:48:05.529910",
       "satisfied_at": "2026-10-06T07:20:47.511627"
+    },
+    {
+      "id": "VIP-22",
+      "type": "vip",
+      "user_id": 676953423,
+      "item": "VIP-1",
+      "price": 200000,
+      "status": "🟢 تمام شد",
+      "payment": "approved",
+      "created_at": "2026-10-13 09:17",
+      "channel_chat": "-1003992937119",
+      "channel_action_message_id": 72,
+      "channel_message_ids": [
+        71,
+        72
+      ],
+      "channel_expires_at": "2026-10-27T09:17:52.551390",
+      "satisfied_at": "2026-10-13T09:18:49.351256"
     }
   ],
   "reports": [],
