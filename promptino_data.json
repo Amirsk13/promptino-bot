@@ -3080,56 +3080,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "buttons",
-      "photos": [
-        "AgACAgQAAxkBAAISl2rOL7Z2rBrmX_C7v7pxppGtWLlcAALzFGsb6X95Unk2pLdP7EIAAQEAAwIAA3kAAz0E"
-      ],
-      "buttons": [
-        {
-          "key": "chatgpt",
-          "label": "ChatGPT",
-          "prompt": "Use the uploaded image as the primary visual reference. Recreate an extremely realistic, intimate close-up portrait of a young adult Iranian woman, preserving the reference composition, facial proportions, gaze, hair placement, hand position, and natural photographic appearance. Her face fills almost the entire square frame. She has large expressive dark-brown eyes with detailed catchlights, thick natural dark eyebrows, long eyelashes, a straight delicate nose, softly defined cheekbones, naturally full muted rose-pink lips, and light olive skin with visible pores, subtle natural texture, and a few tiny beauty marks. Her long, thick, nearly black hair is loose and slightly messy, with many fine strands falling across her forehead, eyes, nose, and cheeks. One hand enters from the upper-left edge, gently lifting a section of hair; the fingernails are long, almond-shaped, and pale nude-pink. She wears a simple dark navy-blue top with a small portion of a thin silver necklace visible near the bottom edge. Her expression is calm, serious, and subtly introspective, with her eyes looking directly toward the camera. Soft, diffused natural light illuminates the face evenly, creating gentle shadows and realistic highlights without excessive retouching. Tight eye-level framing, slight three-quarter facial angle, natural close-up smartphone portrait perspective, shallow depth of field, indistinct dark background, crisp eye detail, realistic individual hair strands, restrained natural color grading, square 1:1 composition. Avoid changing the facial structure, over-smoothing the skin, exaggerated makeup, artificial eye enlargement, or beauty-filter effects."
-        },
-        {
-          "key": "gemini",
-          "label": "Gemini",
-          "prompt": "Recreate the supplied reference as a photorealistic square close-up portrait. Subject: a young adult Iranian woman with large deep-brown eyes, thick dark eyebrows, long eyelashes, a delicate straight nose, naturally full dusty-rose lips, light olive skin, visible pores, subtle skin imperfections, and a few tiny beauty marks. Her long, thick black hair is loose and tousled, with fine strands crossing her forehead, eyes, nose, and cheeks. At the upper-left edge, one hand with long pale nude-pink manicured nails gently holds back a lock of hair. She wears a plain dark navy-blue top; a fine silver necklace is barely visible at the bottom. Her face occupies nearly the entire frame, with a slight three-quarter turn while her gaze meets the camera. Expression is quiet, serious, and natural. Soft diffused daylight, realistic skin tones, gentle shadows, delicate highlights in the eyes, dark unobtrusive background, shallow depth of field, crisp eyelashes and hair texture, minimal makeup, authentic smartphone portrait photography. Preserve the tight crop, hand placement, direction of gaze, facial proportions, and loose hair strands from the reference. No glamour retouching, plastic skin, exaggerated features, added accessories, or text."
-        },
-        {
-          "key": "nano_banana_pro",
-          "label": "Nano Banana Pro",
-          "prompt": "Use the uploaded image as a visual reference and recreate the portrait with maximum fidelity to its framing, pose, lighting, and natural texture. Generate a highly photorealistic, tight square close-up of a young adult Iranian woman. Her large dark-brown eyes are the visual focal point; she has thick natural eyebrows, long lashes, a delicate straight nose, full natural rose-toned lips, light olive skin with visible pores and subtle imperfections, and a few small beauty marks. Long, dense black hair frames her face, with irregular wisps crossing the forehead, eyes, nose, and cheeks. One hand is partially visible along the upper-left border, lifting her hair; the nails are long, almond-shaped, and pale pink. A dark navy-blue shirt fills the lower-right area, with a very fine silver chain barely visible near the neckline. Maintain the close camera distance, near-frontal gaze with a subtle three-quarter turn, calm introspective expression, face-dominant composition, and nearly black indistinct background. Use soft natural diffused light, balanced exposure, realistic skin color, subtle facial shadows, detailed irises and eyelashes, individual hair strands, and minimal natural makeup. Preserve authentic photographic imperfections and avoid beautification filters, excessive sharpening, smooth artificial skin, altered facial anatomy, or extra fingers. Output a square 1:1 image."
-        }
-      ],
-      "last_message_id": 4783,
-      "last_user_message_id": 4783,
-      "processed_message_ids": [
-        4759,
-        4762,
-        4764,
-        4766,
-        4768,
-        4771,
-        4773,
-        4776,
-        4778,
-        4781,
-        4783
-      ],
-      "flow_id": "d118463e82ff",
-      "stage_token": "ce58bd86b7",
-      "revision": 15,
-      "mode": "create",
-      "prompt_sent_token": null,
-      "name": "Intense Gaze Portrait",
-      "number": 30,
-      "suitable": "بازسازی پرتره کلوزآپ واقع‌گرایانه با تمرکز بر چشم‌های درشت، موهای مشکی نامرتب، آرایش طبیعی و حفظ جزئیات پوست و بافت چهره.",
-      "for_what": "عکس پروفایل\nپرتره هنری و احساسی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر فوتورئالیستی با هوش مصنوعی\nعکاسی زیبایی و کلوزآپ چهره\nساخت تصاویر با حال‌وهوای طبیعی و سینمایی"
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
