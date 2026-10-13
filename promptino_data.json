@@ -2801,7 +2801,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -2814,21 +2814,23 @@
           "prompt": "Use the attached image as the main reference for a faithful photorealistic image reconstruction. Recreate the same intimate close-up portrait with a young adult Iranian woman, preserving the original framing, facial appearance, hairstyle, sunflower position, lighting, shadows, color palette, and mood.\n\nThe woman has natural light olive skin, a softly defined face, thick dark eyebrows, one clearly visible dark brown almond-shaped eye, long eyelashes, a delicate nose, and full muted rose-brown lips. Her expression is calm and dreamy, with a direct gaze toward the camera. Her dark, slightly wavy hair frames the right side of her face.\n\nA large bright yellow sunflower fills the left foreground, partially covering the woman's face. Its layered golden petals surround a large textured dark brown center. A few small white daisy-like flowers and green stems appear near the bottom-left. The flower is very close to the lens, creating strong foreground depth and overlap.\n\nCOMPOSITION: Square 1:1 extreme close-up. The woman's face occupies the center and right side, while the sunflower fills the left third to half of the frame. Preserve the close crop, partial facial occlusion, visible eye, lips near the lower center, and natural perspective.\n\nLIGHTING: Warm direct late-afternoon sunlight from the upper-left. Bright golden highlights on the petals and skin, delicate sunflower-shaped shadows across the cheek and nose, realistic contrast, and detailed dark hair.\n\nCAMERA: Close-up editorial portrait, natural 70–100mm lens perspective, shallow depth of field, sharp visible eye and flower detail, softly blurred dark background.\n\nSTYLE: Photorealistic beauty photography, realistic skin texture, natural makeup, warm golden tones, rich yellow petals, subtle cinematic color grading, refined detail, and an intimate artistic mood.\n\nPrioritize reference accuracy. Do not move the sunflower to the right, reveal the entire face, change the gaze, remove the floral shadows, or introduce additional props. Avoid distorted petals, unnatural skin, exaggerated makeup, text, logos, and watermarks."
         }
       ],
-      "last_message_id": 4557,
+      "last_message_id": 4560,
       "processed_message_ids": [],
       "flow_id": "6bc683eeb061",
-      "stage_token": "661d54ac84",
+      "stage_token": "a456cd6519",
       "vip_processed_message_ids": [
         4545,
         4547,
         4550,
         4552,
         4555,
-        4557
+        4557,
+        4560
       ],
-      "vip_last_user_message_id": 4557,
+      "vip_last_user_message_id": 4560,
       "title": "Sunflower Shadow Portrait For Girls",
-      "price": 230000
+      "price": 230000,
+      "pending_label": "Nano Banana Pro"
     }
   },
   "active_post_states": {},
