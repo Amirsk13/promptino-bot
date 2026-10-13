@@ -3083,7 +3083,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAISs2rOSk0eiVcQhSB-9MrdoiC__wx9AAIeFWsb6X95UtubQhclEDc6AQADAgADeQADPQQ"
       ],
@@ -3099,8 +3099,8 @@
           "prompt": "Create a photorealistic 1:1 black-and-white mirror selfie based on the uploaded reference. Replace the original subject with a different-looking young Iranian man, with a unique facial structure, thick short dark hair brushed upward, strong eyebrows, dark eyes, a neat light mustache, and a short beard. He wears a casual light-and-dark plaid shirt with an open collar and a thin necklace. Match the reference composition closely: his head leans slightly toward the left side of the image, his face occupies most of the upper-left and center, and he looks into the mirror with a calm, slightly serious expression. His hand holds a vertically oriented smartphone near the right side of his face, partially covering the right side of the composition; a metallic ring is visible on his finger. Use a dark, indistinct indoor background, soft side lighting, pronounced shadows, realistic grayscale contrast, natural skin pores, slight camera softness, and subtle film grain. Keep the image intimate, understated, and unretouched, like an authentic low-light phone selfie. Do not change the pose, camera distance, or overall layout. No color, no extra people, no text, no watermark, no exaggerated facial features."
         }
       ],
-      "last_message_id": 4806,
-      "last_user_message_id": 4806,
+      "last_message_id": 4809,
+      "last_user_message_id": 4809,
       "processed_message_ids": [
         4787,
         4790,
@@ -3110,17 +3110,19 @@
         4799,
         4801,
         4804,
-        4806
+        4806,
+        4809
       ],
       "flow_id": "fe56b007288e",
-      "stage_token": "a160df4b6e",
-      "revision": 13,
+      "stage_token": "8c99042a34",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Monochrome Mirror Portrait",
       "number": 31,
       "suitable": "بازسازی سلفی آینه‌ای مردانه با سبک سیاه‌وسفید، نورپردازی دراماتیک، حفظ ژست و جزئیات چهره و لباس با امکان استفاده از چهره‌ای متفاوت.",
-      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت"
+      "for_what": "عکس پروفایل شخصی\nسلفی سیاه‌وسفید\nپرتره مردانه واقع‌گرایانه\nتولید تصاویر سینمایی\nتولید محتوای اینستاگرام\nبازسازی عکس با چهره متفاوت",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
