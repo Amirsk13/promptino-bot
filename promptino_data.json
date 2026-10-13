@@ -3063,7 +3063,7 @@
       "stage_token": "1c5e989240",
       "revision": 3,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "1c5e989240",
       "name": "Intense Gaze Portrait"
     }
   },
