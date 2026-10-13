@@ -2836,7 +2836,7 @@
       "stage_token": "b286bbc44f",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "b286bbc44f",
       "name": "Emerald Garden Portrait",
       "number": 24
     }
