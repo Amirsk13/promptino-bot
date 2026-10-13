@@ -3048,27 +3048,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAISl2rOL7Z2rBrmX_C7v7pxppGtWLlcAALzFGsb6X95Unk2pLdP7EIAAQEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 4766,
-      "last_user_message_id": 4766,
+      "last_message_id": 4768,
+      "last_user_message_id": 4768,
       "processed_message_ids": [
         4759,
         4762,
         4764,
-        4766
+        4766,
+        4768
       ],
       "flow_id": "d118463e82ff",
-      "stage_token": "513f22968c",
-      "revision": 5,
+      "stage_token": "494da3743d",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "513f22968c",
+      "prompt_sent_token": null,
       "name": "Intense Gaze Portrait",
       "number": 30,
-      "suitable": "بازسازی پرتره کلوزآپ واقع‌گرایانه با تمرکز بر چشم‌های درشت، موهای مشکی نامرتب، آرایش طبیعی و حفظ جزئیات پوست و بافت چهره."
+      "suitable": "بازسازی پرتره کلوزآپ واقع‌گرایانه با تمرکز بر چشم‌های درشت، موهای مشکی نامرتب، آرایش طبیعی و حفظ جزئیات پوست و بافت چهره.",
+      "for_what": "عکس پروفایل\nپرتره هنری و احساسی\nتولید محتوای اینستاگرام و پینترست\nساخت تصاویر فوتورئالیستی با هوش مصنوعی\nعکاسی زیبایی و کلوزآپ چهره\nساخت تصاویر با حال‌وهوای طبیعی و سینمایی"
     }
   },
   "settings": {
