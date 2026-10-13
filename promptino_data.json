@@ -2713,7 +2713,7 @@
       "stage_token": "53bce6939f",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "53bce6939f",
       "name": "Soft Rose Portrait",
       "number": 21
     }
