@@ -2855,7 +2855,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIR9GrOHS3VWfLNcuYdgFQ1CX2SjKa5AALNFGsb6X95UoI9cUCAWvOKAQADAgADeQADPQQ"
       ],
@@ -2871,8 +2871,8 @@
           "prompt": "Recreate the uploaded image as a cinematic, photorealistic analog-film portrait. Use the reference image to preserve the subject placement, facial direction, dark hair, horizontal composition, red-orange background illumination, deep black negative space, and vintage film texture.\n\nA young adult woman with long dark hair appears in the center of a dim, mysterious scene. Her head is slightly turned, and she gazes toward image-left with a subtle, introspective expression. Only part of her face emerges from the darkness.\n\nCOMPOSITION: Square 1:1 canvas. Keep a large nearly black area across the top third and bottom of the image. Place the woman within a narrow horizontal band across the middle, slightly right of center. Her face must remain relatively small in the overall frame. Preserve the original distant framing and negative space.\n\nBACKGROUND: An indistinct dark interior with a horizontal crimson and burnt-orange illuminated strip behind the subject. Add a narrow warm vertical highlight above her head. No distinct furniture or additional props.\n\nLIGHTING: Preserve the dramatic low-key aesthetic. Improve facial visibility with a soft, directional amber key light on the eyes, nose, cheekbones, and lips. Gently raise shadow detail in the face and hair while keeping the surrounding areas almost black. Add subtle warm highlights to individual hair strands and retain deep shadows, rich reds, and controlled highlights.\n\nIMAGE QUALITY: Increase clarity around the face without removing the authentic analog appearance. Keep organic film grain, subtle dust, tiny scratches, slight halation, soft background focus, and restrained vintage imperfections. Avoid excessive noise that obscures the subject.\n\nCOLOR: Deep blacks, burgundy, crimson, burnt orange, and warm amber. Cinematic contrast with slightly improved exposure and balanced midtones.\n\nThe final image should feel like a still from an obscure vintage film: mysterious, atmospheric, intimate, and dark, but with the woman's expression and facial details more clearly visible. Maintain the original composition and avoid over-brightening the image, changing the pose, zooming in, adding objects, or introducing text or logos."
         }
       ],
-      "last_message_id": 4615,
-      "last_user_message_id": 4615,
+      "last_message_id": 4618,
+      "last_user_message_id": 4618,
       "processed_message_ids": [
         4596,
         4599,
@@ -2882,17 +2882,19 @@
         4608,
         4610,
         4613,
-        4615
+        4615,
+        4618
       ],
       "flow_id": "8b37ba6380bd",
-      "stage_token": "68f722831b",
-      "revision": 13,
+      "stage_token": "831113c1fe",
+      "revision": 14,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Crimson Noir Portrait",
       "number": 25,
       "suitable": "بازسازی پرتره سینمایی با فضای تاریک و رازآلود، نور قرمز و نارنجی، حفظ ترکیب‌بندی مینیمال و بافت فیلم آنالوگ، با بهبود نور چهره و جزئیات تصویر بدون از بین بردن حس نوآر.",
-      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری"
+      "for_what": "عکس پروفایل سینمایی\nتولید محتوای اینستاگرام\nپرتره‌های هنری و رازآلود\nپوسترهای سینمایی\nطراحی کاور موسیقی\nعکاسی با سبک فیلم آنالوگ\nبازسازی تصاویر کم‌نور با حفظ فضای هنری",
+      "pending_label": "Nano Banana Pro"
     }
   },
   "settings": {
