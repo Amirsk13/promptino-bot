@@ -2366,7 +2366,8 @@
         4
       ],
       "channel_expires_at": "2026-10-14T16:53:52.789901",
-      "satisfied_at": "2026-09-30T17:03:23.328939"
+      "satisfied_at": "2026-09-30T17:03:23.328939",
+      "channel_deleted": true
     },
     {
       "id": "CUST-8",
@@ -2394,7 +2395,8 @@
         7
       ],
       "channel_expires_at": "2026-10-14T16:56:16.701195",
-      "satisfied_at": "2026-09-30T17:03:47.074652"
+      "satisfied_at": "2026-09-30T17:03:47.074652",
+      "channel_deleted": true
     },
     {
       "id": "LOGO-8",
@@ -2421,7 +2423,8 @@
         9
       ],
       "channel_expires_at": "2026-10-14T17:00:20.311316",
-      "satisfied_at": "2026-09-30T17:05:08.685931"
+      "satisfied_at": "2026-09-30T17:05:08.685931",
+      "channel_deleted": true
     },
     {
       "id": "ORD-14",
