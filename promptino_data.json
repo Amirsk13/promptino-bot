@@ -2471,7 +2471,8 @@
         143
       ],
       "channel_expires_at": "2026-10-16T10:39:13.421511",
-      "satisfied_at": "2026-10-02T10:47:06.099245"
+      "satisfied_at": "2026-10-02T10:47:06.099245",
+      "channel_deleted": true
     },
     {
       "id": "CUST-9",
@@ -2498,7 +2499,8 @@
         146
       ],
       "channel_expires_at": "2026-10-16T10:46:23.356969",
-      "satisfied_at": "2026-10-02T10:47:59.252779"
+      "satisfied_at": "2026-10-02T10:47:59.252779",
+      "channel_deleted": true
     },
     {
       "id": "VIP-18",
