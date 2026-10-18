@@ -2670,7 +2670,8 @@
         32
       ],
       "channel_expires_at": "2026-10-18T12:49:17.983019",
-      "satisfied_at": "2026-10-04T12:52:13.660330"
+      "satisfied_at": "2026-10-04T12:52:13.660330",
+      "channel_deleted": true
     },
     {
       "id": "CUST-13",
@@ -2698,7 +2699,8 @@
         35
       ],
       "channel_expires_at": "2026-10-18T12:50:45.805209",
-      "satisfied_at": "2026-10-04T12:54:22.018344"
+      "satisfied_at": "2026-10-04T12:54:22.018344",
+      "channel_deleted": true
     },
     {
       "id": "LOGO-11",
@@ -2725,7 +2727,8 @@
         37
       ],
       "channel_expires_at": "2026-10-18T12:51:22.185084",
-      "satisfied_at": "2026-10-04T12:54:34.929524"
+      "satisfied_at": "2026-10-04T12:54:34.929524",
+      "channel_deleted": true
     },
     {
       "id": "CUST-14",
@@ -2753,7 +2756,8 @@
         45
       ],
       "channel_expires_at": "2026-10-18T16:10:54.370301",
-      "satisfied_at": "2026-10-04T16:14:16.473385"
+      "satisfied_at": "2026-10-04T16:14:16.473385",
+      "channel_deleted": true
     },
     {
       "id": "ORD-16",
@@ -2840,7 +2844,8 @@
         47
       ],
       "channel_expires_at": "2026-10-18T16:11:56.326553",
-      "satisfied_at": "2026-10-05T08:48:46.737591"
+      "satisfied_at": "2026-10-05T08:48:46.737591",
+      "channel_deleted": true
     },
     {
       "id": "CUST-15",
