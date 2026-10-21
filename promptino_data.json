@@ -2932,7 +2932,8 @@
         54
       ],
       "channel_expires_at": "2026-10-19T07:47:47.823221",
-      "satisfied_at": "2026-10-05T08:49:32.058422"
+      "satisfied_at": "2026-10-05T08:49:32.058422",
+      "channel_deleted": true
     },
     {
       "id": "LOGO-14",
@@ -2961,7 +2962,8 @@
         58,
         59
       ],
-      "channel_expires_at": "2026-10-19T08:41:48.172519"
+      "channel_expires_at": "2026-10-19T08:41:48.172519",
+      "channel_deleted": true
     },
     {
       "id": "VIP-20",
@@ -2980,7 +2982,8 @@
         60,
         61
       ],
-      "channel_expires_at": "2026-10-19T08:45:40.487445"
+      "channel_expires_at": "2026-10-19T08:45:40.487445",
+      "channel_deleted": true
     },
     {
       "id": "ORD-18",
