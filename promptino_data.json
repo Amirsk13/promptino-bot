@@ -1443,7 +1443,8 @@
         68,
         69
       ],
-      "channel_expires_at": "2026-10-23T09:06:21.598303"
+      "channel_expires_at": "2026-10-23T09:06:21.598303",
+      "channel_deleted": true
     }
   ],
   "completed_orders": [
