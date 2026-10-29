@@ -3092,7 +3092,8 @@
         72
       ],
       "channel_expires_at": "2026-10-27T09:17:52.551390",
-      "satisfied_at": "2026-10-13T09:18:49.351256"
+      "satisfied_at": "2026-10-13T09:18:49.351256",
+      "channel_deleted": true
     },
     {
       "id": "VIP-23",
@@ -3110,7 +3111,8 @@
         74
       ],
       "channel_expires_at": "2026-10-27T09:20:08.723038",
-      "satisfied_at": "2026-10-13T09:21:01.035589"
+      "satisfied_at": "2026-10-13T09:21:01.035589",
+      "channel_deleted": true
     }
   ],
   "reports": [],
