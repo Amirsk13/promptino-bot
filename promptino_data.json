@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
@@ -3201,8 +3201,8 @@
           "prompt": "Use the attached reference image as the primary visual reference. Create a masculine version of the same portrait, preserving the original scene, camera angle, head position, facial direction, expression, background, lighting, and overall composition.\n\nSUBJECT:\nA handsome young adult Iranian man with naturally masculine facial features, a defined but realistic jawline, moderately prominent cheekbones, thick dark eyebrows, dark brown eyes, a straight nose, naturally shaped lips, and realistic warm light-to-medium skin. Add subtle, natural short stubble along the jaw and upper lip.\n\nHAIRSTYLE — IMPORTANT:\nGive him a distinctly masculine haircut. Thick, short-to-medium black hair with natural volume and textured waves, styled upward and slightly backward. The sides should be shorter and neatly tapered, while the top remains fuller and naturally messy. A few subtle strands may fall toward the forehead.\nNO bun, NO ponytail, NO tied hair, NO long feminine curls, and NO feminine half-up hairstyle.\n\nCLOTHING — IMPORTANT:\nA simple masculine black crew-neck T-shirt with a standard rounded neckline. The fabric should look like natural cotton, with a clean, understated, masculine fit. The neckline must not be wide, low-cut, or feminine. No decorative feminine details. A subtle silver chain is optional.\n\nPOSE AND EXPRESSION:\nMaintain the exact original three-quarter head angle. His head is gently tilted downward and slightly toward the viewer's right. His eyes are lowered, and he has a subtle, relaxed smile. Preserve the original facial placement and expression.\n\nBACKGROUND:\nThe same cool pale-gray interior wall with faint abstract dark decorative lines. Do not replace or simplify the background.\n\nCAMERA:\nProfessional head-and-shoulders portrait, approximately 70–85mm full-frame equivalent, natural facial proportions, slightly elevated camera position, realistic perspective, and moderate shallow depth of field. Preserve the original camera distance and framing.\n\nLIGHTING:\nSoft diffused studio lighting, gentle shadows around the nose and jawline, natural highlights on the forehead and hair, and warm realistic skin tones contrasted against the cool gray background.\n\nSTYLE:\nPhotorealistic masculine editorial portrait, natural skin pores, detailed short textured hair, realistic facial anatomy, subtle cinematic color grading, and professional photography quality.\n\nCRITICAL REQUIREMENTS:\nThe hairstyle and clothing must look unmistakably masculine. Keep the hair short and untied. Use a conventional black men's crew-neck T-shirt. Do not make him look feminine or androgynous. Do not alter the original pose, composition, camera distance, or background.\n\nSquare 1:1 aspect ratio."
         }
       ],
-      "last_message_id": 4917,
-      "last_user_message_id": 4917,
+      "last_message_id": 4920,
+      "last_user_message_id": 4920,
       "processed_message_ids": [
         4896,
         4898,
@@ -3213,17 +3213,19 @@
         4910,
         4912,
         4915,
-        4917
+        4917,
+        4920
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "b07b0e4b54",
-      "revision": 14,
+      "stage_token": "d1c0593958",
+      "revision": 15,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 33,
       "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
-      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی",
+      "pending_label": "Gemini-Girl"
     }
   },
   "settings": {
