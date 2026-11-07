@@ -3181,25 +3181,7 @@
   },
   "active_order_states": {},
   "active_admin_states": {},
-  "active_post_states": {
-    "676953423": {
-      "type": "post",
-      "step": "photos",
-      "photos": [],
-      "buttons": [],
-      "last_message_id": 4890,
-      "last_user_message_id": 4890,
-      "processed_message_ids": [
-        4890
-      ],
-      "flow_id": "0b24c846040b",
-      "stage_token": "e2369e2766",
-      "revision": 0,
-      "mode": "create",
-      "last_input_fingerprint": "|",
-      "last_input_at": 19154124.716254886
-    }
-  },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
