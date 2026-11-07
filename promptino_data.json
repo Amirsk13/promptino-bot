@@ -3184,14 +3184,20 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
       ],
-      "buttons": [],
-      "last_message_id": 4910,
-      "last_user_message_id": 4910,
+      "buttons": [
+        {
+          "key": "chatgpt_girl",
+          "label": "ChatGPT-Girl",
+          "prompt": "Use the attached reference image as the primary visual reference. Recreate the same elegant, photorealistic portrait of a young adult Iranian woman, preserving the original composition, pose, facial angle, hairstyle, clothing style, lighting, and background.\n\nSUBJECT:\nA beautiful young Iranian woman with a naturally elegant oval face, defined dark eyebrows, almond-shaped dark brown eyes, subtle neutral eyeshadow, fine eyeliner, a straight delicate nose, naturally full muted rose-colored lips, and realistic warm light-to-medium skin. Maintain natural facial proportions and authentic skin texture.\n\nHAIRSTYLE:\nLong, thick, glossy black hair styled in an elegant voluminous high half-up bun, with the remaining hair flowing behind the shoulders. Two loose, naturally curled strands frame both sides of the face. Preserve the original hairstyle's volume and arrangement.\n\nCLOTHING:\nA simple elegant black top with a wide neckline and a delicate silver necklace. Minimal accessories.\n\nPOSE AND EXPRESSION:\nHer head is gently tilted downward and turned slightly toward the viewer's right. Her eyes are lowered, nearly closed, and her lips form a subtle, natural smile. Preserve the original three-quarter facial angle and relaxed expression.\n\nBACKGROUND:\nA cool pale-gray interior wall with faint, abstract dark decorative lines. Preserve the background's appearance, position, and soft-focus details.\n\nCAMERA:\nProfessional head-and-shoulders portrait, approximately 70–85mm full-frame portrait lens, natural perspective, slightly elevated camera position, and realistic moderate shallow depth of field. Maintain the original subject-to-frame ratio. Do not zoom closer.\n\nLIGHTING:\nSoft diffused studio lighting, gentle facial shadows, delicate highlights on the cheeks and glossy hair, and natural warm skin tones against the cool gray background.\n\nSTYLE:\nHigh-end photorealistic beauty photography, cinematic softness, realistic skin pores, detailed individual hair strands, natural anatomy, refined color grading, and no artificial beauty filters.\n\nPreserve the reference image as closely as possible. Do not change the composition, pose, camera distance, or environment. Square 1:1 aspect ratio."
+        }
+      ],
+      "last_message_id": 4912,
+      "last_user_message_id": 4912,
       "processed_message_ids": [
         4896,
         4898,
@@ -3199,18 +3205,18 @@
         4903,
         4905,
         4907,
-        4910
+        4910,
+        4912
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "5671542645",
-      "revision": 9,
+      "stage_token": "43e430955d",
+      "revision": 10,
       "mode": "create",
-      "prompt_sent_token": "5671542645",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 33,
       "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
-      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی",
-      "pending_label": "ChatGPT-Girl"
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
