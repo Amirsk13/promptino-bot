@@ -3187,13 +3187,17 @@
       "step": "photos",
       "photos": [],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 4890,
+      "last_user_message_id": 4890,
+      "processed_message_ids": [
+        4890
+      ],
       "flow_id": "0b24c846040b",
       "stage_token": "e2369e2766",
       "revision": 0,
-      "mode": "create"
+      "mode": "create",
+      "last_input_fingerprint": "|",
+      "last_input_at": 19154124.716254886
     }
   },
   "settings": {
