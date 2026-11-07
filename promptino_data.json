@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
@@ -3204,10 +3204,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Recreate the attached reference as a highly realistic portrait of a young adult Iranian woman. Use the image as a strict visual reference for composition and photographic style.\n\nPreserve the original three-quarter facial angle, downward gaze, subtle smile, head tilt, tight head-and-shoulders framing, and subject placement.\n\nFACE:\nNaturally elegant oval face, dark almond-shaped eyes, full dark eyebrows, subtle neutral eye makeup, straight nose, naturally full rose-colored lips, and realistic warm light-to-medium skin.\n\nHAIR:\nLong, thick, glossy black hair arranged in a voluminous high half-up bun, with long hair flowing behind the shoulders and two loose curled strands framing the face.\n\nCLOTHING:\nElegant simple black top with a wide neckline and a delicate silver necklace.\n\nBACKGROUND:\nCool pale-gray interior wall with subtle blurred dark abstract decorative lines. Keep the same background structure and atmosphere.\n\nCAMERA AND LIGHT:\n70–85mm portrait lens appearance, natural perspective, slightly elevated camera angle, soft diffused studio lighting, gentle facial shadows, realistic hair highlights, and moderate depth of field.\n\nVISUAL QUALITY:\nPremium editorial beauty photography, photorealistic skin texture, detailed hair, natural anatomy, restrained color grading, and elegant cinematic atmosphere.\n\nDo not change the pose, background, framing, lighting direction, or camera distance. Avoid excessive blur and artificial skin smoothing.\n\nSquare 1:1 composition."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Transform the attached reference into a photorealistic masculine portrait of a young adult Iranian man.\n\nIMPORTANT: Preserve the original photograph's composition and atmosphere. Only adapt the subject's facial characteristics, hairstyle, and clothing to a clearly masculine appearance.\n\nFACE:\nA handsome young adult Iranian man with a naturally masculine oval-to-angular face, defined jawline, moderately prominent cheekbones, thick dark eyebrows, dark brown eyes, straight nose, natural lips, and subtle short facial stubble. Realistic warm skin tone and natural skin texture.\n\nMASCULINE HAIRSTYLE:\nShort-to-medium thick black hair, naturally wavy and textured, with a fuller top styled upward and backward. Shorter, neatly tapered sides. Slightly tousled, modern men's hairstyle.\nThe hair must remain completely untied.\nNo bun, no ponytail, no long hair, and no feminine curls.\n\nMASCULINE CLOTHING:\nA plain black men's crew-neck T-shirt with a standard rounded neckline and natural cotton texture. The neckline should be modest and fitted naturally around the neck. Avoid wide, low-cut, or feminine necklines.\n\nPOSE:\nMaintain the exact three-quarter head angle, downward tilt, lowered gaze, and gentle smile from the reference. Do not change the head position or facial direction.\n\nBACKGROUND:\nThe same pale cool-gray interior with faint dark abstract decorative lines. Preserve its appearance and placement.\n\nPHOTOGRAPHY:\nProfessional 70–85mm portrait lens appearance, natural perspective, tight head-and-shoulders framing, moderate shallow depth of field, soft diffused studio lighting, realistic shadows, and natural warm skin tones.\n\nFINAL RESULT:\nA handsome, natural-looking masculine portrait that feels like the male counterpart of the original photograph. Clearly masculine haircut, clearly masculine clothing, authentic skin texture, realistic facial anatomy, and premium editorial photography quality.\n\nDo not zoom in, change the composition, replace the background, or introduce unnecessary accessories.\n\nSquare 1:1 aspect ratio."
         }
       ],
-      "last_message_id": 4924,
-      "last_user_message_id": 4924,
+      "last_message_id": 4927,
+      "last_user_message_id": 4927,
       "processed_message_ids": [
         4896,
         4898,
@@ -3221,18 +3226,18 @@
         4917,
         4920,
         4922,
-        4924
+        4924,
+        4927
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "dca21b7235",
-      "revision": 18,
+      "stage_token": "9369871a31",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "dca21b7235",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 33,
       "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
-      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
