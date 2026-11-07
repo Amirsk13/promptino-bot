@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
@@ -3206,8 +3206,8 @@
           "prompt": "Recreate the attached reference as a highly realistic portrait of a young adult Iranian woman. Use the image as a strict visual reference for composition and photographic style.\n\nPreserve the original three-quarter facial angle, downward gaze, subtle smile, head tilt, tight head-and-shoulders framing, and subject placement.\n\nFACE:\nNaturally elegant oval face, dark almond-shaped eyes, full dark eyebrows, subtle neutral eye makeup, straight nose, naturally full rose-colored lips, and realistic warm light-to-medium skin.\n\nHAIR:\nLong, thick, glossy black hair arranged in a voluminous high half-up bun, with long hair flowing behind the shoulders and two loose curled strands framing the face.\n\nCLOTHING:\nElegant simple black top with a wide neckline and a delicate silver necklace.\n\nBACKGROUND:\nCool pale-gray interior wall with subtle blurred dark abstract decorative lines. Keep the same background structure and atmosphere.\n\nCAMERA AND LIGHT:\n70–85mm portrait lens appearance, natural perspective, slightly elevated camera angle, soft diffused studio lighting, gentle facial shadows, realistic hair highlights, and moderate depth of field.\n\nVISUAL QUALITY:\nPremium editorial beauty photography, photorealistic skin texture, detailed hair, natural anatomy, restrained color grading, and elegant cinematic atmosphere.\n\nDo not change the pose, background, framing, lighting direction, or camera distance. Avoid excessive blur and artificial skin smoothing.\n\nSquare 1:1 composition."
         }
       ],
-      "last_message_id": 4922,
-      "last_user_message_id": 4922,
+      "last_message_id": 4924,
+      "last_user_message_id": 4924,
       "processed_message_ids": [
         4896,
         4898,
@@ -3220,17 +3220,19 @@
         4915,
         4917,
         4920,
-        4922
+        4922,
+        4924
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "457bd49624",
-      "revision": 17,
+      "stage_token": "dca21b7235",
+      "revision": 18,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "dca21b7235",
       "name": "Elegant Cinematic Portrait",
       "number": 33,
       "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
-      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
