@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
@@ -3214,10 +3214,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION\n\nUse the attached image as the primary reference. Recreate the photograph with maximum visual similarity.\n\nSUBJECT:\nYoung adult Iranian woman with an elegant oval face, naturally defined dark eyebrows, almond-shaped dark brown eyes, subtle neutral eye makeup, straight nose, full natural rose lips, and realistic warm light-to-medium skin.\n\nHAIR:\nThick, glossy black hair with a voluminous high half-up bun, long flowing hair behind the shoulders, and two loose curled strands framing the face.\n\nWARDROBE:\nSimple elegant black wide-neck top and delicate silver necklace.\n\nPOSE LOCK:\nPreserve the exact original three-quarter face angle, head tilt, downward gaze, subtle smile, and facial placement. Do not mirror or modify the pose.\n\nBACKGROUND LOCK:\nPreserve the original cool pale-gray interior wall and subtle blurred dark abstract decorative lines. Do not replace the environment.\n\nCAMERA:\n70–85mm portrait photography appearance, tight head-and-shoulders crop, natural perspective, same camera distance, same subject scale, and moderate realistic depth of field.\n\nLIGHTING:\nSoft diffused studio lighting, natural facial shadows, subtle highlights, warm skin tones, and cool gray background.\n\nQUALITY:\nPhotorealistic high-end beauty photography, natural skin pores, detailed individual hair strands, accurate facial anatomy, realistic textures, and restrained cinematic color grading.\n\nMaintain the reference image's composition, proportions, atmosphere, and visual identity. Square 1:1."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "IMAGE-TO-IMAGE RECONSTRUCTION — MASCULINE VERSION\n\nUse the attached original female portrait as the primary reference. Generate its masculine counterpart while preserving the original scene, photographic composition, lighting, camera position, and background.\n\nPRIORITY 1 — MASCULINE HAIR:\nReplace the original feminine hairstyle entirely with a modern masculine haircut:\n- Thick black hair.\n- Short-to-medium length.\n- Naturally wavy and textured.\n- Voluminous top with a slightly messy upward and backward styling.\n- Short, neatly tapered sides.\n- Natural masculine hairline.\n- No tied hair.\n- No bun.\n- No ponytail.\n- No long feminine curls.\n\nPRIORITY 2 — MASCULINE CLOTHING:\nReplace the original wide-neck feminine top with a simple black men's crew-neck T-shirt.\nStandard rounded neckline, modest neck opening, natural cotton fabric, and clean masculine fit.\nNo low-cut neckline, no off-shoulder styling, and no feminine clothing details.\n\nFACE:\nA handsome young adult Iranian man with a naturally masculine oval-to-angular face, defined jawline, moderately prominent cheekbones, thick dark eyebrows, dark brown eyes, straight nose, natural lips, and subtle realistic stubble. Keep facial proportions believable and skin texture natural.\n\nPOSE LOCK:\nMaintain the original three-quarter facial angle, gently lowered head, downward gaze, subtle smile, and exact subject placement. Do not mirror the image.\n\nBACKGROUND LOCK:\nKeep the original cool pale-gray interior wall with the same subtle blurred dark abstract decorative lines. Do not replace, remove, or redesign the background.\n\nCAMERA LOCK:\nPreserve the original tight head-and-shoulders framing, camera distance, perspective, and square crop. Use a realistic 70–85mm portrait lens appearance. Do not zoom closer or crop excessively.\n\nLIGHTING LOCK:\nMaintain soft diffused studio lighting, gentle facial shadows, natural highlights, warm realistic skin tones, and the original cool gray background.\n\nFINAL STYLE:\nHigh-end photorealistic masculine editorial portrait, natural skin pores, realistic facial anatomy, detailed short textured hair, natural cotton clothing texture, accurate proportions, and subtle cinematic color grading.\n\nSTRICT NEGATIVE REQUIREMENTS:\nNo feminine hairstyle, no bun, no ponytail, no long tied hair, no feminine curls, no wide neckline, no low-cut shirt, no feminine clothing, no exaggerated beard, no artificial skin, no distorted face, no changed pose, no different background, and no excessive background blur.\n\nThe final image must look like a real photograph of the male counterpart of the original subject.\n\nSquare 1:1 aspect ratio."
         }
       ],
-      "last_message_id": 4935,
-      "last_user_message_id": 4935,
+      "last_message_id": 4937,
+      "last_user_message_id": 4937,
       "processed_message_ids": [
         4896,
         4898,
@@ -3235,18 +3240,18 @@
         4927,
         4930,
         4932,
-        4935
+        4935,
+        4937
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "3ef929b8ff",
-      "revision": 24,
+      "stage_token": "2b8fbff468",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "3ef929b8ff",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 33,
       "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
-      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
