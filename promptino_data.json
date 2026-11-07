@@ -3202,7 +3202,7 @@
       "stage_token": "c4abc988ff",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "c4abc988ff",
       "name": "Elegant Cinematic Portrait",
       "number": 33
     }
