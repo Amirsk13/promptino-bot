@@ -3185,15 +3185,21 @@
     "676953423": {
       "type": "post",
       "step": "photos",
-      "photos": [],
+      "photos": [
+        "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ"
+      ],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 4896,
+      "last_user_message_id": 4896,
+      "processed_message_ids": [
+        4896
+      ],
       "flow_id": "6cfb338f1d2d",
       "stage_token": "0aaa03c312",
-      "revision": 0,
-      "mode": "create"
+      "revision": 1,
+      "mode": "create",
+      "last_input_fingerprint": "|AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
+      "last_input_at": 19154258.60342808
     }
   },
   "settings": {
