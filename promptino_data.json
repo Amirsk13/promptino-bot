@@ -3184,29 +3184,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITIGruyvxFqleJmOSSrKvsKpA6rXbcAAL6DWsbA4B5U_qpMemp_X5YAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITImruywN_4Z6ggoqKaELlZg6WT5_xAAL7DWsbA4B5U5LCwVyqAVsbAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4905,
-      "last_user_message_id": 4905,
+      "last_message_id": 4907,
+      "last_user_message_id": 4907,
       "processed_message_ids": [
         4896,
         4898,
         4901,
         4903,
-        4905
+        4905,
+        4907
       ],
       "flow_id": "6cfb338f1d2d",
-      "stage_token": "8ea0e76454",
-      "revision": 6,
+      "stage_token": "1db63e27a3",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "8ea0e76454",
+      "prompt_sent_token": null,
       "name": "Elegant Cinematic Portrait",
       "number": 33,
-      "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم"
+      "suitable": "پرتره‌های دخترانه و پسرانه با استایل آتلیه‌ای، موهای مشکی حالت‌دار و نورپردازی سینمایی ملایم",
+      "for_what": "عکس پروفایل حرفه‌ای\nپرتره آتلیه‌ای\nتصاویر فشن و مدلینگ\nساخت تصاویر دخترانه و پسرانه\nتولید محتوای شبکه‌های اجتماعی"
     }
   },
   "settings": {
