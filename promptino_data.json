@@ -1333,6 +1333,31 @@
         498,
         499
       ]
+    },
+    "p33": {
+      "title": "Cozy Teddy Portrait",
+      "suitable": "بازسازی پرتره‌های صمیمی و احساسی با عروسک پولیشی، نور گرم سینمایی و حفظ چهره و ترکیب‌بندی تصویر مرجع.",
+      "for": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی",
+      "price": 0,
+      "variants": {
+        "chatgpt": {
+          "label": "ChatGPT",
+          "prompt": "Use the uploaded image as the primary visual reference. Recreate the same intimate, warm close-up portrait while preserving the subject's facial identity and natural features.\n\nA young woman with long, dark brown, slightly tousled hair and loose strands falling naturally across her forehead and face. She has defined eyebrows, almond-shaped brown eyes with elegant black winged eyeliner, natural warm-toned skin, and softly defined nude-rose lips. Small delicate stud earrings are visible.\n\nShe is cuddling a large, fluffy cream-white teddy bear positioned prominently in the left foreground, partially covering the left side of her face. The teddy bear has soft plush fur, a glossy black eye, and a pale pinkish muzzle. Her hand gently wraps around the teddy bear near the bottom of the frame. Her cheek is very close to the plush toy, creating an intimate and cozy composition.\n\nShe wears a simple black outfit. Preserve the exact relative positioning of the face, teddy bear, hand, and shoulders.\n\nTight square close-up portrait, camera at eye level, natural perspective, intimate framing, shallow depth of field with the face and teddy bear clearly detailed. Warm golden directional lighting from the upper right, subtle highlights on the hair, soft natural shadows, rich amber tones, realistic skin texture, cinematic warm color grading.\n\nPhotorealistic photography, natural facial proportions, detailed individual hair strands, realistic plush fabric texture, soft and cozy atmosphere.\n\nDo not change the composition, do not remove the teddy bear, do not reposition the hand, do not exaggerate facial features, and avoid artificial skin smoothing."
+        },
+        "gemini": {
+          "label": "Gemini",
+          "prompt": "Analyze the uploaded reference image and recreate it as closely as possible using image-to-image generation. Prioritize composition, subject positioning, facial proportions, lighting, and realistic details.\n\nCreate an intimate square close-up portrait of a young woman cuddling a large cream-white fluffy teddy bear. Her long dark brown hair is loosely tousled, with several natural strands falling across her forehead, eyes, and cheeks. She has expressive brown almond-shaped eyes, sharp black winged eyeliner, defined natural eyebrows, warm skin, and softly full nude-rose lips. Small delicate stud earrings are visible.\n\nThe teddy bear occupies much of the left foreground, partially obscuring the left side of her face. Its fluffy off-white fur, glossy black eye, and pale pink muzzle are clearly visible. Her hand gently embraces the bear at the lower part of the image. Her face is positioned extremely close to the teddy bear, maintaining the same intimate interaction as the reference.\n\nShe wears a simple black top. Preserve the original pose, hand placement, head angle, facial expression, and relative proportions of all objects.\n\nCamera: tight close-up portrait, eye-level perspective, square 1:1 composition. Lighting: warm golden directional light from the upper right, glowing highlights across her hair, soft shadows, natural skin texture, and rich amber-brown tones. Maintain a softly blurred background without losing important subject details.\n\nStyle: highly realistic editorial portrait photography, cinematic warmth, natural imperfections, detailed hair and plush textures.\n\nStrictly avoid changing the framing, enlarging the face, moving the teddy bear, altering the hand position, or introducing additional objects."
+        },
+        "nano_banana_pro": {
+          "label": "Nano Banana Pro",
+          "prompt": "Recreate the uploaded reference image with maximum visual fidelity. Use the reference as the primary image guide and preserve the original composition rather than creating a new interpretation.\n\nSUBJECT:\nA young woman with long, dark brown, naturally messy hair. Loose wispy strands fall across her forehead, around her eyes, and along her cheeks. Defined eyebrows, almond-shaped brown eyes, black winged eyeliner, naturally warm skin, and softly full nude-rose lips. Small subtle stud earrings.\n\nPOSE AND COMPOSITION:\nShe is cuddling a large, fluffy cream-white teddy bear. The bear occupies the left foreground and partially covers the left side of her face. Its glossy black eye, pale pink muzzle, and soft textured fur are visible. Her hand gently embraces the teddy bear near the lower edge of the frame. Her face is very close to the bear, with a relaxed, intimate expression. She wears a simple black outfit.\n\nCAMERA AND FRAMING:\nTight square close-up, eye-level camera angle, natural perspective. Keep the exact relative size and placement of the woman's face, teddy bear, hand, and shoulders. Do not convert the image into a wider portrait or extreme facial close-up.\n\nLIGHTING AND COLOR:\nWarm golden directional illumination from the upper right, subtle amber highlights on the hair, soft realistic facial shadows, warm brown and cream color palette, natural skin texture, and cinematic contrast.\n\nIMAGE QUALITY:\nPhotorealistic, high-detail editorial portrait photography, realistic hair strands, detailed plush fabric, natural facial anatomy, authentic skin texture, soft background separation, intimate cozy atmosphere.\n\nPRESERVATION RULES:\nMaintain the original pose, facial expression, head angle, teddy bear position, hand placement, clothing, and lighting direction. Do not mirror the composition, remove important elements, add accessories, exaggerate makeup, or apply artificial beauty filters."
+        }
+      },
+      "photos": [
+        "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
+      ],
+      "channel_message_ids": [],
+      "archive_message_ids": []
     }
   },
   "vip": {
