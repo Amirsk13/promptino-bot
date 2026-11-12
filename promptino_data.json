@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
@@ -3193,10 +3193,15 @@
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the same intimate, warm close-up portrait while preserving the subject's facial identity and natural features.\n\nA young woman with long, dark brown, slightly tousled hair and loose strands falling naturally across her forehead and face. She has defined eyebrows, almond-shaped brown eyes with elegant black winged eyeliner, natural warm-toned skin, and softly defined nude-rose lips. Small delicate stud earrings are visible.\n\nShe is cuddling a large, fluffy cream-white teddy bear positioned prominently in the left foreground, partially covering the left side of her face. The teddy bear has soft plush fur, a glossy black eye, and a pale pinkish muzzle. Her hand gently wraps around the teddy bear near the bottom of the frame. Her cheek is very close to the plush toy, creating an intimate and cozy composition.\n\nShe wears a simple black outfit. Preserve the exact relative positioning of the face, teddy bear, hand, and shoulders.\n\nTight square close-up portrait, camera at eye level, natural perspective, intimate framing, shallow depth of field with the face and teddy bear clearly detailed. Warm golden directional lighting from the upper right, subtle highlights on the hair, soft natural shadows, rich amber tones, realistic skin texture, cinematic warm color grading.\n\nPhotorealistic photography, natural facial proportions, detailed individual hair strands, realistic plush fabric texture, soft and cozy atmosphere.\n\nDo not change the composition, do not remove the teddy bear, do not reposition the hand, do not exaggerate facial features, and avoid artificial skin smoothing."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Analyze the uploaded reference image and recreate it as closely as possible using image-to-image generation. Prioritize composition, subject positioning, facial proportions, lighting, and realistic details.\n\nCreate an intimate square close-up portrait of a young woman cuddling a large cream-white fluffy teddy bear. Her long dark brown hair is loosely tousled, with several natural strands falling across her forehead, eyes, and cheeks. She has expressive brown almond-shaped eyes, sharp black winged eyeliner, defined natural eyebrows, warm skin, and softly full nude-rose lips. Small delicate stud earrings are visible.\n\nThe teddy bear occupies much of the left foreground, partially obscuring the left side of her face. Its fluffy off-white fur, glossy black eye, and pale pink muzzle are clearly visible. Her hand gently embraces the bear at the lower part of the image. Her face is positioned extremely close to the teddy bear, maintaining the same intimate interaction as the reference.\n\nShe wears a simple black top. Preserve the original pose, hand placement, head angle, facial expression, and relative proportions of all objects.\n\nCamera: tight close-up portrait, eye-level perspective, square 1:1 composition. Lighting: warm golden directional light from the upper right, glowing highlights across her hair, soft shadows, natural skin texture, and rich amber-brown tones. Maintain a softly blurred background without losing important subject details.\n\nStyle: highly realistic editorial portrait photography, cinematic warmth, natural imperfections, detailed hair and plush textures.\n\nStrictly avoid changing the framing, enlarging the face, moving the teddy bear, altering the hand position, or introducing additional objects."
         }
       ],
-      "last_message_id": 5007,
-      "last_user_message_id": 5007,
+      "last_message_id": 5009,
+      "last_user_message_id": 5009,
       "processed_message_ids": [
         4990,
         4993,
@@ -3205,18 +3210,18 @@
         4999,
         5002,
         5004,
-        5007
+        5007,
+        5009
       ],
       "flow_id": "260f86215168",
-      "stage_token": "1dfe5fb2cb",
-      "revision": 11,
+      "stage_token": "9845562cf0",
+      "revision": 12,
       "mode": "create",
-      "prompt_sent_token": "1dfe5fb2cb",
+      "prompt_sent_token": null,
       "name": "Cozy Teddy Portrait",
       "number": 33,
       "suitable": "بازسازی پرتره‌های صمیمی و احساسی با عروسک پولیشی، نور گرم سینمایی و حفظ چهره و ترکیب‌بندی تصویر مرجع.",
-      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی",
-      "pending_label": "Gemini"
+      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی"
     }
   },
   "settings": {
