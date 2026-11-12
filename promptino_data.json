@@ -1356,8 +1356,18 @@
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        107
+      ],
+      "archive_message_ids": [
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520
+      ]
     }
   },
   "vip": {
