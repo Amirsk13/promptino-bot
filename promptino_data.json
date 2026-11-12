@@ -3184,29 +3184,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4999,
-      "last_user_message_id": 4999,
+      "last_message_id": 5002,
+      "last_user_message_id": 5002,
       "processed_message_ids": [
         4990,
         4993,
         4995,
         4997,
-        4999
+        4999,
+        5002
       ],
       "flow_id": "260f86215168",
-      "stage_token": "eba4081489",
-      "revision": 7,
+      "stage_token": "d40e284b76",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Cozy Teddy Portrait",
       "number": 33,
       "suitable": "بازسازی پرتره‌های صمیمی و احساسی با عروسک پولیشی، نور گرم سینمایی و حفظ چهره و ترکیب‌بندی تصویر مرجع.",
-      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی"
+      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی",
+      "pending_label": "ChatGPT"
     }
   },
   "settings": {
