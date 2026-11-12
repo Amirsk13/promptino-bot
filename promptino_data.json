@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
@@ -3195,8 +3195,8 @@
           "prompt": "Use the uploaded image as the primary visual reference. Recreate the same intimate, warm close-up portrait while preserving the subject's facial identity and natural features.\n\nA young woman with long, dark brown, slightly tousled hair and loose strands falling naturally across her forehead and face. She has defined eyebrows, almond-shaped brown eyes with elegant black winged eyeliner, natural warm-toned skin, and softly defined nude-rose lips. Small delicate stud earrings are visible.\n\nShe is cuddling a large, fluffy cream-white teddy bear positioned prominently in the left foreground, partially covering the left side of her face. The teddy bear has soft plush fur, a glossy black eye, and a pale pinkish muzzle. Her hand gently wraps around the teddy bear near the bottom of the frame. Her cheek is very close to the plush toy, creating an intimate and cozy composition.\n\nShe wears a simple black outfit. Preserve the exact relative positioning of the face, teddy bear, hand, and shoulders.\n\nTight square close-up portrait, camera at eye level, natural perspective, intimate framing, shallow depth of field with the face and teddy bear clearly detailed. Warm golden directional lighting from the upper right, subtle highlights on the hair, soft natural shadows, rich amber tones, realistic skin texture, cinematic warm color grading.\n\nPhotorealistic photography, natural facial proportions, detailed individual hair strands, realistic plush fabric texture, soft and cozy atmosphere.\n\nDo not change the composition, do not remove the teddy bear, do not reposition the hand, do not exaggerate facial features, and avoid artificial skin smoothing."
         }
       ],
-      "last_message_id": 5004,
-      "last_user_message_id": 5004,
+      "last_message_id": 5007,
+      "last_user_message_id": 5007,
       "processed_message_ids": [
         4990,
         4993,
@@ -3204,17 +3204,19 @@
         4997,
         4999,
         5002,
-        5004
+        5004,
+        5007
       ],
       "flow_id": "260f86215168",
-      "stage_token": "099bbac2e8",
-      "revision": 10,
+      "stage_token": "1dfe5fb2cb",
+      "revision": 11,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Cozy Teddy Portrait",
       "number": 33,
       "suitable": "بازسازی پرتره‌های صمیمی و احساسی با عروسک پولیشی، نور گرم سینمایی و حفظ چهره و ترکیب‌بندی تصویر مرجع.",
-      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی"
+      "for_what": "• عکس پروفایل\n• پرتره دخترانه\n• تصاویر احساسی و صمیمی\n• تولید محتوای اینستاگرام\n• عکاسی فانتزی و رمانتیک\n• بازسازی عکس با هوش مصنوعی",
+      "pending_label": "Gemini"
     }
   },
   "settings": {
