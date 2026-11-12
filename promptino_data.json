@@ -3184,7 +3184,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
@@ -3199,8 +3199,8 @@
         4999
       ],
       "flow_id": "260f86215168",
-      "stage_token": "986289704a",
-      "revision": 6,
+      "stage_token": "eba4081489",
+      "revision": 7,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Cozy Teddy Portrait",
