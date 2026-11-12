@@ -3184,23 +3184,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAITfmr1hmARNHlitDVMR7Ax7RlTh8pGAAIHD2sbZ12wUwRs8ENZ-JnyAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 4993,
-      "last_user_message_id": 4993,
+      "last_message_id": 4995,
+      "last_user_message_id": 4995,
       "processed_message_ids": [
         4990,
-        4993
+        4993,
+        4995
       ],
       "flow_id": "260f86215168",
-      "stage_token": "797fe3284b",
-      "revision": 3,
+      "stage_token": "562ab54744",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": "797fe3284b",
-      "name": "Cozy Teddy Portrait"
+      "prompt_sent_token": null,
+      "name": "Cozy Teddy Portrait",
+      "number": 33
     }
   },
   "settings": {
