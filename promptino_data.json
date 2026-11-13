@@ -3219,23 +3219,25 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "name",
+      "step": "number",
       "photos": [
         "AgACAgQAAxkBAAITmmr3dJcZcLlHTkRDRg_wd4EzQ954AALmEGsbbkG4U7HH9JE_aGICAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITnGr3dO2dQrTmq5wslW8vW3EpywtlAALnEGsbbkG4U4vB7xXqJsD3AQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5020,
-      "last_user_message_id": 5020,
+      "last_message_id": 5023,
+      "last_user_message_id": 5023,
       "processed_message_ids": [
         5018,
-        5020
+        5020,
+        5023
       ],
       "flow_id": "d887470353e7",
-      "stage_token": "c779cc7162",
-      "revision": 3,
+      "stage_token": "97d57138a9",
+      "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null
+      "prompt_sent_token": null,
+      "name": "Luxury Car Pose"
     }
   },
   "settings": {
