@@ -3219,7 +3219,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITmmr3dJcZcLlHTkRDRg_wd4EzQ954AALmEGsbbkG4U7HH9JE_aGICAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITnGr3dO2dQrTmq5wslW8vW3EpywtlAALnEGsbbkG4U4vB7xXqJsD3AQADAgADeQADPQQ"
@@ -3241,8 +3241,8 @@
           "prompt": "Recreate the uploaded reference as a highly realistic luxury street-fashion photograph. Use image reference guidance to preserve the exact black sports car, architectural background, camera perspective, muted color palette, and overall framing.\n\nCreate a stylish young woman with long dark hair wearing an elegant all-black outfit consisting of a fitted black long-sleeved top, black trousers, and black ankle boots.\n\nIMPORTANT POSE CHANGE: Remove the original hands-on-head pose completely. Both hands must be placed naturally on the hood of the car behind her. Her arms should extend downward and slightly outward, with relaxed elbows and anatomically correct wrists and fingers. Both hands must visibly touch the car.\n\nKeep her standing directly in front of the vehicle, maintaining the original full-body fashion-model composition.\n\nPreserve the black car's front headlights, grille, hood, windshield, glossy reflections, and proportions. Keep the modern light-colored building with large windows in the background.\n\nFull-body portrait, eye-level camera, natural perspective, soft overcast daylight, cinematic desaturated gray tones, deep black clothing, realistic shadows, premium editorial fashion photography.\n\nMaximum fidelity to the reference environment and car. Only modify the subject's pose and necessary gender-specific styling. No hands on head, no hands in hair, no hands near the face."
         }
       ],
-      "last_message_id": 5044,
-      "last_user_message_id": 5044,
+      "last_message_id": 5047,
+      "last_user_message_id": 5047,
       "processed_message_ids": [
         5018,
         5020,
@@ -3255,17 +3255,19 @@
         5037,
         5039,
         5042,
-        5044
+        5044,
+        5047
       ],
       "flow_id": "d887470353e7",
-      "stage_token": "d7ff365877",
-      "revision": 17,
+      "stage_token": "216d4ebe67",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Luxury Car Pose",
       "number": 34,
       "suitable": "بازسازی تصاویر فشن و خیابانی کنار خودروهای لوکس با استایل مشکی، ژست مدلینگ و فضای سینمایی.",
-      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو"
+      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
