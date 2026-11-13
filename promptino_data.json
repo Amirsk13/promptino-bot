@@ -3219,7 +3219,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITmmr3dJcZcLlHTkRDRg_wd4EzQ954AALmEGsbbkG4U7HH9JE_aGICAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITnGr3dO2dQrTmq5wslW8vW3EpywtlAALnEGsbbkG4U4vB7xXqJsD3AQADAgADeQADPQQ"
@@ -3234,10 +3234,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the same luxury street-fashion photograph, preserving the original scene, black sports car, building facade, camera perspective, lighting, and overall composition.\n\nBOY VERSION:\nA stylish young man with dark hair, wearing a modern fitted all-black outfit: a black long-sleeved shirt or minimalist black top, tailored black trousers, and black leather boots. Add a simple masculine wristwatch if aesthetically appropriate.\n\nPOSE MODIFICATION — IMPORTANT:\nHis hands must NOT touch his head, hair, face, or neck. Instead, both hands should rest naturally on the black car's hood, with his arms comfortably extended downward and slightly outward. His palms or fingertips should make realistic contact with the car's hood. Maintain a confident, relaxed masculine fashion-model posture.\n\nSCENE:\nA sleek black luxury sports car parked directly behind him, viewed from the front. Preserve its headlights, grille, hood, windshield, and glossy dark bodywork. A modern light-colored building with large rectangular windows forms the background. Keep the original urban architectural environment.\n\nCAMERA AND LIGHTING:\nFull-body fashion photograph, eye-level perspective, natural male body proportions, centered composition, realistic distance from the camera. Muted cinematic colors, soft overcast daylight, subtle reflections on the car, slightly desaturated gray background, deep blacks and natural skin tones.\n\nPhotorealistic editorial street-fashion photography, realistic anatomy, detailed clothing textures, natural shadows.\n\nKeep the car and background recognizable and compositionally close to the reference. Do not place his hands on his head. Both hands must visibly rest on the car."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Recreate the uploaded reference as a highly realistic luxury street-fashion photograph. Use image reference guidance to preserve the exact black sports car, architectural background, camera perspective, muted color palette, and overall framing.\n\nCreate a stylish young woman with long dark hair wearing an elegant all-black outfit consisting of a fitted black long-sleeved top, black trousers, and black ankle boots.\n\nIMPORTANT POSE CHANGE: Remove the original hands-on-head pose completely. Both hands must be placed naturally on the hood of the car behind her. Her arms should extend downward and slightly outward, with relaxed elbows and anatomically correct wrists and fingers. Both hands must visibly touch the car.\n\nKeep her standing directly in front of the vehicle, maintaining the original full-body fashion-model composition.\n\nPreserve the black car's front headlights, grille, hood, windshield, glossy reflections, and proportions. Keep the modern light-colored building with large windows in the background.\n\nFull-body portrait, eye-level camera, natural perspective, soft overcast daylight, cinematic desaturated gray tones, deep black clothing, realistic shadows, premium editorial fashion photography.\n\nMaximum fidelity to the reference environment and car. Only modify the subject's pose and necessary gender-specific styling. No hands on head, no hands in hair, no hands near the face."
         }
       ],
-      "last_message_id": 5042,
-      "last_user_message_id": 5042,
+      "last_message_id": 5044,
+      "last_user_message_id": 5044,
       "processed_message_ids": [
         5018,
         5020,
@@ -3249,18 +3254,18 @@
         5034,
         5037,
         5039,
-        5042
+        5042,
+        5044
       ],
       "flow_id": "d887470353e7",
-      "stage_token": "294ce86a64",
-      "revision": 15,
+      "stage_token": "37bb62e09a",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "294ce86a64",
+      "prompt_sent_token": null,
       "name": "Luxury Car Pose",
       "number": 34,
       "suitable": "بازسازی تصاویر فشن و خیابانی کنار خودروهای لوکس با استایل مشکی، ژست مدلینگ و فضای سینمایی.",
-      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو",
-      "pending_label": "Gemini-Girl"
+      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو"
     }
   },
   "settings": {
