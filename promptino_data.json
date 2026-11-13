@@ -3237,7 +3237,7 @@
       "stage_token": "5bd1732b3d",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "5bd1732b3d",
       "name": "Luxury Car Pose",
       "number": 34
     }
