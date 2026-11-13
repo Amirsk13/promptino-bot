@@ -3219,7 +3219,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITmmr3dJcZcLlHTkRDRg_wd4EzQ954AALmEGsbbkG4U7HH9JE_aGICAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITnGr3dO2dQrTmq5wslW8vW3EpywtlAALnEGsbbkG4U4vB7xXqJsD3AQADAgADeQADPQQ"
@@ -3249,10 +3249,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "Use the uploaded image as the exact visual reference. Reconstruct the photograph with maximum image-to-image fidelity.\n\nGIRL:\nA fashionable young woman with long dark hair, wearing a fitted black long-sleeved top, black trousers, black ankle boots, and subtle elegant accessories.\n\nPOSE CHANGE IS MANDATORY:\nCompletely remove the original hands-on-head pose. Place BOTH hands directly on the hood of the black sports car behind her. Her arms extend naturally downward and slightly outward. Hands must visibly make contact with the hood, with realistic finger placement, wrist angles, and natural arm anatomy. Do not leave either hand floating or touching her head.\n\nCOMPOSITION:\nFull-body standing fashion portrait, subject positioned centrally in front of the same black sports car. Preserve the vehicle's front-facing orientation, headlights, grille, hood, windshield, side mirrors, glossy reflections, and overall proportions.\n\nBACKGROUND:\nSame modern light-colored building with large rectangular windows. Preserve the original urban environment.\n\nOUTFIT:\nElegant monochromatic black styling, fitted silhouette, black ankle boots, minimal accessories.\n\nCAMERA:\nEye-level, natural perspective, full-body framing, realistic camera-to-subject distance.\n\nLIGHTING:\nSoft overcast daylight, muted cinematic gray color grading, realistic shadows, subtle reflections on the vehicle, natural skin tones.\n\nSTYLE:\nPhotorealistic luxury street-fashion editorial, high-detail textures, natural anatomy, realistic clothing folds.\n\nSTRICT REQUIREMENTS:\nPreserve the reference car, environment, lighting, camera angle, and framing. Change the pose so both hands rest on the car hood. No hands on head, hair, face, or neck."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "Use the uploaded image as the exact visual reference. Reconstruct the photograph with maximum image-to-image fidelity.\n\nBOY:\nA fashionable young man with dark hair, wearing a fitted black long-sleeved shirt, tailored black trousers, black leather boots, and a simple masculine wristwatch if aesthetically appropriate.\n\nPOSE CHANGE IS MANDATORY:\nCompletely remove the original hands-on-head pose. Place BOTH hands directly on the hood of the black sports car behind him. His arms extend naturally downward and slightly outward. Hands must visibly make contact with the hood, with realistic finger placement, wrist angles, and natural male arm anatomy. Do not leave either hand floating or touching his head.\n\nCOMPOSITION:\nFull-body standing fashion portrait, subject positioned centrally in front of the same black sports car. Preserve the vehicle's front-facing orientation, headlights, grille, hood, windshield, side mirrors, glossy reflections, and overall proportions.\n\nBACKGROUND:\nSame modern light-colored building with large rectangular windows. Preserve the original urban environment.\n\nOUTFIT:\nModern masculine monochromatic black styling, tailored silhouette, black leather boots, minimal accessories.\n\nCAMERA:\nEye-level, natural perspective, full-body framing, realistic camera-to-subject distance.\n\nLIGHTING:\nSoft overcast daylight, muted cinematic gray color grading, realistic shadows, subtle reflections on the vehicle, natural skin tones.\n\nSTYLE:\nPhotorealistic luxury street-fashion editorial, high-detail textures, natural anatomy, realistic clothing folds.\n\nSTRICT REQUIREMENTS:\nPreserve the reference car, environment, lighting, camera angle, and framing. Change the pose so both hands rest on the car hood. No hands on head, hair, face, or neck."
         }
       ],
-      "last_message_id": 5057,
-      "last_user_message_id": 5057,
+      "last_message_id": 5059,
+      "last_user_message_id": 5059,
       "processed_message_ids": [
         5018,
         5020,
@@ -3270,18 +3275,18 @@
         5049,
         5052,
         5054,
-        5057
+        5057,
+        5059
       ],
       "flow_id": "d887470353e7",
-      "stage_token": "1f3e7d5dce",
-      "revision": 24,
+      "stage_token": "5deaab3a3c",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "1f3e7d5dce",
+      "prompt_sent_token": null,
       "name": "Luxury Car Pose",
       "number": 34,
       "suitable": "بازسازی تصاویر فشن و خیابانی کنار خودروهای لوکس با استایل مشکی، ژست مدلینگ و فضای سینمایی.",
-      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "• عکس پروفایل\n• تصاویر مدلینگ دخترانه و پسرانه\n• تولید محتوای اینستاگرام\n• عکاسی فشن و خیابانی\n• تصاویر لوکس و اسپرت\n• تصاویر کنار خودرو"
     }
   },
   "settings": {
