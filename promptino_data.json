@@ -3333,7 +3333,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIT9GsBtkMuI-PUP6KvXBcf64FkrM2zAAJ6EmsbqHkQUK7lb2isAAHmVwEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIT9msBtknjfCSLEHcFx5TbKjs_SG2MAAJ7EmsbqHkQUFyIE7Ekg7IfAQADAgADeQADPQQ"
@@ -3379,8 +3379,8 @@
         5139
       ],
       "flow_id": "717edba78a6e",
-      "stage_token": "0bd36358ce",
-      "revision": 19,
+      "stage_token": "61917042fe",
+      "revision": 20,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Apocalyptic Double Exposure",
