@@ -3294,7 +3294,7 @@
       "stage_token": "9b2b25daf9",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "9b2b25daf9",
       "name": "Rainy Cinematic Portrait",
       "number": 35
     }
