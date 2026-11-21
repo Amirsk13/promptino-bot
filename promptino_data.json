@@ -1518,8 +1518,27 @@
         "AgACAgQAAxkBAAIT9GsBtkMuI-PUP6KvXBcf64FkrM2zAAJ6EmsbqHkQUK7lb2isAAHmVwEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIT9msBtknjfCSLEHcFx5TbKjs_SG2MAAJ7EmsbqHkQUFyIE7Ekg7IfAQADAgADeQADPQQ"
       ],
-      "channel_message_ids": [],
-      "archive_message_ids": []
+      "channel_message_ids": [
+        114,
+        115,
+        116
+      ],
+      "archive_message_ids": [
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562
+      ]
     }
   },
   "vip": {
