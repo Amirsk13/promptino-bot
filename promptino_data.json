@@ -3276,31 +3276,33 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5074,
-      "last_user_message_id": 5074,
+      "last_message_id": 5077,
+      "last_user_message_id": 5077,
       "processed_message_ids": [
         5063,
         5065,
         5068,
         5070,
         5072,
-        5074
+        5074,
+        5077
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "2de63f4a04",
-      "revision": 8,
+      "stage_token": "243f594798",
+      "revision": 9,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "settings": {
