@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3293,8 +3293,8 @@
           "prompt": "Use the uploaded image as a strict visual reference. Recreate the same cinematic rainy portrait as a young Iranian man with natural Middle Eastern masculine facial features.\n\nIDENTITY AND APPEARANCE:\nCreate a naturally handsome young man with dark eyebrows, dark eyes, realistic facial proportions, subtle masculine facial structure, natural skin texture, and slightly wet, messy dark hair. Avoid exaggerated masculinity or artificial beauty filters.\n\nPOSE AND HAND POSITION — CRITICAL:\nThe man must lean his head naturally against one hand.\n\nThe hand must have exactly five anatomically correct fingers:\n- INDEX FINGER: Extended naturally and resting against the forehead, just above the eyebrow.\n- THUMB: Positioned against the cheek, gently supporting the face.\n- MIDDLE FINGER: Bent inward toward the palm.\n- RING FINGER: Bent inward and naturally curled.\n- LITTLE FINGER: Fully curled inward alongside the other folded fingers.\n\nThe index finger and thumb must be clearly distinguishable. The three remaining fingers must be naturally folded, not extended, hidden unnaturally, fused, or missing.\n\nMaintain realistic finger joints, knuckles, palm proportions, wrist alignment, and natural contact between the hand and face. The head must visibly rest against the hand without looking forced.\n\nEXPRESSION:\nDirect eye contact with a calm, slightly melancholic and introspective expression.\n\nRAIN AND WET EFFECT:\nVisible falling rain throughout the scene. Realistic water droplets on the forehead, cheeks, nose, hand, hair, and dark clothing. Hair must be genuinely wet, with individual strands sticking naturally to the forehead and face.\n\nCLOTHING:\nDark masculine outerwear or a black rain jacket, naturally soaked with rainwater.\n\nENVIRONMENT:\nDeep green, softly blurred outdoor background. Preserve the original atmospheric forest-like setting.\n\nCAMERA AND LIGHTING:\nSquare 1:1 composition, tight cinematic portrait, approximately 85mm lens, natural perspective, shallow depth of field, sharp facial details, soft overcast daylight, cool muted green and charcoal tones.\n\nSTYLE:\nUltra-photorealistic cinematic editorial photography, realistic skin texture, detailed wet hair, authentic rainfall, natural shadows, subtle film grain.\n\nSTRICT ANATOMY RULES:\nExactly five fingers, one thumb and four fingers. Never generate three-finger hands, missing fingers, extra fingers, fused fingers, duplicated fingers, or malformed joints. Keep the index finger extended, thumb on cheek, and middle, ring, and little fingers folded inward.\n\nPreserve the original atmosphere, framing, camera distance, and composition. The result must look like a real photograph taken in the rain."
         }
       ],
-      "last_message_id": 5084,
-      "last_user_message_id": 5084,
+      "last_message_id": 5087,
+      "last_user_message_id": 5087,
       "processed_message_ids": [
         5063,
         5065,
@@ -3305,17 +3305,19 @@
         5077,
         5079,
         5082,
-        5084
+        5084,
+        5087
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "e356ee52f6",
-      "revision": 14,
+      "stage_token": "22e15ccd0f",
+      "revision": 15,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
+      "pending_label": "Gemini-Girl"
     }
   },
   "settings": {
