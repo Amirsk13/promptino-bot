@@ -3351,7 +3351,7 @@
       "stage_token": "63332a5d86",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "63332a5d86",
       "name": "Apocalyptic Double Exposure",
       "number": 36
     }
