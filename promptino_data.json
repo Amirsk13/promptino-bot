@@ -3350,7 +3350,7 @@
       "stage_token": "57d483457e",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "57d483457e",
       "name": "Apocalyptic Double Exposure"
     }
   },
