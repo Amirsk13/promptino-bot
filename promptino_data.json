@@ -3390,7 +3390,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIUIWsBuSGCu4NyylC9R8R-2wiEHKfZAAJ8EmsbqHkQUEmp0pqanCAgAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIUI2sBuSZWwrYZkxqQewABVB8edP6yoQACfhJrG6h5EFCbqAhLCtqaEQEAAwIAA3kAAz0E"
@@ -3417,8 +3417,8 @@
           "prompt": "Use the uploaded image as a strict image-to-image reference. Recreate the same seaside photograph with a young adult Iranian man while preserving the original composition, pose, camera position, environment, lighting, and overall photographic style.\n\nSUBJECT:\nA young adult Iranian man with dark hair styled in a casual small bun, a few loose strands around the forehead, oversized dark sunglasses, and a relaxed natural expression. Realistic Iranian facial features, natural skin texture, and believable proportions.\n\nPOSE LOCK:\nMaintain the exact original unmirrored pose. The man stands near the center, slightly left of the large foreground palm. His right hand adjusts the sunglasses near his right temple, while his left hand rests naturally on his left thigh. Preserve the original hand placement, elbow angles, wrist orientation, head tilt, shoulder posture, and body direction.\n\nCLOTHING:\nAn oversized taupe-gray short-sleeved T-shirt, dark charcoal-gray pencil-gray wide-leg trousers, dark sunglasses, a simple black smartwatch on the left wrist, and light chunky sneakers.\n\nThe trousers must be dark neutral charcoal gray, not green, blue, or pure black. Use a relaxed straight-leg fit, natural fabric folds, and realistic draping over the sneakers. Preserve the original minimalist casual style.\n\nENVIRONMENT:\nA bright seaside promenade with a massive textured date palm dominating the right foreground. Its long fronds extend across the upper frame. A second tall palm stands in the middle-left background. Preserve the blue sea, distant horizon, pale sky, waterfront railing, simple benches, small distant palms, beige concrete walkway, circular stone border around the main palm, and detailed palm-frond shadows.\n\nCAMERA AND FRAMING:\nSquare 1:1 aspect ratio, full-body environmental portrait, head and both shoes visible. Eye-level camera, moderate distance, approximately 35–40mm equivalent lens. Keep the subject at the same scale and position as the reference. Maintain the original horizon, palm-tree placement, and large surrounding environment. No close-up, cropping, mirroring, or artificial wide-angle distortion.\n\nLIGHTING AND COLORS:\nBright natural midday sunlight, crisp realistic shadows, pale blue sky, blue-turquoise sea, beige pavement, taupe-gray shirt, charcoal-gray trousers, and realistic skin tones. Avoid exaggerated saturation and artificial color grading.\n\nFINAL REQUIREMENTS:\nGenerate a highly realistic photograph that closely matches the reference in composition, pose, hand placement, clothing style, camera distance, environment, and lighting. Change the subject to a young Iranian man and use charcoal-gray trousers instead of green trousers. Do not add people, accessories, or objects that are not needed. Keep the background recognizable and detailed."
         }
       ],
-      "last_message_id": 5184,
-      "last_user_message_id": 5184,
+      "last_message_id": 5187,
+      "last_user_message_id": 5187,
       "processed_message_ids": [
         5153,
         5155,
@@ -3433,17 +3433,19 @@
         5177,
         5179,
         5182,
-        5184
+        5184,
+        5187
       ],
       "flow_id": "325fe8641a89",
-      "stage_token": "b0b648617b",
-      "revision": 20,
+      "stage_token": "a3573fbe17",
+      "revision": 21,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 37,
       "suitable": "بازسازی عکس پرتره تمام‌قد در فضای ساحلی با مدل دختر یا پسر ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع و استایل کژوال تابستانی.",
-      "for_what": "بازسازی تصاویر با هوش مصنوعی\nتبدیل مدل دخترانه به پسرانه و برعکس\nساخت عکس پرتره تمام‌قد\nتولید تصاویر فشن و استایل خیابانی\nساخت عکس پروفایل و محتوای اینستاگرام\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر واقع‌گرایانه با حفظ محیط و ژست"
+      "for_what": "بازسازی تصاویر با هوش مصنوعی\nتبدیل مدل دخترانه به پسرانه و برعکس\nساخت عکس پرتره تمام‌قد\nتولید تصاویر فشن و استایل خیابانی\nساخت عکس پروفایل و محتوای اینستاگرام\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر واقع‌گرایانه با حفظ محیط و ژست",
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "settings": {
