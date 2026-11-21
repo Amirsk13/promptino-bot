@@ -3276,25 +3276,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5068,
-      "last_user_message_id": 5068,
+      "last_message_id": 5070,
+      "last_user_message_id": 5070,
       "processed_message_ids": [
         5063,
         5065,
-        5068
+        5068,
+        5070
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "fc0a8a9581",
-      "revision": 4,
+      "stage_token": "9b2b25daf9",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "fc0a8a9581",
-      "name": "Rainy Cinematic Portrait"
+      "prompt_sent_token": null,
+      "name": "Rainy Cinematic Portrait",
+      "number": 35
     }
   },
   "settings": {
