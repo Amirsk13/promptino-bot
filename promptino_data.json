@@ -3390,29 +3390,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIUIWsBuSGCu4NyylC9R8R-2wiEHKfZAAJ8EmsbqHkQUEmp0pqanCAgAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAIUI2sBuSZWwrYZkxqQewABVB8edP6yoQACfhJrG6h5EFCbqAhLCtqaEQEAAwIAA3kAAz0E"
       ],
       "buttons": [],
-      "last_message_id": 5162,
-      "last_user_message_id": 5162,
+      "last_message_id": 5164,
+      "last_user_message_id": 5164,
       "processed_message_ids": [
         5153,
         5155,
         5158,
         5160,
-        5162
+        5162,
+        5164
       ],
       "flow_id": "325fe8641a89",
-      "stage_token": "f0fc39c220",
-      "revision": 6,
+      "stage_token": "9d10d18a84",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "f0fc39c220",
+      "prompt_sent_token": null,
       "name": "Palm Beach Casual Portrait",
       "number": 37,
-      "suitable": "بازسازی عکس پرتره تمام‌قد در فضای ساحلی با مدل دختر یا پسر ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع و استایل کژوال تابستانی."
+      "suitable": "بازسازی عکس پرتره تمام‌قد در فضای ساحلی با مدل دختر یا پسر ایرانی، حفظ ژست و ترکیب‌بندی تصویر مرجع و استایل کژوال تابستانی.",
+      "for_what": "بازسازی تصاویر با هوش مصنوعی\nتبدیل مدل دخترانه به پسرانه و برعکس\nساخت عکس پرتره تمام‌قد\nتولید تصاویر فشن و استایل خیابانی\nساخت عکس پروفایل و محتوای اینستاگرام\nاستفاده در ابزارهای Image-to-Image\nساخت تصاویر واقع‌گرایانه با حفظ محیط و ژست"
     }
   },
   "settings": {
