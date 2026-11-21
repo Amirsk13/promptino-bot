@@ -3333,7 +3333,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIT9GsBtkMuI-PUP6KvXBcf64FkrM2zAAJ6EmsbqHkQUK7lb2isAAHmVwEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIT9msBtknjfCSLEHcFx5TbKjs_SG2MAAJ7EmsbqHkQUFyIE7Ekg7IfAQADAgADeQADPQQ"
@@ -3348,10 +3348,15 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the uploaded reference image as the exact visual reference. Recreate the original cinematic double-exposure artwork with maximum visual fidelity, preserving the male subject, facial profile, composition, and artistic atmosphere.\n\nSUBJECT:\nA young man shown in a large, left-facing side-profile portrait. He has naturally thick dark hair with moderate and controlled volume, a realistic textured hairstyle, strong masculine eyebrows, a defined nose, expressive dark eyes, and a neat short beard and mustache.\n\nIMPORTANT HAIR DETAILS:\nKeep the top hair naturally textured with moderate volume. The sides and especially the hair behind the ears and around the back of the neck must be short, neat, and closely trimmed. Avoid excessive hair volume behind the head, a bulky neckline, long hair at the nape, or an exaggerated lion-like silhouette.\n\nHis expression is serious, introspective, and melancholic. He wears understated dark clothing that blends into the lower silhouette.\n\nDOUBLE EXPOSURE:\nSeamlessly integrate a devastated post-apocalyptic city inside the man's head, hair, neck, and upper-body silhouette.\n\nThe internal cityscape includes tall ruined buildings, damaged facades, broken architectural structures, a narrow devastated street, atmospheric smoke, and a dramatic glowing orange sunset.\n\nA single small human silhouette walks away toward the sunset along the ruined street.\n\nCRITICAL INTERNAL COMPOSITION:\nMake the walking figure relatively small and position it slightly left of the center of the internal street. Reduce excessive empty space and dark margins on the right side. Bring the right-side ruined buildings closer to the central composition.\n\nThe entire cityscape, including the street, buildings, walking figure, and sunset, must fit naturally inside the man's head and neck silhouette. Do not let the internal city extend beyond the right boundary of his profile. Keep the composition compact and visually balanced.\n\nBACKGROUND:\nWarm distressed sepia paper texture, subtle dark speckles, aged grain, and a vintage golden-brown atmosphere.\n\nLIGHTING:\nDeep cinematic shadows, warm amber highlights, burnt-orange sunset, dark brown tones, atmospheric haze, subtle glowing embers, and natural golden rim lighting.\n\nSTYLE:\nPhotorealistic cinematic double-exposure photography, surreal post-apocalyptic conceptual art, vintage movie-poster aesthetic, realistic masculine facial anatomy, detailed short hair and beard, dramatic contrast, and distressed analog-film finish.\n\nPRESERVATION RULES:\nMaintain the original left-facing profile, square 1:1 composition, facial proportions, hairstyle, beard, city architecture, sunset location, and overall visual balance.\n\nGenerate ONE independent male artwork. No split-screen, no collage, no extra portraits, no text, and no watermark."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Recreate the uploaded reference image as a highly detailed cinematic double-exposure portrait. Transform the original male subject into a realistic young woman while keeping the original composition and visual storytelling intact.\n\nFEMALE SUBJECT:\nA young woman in a large left-facing side profile. Natural dark hair with moderate volume, swept backward with realistic individual strands. Avoid oversized, excessively fluffy hair. Feminine but natural facial proportions, defined nose, expressive dark eye, naturally shaped eyebrows, subtle lips, and realistic skin texture. Serious and melancholic expression. No facial hair. Dark clothing blending into the lower silhouette.\n\nDOUBLE-EXPOSURE SCENE:\nIntegrate a ruined post-apocalyptic cityscape within the silhouette of her head, hair, neck, and shoulders.\n\nShow tall damaged buildings, broken facades, a narrow ruined street, dark architectural silhouettes, and a bright burnt-orange sunset at the end of the street. Add atmospheric smoke, subtle dust, and glowing embers.\n\nInclude exactly one small solitary human silhouette walking away toward the sunset.\n\nCOMPOSITION CORRECTION:\nThe walking figure must be smaller than the main architectural elements and positioned slightly left of the center of the internal street.\n\nReduce the excessive dark empty margin on the right. Move the right-side ruined architecture closer toward the central street to create a compact composition.\n\nKeep the complete cityscape comfortably contained within the female head and neck silhouette. The city must follow the natural contours of the profile without spilling outside its right boundary.\n\nVISUAL STYLE:\nPhotorealistic surreal double-exposure photography, cinematic post-apocalyptic artwork, vintage distressed movie-poster appearance, warm sepia parchment texture, subtle grain, deep shadows, amber highlights, and glowing orange sunset.\n\nPreserve the original square 1:1 format, left-facing profile, portrait scale, facial position, sunset location, city arrangement, and lone walking figure.\n\nCreate one unified female artwork, not a collage, split-screen, or separate landscape. No text or watermark."
         }
       ],
-      "last_message_id": 5132,
-      "last_user_message_id": 5132,
+      "last_message_id": 5134,
+      "last_user_message_id": 5134,
       "processed_message_ids": [
         5108,
         5110,
@@ -3363,18 +3368,18 @@
         5124,
         5127,
         5129,
-        5132
+        5132,
+        5134
       ],
       "flow_id": "717edba78a6e",
-      "stage_token": "1ceaf61b82",
-      "revision": 15,
+      "stage_token": "3fa15c337a",
+      "revision": 16,
       "mode": "create",
-      "prompt_sent_token": "1ceaf61b82",
+      "prompt_sent_token": null,
       "name": "Apocalyptic Double Exposure",
       "number": 36,
       "suitable": "تبدیل پرتره چهره به اثر هنری سینمایی با تکنیک دابل اکسپوژر و ترکیب نیم‌رخ انسان با شهر ویران‌شده و غروب آخرالزمانی.",
-      "for_what": "• عکس پروفایل هنری\n• تصاویر سینمایی و مفهومی\n• طراحی پوستر آخرالزمانی\n• تصاویر احساسی و دراماتیک\n• طراحی پرتره دابل اکسپوژر\n• تولید محتوای هنری اینستاگرام",
-      "pending_label": "Gemini-Girl"
+      "for_what": "• عکس پروفایل هنری\n• تصاویر سینمایی و مفهومی\n• طراحی پوستر آخرالزمانی\n• تصاویر احساسی و دراماتیک\n• طراحی پرتره دابل اکسپوژر\n• تولید محتوای هنری اینستاگرام"
     }
   },
   "settings": {
