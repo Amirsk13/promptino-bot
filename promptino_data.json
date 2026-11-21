@@ -3333,29 +3333,31 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "for",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIT9GsBtkMuI-PUP6KvXBcf64FkrM2zAAJ6EmsbqHkQUK7lb2isAAHmVwEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIT9msBtknjfCSLEHcFx5TbKjs_SG2MAAJ7EmsbqHkQUFyIE7Ekg7IfAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5117,
-      "last_user_message_id": 5117,
+      "last_message_id": 5119,
+      "last_user_message_id": 5119,
       "processed_message_ids": [
         5108,
         5110,
         5113,
         5115,
-        5117
+        5117,
+        5119
       ],
       "flow_id": "717edba78a6e",
-      "stage_token": "27035a77dd",
-      "revision": 6,
+      "stage_token": "9f152773d9",
+      "revision": 7,
       "mode": "create",
-      "prompt_sent_token": "27035a77dd",
+      "prompt_sent_token": null,
       "name": "Apocalyptic Double Exposure",
       "number": 36,
-      "suitable": "تبدیل پرتره چهره به اثر هنری سینمایی با تکنیک دابل اکسپوژر و ترکیب نیم‌رخ انسان با شهر ویران‌شده و غروب آخرالزمانی."
+      "suitable": "تبدیل پرتره چهره به اثر هنری سینمایی با تکنیک دابل اکسپوژر و ترکیب نیم‌رخ انسان با شهر ویران‌شده و غروب آخرالزمانی.",
+      "for_what": "• عکس پروفایل هنری\n• تصاویر سینمایی و مفهومی\n• طراحی پوستر آخرالزمانی\n• تصاویر احساسی و دراماتیک\n• طراحی پرتره دابل اکسپوژر\n• تولید محتوای هنری اینستاگرام"
     }
   },
   "settings": {
