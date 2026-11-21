@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3293,8 +3293,8 @@
         5074
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "79d93ad199",
-      "revision": 7,
+      "stage_token": "2de63f4a04",
+      "revision": 8,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
