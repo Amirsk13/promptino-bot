@@ -3333,7 +3333,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIT9GsBtkMuI-PUP6KvXBcf64FkrM2zAAJ6EmsbqHkQUK7lb2isAAHmVwEAAwIAA3kAAz0E",
         "AgACAgQAAxkBAAIT9msBtknjfCSLEHcFx5TbKjs_SG2MAAJ7EmsbqHkQUFyIE7Ekg7IfAQADAgADeQADPQQ"
@@ -3363,10 +3363,15 @@
           "key": "nano_banana_pro_girl",
           "label": "Nano Banana Pro-Girl",
           "prompt": "Use the uploaded reference image as the exact image-to-image reference. Generate a female adaptation while preserving the original composition, double-exposure structure, lighting, and visual identity.\n\nSUBJECT:\nA realistic young woman in a large left-facing side-profile portrait. Dark brown-black hair with moderate natural volume, swept backward with realistic strands. Do not exaggerate hair thickness or height. Natural feminine facial anatomy, defined nose, expressive dark eye, natural eyebrows, subtle lips, and realistic skin texture. Serious, introspective, melancholic expression. No facial hair.\n\nDARK CLOTHING:\nSimple dark clothing that naturally merges with the lower silhouette.\n\nDOUBLE EXPOSURE:\nEmbed a post-apocalyptic city seamlessly inside the woman's head, hair, neck, and shoulders.\n\nThe city must contain:\n- Tall ruined buildings on both sides of a narrow street.\n- Damaged facades and broken architectural structures.\n- A dramatic glowing orange sunset.\n- Exactly one small solitary walking human figure.\n- Subtle smoke, dust, ash, and glowing embers.\n\nPRECISE CITY POSITIONING:\nMake the walking figure smaller and shift it slightly left within the internal street.\n\nReduce the empty dark margin on the right side. Move the right-side buildings and ruins inward to eliminate excessive unused space.\n\nThe city, street, buildings, sunset, and walking figure must all remain inside the silhouette of the woman's head and neck. The rightmost architecture must not extend beyond the natural boundary of the profile.\n\nKeep the internal landscape compact and proportionally balanced. The sunset should remain clearly visible and visually dominant without overpowering the portrait.\n\nBACKGROUND:\nAged sepia paper with subtle stains, dark speckles, fine grain, and warm golden-brown texture.\n\nLIGHTING:\nDeep cinematic shadows, warm amber highlights, intense burnt-orange sunset, realistic skin highlights, atmospheric haze, and subtle glowing embers.\n\nSTYLE:\nHigh-end photorealistic double-exposure photography, surreal post-apocalyptic conceptual art, vintage movie-poster aesthetic, realistic facial anatomy, detailed hair, dramatic contrast, and analog-film texture.\n\nSTRICT PRESERVATION:\nPreserve the original left-facing profile, square 1:1 composition, portrait size, facial position, city arrangement, sunset location, and overall visual balance.\n\nGenerate exactly ONE independent female portrait. Do not create a collage, split-screen, extra person, text, or watermark."
+        },
+        {
+          "key": "nano_banana_pro_boy",
+          "label": "Nano Banana Pro-Boy",
+          "prompt": "Use the uploaded reference image as the exact image-to-image reference. Recreate the original male portrait with maximum visual fidelity.\n\nSUBJECT:\nA realistic young man in a large left-facing side-profile portrait. Thick but controlled dark hair, naturally textured with moderate volume on top. Short, cleanly trimmed sides and back of the neck. Strong masculine eyebrows, defined nose, expressive dark eye, realistic facial anatomy, and a neat short beard and mustache.\n\nCRITICAL HAIR SHAPE:\nThe hair at the back of the head, behind the ear, and especially around the nape must be short, compact, and closely trimmed. Do not create a bulky mass of hair behind the neck. Avoid long nape hair, excessive curls, oversized volume, or a lion-like silhouette. Keep the top textured but naturally proportioned.\n\nExpression: serious, introspective, melancholic. Dark clothing blends into the lower silhouette.\n\nDOUBLE EXPOSURE:\nEmbed a post-apocalyptic city seamlessly inside the man's head, hair, neck, and shoulders.\n\nThe city must contain:\n- Tall ruined buildings on both sides of a narrow street.\n- Damaged facades and broken architectural structures.\n- A dramatic glowing orange sunset.\n- Exactly one small solitary walking human figure.\n- Subtle smoke, dust, ash, and glowing embers.\n\nPRECISE CITY POSITIONING:\nMake the walking figure smaller and shift it slightly left within the internal street.\n\nReduce the empty dark margin on the right side. Move the right-side buildings and ruins inward to eliminate excessive unused space.\n\nThe city, street, buildings, sunset, and walking figure must all remain inside the silhouette of the man's head and neck. The rightmost architecture must not extend beyond the natural boundary of the profile.\n\nKeep the internal landscape compact and proportionally balanced. The sunset should remain clearly visible and visually dominant without overpowering the portrait.\n\nBACKGROUND:\nAged sepia paper with subtle stains, dark speckles, fine grain, and warm golden-brown texture.\n\nLIGHTING:\nDeep cinematic shadows, warm amber highlights, intense burnt-orange sunset, realistic skin highlights, atmospheric haze, and subtle glowing embers.\n\nSTYLE:\nHigh-end photorealistic double-exposure photography, surreal post-apocalyptic conceptual art, vintage movie-poster aesthetic, realistic masculine facial anatomy, detailed short hair and beard, dramatic contrast, and analog-film texture.\n\nSTRICT PRESERVATION:\nPreserve the original left-facing profile, square 1:1 composition, facial proportions, hairstyle, beard, city arrangement, sunset location, and overall visual balance.\n\nGenerate exactly ONE independent male portrait. Do not create a collage, split-screen, extra person, text, or watermark."
         }
       ],
-      "last_message_id": 5147,
-      "last_user_message_id": 5147,
+      "last_message_id": 5149,
+      "last_user_message_id": 5149,
       "processed_message_ids": [
         5108,
         5110,
@@ -3384,18 +3389,18 @@
         5139,
         5142,
         5144,
-        5147
+        5147,
+        5149
       ],
       "flow_id": "717edba78a6e",
-      "stage_token": "06105a2c5a",
-      "revision": 24,
+      "stage_token": "80807cbba0",
+      "revision": 25,
       "mode": "create",
-      "prompt_sent_token": "06105a2c5a",
+      "prompt_sent_token": null,
       "name": "Apocalyptic Double Exposure",
       "number": 36,
       "suitable": "تبدیل پرتره چهره به اثر هنری سینمایی با تکنیک دابل اکسپوژر و ترکیب نیم‌رخ انسان با شهر ویران‌شده و غروب آخرالزمانی.",
-      "for_what": "• عکس پروفایل هنری\n• تصاویر سینمایی و مفهومی\n• طراحی پوستر آخرالزمانی\n• تصاویر احساسی و دراماتیک\n• طراحی پرتره دابل اکسپوژر\n• تولید محتوای هنری اینستاگرام",
-      "pending_label": "Nano Banana Pro-Boy"
+      "for_what": "• عکس پروفایل هنری\n• تصاویر سینمایی و مفهومی\n• طراحی پوستر آخرالزمانی\n• تصاویر احساسی و دراماتیک\n• طراحی پرتره دابل اکسپوژر\n• تولید محتوای هنری اینستاگرام"
     }
   },
   "settings": {
