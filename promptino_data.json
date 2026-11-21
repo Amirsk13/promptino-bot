@@ -3276,27 +3276,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5070,
-      "last_user_message_id": 5070,
+      "last_message_id": 5072,
+      "last_user_message_id": 5072,
       "processed_message_ids": [
         5063,
         5065,
         5068,
-        5070
+        5070,
+        5072
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "9b2b25daf9",
-      "revision": 5,
+      "stage_token": "95b14309da",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "9b2b25daf9",
+      "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
-      "number": 35
+      "number": 35,
+      "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع."
     }
   },
   "settings": {
