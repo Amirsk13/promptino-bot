@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3298,8 +3298,8 @@
           "prompt": "Analyze the uploaded reference image and recreate it as a highly photorealistic cinematic portrait of a young Iranian woman.\n\nREFERENCE MATCH:\nPreserve the original composition, facial proportions, head tilt, direct gaze, hand position, camera angle, distance, and deep green outdoor background.\n\nSUBJECT:\nA young Iranian woman with natural Middle Eastern features, dark expressive eyes, defined eyebrows, natural lips, and realistic skin texture. Long, dark, naturally wet hair with individual strands falling across her forehead and cheeks.\n\nPOSE:\nHer head is gently tilted. She looks directly into the camera with a calm, slightly melancholic expression. Her right hand is raised beside her head, gently touching and holding her wet hair near the temple. Preserve the original gesture and natural finger anatomy.\n\nRAIN EFFECT:\nClearly visible falling rain, realistic droplets on her face, hands, hair, and clothing. Her hair must appear genuinely soaked, with separated wet strands naturally sticking to her forehead and cheeks. Her dark clothing must show realistic wet fabric texture and subtle water reflections.\n\nCLOTHING:\nDark, modest, naturally textured outerwear appropriate to the original scene.\n\nENVIRONMENT:\nA dark, softly blurred forest-green outdoor background. Preserve the original depth, color palette, and environmental atmosphere.\n\nPHOTOGRAPHY:\nSquare 1:1 framing, tight close-up, approximately 85mm portrait lens, natural facial perspective, shallow depth of field, sharp eyes, soft overcast daylight, realistic shadows, cool cinematic color grading.\n\nVISUAL QUALITY:\nProfessional cinematic editorial photography, ultra-realistic skin pores, natural facial details, authentic rain simulation, detailed wet hair, realistic water reflections, subtle film grain.\n\nNEGATIVE CONSTRAINTS:\nNo dry hair, no artificial glossy hair, no missing fingers, no extra fingers, no distorted hands, no excessive facial smoothing, no exaggerated makeup, no artificial background replacement, no unnecessary cropping.\n\nPrioritize faithful reconstruction over creative reinterpretation."
         }
       ],
-      "last_message_id": 5089,
-      "last_user_message_id": 5089,
+      "last_message_id": 5092,
+      "last_user_message_id": 5092,
       "processed_message_ids": [
         5063,
         5065,
@@ -3312,17 +3312,19 @@
         5082,
         5084,
         5087,
-        5089
+        5089,
+        5092
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "f63b6a2f38",
-      "revision": 17,
+      "stage_token": "5eff9cf67f",
+      "revision": 18,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
+      "pending_label": "Gemini-Boy"
     }
   },
   "settings": {
