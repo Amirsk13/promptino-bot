@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3296,10 +3296,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Analyze the uploaded reference image and recreate it as a highly photorealistic cinematic portrait of a young Iranian woman.\n\nREFERENCE MATCH:\nPreserve the original composition, facial proportions, head tilt, direct gaze, hand position, camera angle, distance, and deep green outdoor background.\n\nSUBJECT:\nA young Iranian woman with natural Middle Eastern features, dark expressive eyes, defined eyebrows, natural lips, and realistic skin texture. Long, dark, naturally wet hair with individual strands falling across her forehead and cheeks.\n\nPOSE:\nHer head is gently tilted. She looks directly into the camera with a calm, slightly melancholic expression. Her right hand is raised beside her head, gently touching and holding her wet hair near the temple. Preserve the original gesture and natural finger anatomy.\n\nRAIN EFFECT:\nClearly visible falling rain, realistic droplets on her face, hands, hair, and clothing. Her hair must appear genuinely soaked, with separated wet strands naturally sticking to her forehead and cheeks. Her dark clothing must show realistic wet fabric texture and subtle water reflections.\n\nCLOTHING:\nDark, modest, naturally textured outerwear appropriate to the original scene.\n\nENVIRONMENT:\nA dark, softly blurred forest-green outdoor background. Preserve the original depth, color palette, and environmental atmosphere.\n\nPHOTOGRAPHY:\nSquare 1:1 framing, tight close-up, approximately 85mm portrait lens, natural facial perspective, shallow depth of field, sharp eyes, soft overcast daylight, realistic shadows, cool cinematic color grading.\n\nVISUAL QUALITY:\nProfessional cinematic editorial photography, ultra-realistic skin pores, natural facial details, authentic rain simulation, detailed wet hair, realistic water reflections, subtle film grain.\n\nNEGATIVE CONSTRAINTS:\nNo dry hair, no artificial glossy hair, no missing fingers, no extra fingers, no distorted hands, no excessive facial smoothing, no exaggerated makeup, no artificial background replacement, no unnecessary cropping.\n\nPrioritize faithful reconstruction over creative reinterpretation."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Use the uploaded image as the primary composition reference and recreate the same rainy cinematic portrait with a young Iranian man.\n\nSUBJECT:\nA naturally handsome young Iranian man with dark expressive eyes, thick natural eyebrows, realistic masculine facial proportions, subtle facial stubble if appropriate, and naturally wet dark hair.\n\nFACE:\nPreserve realistic facial anatomy, natural skin texture, realistic eyes, and balanced facial proportions. Avoid exaggerated masculine features.\n\nHAND POSE — VERY IMPORTANT:\nThe subject must lean his head against one hand in a relaxed, natural pose.\n\nThe hand must contain exactly five distinct fingers:\n1. Index finger extended upward and resting against the forehead just above the eyebrow.\n2. Thumb resting gently against the cheek.\n3. Middle finger curled inward toward the palm.\n4. Ring finger curled inward alongside the middle finger.\n5. Little finger also curled inward, clearly folded and not extended.\n\nThe three folded fingers must have realistic overlapping positions and visible natural knuckle structure where appropriate. Do not hide or merge fingers in a way that makes the hand appear to have only three fingers.\n\nThe palm, wrist, and finger joints must be anatomically realistic. The face must genuinely rest against the hand.\n\nEXPRESSION:\nCalm, introspective, slightly melancholic expression with direct eye contact.\n\nRAIN:\nVisible rainfall, individual falling raindrops, water droplets across the face and hand, soaked dark clothing, and naturally wet hair strands sticking to the forehead and face.\n\nCLOTHING:\nDark masculine rain-appropriate outerwear with realistic wet fabric texture.\n\nBACKGROUND:\nSoftly blurred deep forest-green outdoor environment, matching the original image.\n\nCAMERA:\nSquare 1:1 composition, intimate close-up, approximately 85mm portrait lens, natural perspective, shallow depth of field, realistic facial proportions, sharp eyes.\n\nLIGHTING:\nSoft cloudy daylight, cool muted tones, gentle shadows, natural highlights from rainwater.\n\nSTYLE:\nUltra-photorealistic cinematic portrait photography, realistic skin pores, wet hair details, accurate water droplets, subtle film texture.\n\nSTRICT NEGATIVE CONSTRAINTS:\nThree-finger hands, missing fingers, extra fingers, fused fingers, duplicated fingers, malformed anatomy, unnatural wrist, floating hand, dry hair, dry clothing, plastic skin, excessive retouching, artificial lighting.\n\nKeep the original photographic composition and atmosphere. Prioritize correct hand anatomy and faithful pose reconstruction."
         }
       ],
-      "last_message_id": 5092,
-      "last_user_message_id": 5092,
+      "last_message_id": 5094,
+      "last_user_message_id": 5094,
       "processed_message_ids": [
         5063,
         5065,
@@ -3313,18 +3318,18 @@
         5084,
         5087,
         5089,
-        5092
+        5092,
+        5094
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "5eff9cf67f",
-      "revision": 18,
+      "stage_token": "127e37ebd5",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "5eff9cf67f",
+      "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
     }
   },
   "settings": {
