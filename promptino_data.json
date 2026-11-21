@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3288,8 +3288,8 @@
           "prompt": "Use the uploaded image as a strict visual reference. Recreate the same cinematic rainy portrait, featuring a beautiful young Iranian woman with natural Middle Eastern facial features.\n\nIDENTITY AND APPEARANCE:\nPreserve the reference's facial proportions, natural skin texture, eye shape, eyebrows, nose, lips, and overall facial identity. Long, dark hair, naturally wet and slightly messy, with individual strands sticking to her forehead, cheeks, and around her eyes.\n\nPOSE AND EXPRESSION:\nMaintain the original tilted head, direct eye contact, calm melancholic expression, and raised right hand gently touching her wet hair near the temple. Preserve the original finger placement and natural hand anatomy.\n\nRAIN AND WET EFFECT:\nMake the rain clearly visible in the scene. Add realistic falling raindrops, water droplets on the face, wet hair strands, and water-soaked dark clothing. Hair must look genuinely wet, not merely glossy or styled. Include subtle water reflections on the skin and fabric.\n\nCLOTHING:\nDark, modest, naturally textured outerwear, wet from the rain.\n\nENVIRONMENT:\nSoftly blurred deep forest-green outdoor background, maintaining the original atmosphere and background arrangement.\n\nCAMERA AND LIGHTING:\nSquare 1:1 composition, intimate close-up portrait, approximately 85mm portrait lens, natural perspective, shallow depth of field, sharp eyes and realistic facial details. Soft overcast daylight, cool muted tones, gentle shadows, cinematic contrast.\n\nSTYLE:\nUltra-photorealistic cinematic editorial photography, realistic skin pores, detailed wet hair, authentic rain effects, subtle film grain.\n\nSTRICT REFERENCE RULES:\nPreserve the original head angle, face-to-frame ratio, camera distance, hand position, background, and composition. Do not excessively zoom in, change the expression, alter facial identity, or introduce unrelated objects. Avoid plastic skin, artificial beauty filters, exaggerated makeup, and unnatural anatomy.\n\nThe final image must look like a real photograph captured outdoors during rainfall."
         }
       ],
-      "last_message_id": 5079,
-      "last_user_message_id": 5079,
+      "last_message_id": 5082,
+      "last_user_message_id": 5082,
       "processed_message_ids": [
         5063,
         5065,
@@ -3298,17 +3298,19 @@
         5072,
         5074,
         5077,
-        5079
+        5079,
+        5082
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "44418f6ad4",
-      "revision": 11,
+      "stage_token": "617b674474",
+      "revision": 12,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "617b674474",
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
+      "pending_label": "ChatGPT-Boy"
     }
   },
   "settings": {
