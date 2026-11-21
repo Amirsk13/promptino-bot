@@ -3293,7 +3293,7 @@
       "stage_token": "fc0a8a9581",
       "revision": 4,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "fc0a8a9581",
       "name": "Rainy Cinematic Portrait"
     }
   },
