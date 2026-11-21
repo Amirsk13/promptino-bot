@@ -3277,15 +3277,21 @@
     "676953423": {
       "type": "post",
       "step": "photos",
-      "photos": [],
+      "photos": [
+        "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ"
+      ],
       "buttons": [],
-      "last_message_id": null,
-      "last_user_message_id": 0,
-      "processed_message_ids": [],
+      "last_message_id": 5063,
+      "last_user_message_id": 5063,
+      "processed_message_ids": [
+        5063
+      ],
       "flow_id": "f955627622fb",
       "stage_token": "71df273f0d",
-      "revision": 0,
-      "mode": "create"
+      "revision": 1,
+      "mode": "create",
+      "last_input_fingerprint": "|AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
+      "last_input_at": 19093293.078992967
     }
   },
   "settings": {
