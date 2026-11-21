@@ -3276,7 +3276,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAITx2sBsFr9lrK3J3-cmr7qAskI3-zkAAJ3EmsbqHkQUG1HImiap95uAQADAgADeQADPQQ",
         "AgACAgQAAxkBAAITyWsBsGHBfTUPSu1u6jzN4qgunzf8AAJ4EmsbqHkQUMVFD_sDi6FAAQADAgADeQADPQQ"
@@ -3308,8 +3308,8 @@
           "prompt": "Recreate the uploaded reference as a high-fidelity image-to-image transformation.\n\nSUBJECT:\nA young Iranian woman with natural Middle Eastern facial features, dark expressive eyes, defined eyebrows, natural lips, and realistic skin texture. Preserve the facial proportions and overall appearance of the reference.\n\nHAIR:\nLong, dark, genuinely wet hair. Individual strands must fall naturally across the forehead, cheeks, and around the eyes. Some strands should stick together because of rainwater.\n\nPOSE:\nPreserve the original tilted head, direct gaze, melancholic expression, and raised right hand gently touching the hair near the temple.\n\nRAIN:\nStrongly visible but natural rainfall. Water droplets on the face, hair, fingers, and dark clothing. Realistic wet skin reflections and soaked fabric texture.\n\nCLOTHING:\nDark, modest outerwear with natural folds and wet material details.\n\nBACKGROUND:\nDeep green outdoor scenery with soft natural blur. Maintain the original environment.\n\nCAMERA:\nSquare 1:1 portrait, close-up framing, approximately 85mm lens, natural perspective, sharp eyes, realistic depth of field.\n\nLIGHT:\nDiffused overcast daylight, cool cinematic color palette, soft shadows, subtle highlights.\n\nQUALITY:\nUltra-photorealistic, cinematic editorial photography, realistic skin pores, detailed wet hair, authentic rain effects.\n\nREFERENCE PRIORITY:\nPreserve the original framing, facial proportions, head angle, hand position, clothing style, background, and photographic atmosphere. Do not change the pose or introduce unnecessary accessories.\n\nThe final result must resemble a real photograph taken during rainfall."
         }
       ],
-      "last_message_id": 5099,
-      "last_user_message_id": 5099,
+      "last_message_id": 5102,
+      "last_user_message_id": 5102,
       "processed_message_ids": [
         5063,
         5065,
@@ -3326,17 +3326,19 @@
         5092,
         5094,
         5097,
-        5099
+        5099,
+        5102
       ],
       "flow_id": "f955627622fb",
-      "stage_token": "f07cb3bc40",
-      "revision": 23,
+      "stage_token": "81337d301f",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "Rainy Cinematic Portrait",
       "number": 35,
       "suitable": "بازسازی پرتره‌های دخترانه و پسرانه با فضای بارانی، موهای خیس، ژست طبیعی و نورپردازی سینمایی با حفظ ترکیب‌بندی تصویر مرجع.",
-      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی"
+      "for_what": "عکس پروفایل\nپرتره سینمایی\nتصاویر دخترانه و پسرانه\nتولید محتوای اینستاگرام\nعکاسی هنری و احساسی\nبازسازی عکس با هوش مصنوعی",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
