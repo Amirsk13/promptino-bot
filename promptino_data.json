@@ -3515,29 +3515,34 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the portrait as faithfully as possible while preserving the subject's facial appearance, pose, composition, lighting, and monochromatic aesthetic.\n\nSUBJECT:\nA beautiful young adult woman with long, voluminous dark hair, naturally layered waves, soft curtain bangs across her forehead, expressive dark eyes, defined eyebrows, a delicate nose, and full dark lips. Preserve the facial proportions and distinctive appearance visible in the reference.\n\nPOSE AND EXPRESSION:\nA relaxed upper-body portrait. Her shoulders are slightly angled, her head is gently tilted downward and to the side, and her gaze is directed toward the camera with a calm, confident, slightly mysterious expression.\n\nHAIR:\nLong, naturally voluminous black hair falling over both shoulders and framing the face. Preserve the layered texture, loose waves, and forehead-framing bangs.\n\nCLOTHING:\nA simple fitted black sleeveless top with a clean neckline, preserving the original exposed shoulders and minimal styling.\n\nACCESSORIES:\nA short necklace featuring small white shell-shaped beads arranged around the neck, accompanied by a delicate thin chain with a tiny pendant. Preserve their original positions and proportions.\n\nBACKGROUND:\nA completely black, seamless studio background with no visible objects, patterns, or environmental distractions.\n\nCAMERA AND COMPOSITION:\nSquare 1:1 portrait, medium close-up framing from the upper chest upward. Subject positioned centrally with both shoulders visible. Natural portrait perspective, approximately 85mm lens, shallow but controlled depth of field.\n\nLIGHTING:\nDramatic soft studio lighting from the front and slightly above, subtle side shadows, delicate highlights on the face, shoulders, and hair. Preserve the deep blacks and luminous grayscale skin tones.\n\nCOLOR AND STYLE:\nPure black-and-white photography, rich monochrome tonal range, sophisticated contrast, subtle film grain, realistic skin texture, elegant editorial portrait photography.\n\nSTRICT REFERENCE MATCH:\nPreserve the original facial appearance, hairstyle, bangs, head angle, gaze, shoulder positioning, neckline, necklace design, framing, and black background.\n\nDo not introduce color, additional jewelry, different clothing, environmental objects, or unnecessary styling changes.\n\nCreate exactly ONE woman. Do not add a man, another person, a couple, or a split composition.\n\nThe final result must look like a professionally photographed black-and-white studio portrait."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Use the uploaded reference image as the primary visual reference. Transform the subject into a photorealistic portrait of a young adult man while preserving the original scene, composition, pose, lighting, and monochromatic aesthetic.\n\nSUBJECT:\nA handsome young adult man with natural masculine facial features, expressive dark eyes, defined eyebrows, a naturally structured jawline, and realistic skin texture. Create a distinctive but natural masculine appearance.\n\nHAIR:\nDark, medium-length masculine hairstyle with natural volume and textured layers. Hair should frame the forehead naturally while maintaining a visual relationship to the original hairstyle. Do not retain obviously feminine long hair.\n\nPOSE AND EXPRESSION:\nPreserve the original relaxed upper-body portrait, shoulder angle, head tilt, head direction, and gaze. Maintain the calm, confident, slightly mysterious expression.\n\nCLOTHING:\nA fitted black sleeveless men's top with a clean, minimal neckline. Preserve the original dark clothing aesthetic and exposed shoulder composition while adapting the fit naturally to a masculine upper body.\n\nACCESSORIES:\nReplace the delicate feminine shell necklace and pendant with a simple, understated dark or silver masculine necklace, or omit the necklace if it looks more natural. Do not add excessive jewelry.\n\nBACKGROUND:\nCompletely black seamless studio background. No visible objects, textures, or environmental distractions.\n\nCAMERA AND COMPOSITION:\nSquare 1:1 portrait, medium close-up framing from the upper chest upward. Preserve the original subject scale, central positioning, shoulder visibility, camera distance, and approximately 85mm portrait lens perspective.\n\nLIGHTING:\nDramatic soft studio lighting from the front and slightly above. Gentle side shadows, subtle highlights on the face and shoulders, and detailed hair texture. Preserve the original dark atmosphere.\n\nCOLOR AND STYLE:\nPure black-and-white photography, rich grayscale tones, deep blacks, controlled highlights, subtle film grain, realistic skin texture, professional cinematic editorial photography.\n\nSTRICT REFERENCE MATCH:\nKeep the original black background, framing, head orientation, gaze direction, shoulder positioning, lighting, contrast, and overall atmosphere.\n\nOnly adapt the gender-specific facial appearance, hairstyle, clothing fit, and accessories where necessary.\n\nCreate exactly ONE man. Never include a woman, a couple, additional main subjects, or a split-screen composition.\n\nAvoid cartoon effects, plastic skin, excessive retouching, unnatural anatomy, exaggerated masculinity, and unnecessary scene changes."
         }
       ],
-      "last_message_id": 5277,
+      "last_message_id": 5279,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "575a1d8a1a",
+      "stage_token": "183b0c5083",
       "vip_processed_message_ids": [
         5268,
         5270,
         5272,
         5274,
-        5277
+        5277,
+        5279
       ],
-      "vip_last_user_message_id": 5277,
+      "vip_last_user_message_id": 5279,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000,
-      "pending_label": "ChatGPT-Boy"
+      "price": 200000
     }
   },
   "active_post_states": {},
