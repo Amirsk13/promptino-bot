@@ -3512,7 +3512,17 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {},
+  "active_admin_states": {
+    "676953423": {
+      "type": "vip_add",
+      "step": "title",
+      "buttons": [],
+      "last_message_id": null,
+      "processed_message_ids": [],
+      "flow_id": "3b9a0e64e98b",
+      "stage_token": "13e1719bda"
+    }
+  },
   "active_post_states": {},
   "settings": {
     "notifications": {
