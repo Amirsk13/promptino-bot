@@ -3515,7 +3515,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt_girl",
@@ -3538,10 +3538,10 @@
           "prompt": "Recreate the uploaded reference as a photorealistic black-and-white studio portrait of a young adult man.\n\nSUBJECT:\nA naturally handsome young man with realistic masculine facial features, expressive dark eyes, defined eyebrows, a balanced jawline, and natural skin texture.\n\nHAIR:\nDark masculine hairstyle with medium length, natural volume, textured layers, and slightly loose strands framing the forehead. Give the hair a distinctive natural appearance without copying the feminine hairstyle literally.\n\nPOSE:\nPreserve the original upper-body portrait composition. Slightly angled shoulders, gently tilted head, relaxed posture, and calm direct gaze. Keep the original subject positioning and head orientation.\n\nCLOTHING:\nSimple fitted black sleeveless men's shirt with a minimal neckline. Maintain the original black clothing palette and exposed shoulder composition.\n\nACCESSORIES:\nUse a simple masculine silver chain if appropriate. Remove the delicate shell necklace and feminine pendant, avoiding unnecessary jewelry.\n\nBACKGROUND:\nCompletely black seamless studio background.\n\nCAMERA AND FRAMING:\nSquare 1:1 image, centered upper-body portrait, medium close-up framing, visible shoulders and upper chest, approximately 85mm lens perspective. Preserve the original camera distance and subject scale.\n\nLIGHTING:\nSoft directional studio light from the front and slightly above, subtle facial highlights, controlled shadows, realistic shoulder definition, and natural hair highlights.\n\nMONOCHROME STYLE:\nBlack-and-white editorial portrait photography, rich grayscale range, deep blacks, luminous skin highlights, sophisticated contrast, subtle film grain, and realistic photographic texture.\n\nIMPORTANT:\nThe male version must look like a natural male counterpart photographed in exactly the same studio setup.\n\nPreserve the original background, camera position, framing, lighting direction, pose, and overall atmosphere. Adapt only the gender-specific appearance, hairstyle, clothing fit, and accessories.\n\nGenerate exactly one man. No woman, no couple, no second subject, and no split-screen composition.\n\nAvoid exaggerated masculine features, artificial skin, distorted anatomy, cartoon styling, and unnecessary background changes."
         }
       ],
-      "last_message_id": 5289,
+      "last_message_id": 5292,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "9153747746",
+      "stage_token": "b5774f33ee",
       "vip_processed_message_ids": [
         5268,
         5270,
@@ -3552,11 +3552,13 @@
         5282,
         5284,
         5287,
-        5289
+        5289,
+        5292
       ],
-      "vip_last_user_message_id": 5289,
+      "vip_last_user_message_id": 5292,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Nano Banana Pro-Girl"
     }
   },
   "active_post_states": {},
