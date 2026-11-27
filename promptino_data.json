@@ -3515,7 +3515,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt_girl",
@@ -3533,10 +3533,10 @@
           "prompt": "Analyze the uploaded reference image and recreate it as a highly photorealistic black-and-white female studio portrait.\n\nSUBJECT:\nA young adult woman with long, voluminous dark hair, layered waves, soft curtain bangs, expressive dark eyes, defined eyebrows, a delicate nose, and full dark lips. Preserve the original facial proportions and natural appearance.\n\nHAIRSTYLE:\nLong dark hair falling naturally over both shoulders, with loose waves, layered volume, and soft bangs framing the forehead and eyes.\n\nPOSE:\nUpper-body portrait with slightly angled shoulders, a gently tilted head, and a calm, confident gaze toward the camera. Preserve the original head position, body orientation, and relaxed posture.\n\nCLOTHING:\nMinimal fitted black sleeveless top with a simple neckline and exposed shoulders.\n\nJEWELRY:\nA short white shell-bead necklace and a delicate thin chain with a small pendant. Keep both necklaces subtle and accurately positioned.\n\nBACKGROUND:\nSolid pure black studio backdrop with no objects, textures, scenery, or additional elements.\n\nCAMERA:\nSquare 1:1 composition, centered medium close-up portrait, upper chest visible, both shoulders included, approximately 85mm portrait lens, natural facial proportions.\n\nLIGHTING:\nSoft directional studio lighting, subtle highlights across the forehead, cheeks, nose, lips, shoulders, and hair. Deep shadows with smooth tonal transitions.\n\nIMAGE STYLE:\nElegant black-and-white editorial photography, high contrast, rich grayscale tones, realistic skin pores, natural hair texture, subtle film grain, sophisticated cinematic atmosphere.\n\nREFERENCE PRESERVATION:\nDo not change the hairstyle, bangs, facial proportions, head tilt, gaze, necklace placement, clothing, framing, or background.\n\nMaintain a genuine photographic appearance. Do not generate an illustration, anime character, 3D model, or artificially beautified face.\n\nGenerate only one female subject."
         }
       ],
-      "last_message_id": 5284,
+      "last_message_id": 5287,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "76bdef1402",
+      "stage_token": "898f1a1867",
       "vip_processed_message_ids": [
         5268,
         5270,
@@ -3545,11 +3545,13 @@
         5277,
         5279,
         5282,
-        5284
+        5284,
+        5287
       ],
-      "vip_last_user_message_id": 5284,
+      "vip_last_user_message_id": 5287,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "Gemini-Boy"
     }
   },
   "active_post_states": {},
