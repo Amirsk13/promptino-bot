@@ -3459,7 +3459,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
@@ -3479,10 +3479,15 @@
           "key": "gemini_girl",
           "label": "Gemini-Girl",
           "prompt": "Analyze the uploaded reference image and recreate it as a highly detailed, photorealistic GTA VI-inspired female character portrait.\n\nCHARACTER:\nA stylish young adult Iranian woman with natural Middle Eastern facial features, dark brown hair, expressive eyes, naturally defined eyebrows, realistic skin texture, and elegant rectangular eyeglasses. Her appearance should feel confident, sophisticated, and believable within the GTA VI universe.\n\nPOSE:\nReproduce the original body posture and composition. She leans casually against the front of a luxurious deep-purple sports car, with her arms crossed naturally. Preserve the exact arm overlap, shoulder angle, head orientation, and direct gaze.\n\nOUTFIT:\nWhite elegant button-up shirt with sleeves rolled to the elbows, tailored dark navy trousers, and a dark brown leather belt. Adapt the fit naturally to a feminine body without changing the original fashion style.\n\nACCESSORIES:\nRectangular eyeglasses, a stylish wristwatch, and a large dark brown leather shoulder bag. Preserve the original strap direction, bag position, and realistic leather details.\n\nENVIRONMENT:\nA luxurious tropical marina inspired by GTA VI's Vice City:\n- Palm trees along the waterfront.\n- Pastel-colored Art Deco-inspired buildings.\n- Outdoor cafés and pedestrians.\n- Turquoise marina water.\n- A white luxury yacht.\n- A modern city skyline.\n- A glossy deep-purple sports car in the foreground.\n\nCOMPOSITION:\nVertical 2:3 portrait, medium-full framing, approximately 50mm lens perspective. Maintain the original camera distance, perspective, subject size, and visible environment.\n\nLIGHTING:\nBright tropical daylight, warm highlights, natural shadows, vivid blue sky, scattered white clouds, and realistic reflections on the vehicle and water.\n\nVISUAL STYLE:\nGTA VI-inspired open-world cinematic realism, high-end video game promotional artwork, realistic character rendering, detailed skin and hair, sophisticated tropical color grading, and luxury lifestyle aesthetics.\n\nREFERENCE LOCK:\nKeep the original location, vehicle, yacht, palm trees, buildings, accessories, pose, and composition unchanged.\n\nGenerate only one woman. Do not create a couple, male companion, split-screen, or multiple main characters.\n\nThe result must look like a believable female protagonist or character from a GTA VI-inspired cinematic scene, not a cartoon or anime illustration."
+        },
+        {
+          "key": "gemini_boy",
+          "label": "Gemini-Boy",
+          "prompt": "Use the uploaded reference image as a strict composition and environment reference. Recreate it as a highly realistic GTA VI-inspired male character portrait.\n\nCHARACTER:\nA distinctive young adult Iranian man with natural Middle Eastern masculine facial features, dark expressive eyes, naturally thick eyebrows, realistic skin texture, and a well-groomed beard or subtle stubble.\n\nIMPORTANT FACE CHANGE:\nCreate a fresh and distinctive male face that is clearly different from the previously generated male version. Change the facial structure, jawline, hairstyle, and overall appearance while maintaining a natural and attractive masculine look.\n\nHAIRSTYLE:\nModern dark hairstyle with textured volume, natural movement, and realistic individual hair strands.\n\nPOSE:\nMaintain the exact reference posture. He leans against the front side of the purple sports car, with arms crossed naturally in front of his torso. Preserve the original hand positions, arm overlap, wrist placement, shoulder angle, head orientation, and direct gaze.\n\nCLOTHING:\nWhite button-up shirt with rolled sleeves, dark navy tailored trousers, and a dark brown leather belt.\n\nACCESSORIES:\nRectangular eyeglasses, a classic dark-dial wristwatch, and a large dark brown leather shoulder bag with realistic leather texture and metal buckles. Preserve the original positioning.\n\nENVIRONMENT:\nA tropical Vice City-inspired marina featuring palm trees, pastel waterfront architecture, outdoor cafés, pedestrians, turquoise water, a white luxury yacht, distant modern skyscrapers, and a glossy purple sports car.\n\nCAMERA:\nVertical 2:3 composition, medium-full portrait, approximately 50mm lens, slightly low eye-level perspective, natural proportions, and original subject-to-frame ratio.\n\nLIGHTING:\nBright tropical sunlight, warm natural highlights, realistic shadows, vivid blue sky, scattered clouds, and accurate environmental reflections.\n\nART STYLE:\nGTA VI-inspired cinematic realism, premium open-world game character artwork, realistic human anatomy, detailed textures, high-end game promotional aesthetics, and vibrant Vice City color grading.\n\nSTRICT REFERENCE RULES:\nPreserve the original environment, car, yacht, bag, watch, eyeglasses, clothing style, pose, and camera composition.\n\nChange the male character's facial appearance substantially compared with previous generated versions.\n\nGenerate exactly one man. No woman, no couple, no second main subject, and no split-screen layout.\n\nAvoid cartoon effects, exaggerated anatomy, plastic skin, distorted hands, extra fingers, and unnecessary environmental changes."
         }
       ],
-      "last_message_id": 5249,
-      "last_user_message_id": 5249,
+      "last_message_id": 5251,
+      "last_user_message_id": 5251,
       "processed_message_ids": [
         5220,
         5222,
@@ -3496,18 +3501,18 @@
         5241,
         5244,
         5246,
-        5249
+        5249,
+        5251
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "0a22527d4f",
-      "revision": 18,
+      "stage_token": "f0a458be0e",
+      "revision": 19,
       "mode": "create",
-      "prompt_sent_token": "0a22527d4f",
+      "prompt_sent_token": null,
       "name": "GTA VI Luxury Lifestyle",
       "number": 38,
       "suitable": "ساخت و بازسازی تصاویر شخصیت‌های دخترانه و پسرانه با استایل واقع‌گرایانه و سینمایی الهام‌گرفته از دنیای GTA VI، با حفظ لوکیشن ساحلی، ماشین اسپرت، قایق تفریحی و فضای لوکس وایس سیتی.",
-      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی",
-      "pending_label": "Gemini-Boy"
+      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی"
     }
   },
   "settings": {
