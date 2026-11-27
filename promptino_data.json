@@ -3440,29 +3440,34 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt",
           "label": "ChatGPT",
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate it as an ultra-photorealistic professional princess portrait of a beautiful young adult woman.\n\nSUBJECT AND FACE:\nA young woman with fair peach-toned skin, delicate natural facial features, expressive blue-gray eyes, defined eyebrows, long eyelashes, softly flushed cheeks, a refined nose, and naturally full rosy lips. Maintain realistic human facial proportions, visible skin pores, subtle skin imperfections, and natural facial details.\n\nHAIRSTYLE:\nLuxurious golden-blonde hair styled in an elegant voluminous updo with a large rounded bun at the back, softly sculpted waves, and loose curled strands framing the face. Individual hair strands should be realistic and detailed.\n\nTIARA:\nAn elegant silver princess tiara featuring intricate crystal patterns and sparkling blue gemstones. Position it naturally across the upper front of the hairstyle.\n\nJEWELRY:\nMatching long blue gemstone drop earrings and an elaborate silver crystal choker necklace with a prominent blue gemstone pendant at the center.\n\nDRESS:\nA luxurious icy-blue princess ball gown with a sweetheart neckline, densely decorated with silver and blue crystals. Delicate translucent off-shoulder puff sleeves rest naturally around the upper arms. Preserve the original elegant neckline, sparkling embroidery, and sheer fabric details.\n\nPOSE AND EXPRESSION:\nThree-quarter bust portrait. Her shoulders are slightly angled, her head gently turned toward the right side of the frame, and her eyes looking sideways with a subtle downward gaze. Calm, elegant, dreamy expression with relaxed lips.\n\nCAMERA AND COMPOSITION:\nVertical 4:5 portrait, chest-up framing, eye-level camera, approximately 85mm portrait lens, natural facial perspective, shallow depth of field, sharp focus on the eyes and face.\n\nBACKGROUND:\nMinimal smooth dusty-mauve and muted purple-gray studio background without additional objects.\n\nLIGHTING:\nSoft warm professional studio lighting, delicate golden rim light illuminating the blonde hair, realistic highlights on gemstones, gentle facial shadows, and natural skin reflections.\n\nPHOTOGRAPHIC STYLE:\nHigh-end luxury fashion editorial photography, ultra-photorealistic human appearance, realistic skin texture, natural hair strands, physically accurate crystal reflections, detailed translucent fabric, sophisticated color grading.\n\nSTRICT REQUIREMENTS:\nThe final result must look like a real human photographed in a professional studio, NOT a 3D render, cartoon, animation, painting, or illustration.\n\nPreserve the reference hairstyle, tiara, jewelry, dress design, shoulder positioning, head angle, gaze direction, and overall composition. Avoid exaggerated facial proportions, plastic skin, artificial beauty filters, excessive retouching, and unrealistic jewelry."
+        },
+        {
+          "key": "gemini",
+          "label": "Gemini",
+          "prompt": "Analyze the uploaded image and recreate its visual appearance as a realistic luxury princess fashion photograph.\n\nSUBJECT:\nA beautiful young adult woman with natural human facial proportions, fair peach-toned skin, blue-gray eyes, long eyelashes, softly blushed cheeks, delicate eyebrows, a refined nose, and naturally rosy lips.\n\nHAIR:\nGolden-blonde hair in an elaborate royal updo, featuring a voluminous rounded bun, elegant sculpted waves, and loose curled strands around the face. Render individual hair strands realistically.\n\nCROWN AND ACCESSORIES:\nA sophisticated silver tiara decorated with intricate blue gemstones, matching dangling blue crystal earrings, and an ornate silver choker necklace with a central blue gemstone pendant.\n\nCLOTHING:\nAn elegant icy-blue off-shoulder princess gown with a sweetheart neckline, intricate silver and blue crystal embroidery, sparkling embellishments, and delicate transparent puff sleeves resting around the upper arms.\n\nPOSE:\nElegant three-quarter portrait. Shoulders slightly angled, head gently turned toward the right, eyes gazing sideways and slightly downward. Preserve the calm, dreamy, graceful expression.\n\nFRAMING:\nVertical 4:5 chest-up portrait. Keep the head, hairstyle, shoulders, necklace, and upper part of the gown visible. Natural eye-level camera perspective, approximately 85mm portrait lens.\n\nBACKGROUND:\nClean, softly illuminated dusty-mauve studio background with muted purple-gray tones.\n\nLIGHTING:\nWarm diffused studio light, subtle golden backlight around the hair, realistic facial shadows, delicate highlights on gemstones, and natural skin reflections.\n\nRENDERING:\nPhotorealistic luxury fashion photography, authentic human skin pores, realistic hair texture, detailed jewelry, physically accurate gemstone reflections, realistic translucent fabrics, natural anatomy, and professional editorial color grading.\n\nIMPORTANT:\nConvert the original stylized princess appearance into a believable real human photograph while retaining the same recognizable visual design.\n\nDo not create an animated character, CGI render, doll-like face, cartoon, illustration, or synthetic plastic skin. Avoid changing the hairstyle, tiara, jewelry, dress, pose, expression, or background."
         }
       ],
-      "last_message_id": 5207,
+      "last_message_id": 5209,
       "processed_message_ids": [],
       "flow_id": "2bf630489bfb",
-      "stage_token": "8c0e8642e6",
+      "stage_token": "7fcf600f07",
       "vip_processed_message_ids": [
         5197,
         5199,
         5202,
         5204,
-        5207
+        5207,
+        5209
       ],
-      "vip_last_user_message_id": 5207,
+      "vip_last_user_message_id": 5209,
       "title": "Royal Crystal Princess",
-      "price": 150000,
-      "pending_label": "Gemini"
+      "price": 150000
     }
   },
   "active_post_states": {},
