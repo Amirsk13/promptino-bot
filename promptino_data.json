@@ -3515,12 +3515,17 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "title",
+      "step": "price",
       "buttons": [],
-      "last_message_id": null,
+      "last_message_id": 5268,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "13e1719bda"
+      "stage_token": "c0ababf44e",
+      "vip_processed_message_ids": [
+        5268
+      ],
+      "vip_last_user_message_id": 5268,
+      "title": "Midnight Monochrome Portrait"
     }
   },
   "active_post_states": {},
