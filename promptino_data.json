@@ -3515,12 +3515,12 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "buttons",
+      "step": "button_label",
       "buttons": [],
       "last_message_id": 5270,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "a1cd319f77",
+      "stage_token": "d54170f950",
       "vip_processed_message_ids": [
         5268,
         5270
