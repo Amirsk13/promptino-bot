@@ -3515,7 +3515,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt_girl",
@@ -3536,12 +3536,17 @@
           "key": "gemini_boy",
           "label": "Gemini-Boy",
           "prompt": "Recreate the uploaded reference as a photorealistic black-and-white studio portrait of a young adult man.\n\nSUBJECT:\nA naturally handsome young man with realistic masculine facial features, expressive dark eyes, defined eyebrows, a balanced jawline, and natural skin texture.\n\nHAIR:\nDark masculine hairstyle with medium length, natural volume, textured layers, and slightly loose strands framing the forehead. Give the hair a distinctive natural appearance without copying the feminine hairstyle literally.\n\nPOSE:\nPreserve the original upper-body portrait composition. Slightly angled shoulders, gently tilted head, relaxed posture, and calm direct gaze. Keep the original subject positioning and head orientation.\n\nCLOTHING:\nSimple fitted black sleeveless men's shirt with a minimal neckline. Maintain the original black clothing palette and exposed shoulder composition.\n\nACCESSORIES:\nUse a simple masculine silver chain if appropriate. Remove the delicate shell necklace and feminine pendant, avoiding unnecessary jewelry.\n\nBACKGROUND:\nCompletely black seamless studio background.\n\nCAMERA AND FRAMING:\nSquare 1:1 image, centered upper-body portrait, medium close-up framing, visible shoulders and upper chest, approximately 85mm lens perspective. Preserve the original camera distance and subject scale.\n\nLIGHTING:\nSoft directional studio light from the front and slightly above, subtle facial highlights, controlled shadows, realistic shoulder definition, and natural hair highlights.\n\nMONOCHROME STYLE:\nBlack-and-white editorial portrait photography, rich grayscale range, deep blacks, luminous skin highlights, sophisticated contrast, subtle film grain, and realistic photographic texture.\n\nIMPORTANT:\nThe male version must look like a natural male counterpart photographed in exactly the same studio setup.\n\nPreserve the original background, camera position, framing, lighting direction, pose, and overall atmosphere. Adapt only the gender-specific appearance, hairstyle, clothing fit, and accessories.\n\nGenerate exactly one man. No woman, no couple, no second subject, and no split-screen composition.\n\nAvoid exaggerated masculine features, artificial skin, distorted anatomy, cartoon styling, and unnecessary background changes."
+        },
+        {
+          "key": "nano_banana_pro_girl",
+          "label": "Nano Banana Pro-Girl",
+          "prompt": "Perform a high-fidelity image-to-image recreation of the uploaded reference.\n\nMAIN SUBJECT:\nA beautiful young adult woman with long, voluminous dark hair, naturally layered waves, soft curtain bangs, expressive dark eyes, defined eyebrows, a delicate nose, and full dark lips.\n\nPreserve the original facial proportions, distinctive appearance, and natural beauty.\n\nHAIR:\nLong dark wavy hair with abundant natural volume, layered strands falling over both shoulders, and soft bangs framing the forehead.\n\nPOSE:\nRelaxed upper-body portrait. Shoulders slightly angled, head gently tilted downward and sideways, eyes looking toward the camera. Maintain the original calm, confident, mysterious expression.\n\nOUTFIT:\nSimple fitted black sleeveless top with a minimal neckline and naturally exposed shoulders.\n\nJEWELRY:\nWhite shell-bead necklace around the neck and a delicate thin chain with a small pendant. Preserve the original jewelry arrangement.\n\nBACKGROUND:\nPure black seamless studio backdrop without visible objects or environmental details.\n\nCOMPOSITION:\nSquare 1:1 image, centered medium close-up, upper chest and both shoulders visible. Maintain the original subject-to-frame ratio and camera distance.\n\nCAMERA:\nApproximately 85mm portrait lens, natural perspective, controlled depth of field, sharp facial details, and realistic hair texture.\n\nLIGHTING:\nSoft directional studio lighting, delicate facial highlights, subtle shadows along the cheeks and neck, and natural highlights on the hair and shoulders.\n\nVISUAL STYLE:\nUltra-photorealistic black-and-white portrait photography, professional fashion editorial, rich grayscale tones, deep blacks, realistic skin pores, detailed hair strands, subtle film grain, and cinematic contrast.\n\nSTRICT REFERENCE LOCK:\nPreserve the original pose, head tilt, gaze, hairstyle, bangs, clothing, necklaces, shoulder placement, black background, and square framing.\n\nDo not introduce color, extra accessories, additional subjects, environmental objects, or unnecessary changes.\n\nGenerate exactly ONE woman, maintaining the original reference's visual identity and photographic atmosphere."
         }
       ],
-      "last_message_id": 5292,
+      "last_message_id": 5294,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "b5774f33ee",
+      "stage_token": "c06913e0a9",
       "vip_processed_message_ids": [
         5268,
         5270,
@@ -3553,12 +3558,12 @@
         5284,
         5287,
         5289,
-        5292
+        5292,
+        5294
       ],
-      "vip_last_user_message_id": 5292,
+      "vip_last_user_message_id": 5294,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000,
-      "pending_label": "Nano Banana Pro-Girl"
+      "price": 200000
     }
   },
   "active_post_states": {},
