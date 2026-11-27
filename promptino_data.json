@@ -3440,7 +3440,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [
         {
           "key": "chatgpt",
@@ -3453,21 +3453,23 @@
           "prompt": "Analyze the uploaded image and recreate its visual appearance as a realistic luxury princess fashion photograph.\n\nSUBJECT:\nA beautiful young adult woman with natural human facial proportions, fair peach-toned skin, blue-gray eyes, long eyelashes, softly blushed cheeks, delicate eyebrows, a refined nose, and naturally rosy lips.\n\nHAIR:\nGolden-blonde hair in an elaborate royal updo, featuring a voluminous rounded bun, elegant sculpted waves, and loose curled strands around the face. Render individual hair strands realistically.\n\nCROWN AND ACCESSORIES:\nA sophisticated silver tiara decorated with intricate blue gemstones, matching dangling blue crystal earrings, and an ornate silver choker necklace with a central blue gemstone pendant.\n\nCLOTHING:\nAn elegant icy-blue off-shoulder princess gown with a sweetheart neckline, intricate silver and blue crystal embroidery, sparkling embellishments, and delicate transparent puff sleeves resting around the upper arms.\n\nPOSE:\nElegant three-quarter portrait. Shoulders slightly angled, head gently turned toward the right, eyes gazing sideways and slightly downward. Preserve the calm, dreamy, graceful expression.\n\nFRAMING:\nVertical 4:5 chest-up portrait. Keep the head, hairstyle, shoulders, necklace, and upper part of the gown visible. Natural eye-level camera perspective, approximately 85mm portrait lens.\n\nBACKGROUND:\nClean, softly illuminated dusty-mauve studio background with muted purple-gray tones.\n\nLIGHTING:\nWarm diffused studio light, subtle golden backlight around the hair, realistic facial shadows, delicate highlights on gemstones, and natural skin reflections.\n\nRENDERING:\nPhotorealistic luxury fashion photography, authentic human skin pores, realistic hair texture, detailed jewelry, physically accurate gemstone reflections, realistic translucent fabrics, natural anatomy, and professional editorial color grading.\n\nIMPORTANT:\nConvert the original stylized princess appearance into a believable real human photograph while retaining the same recognizable visual design.\n\nDo not create an animated character, CGI render, doll-like face, cartoon, illustration, or synthetic plastic skin. Avoid changing the hairstyle, tiara, jewelry, dress, pose, expression, or background."
         }
       ],
-      "last_message_id": 5209,
+      "last_message_id": 5212,
       "processed_message_ids": [],
       "flow_id": "2bf630489bfb",
-      "stage_token": "2509434944",
+      "stage_token": "28224bc05d",
       "vip_processed_message_ids": [
         5197,
         5199,
         5202,
         5204,
         5207,
-        5209
+        5209,
+        5212
       ],
-      "vip_last_user_message_id": 5209,
+      "vip_last_user_message_id": 5212,
       "title": "Royal Crystal Princess",
-      "price": 150000
+      "price": 150000,
+      "pending_label": "Nano Banana Pro"
     }
   },
   "active_post_states": {},
