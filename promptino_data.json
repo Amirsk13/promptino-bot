@@ -3459,7 +3459,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "buttons",
+      "step": "button_label",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
@@ -3512,8 +3512,8 @@
         5256
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "bb5b70f2dc",
-      "revision": 22,
+      "stage_token": "ac750c538b",
+      "revision": 23,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "GTA VI Luxury Lifestyle",
