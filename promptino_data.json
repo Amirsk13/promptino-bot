@@ -3459,7 +3459,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_label",
+      "step": "button_prompt",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
@@ -3491,8 +3491,8 @@
           "prompt": "Transform the uploaded reference image into an ultra-detailed photorealistic GTA VI-inspired female character portrait.\n\nSUBJECT:\nA beautiful young adult Iranian woman with natural Middle Eastern facial features, dark brown hair, expressive dark eyes, elegant rectangular eyeglasses, and realistic skin texture. Give her a confident, sophisticated, independent personality.\n\nPOSE:\nPreserve the original pose precisely. She is leaning casually against the front side of a glossy deep-purple sports car, with her arms crossed naturally in front of her torso. Maintain the original arm overlap, wrist positions, shoulder angle, head direction, and direct gaze.\n\nCLOTHING:\nWhite long-sleeved button-up shirt with sleeves rolled up to the elbows, naturally fitted to a feminine silhouette, dark navy tailored trousers, and a dark brown leather belt.\n\nACCESSORIES:\nRectangular eyeglasses, refined wristwatch, and a large dark brown leather shoulder bag. Maintain the original bag position, strap direction, and realistic leather details.\n\nLOCATION:\nA luxurious GTA VI-inspired Vice City marina featuring tropical palm trees, colorful pastel buildings, outdoor cafés, distant pedestrians, turquoise water, a white luxury yacht, and modern skyscrapers.\n\nCAR:\nPreserve the glossy deep-purple luxury sports car in the lower-right foreground, including its original visible bodywork, contours, reflections, and positioning.\n\nCAMERA:\nVertical 2:3 portrait, medium-full framing, approximately 50mm lens perspective, slightly low eye-level angle. Maintain the original camera distance, subject scale, and background visibility.\n\nLIGHTING:\nBright tropical daylight, warm sunlight, realistic shadows, vivid blue sky, scattered white clouds, and accurate reflections on the car and water.\n\nVISUAL STYLE:\nGrand Theft Auto VI-inspired cinematic realism, premium open-world video game promotional artwork, realistic human anatomy, natural skin pores, detailed hair, authentic clothing textures, sophisticated color grading, and vibrant Vice City atmosphere.\n\nREFERENCE LOCK:\nPreserve the original composition, pose, car, yacht, marina, buildings, palm trees, accessories, and lighting.\n\nCreate exactly ONE female character. Never include a man beside her, a couple, additional main character, or split-screen layout.\n\nThe final image should look like a professionally rendered GTA VI-inspired character promotional portrait, not a cartoon, anime, or generic fashion photograph."
         }
       ],
-      "last_message_id": 5256,
-      "last_user_message_id": 5256,
+      "last_message_id": 5259,
+      "last_user_message_id": 5259,
       "processed_message_ids": [
         5220,
         5222,
@@ -3509,17 +3509,19 @@
         5249,
         5251,
         5254,
-        5256
+        5256,
+        5259
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "ac750c538b",
-      "revision": 23,
+      "stage_token": "896f8a9614",
+      "revision": 24,
       "mode": "create",
       "prompt_sent_token": null,
       "name": "GTA VI Luxury Lifestyle",
       "number": 38,
       "suitable": "ساخت و بازسازی تصاویر شخصیت‌های دخترانه و پسرانه با استایل واقع‌گرایانه و سینمایی الهام‌گرفته از دنیای GTA VI، با حفظ لوکیشن ساحلی، ماشین اسپرت، قایق تفریحی و فضای لوکس وایس سیتی.",
-      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی"
+      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی",
+      "pending_label": "Nano Banana Pro-Boy"
     }
   },
   "settings": {
