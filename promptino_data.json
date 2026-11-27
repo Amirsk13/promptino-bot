@@ -3515,7 +3515,7 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_prompt",
+      "step": "buttons",
       "buttons": [
         {
           "key": "chatgpt_girl",
@@ -3526,12 +3526,17 @@
           "key": "chatgpt_boy",
           "label": "ChatGPT-Boy",
           "prompt": "Use the uploaded reference image as the primary visual reference. Transform the subject into a photorealistic portrait of a young adult man while preserving the original scene, composition, pose, lighting, and monochromatic aesthetic.\n\nSUBJECT:\nA handsome young adult man with natural masculine facial features, expressive dark eyes, defined eyebrows, a naturally structured jawline, and realistic skin texture. Create a distinctive but natural masculine appearance.\n\nHAIR:\nDark, medium-length masculine hairstyle with natural volume and textured layers. Hair should frame the forehead naturally while maintaining a visual relationship to the original hairstyle. Do not retain obviously feminine long hair.\n\nPOSE AND EXPRESSION:\nPreserve the original relaxed upper-body portrait, shoulder angle, head tilt, head direction, and gaze. Maintain the calm, confident, slightly mysterious expression.\n\nCLOTHING:\nA fitted black sleeveless men's top with a clean, minimal neckline. Preserve the original dark clothing aesthetic and exposed shoulder composition while adapting the fit naturally to a masculine upper body.\n\nACCESSORIES:\nReplace the delicate feminine shell necklace and pendant with a simple, understated dark or silver masculine necklace, or omit the necklace if it looks more natural. Do not add excessive jewelry.\n\nBACKGROUND:\nCompletely black seamless studio background. No visible objects, textures, or environmental distractions.\n\nCAMERA AND COMPOSITION:\nSquare 1:1 portrait, medium close-up framing from the upper chest upward. Preserve the original subject scale, central positioning, shoulder visibility, camera distance, and approximately 85mm portrait lens perspective.\n\nLIGHTING:\nDramatic soft studio lighting from the front and slightly above. Gentle side shadows, subtle highlights on the face and shoulders, and detailed hair texture. Preserve the original dark atmosphere.\n\nCOLOR AND STYLE:\nPure black-and-white photography, rich grayscale tones, deep blacks, controlled highlights, subtle film grain, realistic skin texture, professional cinematic editorial photography.\n\nSTRICT REFERENCE MATCH:\nKeep the original black background, framing, head orientation, gaze direction, shoulder positioning, lighting, contrast, and overall atmosphere.\n\nOnly adapt the gender-specific facial appearance, hairstyle, clothing fit, and accessories where necessary.\n\nCreate exactly ONE man. Never include a woman, a couple, additional main subjects, or a split-screen composition.\n\nAvoid cartoon effects, plastic skin, excessive retouching, unnatural anatomy, exaggerated masculinity, and unnecessary scene changes."
+        },
+        {
+          "key": "gemini_girl",
+          "label": "Gemini-Girl",
+          "prompt": "Analyze the uploaded reference image and recreate it as a highly photorealistic black-and-white female studio portrait.\n\nSUBJECT:\nA young adult woman with long, voluminous dark hair, layered waves, soft curtain bangs, expressive dark eyes, defined eyebrows, a delicate nose, and full dark lips. Preserve the original facial proportions and natural appearance.\n\nHAIRSTYLE:\nLong dark hair falling naturally over both shoulders, with loose waves, layered volume, and soft bangs framing the forehead and eyes.\n\nPOSE:\nUpper-body portrait with slightly angled shoulders, a gently tilted head, and a calm, confident gaze toward the camera. Preserve the original head position, body orientation, and relaxed posture.\n\nCLOTHING:\nMinimal fitted black sleeveless top with a simple neckline and exposed shoulders.\n\nJEWELRY:\nA short white shell-bead necklace and a delicate thin chain with a small pendant. Keep both necklaces subtle and accurately positioned.\n\nBACKGROUND:\nSolid pure black studio backdrop with no objects, textures, scenery, or additional elements.\n\nCAMERA:\nSquare 1:1 composition, centered medium close-up portrait, upper chest visible, both shoulders included, approximately 85mm portrait lens, natural facial proportions.\n\nLIGHTING:\nSoft directional studio lighting, subtle highlights across the forehead, cheeks, nose, lips, shoulders, and hair. Deep shadows with smooth tonal transitions.\n\nIMAGE STYLE:\nElegant black-and-white editorial photography, high contrast, rich grayscale tones, realistic skin pores, natural hair texture, subtle film grain, sophisticated cinematic atmosphere.\n\nREFERENCE PRESERVATION:\nDo not change the hairstyle, bangs, facial proportions, head tilt, gaze, necklace placement, clothing, framing, or background.\n\nMaintain a genuine photographic appearance. Do not generate an illustration, anime character, 3D model, or artificially beautified face.\n\nGenerate only one female subject."
         }
       ],
-      "last_message_id": 5282,
+      "last_message_id": 5284,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "1ee4c00964",
+      "stage_token": "67787af21a",
       "vip_processed_message_ids": [
         5268,
         5270,
@@ -3539,12 +3544,12 @@
         5274,
         5277,
         5279,
-        5282
+        5282,
+        5284
       ],
-      "vip_last_user_message_id": 5282,
+      "vip_last_user_message_id": 5284,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000,
-      "pending_label": "Gemini-Girl"
+      "price": 200000
     }
   },
   "active_post_states": {},
