@@ -3459,25 +3459,27 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "number",
+      "step": "suitable",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5225,
-      "last_user_message_id": 5225,
+      "last_message_id": 5227,
+      "last_user_message_id": 5227,
       "processed_message_ids": [
         5220,
         5222,
-        5225
+        5225,
+        5227
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "1f996e4c55",
-      "revision": 4,
+      "stage_token": "d35065a18d",
+      "revision": 5,
       "mode": "create",
-      "prompt_sent_token": "1f996e4c55",
-      "name": "GTA VI Luxury Lifestyle"
+      "prompt_sent_token": null,
+      "name": "GTA VI Luxury Lifestyle",
+      "number": 38
     }
   },
   "settings": {
