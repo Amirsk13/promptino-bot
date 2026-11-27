@@ -3515,17 +3515,19 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "price",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 5268,
+      "last_message_id": 5270,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "c0ababf44e",
+      "stage_token": "a1cd319f77",
       "vip_processed_message_ids": [
-        5268
+        5268,
+        5270
       ],
-      "vip_last_user_message_id": 5268,
-      "title": "Midnight Monochrome Portrait"
+      "vip_last_user_message_id": 5270,
+      "title": "Midnight Monochrome Portrait",
+      "price": 200000
     }
   },
   "active_post_states": {},
