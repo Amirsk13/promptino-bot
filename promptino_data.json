@@ -3515,19 +3515,21 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "button_label",
+      "step": "button_prompt",
       "buttons": [],
-      "last_message_id": 5270,
+      "last_message_id": 5272,
       "processed_message_ids": [],
       "flow_id": "3b9a0e64e98b",
-      "stage_token": "d54170f950",
+      "stage_token": "7a6636c7fc",
       "vip_processed_message_ids": [
         5268,
-        5270
+        5270,
+        5272
       ],
-      "vip_last_user_message_id": 5270,
+      "vip_last_user_message_id": 5272,
       "title": "Midnight Monochrome Portrait",
-      "price": 200000
+      "price": 200000,
+      "pending_label": "ChatGPT-Girl"
     }
   },
   "active_post_states": {},
