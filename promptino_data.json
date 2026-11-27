@@ -3459,27 +3459,29 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "suitable",
+      "step": "for",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
       ],
       "buttons": [],
-      "last_message_id": 5227,
-      "last_user_message_id": 5227,
+      "last_message_id": 5229,
+      "last_user_message_id": 5229,
       "processed_message_ids": [
         5220,
         5222,
         5225,
-        5227
+        5227,
+        5229
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "d35065a18d",
-      "revision": 5,
+      "stage_token": "77fb18d3e4",
+      "revision": 6,
       "mode": "create",
-      "prompt_sent_token": "d35065a18d",
+      "prompt_sent_token": null,
       "name": "GTA VI Luxury Lifestyle",
-      "number": 38
+      "number": 38,
+      "suitable": "ساخت و بازسازی تصاویر شخصیت‌های دخترانه و پسرانه با استایل واقع‌گرایانه و سینمایی الهام‌گرفته از دنیای GTA VI، با حفظ لوکیشن ساحلی، ماشین اسپرت، قایق تفریحی و فضای لوکس وایس سیتی."
     }
   },
   "settings": {
