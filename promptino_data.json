@@ -3477,7 +3477,7 @@
       "stage_token": "d35065a18d",
       "revision": 5,
       "mode": "create",
-      "prompt_sent_token": null,
+      "prompt_sent_token": "d35065a18d",
       "name": "GTA VI Luxury Lifestyle",
       "number": 38
     }
