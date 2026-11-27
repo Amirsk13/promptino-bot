@@ -3437,22 +3437,18 @@
     }
   },
   "active_order_states": {},
-  "active_admin_states": {},
-  "active_post_states": {
+  "active_admin_states": {
     "676953423": {
-      "type": "post",
-      "step": "photos",
-      "photos": [],
+      "type": "vip_add",
+      "step": "title",
       "buttons": [],
       "last_message_id": null,
-      "last_user_message_id": 0,
       "processed_message_ids": [],
-      "flow_id": "ab370d29413a",
-      "stage_token": "b7a0ef8977",
-      "revision": 0,
-      "mode": "create"
+      "flow_id": "2bf630489bfb",
+      "stage_token": "74515dcdb8"
     }
   },
+  "active_post_states": {},
   "settings": {
     "notifications": {
       "new_order": true,
