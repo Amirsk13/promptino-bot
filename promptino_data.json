@@ -3440,17 +3440,19 @@
   "active_admin_states": {
     "676953423": {
       "type": "vip_add",
-      "step": "price",
+      "step": "buttons",
       "buttons": [],
-      "last_message_id": 5197,
+      "last_message_id": 5199,
       "processed_message_ids": [],
       "flow_id": "2bf630489bfb",
-      "stage_token": "16c477e990",
+      "stage_token": "3f78ebc9b5",
       "vip_processed_message_ids": [
-        5197
+        5197,
+        5199
       ],
-      "vip_last_user_message_id": 5197,
-      "title": "Royal Crystal Princess"
+      "vip_last_user_message_id": 5199,
+      "title": "Royal Crystal Princess",
+      "price": 150000
     }
   },
   "active_post_states": {},
