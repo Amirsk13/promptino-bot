@@ -3459,7 +3459,7 @@
   "active_post_states": {
     "676953423": {
       "type": "post",
-      "step": "button_prompt",
+      "step": "buttons",
       "photos": [
         "AgACAgQAAxkBAAIUZGsJpv6JxFxTAkLchtF3Ue2hDKO3AAKFEmsb-s5RUB_MB65oye03AQADAgADdwADPQQ",
         "AgACAgQAAxkBAAIUZmsJpwe3Ps-FYqVKEl1VDr2fAR91AAKGEmsb-s5RUNZnmouMLHy4AQADAgADdwADPQQ"
@@ -3469,10 +3469,15 @@
           "key": "chatgpt_girl",
           "label": "ChatGPT-Girl",
           "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the scene as a highly realistic cinematic character portrait inspired by Grand Theft Auto VI (GTA 6) and the luxurious tropical atmosphere of Vice City.\n\nSUBJECT:\nA stylish young adult Iranian woman with natural Middle Eastern facial features, beautiful dark brown hair, expressive eyes, natural eyebrows, realistic skin texture, and elegant rectangular eyeglasses. Give her a confident, sophisticated, independent personality.\n\nPOSE:\nPreserve the original composition and body posture. She is casually leaning against the front side of a luxurious deep-purple sports car, with her arms crossed naturally in front of her torso. Maintain the original head angle, shoulder position, arm placement, and direct gaze toward the camera.\n\nCLOTHING:\nA stylish white long-sleeved button-up shirt with sleeves rolled up to the elbows, fitted naturally to a feminine silhouette, dark navy tailored trousers, and a dark brown leather belt.\n\nACCESSORIES:\nElegant rectangular eyeglasses, a refined wristwatch, and a large dark brown leather shoulder bag with realistic leather texture, straps, and metal buckles. Preserve the original accessory placement.\n\nSCENE DETAILS:\nA luxurious tropical marina promenade inspired by Vice City:\n- Tall palm trees along the waterfront.\n- Colorful pastel Art Deco-style buildings.\n- Outdoor cafés with distant pedestrians.\n- Bright turquoise marina water.\n- A white luxury yacht on the right.\n- Modern high-rise buildings in the distant skyline.\n- A glossy deep-purple luxury sports car in the foreground.\n\nVEHICLE:\nPreserve the original sports car's position, visible body contours, glossy purple paint, reflections, and relationship to the character.\n\nCAMERA:\nVertical 2:3 composition, medium-full portrait, approximately 50mm lens perspective, slightly low eye-level camera angle. Preserve the original subject size and environmental visibility.\n\nLIGHTING:\nBright tropical daylight, warm sunlight, realistic shadows, vivid blue sky, scattered white clouds, and natural reflections on the car and water.\n\nART DIRECTION:\nGTA VI-inspired cinematic realism, premium open-world video game promotional artwork, realistic human anatomy, detailed textures, sophisticated color grading, vibrant Vice City atmosphere, and high-end character rendering.\n\nIMPORTANT:\nThe result should feel like a character portrait from the visual universe of GTA VI, not a cartoon or an ordinary generic fashion photograph.\n\nPreserve the reference location, car, yacht, palm trees, buildings, pose, accessories, and camera composition.\n\nGenerate exactly ONE female character. Never place a man beside her. No couple, split-screen, or multiple main subjects.\n\nAvoid plastic skin, exaggerated beauty filters, distorted hands, extra fingers, and unnecessary background changes."
+        },
+        {
+          "key": "chatgpt_boy",
+          "label": "ChatGPT-Boy",
+          "prompt": "Use the uploaded reference image as the primary visual reference. Recreate the scene as a highly realistic cinematic character portrait inspired by Grand Theft Auto VI (GTA 6), particularly the luxurious tropical atmosphere of Vice City.\n\nSUBJECT:\nCreate a distinctive, handsome young adult Iranian man with natural Middle Eastern facial features. Give him a NEW and DIFFERENT face from the previous generated male character. Use a naturally masculine face shape, expressive dark eyes, thick eyebrows, realistic skin texture, and a well-groomed beard or subtle stubble.\n\nHAIRSTYLE:\nChoose a distinctive modern masculine hairstyle with naturally voluminous dark hair, textured layers, and realistic individual strands. Avoid repeating the previous male character's exact hairstyle and facial appearance.\n\nPOSE:\nPreserve the reference pose exactly. He is casually leaning against the front side of a deep-purple luxury sports car, with his arms crossed naturally in front of his torso. Maintain the original arm overlap, wrist positions, shoulder angle, body orientation, head direction, and confident direct gaze.\n\nCLOTHING:\nWhite long-sleeved button-up shirt with sleeves rolled up to the elbows, dark navy tailored trousers, and a dark brown leather belt. Preserve the original smart-casual luxury style.\n\nACCESSORIES:\nRectangular eyeglasses, a sophisticated dark-dial wristwatch, and a large dark brown leather shoulder bag with realistic leather straps and metal buckles. Preserve their original placement.\n\nSCENE:\nA sunny tropical Vice City-inspired marina:\n- Tall palm trees on the left.\n- Colorful pastel waterfront buildings.\n- Outdoor cafés and distant pedestrians.\n- Turquoise marina water.\n- A white luxury yacht on the right.\n- Modern high-rise buildings in the background.\n- A glossy deep-purple sports car in the foreground.\n\nVEHICLE:\nMaintain the original car position, visible bodywork, purple paint, reflections, and proportions.\n\nCAMERA:\nVertical 2:3 portrait, medium-full framing, approximately 50mm lens perspective, slightly low eye-level angle, natural body proportions, and the same subject-to-frame ratio as the reference.\n\nLIGHTING:\nBright tropical sunlight, warm facial highlights, realistic shadows, vivid blue sky, scattered clouds, and physically accurate reflections.\n\nART DIRECTION:\nGTA VI-inspired cinematic realism, premium open-world game promotional artwork, detailed character design, realistic human anatomy, natural skin texture, sophisticated color grading, and authentic Vice City atmosphere.\n\nCHARACTER UNIQUENESS:\nThe male character must have a noticeably different face from previous generations. Do not reuse the previous character's facial structure, hairstyle, or overall appearance.\n\nREFERENCE PRIORITY:\nPreserve the original pose, clothing style, bag, watch, eyeglasses, sports car, yacht, palm trees, buildings, marina, lighting, and composition.\n\nGenerate exactly ONE male character. Never add a woman, couple, second main character, or split-screen composition.\n\nAvoid cartoon rendering, plastic skin, distorted hands, extra fingers, excessive retouching, and unnecessary scene changes."
         }
       ],
-      "last_message_id": 5239,
-      "last_user_message_id": 5239,
+      "last_message_id": 5241,
+      "last_user_message_id": 5241,
       "processed_message_ids": [
         5220,
         5222,
@@ -3482,18 +3487,18 @@
         5231,
         5234,
         5236,
-        5239
+        5239,
+        5241
       ],
       "flow_id": "1ff02bba8da6",
-      "stage_token": "4a4113e375",
-      "revision": 12,
+      "stage_token": "64126d1700",
+      "revision": 13,
       "mode": "create",
-      "prompt_sent_token": "4a4113e375",
+      "prompt_sent_token": null,
       "name": "GTA VI Luxury Lifestyle",
       "number": 38,
       "suitable": "ساخت و بازسازی تصاویر شخصیت‌های دخترانه و پسرانه با استایل واقع‌گرایانه و سینمایی الهام‌گرفته از دنیای GTA VI، با حفظ لوکیشن ساحلی، ماشین اسپرت، قایق تفریحی و فضای لوکس وایس سیتی.",
-      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی",
-      "pending_label": "ChatGPT-Boy"
+      "for_what": "ساخت تصاویر شخصیت‌های GTA VI\nطراحی کاراکتر دخترانه و پسرانه بازی\nتصاویر الهام‌گرفته از Vice City\nپرتره‌های سینمایی و واقع‌گرایانه\nتصاویر پروفایل گیمینگ\nطراحی پوستر و فن‌آرت GTA 6\nتولید محتوای گیمینگ و شبکه‌های اجتماعی"
     }
   },
   "settings": {
